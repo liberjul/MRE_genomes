@@ -1,0 +1,138 @@
+# gene name           KO     thrshld  score   E-value KO definition
+#-------------------- ------ ------- ------ --------- ---------------------
+* JILDAGCH_00002      K06218   35.80   57.8   5.3e-17 mRNA interferase RelE/StbE
+* JILDAGCH_00007      K06218   35.80   58.3   3.8e-17 mRNA interferase RelE/StbE
+* JILDAGCH_00019      K07171   19.37   65.5   1.3e-19 mRNA interferase MazF [EC:3.1.-.-]
+* JILDAGCH_00029      K03470  129.20  228.6   2.8e-69 ribonuclease HII [EC:3.1.26.4]
+* JILDAGCH_00030      K01875   76.07  373.6  3.2e-113 seryl-tRNA synthetase [EC:6.1.1.11]
+* JILDAGCH_00033      K00940  131.40  165.9   3.9e-50 nucleoside-diphosphate kinase [EC:2.7.4.6]
+* JILDAGCH_00042      K01890  121.63  406.1  8.3e-123 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* JILDAGCH_00044      K03763  228.33  995.5    1e-300 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* JILDAGCH_00044      K09951   23.40   41.9   1.7e-12 CRISPR-associated protein Cas2
+* JILDAGCH_00052      K03652   51.33  220.9   6.4e-67 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* JILDAGCH_00053      K01870  514.83  911.5  2.6e-275 isoleucyl-tRNA synthetase [EC:6.1.1.5]
+* JILDAGCH_00058      K02838   26.67   98.0   1.2e-29 ribosome recycling factor
+* JILDAGCH_00063      K02835  355.80  408.8  1.2e-123 peptide chain release factor 1
+* JILDAGCH_00065      K03070  152.83  706.2  1.6e-213 preprotein translocase subunit SecA [EC:7.4.2.8]
+* JILDAGCH_00066      K07042   59.80  148.9   4.8e-45 probable rRNA maturation factor
+* JILDAGCH_00072      K03979  160.43  423.5    3e-128 GTPase [EC:3.6.5.-]
+* JILDAGCH_00073      K09769   82.67  318.0   9.3e-97 uncharacterized protein
+* JILDAGCH_00075      K03685  157.10  198.5   4.9e-60 ribonuclease III [EC:3.1.26.3]
+* JILDAGCH_00078      K04075  115.90  139.6   3.5e-42 tRNA(Ile)-lysidine synthase [EC:6.3.4.19]
+* JILDAGCH_00079      K01885  303.63  488.7  8.1e-148 glutamyl-tRNA synthetase [EC:6.1.1.17]
+* JILDAGCH_00081      K02914   18.57   26.0   1.4e-07 large subunit ribosomal protein L34
+* JILDAGCH_00082      K06925   47.07   94.1   2.4e-28 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+* JILDAGCH_00084      K03657  379.80  507.4  2.3e-153 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]
+* JILDAGCH_00085      K02357  118.20  179.1   3.5e-54 elongation factor Ts
+* JILDAGCH_00088      K03687   30.90  123.4   2.6e-37 molecular chaperone GrpE
+* JILDAGCH_00095      K02990   23.27   47.2   5.3e-14 small subunit ribosomal protein S6
+* JILDAGCH_00097      K02939   47.80   94.6   1.7e-28 large subunit ribosomal protein L9
+* JILDAGCH_00100      K01151  122.83  277.7   3.1e-84 deoxyribonuclease IV [EC:3.1.21.2]
+* JILDAGCH_00102      K01883  398.70  444.5  2.4e-134 cysteinyl-tRNA synthetase [EC:6.1.1.16]
+* JILDAGCH_00103      K01887   47.77  335.2  2.1e-101 arginyl-tRNA synthetase [EC:6.1.1.19]
+* JILDAGCH_00106      K07447   35.13   70.4   4.1e-21 putative holliday junction resolvase [EC:3.1.-.-]
+* JILDAGCH_00107      K01872  198.30  370.9  3.4e-112 alanyl-tRNA synthetase [EC:6.1.1.7]
+* JILDAGCH_00109      K03424   88.03  269.6   1.1e-81 TatD DNase family protein [EC:3.1.21.-]
+* JILDAGCH_00110      K03703  248.20  421.2  2.2e-127 excinuclease ABC subunit C
+* JILDAGCH_00111      K10563  195.93  278.1   2.9e-84 formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+* JILDAGCH_00114      K01876  291.87  544.6    1e-164 aspartyl-tRNA synthetase [EC:6.1.1.12]
+* JILDAGCH_00129      K21498   47.93   98.4   8.8e-30 antitoxin HigA-1
+* JILDAGCH_00145      K07334   76.87  102.1     7e-31 toxin HigB-1
+* JILDAGCH_00146      K21498   47.93   58.6   1.6e-17 antitoxin HigA-1
+* JILDAGCH_00177      K07584   35.60   62.1   1.5e-18 uncharacterized protein
+* JILDAGCH_00178      K02888   25.87   83.5   4.1e-25 large subunit ribosomal protein L21
+* JILDAGCH_00181      K02968   35.03   64.0   3.8e-19 small subunit ribosomal protein S20
+* JILDAGCH_00182      K00962  149.47  576.2  2.8e-174 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* JILDAGCH_00185      K01866   93.67  232.7   1.9e-70 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+* JILDAGCH_00186      K01409   84.10  373.1  7.6e-113 N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+* JILDAGCH_00187      K02887   55.13  165.6   3.4e-50 large subunit ribosomal protein L20
+* JILDAGCH_00189      K01874  236.63  517.7  1.5e-156 methionyl-tRNA synthetase [EC:6.1.1.10]
+* JILDAGCH_00190      K03547   84.70   98.6   9.8e-30 DNA repair protein SbcD/Mre11
+* JILDAGCH_00191      K02959   28.23  106.2   5.1e-32 small subunit ribosomal protein S16
+* JILDAGCH_00192      K03438  118.37  380.7  2.8e-115 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+* JILDAGCH_00193      K02911   21.47   43.2   9.7e-13 large subunit ribosomal protein L32
+* JILDAGCH_00194      K02967  138.30  259.3   1.2e-78 small subunit ribosomal protein S2
+* JILDAGCH_00195      K01507   23.07  150.6   2.2e-45 inorganic pyrophosphatase [EC:3.6.1.1]
+* JILDAGCH_00199      K18682  118.43  481.7  5.9e-146 ribonucrease Y [EC:3.1.-.-]
+* JILDAGCH_00201      K02946   65.63   90.9   1.9e-27 small subunit ribosomal protein S10
+* JILDAGCH_00202      K03168  435.60  496.6  4.2e-150 DNA topoisomerase I [EC:5.6.2.1]
+* JILDAGCH_00204      K03650  167.93  444.0  2.9e-134 tRNA modification GTPase [EC:3.6.-.-]
+* JILDAGCH_00205      K03536   19.73   63.2   7.1e-19 ribonuclease P protein component [EC:3.1.26.5]
+* JILDAGCH_00207      K01056   46.53  218.1     4e-66 peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+* JILDAGCH_00211      K02913   23.47   28.9   2.5e-08 large subunit ribosomal protein L33
+* JILDAGCH_00212      K02434  265.63  312.6   1.6e-94 aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+* JILDAGCH_00213      K03664   28.77  138.6   5.3e-42 SsrA-binding protein
+* JILDAGCH_00214      K02503   86.80  104.6   1.3e-31 histidine triad (HIT) family protein
+* JILDAGCH_00216      K00554  127.83  268.9   1.7e-81 tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]
+* JILDAGCH_00217      K02986   77.73  196.2   1.7e-59 small subunit ribosomal protein S4
+* JILDAGCH_00220      K12574  172.07  593.8  1.4e-179 ribonuclease J [EC:3.1.-.-]
+* JILDAGCH_00222      K02956   32.03   60.2   5.6e-18 small subunit ribosomal protein S15
+* JILDAGCH_00227      K01873  589.77  720.5    8e-218 valyl-tRNA synthetase [EC:6.1.1.9]
+* JILDAGCH_00228      K04567  302.73  620.6    1e-187 lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+* JILDAGCH_00229      K02950   85.93  188.0   7.1e-57 small subunit ribosomal protein S12
+* JILDAGCH_00230      K02992  105.13  160.7     8e-49 small subunit ribosomal protein S7
+* JILDAGCH_00231      K02355  515.13  994.7  1.3e-300 elongation factor G
+* JILDAGCH_00236      K01881  159.03  279.6   9.7e-85 prolyl-tRNA synthetase [EC:6.1.1.15]
+* JILDAGCH_00240      K13993   74.27  104.9   1.1e-31 HSP20 family protein
+* JILDAGCH_00241      K01880  107.30  287.0   8.7e-87 glycyl-tRNA synthetase [EC:6.1.1.14]
+* JILDAGCH_00243      K02358  348.87  705.0  4.1e-213 elongation factor Tu
+* JILDAGCH_00259      K02906  123.00  264.8   3.9e-80 large subunit ribosomal protein L3
+* JILDAGCH_00260      K02926   76.47  240.6   7.4e-73 large subunit ribosomal protein L4
+* JILDAGCH_00262      K02886  162.97  359.8    5e-109 large subunit ribosomal protein L2
+* JILDAGCH_00263      K02965  108.47  135.9   4.9e-41 small subunit ribosomal protein S19
+* JILDAGCH_00264      K02890   79.10   85.4     1e-25 large subunit ribosomal protein L22
+* JILDAGCH_00265      K02982  108.80  198.9   2.4e-60 small subunit ribosomal protein S3
+* JILDAGCH_00266      K02878   86.63  175.8   2.8e-53 large subunit ribosomal protein L16
+* JILDAGCH_00268      K02961   89.27   98.4   1.2e-29 small subunit ribosomal protein S17
+* JILDAGCH_00269      K02874  102.87  134.4   9.1e-41 large subunit ribosomal protein L14
+* JILDAGCH_00271      K02931   99.93  208.9   1.4e-63 large subunit ribosomal protein L5
+* JILDAGCH_00272      K02954   24.90   52.5   1.2e-15 small subunit ribosomal protein S14
+* JILDAGCH_00273      K02994   89.83  140.2   1.5e-42 small subunit ribosomal protein S8
+* JILDAGCH_00274      K02933  112.43  184.0     1e-55 large subunit ribosomal protein L6
+* JILDAGCH_00275      K02881   60.30   82.4   9.2e-25 large subunit ribosomal protein L18
+* JILDAGCH_00276      K02988  140.23  166.1   2.8e-50 small subunit ribosomal protein S5
+* JILDAGCH_00277      K02876   42.03  152.0   6.1e-46 large subunit ribosomal protein L15
+* JILDAGCH_00280      K01265  125.50  236.6   1.7e-71 methionyl aminopeptidase [EC:3.4.11.18]
+* JILDAGCH_00281      K02518   47.27   84.6   1.3e-25 translation initiation factor IF-1
+* JILDAGCH_00282      K02952  115.63  145.2   3.9e-44 small subunit ribosomal protein S13
+* JILDAGCH_00283      K02948   97.70  129.5   3.7e-39 small subunit ribosomal protein S11
+* JILDAGCH_00284      K03040  130.30  155.5   3.9e-47 DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+* JILDAGCH_00285      K02879   35.07   98.3   1.5e-29 large subunit ribosomal protein L17
+* JILDAGCH_00288      K02871   70.00  149.2   3.3e-45 large subunit ribosomal protein L13
+* JILDAGCH_00289      K02996  107.43  186.3   1.9e-56 small subunit ribosomal protein S9
+* JILDAGCH_00291      K02867   66.80  111.4   1.2e-33 large subunit ribosomal protein L11
+* JILDAGCH_00292      K02863   98.10  147.1   1.8e-44 large subunit ribosomal protein L1
+* JILDAGCH_00293      K02864   56.00   72.2   1.3e-21 large subunit ribosomal protein L10
+* JILDAGCH_00294      K02935   28.83   71.9   1.3e-21 large subunit ribosomal protein L7/L12
+* JILDAGCH_00295      K03043  365.63  913.9  3.6e-276 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+* JILDAGCH_00296      K03046  542.03 1074.7         0 DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+* JILDAGCH_00297      K00566  428.00  433.1  2.1e-131 tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+* JILDAGCH_00298      K03977  204.07  270.7   5.6e-82 GTPase
+* JILDAGCH_00303      K02909   22.33   65.2   9.9e-20 large subunit ribosomal protein L31
+* JILDAGCH_00305      K02899   49.63  146.8   1.9e-44 large subunit ribosomal protein L27
+* JILDAGCH_00308      K03164  252.80  289.8   8.3e-88 DNA topoisomerase II [EC:5.6.2.2]
+* JILDAGCH_00309      K01868  140.00  414.3  2.9e-125 threonyl-tRNA synthetase [EC:6.1.1.3]
+* JILDAGCH_00310      K02520   51.07  143.6     2e-43 translation initiation factor IF-3
+* JILDAGCH_00311      K02916   22.97   67.6   3.4e-20 large subunit ribosomal protein L35
+* JILDAGCH_00312      K02601   95.33  102.6   5.3e-31 transcription termination/antitermination protein NusG
+* JILDAGCH_00314      K01869  429.83  925.2    2e-279 leucyl-tRNA synthetase [EC:6.1.1.4]
+* JILDAGCH_00317      K02316   54.50  258.9   3.6e-78 DNA primase [EC:2.7.7.101]
+* JILDAGCH_00319      K01867  137.37  288.5   2.3e-87 tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+* JILDAGCH_00322      K03218  217.53  220.1   8.9e-67 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+* JILDAGCH_00323      K03702  143.73  896.9  6.3e-271 excinuclease ABC subunit B
+* JILDAGCH_00324      K01893  376.90  582.1  3.7e-176 asparaginyl-tRNA synthetase [EC:6.1.1.22]
+* JILDAGCH_00325      K02884   22.50   69.9   6.1e-21 large subunit ribosomal protein L19
+* JILDAGCH_00328      K03648   88.37  247.1   1.2e-74 uracil-DNA glycosylase [EC:3.2.2.27]
+* JILDAGCH_00329      K01972  100.33  554.3  1.3e-167 DNA ligase (NAD+) [EC:6.5.1.2]
+* JILDAGCH_00332      K03553  103.57  393.3  3.3e-119 recombination protein RecA
+* JILDAGCH_00335      K03530  115.93  131.4   8.5e-40 DNA-binding protein HU-beta
+* JILDAGCH_00336      K03495  121.13  837.0  3.9e-253 tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+* JILDAGCH_00337      K05592  533.77  535.9  3.5e-162 ATP-dependent RNA helicase DeaD [EC:3.6.4.13]
+* JILDAGCH_00345      K01889  109.70  320.4     5e-97 phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+* JILDAGCH_00354      K07171   19.37   65.2   1.6e-19 mRNA interferase MazF [EC:3.1.-.-]
+* JILDAGCH_00360      K07171   19.37   77.5   2.7e-23 mRNA interferase MazF [EC:3.1.-.-]
+* JILDAGCH_00415      K06218   35.80   47.4   8.3e-14 mRNA interferase RelE/StbE
+* JILDAGCH_00418      K06218   35.80   73.3   8.8e-22 mRNA interferase RelE/StbE
+* JILDAGCH_00430      K03151  132.87  368.7  1.2e-111 tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]
+* JILDAGCH_00431      K02600   40.37  230.7   7.1e-70 transcription termination/antitermination protein NusA
+* JILDAGCH_00432      K02519  306.67  506.5    4e-153 translation initiation factor IF-2

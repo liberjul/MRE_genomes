@@ -1,0 +1,194 @@
+# gene name           KO     thrshld  score   E-value KO definition
+#-------------------- ------ ------- ------ --------- ---------------------
+* OKFPLJJI_00012      K01874  236.63  342.5  3.5e-103 methionyl-tRNA synthetase [EC:6.1.1.10]
+* OKFPLJJI_00014      K03177  215.57  291.7   7.3e-88 tRNA pseudouridine55 synthase [EC:5.4.99.25]
+* OKFPLJJI_00018      K03652   51.33  221.4   1.3e-66 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* OKFPLJJI_00020      K04567  302.73  660.0  3.7e-199 lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+* OKFPLJJI_00024      K01872  198.30  383.9  1.3e-115 alanyl-tRNA synthetase [EC:6.1.1.7]
+* OKFPLJJI_00025      K02916   22.97   49.5   3.8e-14 large subunit ribosomal protein L35
+* OKFPLJJI_00029      K01265  125.50  249.0   9.1e-75 methionyl aminopeptidase [EC:3.4.11.18]
+* OKFPLJJI_00030      K02967  138.30  262.2   4.5e-79 small subunit ribosomal protein S2
+* OKFPLJJI_00032      K02835  355.80  377.3  1.2e-113 peptide chain release factor 1
+* OKFPLJJI_00036      K03763  228.33  352.5  3.4e-106 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* OKFPLJJI_00117      K01771  112.83  263.6   1.9e-79 1-phosphatidylinositol phosphodiesterase [EC:4.6.1.13]
+* OKFPLJJI_00123      K02863   98.10  132.7   1.3e-39 large subunit ribosomal protein L1
+* OKFPLJJI_00128      K02939   47.80   66.0   2.7e-19 large subunit ribosomal protein L9
+* OKFPLJJI_00133      K01870  514.83  604.9  2.8e-182 isoleucyl-tRNA synthetase [EC:6.1.1.5]
+* OKFPLJJI_00141      K03046  542.03  996.4  2.2e-300 DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+* OKFPLJJI_00142      K03043  365.63  892.4  3.4e-269 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+* OKFPLJJI_00143      K02935   28.83   52.0   5.2e-15 large subunit ribosomal protein L7/L12
+* OKFPLJJI_00144      K02864   56.00   77.4     1e-22 large subunit ribosomal protein L10
+* OKFPLJJI_00153      K02887   55.13  161.1   2.4e-48 large subunit ribosomal protein L20
+* OKFPLJJI_00156      K02913   23.47   28.6   9.8e-08 large subunit ribosomal protein L33
+* OKFPLJJI_00158      K07488   43.87  115.8   1.6e-34 transposase
+* OKFPLJJI_00161      K03151  132.87  393.0  1.6e-118 tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]
+* OKFPLJJI_00162      K02968   35.03   48.2     8e-14 small subunit ribosomal protein S20
+* OKFPLJJI_00164      K00962  149.47  181.6   1.5e-54 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* OKFPLJJI_00165      K00962  149.47  425.3  3.4e-128 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* OKFPLJJI_00176      K03151  132.87  393.0  1.6e-118 tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]
+* OKFPLJJI_00177      K02968   35.03   48.2     8e-14 small subunit ribosomal protein S20
+* OKFPLJJI_00179      K00962  149.47  579.3  9.7e-175 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* OKFPLJJI_00190      K01507   23.07  146.4   1.3e-43 inorganic pyrophosphatase [EC:3.6.1.1]
+* OKFPLJJI_00192      K02950   85.93  172.5   1.2e-51 small subunit ribosomal protein S12
+* OKFPLJJI_00194      K02316   54.50  277.7   2.3e-83 DNA primase [EC:2.7.7.101]
+* OKFPLJJI_00195      K01876  291.87  314.9   9.4e-95 aspartyl-tRNA synthetase [EC:6.1.1.12]
+* OKFPLJJI_00204      K02931   99.93  178.4   8.8e-54 large subunit ribosomal protein L5
+* OKFPLJJI_00207      K02874  102.87  136.8   5.4e-41 large subunit ribosomal protein L14
+* OKFPLJJI_00210      K02878   86.63  174.7   1.8e-52 large subunit ribosomal protein L16
+* OKFPLJJI_00211      K02982  108.80  166.6   5.2e-50 small subunit ribosomal protein S3
+* OKFPLJJI_00212      K02890   79.10   94.2   6.3e-28 large subunit ribosomal protein L22
+* OKFPLJJI_00213      K02965  108.47  113.5   1.1e-33 small subunit ribosomal protein S19
+* OKFPLJJI_00214      K02886  162.97  334.6  7.3e-101 large subunit ribosomal protein L2
+* OKFPLJJI_00217      K02926   76.47  213.5     4e-64 large subunit ribosomal protein L4
+* OKFPLJJI_00227      K07171   19.37   75.0   4.9e-22 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_00231      K07171   19.37   59.4   2.7e-17 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_00248      K07171   19.37   22.8   4.5e-06 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_00251      K02871   70.00  149.8   6.7e-45 large subunit ribosomal protein L13
+* OKFPLJJI_00252      K02996  107.43  153.5   5.8e-46 small subunit ribosomal protein S9
+* OKFPLJJI_00255      K01869  429.83  964.1  1.1e-290 leucyl-tRNA synthetase [EC:6.1.1.4]
+* OKFPLJJI_00258      K02600   40.37  177.2   3.4e-53 transcription termination/antitermination protein NusA
+* OKFPLJJI_00259      K02519  306.67  460.6  8.9e-139 translation initiation factor IF-2
+* OKFPLJJI_00260      K02834   27.27   36.4   2.5e-10 ribosome-binding factor A
+* OKFPLJJI_00265      K07494   74.50   97.2   9.7e-29 putative transposase
+* OKFPLJJI_00271      K02434  265.63  347.3  1.6e-104 aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+* OKFPLJJI_00273      K01883  398.70  441.0  8.7e-133 cysteinyl-tRNA synthetase [EC:6.1.1.16]
+* OKFPLJJI_00274      K01893  376.90  635.0  1.2e-191 asparaginyl-tRNA synthetase [EC:6.1.1.22]
+* OKFPLJJI_00275      K01873  589.77  690.0  3.9e-208 valyl-tRNA synthetase [EC:6.1.1.9]
+* OKFPLJJI_00276      K01972  100.33  638.8  1.2e-192 DNA ligase (NAD+) [EC:6.5.1.2]
+* OKFPLJJI_00281      K02959   28.23   98.5   3.6e-29 small subunit ribosomal protein S16
+* OKFPLJJI_00283      K02867   66.80   75.6   2.8e-22 large subunit ribosomal protein L11
+* OKFPLJJI_00295      K03648   88.37  262.2   9.8e-79 uracil-DNA glycosylase [EC:3.2.2.27]
+* OKFPLJJI_00297      K01867  137.37  295.9   4.2e-89 tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+* OKFPLJJI_00301      K02956   32.03   59.6   2.6e-17 small subunit ribosomal protein S15
+* OKFPLJJI_00304      K02879   35.07   99.1   2.5e-29 large subunit ribosomal protein L17
+* OKFPLJJI_00305      K03040  130.30  140.9   3.3e-42 DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+* OKFPLJJI_00306      K02948   97.70  105.2   3.2e-31 small subunit ribosomal protein S11
+* OKFPLJJI_00307      K02952  115.63  126.8     5e-38 small subunit ribosomal protein S13
+* OKFPLJJI_00308      K04564   29.40  169.1   1.1e-50 superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+* OKFPLJJI_00310      K03536   19.73   65.4   4.7e-19 ribonuclease P protein component [EC:3.1.26.5]
+* OKFPLJJI_00311      K02914   18.57   47.1   1.2e-13 large subunit ribosomal protein L34
+* OKFPLJJI_00313      K01885  303.63  504.6  3.8e-152 glutamyl-tRNA synthetase [EC:6.1.1.17]
+* OKFPLJJI_00316      K07171   19.37   58.8   4.3e-17 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_00321      K07171   19.37  100.2   9.1e-30 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_00324      K07171   19.37   54.9   6.5e-16 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_00325      K21498   47.93   65.1   5.2e-19 antitoxin HigA-1
+* OKFPLJJI_00332      K07171   19.37   61.6   5.8e-18 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_00349      K02909   22.33   48.7     4e-14 large subunit ribosomal protein L31
+* OKFPLJJI_00395      K18626   84.83  112.6   9.4e-34 trichohyalin
+* OKFPLJJI_00433      K01887   47.77  360.4  1.6e-108 arginyl-tRNA synthetase [EC:6.1.1.19]
+* OKFPLJJI_00446      K03470  129.20  239.4   4.5e-72 ribonuclease HII [EC:3.1.26.4]
+* OKFPLJJI_00447      K03664   28.77  163.5   4.1e-49 SsrA-binding protein
+* OKFPLJJI_00448      K02358  348.87  590.2  5.5e-178 elongation factor Tu
+* OKFPLJJI_00449      K02355  515.13  904.3  7.9e-273 elongation factor G
+* OKFPLJJI_00454      K22422   45.50  113.4   6.9e-34 protein downstream neighbor of Son
+* OKFPLJJI_00486      K01047   26.07   36.7   2.2e-10 secretory phospholipase A2 [EC:3.1.1.4]
+* OKFPLJJI_00510      K01875   76.07  382.7  1.7e-115 seryl-tRNA synthetase [EC:6.1.1.11]
+* OKFPLJJI_00514      K01892  276.97  281.9   7.3e-85 histidyl-tRNA synthetase [EC:6.1.1.21]
+* OKFPLJJI_00516      K03977  204.07  328.6     5e-99 GTPase
+* OKFPLJJI_00525      K06925   47.07  114.5   4.4e-34 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+* OKFPLJJI_00532      K09769   82.67  317.9   3.2e-96 uncharacterized protein
+* OKFPLJJI_00533      K01880  107.30  302.3   6.5e-91 glycyl-tRNA synthetase [EC:6.1.1.14]
+* OKFPLJJI_00535      K03553  103.57  269.7   3.3e-81 recombination protein RecA
+* OKFPLJJI_00538      K04075  115.90  182.1   1.4e-54 tRNA(Ile)-lysidine synthase [EC:6.3.4.19]
+* OKFPLJJI_00541      K03685  157.10  195.8     1e-58 ribonuclease III [EC:3.1.26.3]
+* OKFPLJJI_00547      K03424   88.03  259.9   2.8e-78 TatD DNase family protein [EC:3.1.21.-]
+* OKFPLJJI_00550      K03703  248.20  442.6  2.3e-133 excinuclease ABC subunit C
+* OKFPLJJI_00556      K03650  167.93  452.8    2e-136 tRNA modification GTPase [EC:3.6.-.-]
+* OKFPLJJI_00578      K03687   30.90  124.1   4.8e-37 molecular chaperone GrpE
+* OKFPLJJI_00582      K02954   24.90   43.9   1.7e-12 small subunit ribosomal protein S14
+* OKFPLJJI_00583      K02994   89.83  131.6     2e-39 small subunit ribosomal protein S8
+* OKFPLJJI_00584      K02933  112.43  150.0   7.4e-45 large subunit ribosomal protein L6
+* OKFPLJJI_00585      K02881   60.30   84.2     8e-25 large subunit ribosomal protein L18
+* OKFPLJJI_00587      K02876   42.03  116.0   1.7e-34 large subunit ribosomal protein L15
+* OKFPLJJI_00590      K01409   84.10  386.3  2.4e-116 N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+* OKFPLJJI_00592      K02911   21.47   32.0   8.1e-09 large subunit ribosomal protein L32
+* OKFPLJJI_00594      K07584   35.60   77.2     1e-22 uncharacterized protein
+* OKFPLJJI_00595      K02838   26.67   82.7   1.6e-24 ribosome recycling factor
+* OKFPLJJI_00621      K01890  121.63  466.7  1.2e-140 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* OKFPLJJI_00651      K01868  140.00  441.9  4.1e-133 threonyl-tRNA synthetase [EC:6.1.1.3]
+* OKFPLJJI_00652      K02520   51.07  111.6   3.5e-33 translation initiation factor IF-3
+* OKFPLJJI_00653      K00384  339.83  354.8  6.7e-107 thioredoxin reductase (NADPH) [EC:1.8.1.9]
+* OKFPLJJI_00656      K07171   19.37   36.3   3.3e-10 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_00662      K06218   35.80   39.6   6.6e-11 mRNA interferase RelE/StbE
+* OKFPLJJI_00668      K03070  152.83  724.4  1.6e-218 preprotein translocase subunit SecA [EC:7.4.2.8]
+* OKFPLJJI_00670      K03168  435.60  514.6  4.7e-155 DNA topoisomerase I [EC:5.6.2.1]
+* OKFPLJJI_00671      K01881  159.03  301.0   9.9e-91 prolyl-tRNA synthetase [EC:6.1.1.15]
+* OKFPLJJI_00673      K02503   86.80  122.7   1.2e-36 histidine triad (HIT) family protein
+* OKFPLJJI_00676      K02916   22.97   25.2   1.2e-06 large subunit ribosomal protein L35
+* OKFPLJJI_00686      K02906  123.00  228.1   1.7e-68 large subunit ribosomal protein L3
+* OKFPLJJI_00689      K03702  143.73  897.2  1.6e-270 excinuclease ABC subunit B
+* OKFPLJJI_00693      K03799  133.77  175.3   1.4e-52 heat shock protein HtpX [EC:3.4.24.-]
+* OKFPLJJI_00694      K03763  228.33  689.2  8.4e-208 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* OKFPLJJI_00694      K02342  108.03  136.1   9.8e-41 DNA polymerase III subunit epsilon [EC:2.7.7.7]
+* OKFPLJJI_00697      K13993   74.27  109.5   1.4e-32 HSP20 family protein
+* OKFPLJJI_00700      K10563  195.93  263.1   3.2e-79 formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+* OKFPLJJI_00702      K01151  122.83  298.3   5.4e-90 deoxyribonuclease IV [EC:3.1.21.2]
+* OKFPLJJI_00706      K01255  418.07  459.9  1.5e-138 leucyl aminopeptidase [EC:3.4.11.1]
+* OKFPLJJI_00708      K00566  428.00  473.6  3.5e-143 tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+* OKFPLJJI_00725      K00554  127.83  297.0   1.6e-89 tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]
+* OKFPLJJI_00732      K03438  118.37  392.7  1.9e-118 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+* OKFPLJJI_00738      K03495  121.13  833.3  1.5e-251 tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+* OKFPLJJI_00740      K01056   46.53  218.2   1.1e-65 peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+* OKFPLJJI_00741      K03218  217.53  233.0   3.3e-70 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+* OKFPLJJI_00750      K00940  131.40  200.7   3.2e-60 nucleoside-diphosphate kinase [EC:2.7.4.6]
+* OKFPLJJI_00764      K07171   19.37   80.5     1e-23 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_00776      K02884   22.50   58.9   4.1e-17 large subunit ribosomal protein L19
+* OKFPLJJI_00777      K01426  211.53  220.8   2.9e-66 amidase [EC:3.5.1.4]
+* OKFPLJJI_00778      K02888   25.87   63.7   1.3e-18 large subunit ribosomal protein L21
+* OKFPLJJI_00779      K01889  109.70  346.1  2.6e-104 phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+* OKFPLJJI_00780      K03657  379.80  513.5    1e-154 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]
+* OKFPLJJI_00787      K12574  172.07  595.3  1.6e-179 ribonuclease J [EC:3.1.-.-]
+* OKFPLJJI_00790      K02986   77.73  186.5   4.7e-56 small subunit ribosomal protein S4
+* OKFPLJJI_00793      K07488   43.87  115.8   1.6e-34 transposase
+* OKFPLJJI_00798      K07171   19.37   70.1   1.5e-20 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_00917      K07334   76.87   85.7   2.1e-25 toxin HigB-1
+* OKFPLJJI_00918      K21498   47.93  105.1   2.4e-31 antitoxin HigA-1
+* OKFPLJJI_00930      K06218   35.80   59.2   5.8e-17 mRNA interferase RelE/StbE
+* OKFPLJJI_00931      K06218   35.80   41.9   1.3e-11 mRNA interferase RelE/StbE
+* OKFPLJJI_00946      K07171   19.37   80.2   1.2e-23 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_00971      K07171   19.37   76.3   1.9e-22 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_00974      K07171   19.37   56.5   2.1e-16 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_00982      K03652   51.33  192.2   1.1e-57 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* OKFPLJJI_00984      K04567  302.73  660.0  3.7e-199 lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+* OKFPLJJI_00989      K03070  152.83  697.8  1.7e-210 preprotein translocase subunit SecA [EC:7.4.2.8]
+* OKFPLJJI_00991      K03168  435.60  512.3  2.3e-154 DNA topoisomerase I [EC:5.6.2.1]
+* OKFPLJJI_00992      K01881  159.03  301.0   9.9e-91 prolyl-tRNA synthetase [EC:6.1.1.15]
+* OKFPLJJI_01004      K03496  128.07  220.3     4e-66 chromosome partitioning protein
+* OKFPLJJI_01008      K07494   74.50   75.5   3.8e-22 putative transposase
+* OKFPLJJI_01016      K09760   96.00  152.8   9.4e-46 DNA recombination protein RmuC
+* OKFPLJJI_01017      K01156  140.97  213.3   5.2e-64 type III restriction enzyme [EC:3.1.21.5]
+* OKFPLJJI_01018      K07316  209.03  315.0   7.8e-95 adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+* OKFPLJJI_01033      K03043  365.63  516.7  9.4e-156 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+* OKFPLJJI_01035      K02935   28.83   52.0   5.2e-15 large subunit ribosomal protein L7/L12
+* OKFPLJJI_01036      K02864   56.00   77.4     1e-22 large subunit ribosomal protein L10
+* OKFPLJJI_01041      K02992  105.13  111.1   3.5e-33 small subunit ribosomal protein S7
+* OKFPLJJI_01042      K02887   55.13  161.1   2.4e-48 large subunit ribosomal protein L20
+* OKFPLJJI_01045      K02913   23.47   28.6   9.8e-08 large subunit ribosomal protein L33
+* OKFPLJJI_01047      K07488   43.87  115.8   1.6e-34 transposase
+* OKFPLJJI_01076      K07488   43.87  115.8   1.6e-34 transposase
+* OKFPLJJI_01085      K07171   19.37   27.4   1.8e-07 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_01092      K01874  236.63  522.6  1.5e-157 methionyl-tRNA synthetase [EC:6.1.1.10]
+* OKFPLJJI_01094      K01507   23.07  120.0   1.2e-35 inorganic pyrophosphatase [EC:3.6.1.1]
+* OKFPLJJI_01102      K01866   93.67  222.9   5.3e-67 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+* OKFPLJJI_01103      K00962  149.47  416.4  1.6e-125 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* OKFPLJJI_01104      K00962  149.47  209.3   6.4e-63 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* OKFPLJJI_01106      K02968   35.03   48.2     8e-14 small subunit ribosomal protein S20
+* OKFPLJJI_01107      K03151  132.87  393.0  1.6e-118 tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]
+* OKFPLJJI_01110      K07488   43.87  115.8   1.6e-34 transposase
+* OKFPLJJI_01114      K18682  118.43  361.8  3.9e-109 ribonucrease Y [EC:3.1.-.-]
+* OKFPLJJI_01118      K07171   19.37   27.4   1.8e-07 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_01159      K02503   86.80  122.7   1.2e-36 histidine triad (HIT) family protein
+* OKFPLJJI_01160      K02916   22.97   32.1   8.7e-09 large subunit ribosomal protein L35
+* OKFPLJJI_01168      K02899   49.63   80.0   1.3e-23 large subunit ribosomal protein L27
+* OKFPLJJI_01174      K03702  143.73  740.6  2.9e-223 excinuclease ABC subunit B
+* OKFPLJJI_01178      K03652   51.33  221.4   1.3e-66 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* OKFPLJJI_01182      K03177  215.57  255.8   5.4e-77 tRNA pseudouridine55 synthase [EC:5.4.99.25]
+* OKFPLJJI_01184      K01874  236.63  522.6  1.5e-157 methionyl-tRNA synthetase [EC:6.1.1.10]
+* OKFPLJJI_01190      K07171   19.37   27.4   1.8e-07 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_01192      K18682  118.43  384.8  4.1e-116 ribonucrease Y [EC:3.1.-.-]
+* OKFPLJJI_01195      K07488   43.87  115.8   1.6e-34 transposase
+* OKFPLJJI_01206      K06218   35.80   41.9   1.3e-11 mRNA interferase RelE/StbE
+* OKFPLJJI_01209      K09760   96.00  151.0   3.4e-45 DNA recombination protein RmuC
+* OKFPLJJI_01214      K15255   91.03  300.1   1.9e-90 ATP-dependent DNA helicase PIF1 [EC:3.6.4.12]
+* OKFPLJJI_01258      K07171   19.37   78.1   5.5e-23 mRNA interferase MazF [EC:3.1.-.-]
+* OKFPLJJI_01260      K06218   35.80   41.9   1.3e-11 mRNA interferase RelE/StbE

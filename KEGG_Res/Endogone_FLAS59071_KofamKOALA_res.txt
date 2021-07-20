@@ -1,0 +1,601 @@
+# gene name           KO     thrshld  score   E-value KO definition
+#-------------------- ------ ------- ------ --------- ---------------------
+* ANKDFBEC_00009      K01972  100.33  618.1  5.6e-186 DNA ligase (NAD+) [EC:6.5.1.2]
+* ANKDFBEC_00011      K07042   59.80  142.6   3.4e-42 probable rRNA maturation factor
+* ANKDFBEC_00027      K02899   49.63  101.2   1.3e-29 large subunit ribosomal protein L27
+* ANKDFBEC_00029      K06925   47.07  114.8   9.6e-34 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+* ANKDFBEC_00030      K06223   68.57  258.3   2.9e-77 DNA adenine methylase [EC:2.1.1.72]
+* ANKDFBEC_00030      K01155   25.73   90.8   3.1e-26 type II restriction enzyme [EC:3.1.21.4]
+* ANKDFBEC_00034      K12574  172.07  589.3  2.6e-177 ribonuclease J [EC:3.1.-.-]
+* ANKDFBEC_00060      K00384  339.83  361.2    2e-108 thioredoxin reductase (NADPH) [EC:1.8.1.9]
+* ANKDFBEC_00061      K02967  138.30  282.0   1.2e-84 small subunit ribosomal protein S2
+* ANKDFBEC_00063      K02835  355.80  425.5  8.9e-128 peptide chain release factor 1
+* ANKDFBEC_00067      K21498   47.93  110.5   1.4e-32 antitoxin HigA-1
+* ANKDFBEC_00069      K00560   77.53   97.0   2.5e-28 thymidylate synthase [EC:2.1.1.45]
+* ANKDFBEC_00073      K00943   98.17  130.8   1.1e-38 dTMP kinase [EC:2.7.4.9]
+* ANKDFBEC_00079      K00940  131.40  193.8   1.1e-57 nucleoside-diphosphate kinase [EC:2.7.4.6]
+* ANKDFBEC_00080      K06878  111.70  130.9   6.1e-39 tRNA-binding protein
+* ANKDFBEC_00085      K02434  265.63  352.3  1.3e-105 aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+* ANKDFBEC_00088      K04567  302.73  670.8  5.5e-202 lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+* ANKDFBEC_00091      K03652   51.33  226.9   7.9e-68 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* ANKDFBEC_00093      K03168  435.60  524.0  1.9e-157 DNA topoisomerase I [EC:5.6.2.1]
+* ANKDFBEC_00097      K18682  118.43  497.5    8e-150 ribonucrease Y [EC:3.1.-.-]
+* ANKDFBEC_00101      K01867  137.37  304.4   2.9e-91 tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+* ANKDFBEC_00104      K02834   27.27   31.0   2.9e-08 ribosome-binding factor A
+* ANKDFBEC_00105      K02519  306.67  494.6  1.3e-148 translation initiation factor IF-2
+* ANKDFBEC_00106      K02600   40.37  206.4   1.4e-61 transcription termination/antitermination protein NusA
+* ANKDFBEC_00109      K01869  429.83  964.0  3.2e-290 leucyl-tRNA synthetase [EC:6.1.1.4]
+* ANKDFBEC_00124      K03687   30.90  103.7   2.1e-30 molecular chaperone GrpE
+* ANKDFBEC_00129      K02954   24.90   44.8   2.4e-12 small subunit ribosomal protein S14
+* ANKDFBEC_00130      K02994   89.83  116.0   3.1e-34 small subunit ribosomal protein S8
+* ANKDFBEC_00131      K02933  112.43  142.3   4.3e-42 large subunit ribosomal protein L6
+* ANKDFBEC_00132      K02881   60.30   76.7   4.2e-22 large subunit ribosomal protein L18
+* ANKDFBEC_00134      K02876   42.03  152.3   4.1e-45 large subunit ribosomal protein L15
+* ANKDFBEC_00141      K01870  514.83  604.0  1.4e-181 isoleucyl-tRNA synthetase [EC:6.1.1.5]
+* ANKDFBEC_00142      K07316  209.03  242.6   1.8e-72 adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+* ANKDFBEC_00150      K01892  276.97  283.3   7.1e-85 histidyl-tRNA synthetase [EC:6.1.1.21]
+* ANKDFBEC_00157      K01889  109.70  351.3  1.8e-105 phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+* ANKDFBEC_00159      K00554  127.83  293.5   4.7e-88 tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]
+* ANKDFBEC_00161      K02884   22.50   66.9   4.1e-19 large subunit ribosomal protein L19
+* ANKDFBEC_00162      K03424   88.03  274.2   3.7e-82 TatD DNase family protein [EC:3.1.21.-]
+* ANKDFBEC_00173      K13993   74.27  118.8   5.7e-35 HSP20 family protein
+* ANKDFBEC_00174      K02911   21.47   33.3   8.7e-09 large subunit ribosomal protein L32
+* ANKDFBEC_00176      K03438  118.37  396.8  2.9e-119 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+* ANKDFBEC_00178      K02913   23.47   30.0   9.5e-08 large subunit ribosomal protein L33
+* ANKDFBEC_00179      K02887   55.13  156.8   1.3e-46 large subunit ribosomal protein L20
+* ANKDFBEC_00180      K02916   22.97   47.5   4.4e-13 large subunit ribosomal protein L35
+* ANKDFBEC_00186      K07171   19.37   88.3   1.1e-25 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00188      K07171   19.37   79.9   4.1e-23 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00191      K09951   23.40   39.2   9.5e-11 CRISPR-associated protein Cas2
+* ANKDFBEC_00192      K15342   81.73  131.0     1e-38 CRISP-associated protein Cas1
+* ANKDFBEC_00193      K09952  118.17  254.1   6.9e-76 CRISPR-associated endonuclease Csn1 [EC:3.1.-.-]
+* ANKDFBEC_00216      K09952  118.17  173.9   1.1e-51 CRISPR-associated endonuclease Csn1 [EC:3.1.-.-]
+* ANKDFBEC_00218      K03657  379.80  511.7  9.1e-154 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]
+* ANKDFBEC_00221      K02996  107.43  173.1   1.6e-51 small subunit ribosomal protein S9
+* ANKDFBEC_00222      K02871   70.00  166.7   1.3e-49 large subunit ribosomal protein L13
+* ANKDFBEC_00228      K03553  103.57  356.7  3.6e-107 recombination protein RecA
+* ANKDFBEC_00229      K00945   76.83  223.2   1.3e-66 CMP/dCMP kinase [EC:2.7.4.25]
+* ANKDFBEC_00231      K01880  107.30  297.1   6.7e-89 glycyl-tRNA synthetase [EC:6.1.1.14]
+* ANKDFBEC_00234      K02919   27.60   69.7   7.1e-20 large subunit ribosomal protein L36
+* ANKDFBEC_00236      K01265  125.50  249.0   2.5e-74 methionyl aminopeptidase [EC:3.4.11.18]
+* ANKDFBEC_00237      K00600   55.33  573.1  1.6e-172 glycine hydroxymethyltransferase [EC:2.1.2.1]
+* ANKDFBEC_00238      K00287   53.23  162.3   2.9e-48 dihydrofolate reductase [EC:1.5.1.3]
+* ANKDFBEC_00244      K03427   97.00  255.4   2.5e-76 type I restriction enzyme M protein [EC:2.1.1.72]
+* ANKDFBEC_00244      K01154   25.93   71.5   1.4e-20 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* ANKDFBEC_00245      K07488   43.87   45.8     1e-12 transposase
+* ANKDFBEC_00251      K02879   35.07  104.0   2.2e-30 large subunit ribosomal protein L17
+* ANKDFBEC_00252      K03040  130.30  167.9   5.9e-50 DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+* ANKDFBEC_00253      K02948   97.70  118.1     1e-34 small subunit ribosomal protein S11
+* ANKDFBEC_00254      K02952  115.63  133.6   1.2e-39 small subunit ribosomal protein S13
+* ANKDFBEC_00255      K01876  291.87  339.7  8.2e-102 aspartyl-tRNA synthetase [EC:6.1.1.12]
+* ANKDFBEC_00258      K01056   46.53  219.5   1.2e-65 peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+* ANKDFBEC_00264      K02931   99.93  180.2   6.8e-54 large subunit ribosomal protein L5
+* ANKDFBEC_00267      K02874  102.87  132.7   2.5e-39 large subunit ribosomal protein L14
+* ANKDFBEC_00270      K02878   86.63  164.0   9.1e-49 large subunit ribosomal protein L16
+* ANKDFBEC_00271      K02982  108.80  173.0   1.6e-51 small subunit ribosomal protein S3
+* ANKDFBEC_00272      K02890   79.10   83.5   3.2e-24 large subunit ribosomal protein L22
+* ANKDFBEC_00273      K02965  108.47  114.3   1.6e-33 small subunit ribosomal protein S19
+* ANKDFBEC_00274      K02992  105.13  146.1   1.9e-43 small subunit ribosomal protein S7
+* ANKDFBEC_00275      K02950   85.93  161.7   6.2e-48 small subunit ribosomal protein S12
+* ANKDFBEC_00277      K01873  589.77  765.0  2.3e-230 valyl-tRNA synthetase [EC:6.1.1.9]
+* ANKDFBEC_00279      K03046  542.03 1005.0  1.4e-302 DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+* ANKDFBEC_00280      K03043  365.63  833.9  4.2e-251 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+* ANKDFBEC_00281      K02935   28.83   57.5   2.9e-16 large subunit ribosomal protein L7/L12
+* ANKDFBEC_00282      K02864   56.00   80.3   3.6e-23 large subunit ribosomal protein L10
+* ANKDFBEC_00284      K02863   98.10  132.7   3.5e-39 large subunit ribosomal protein L1
+* ANKDFBEC_00285      K02867   66.80   95.1     9e-28 large subunit ribosomal protein L11
+* ANKDFBEC_00286      K01881  159.03  294.2     3e-88 prolyl-tRNA synthetase [EC:6.1.1.15]
+* ANKDFBEC_00288      K02503   86.80  113.0   2.8e-33 histidine triad (HIT) family protein
+* ANKDFBEC_00289      K01151  122.83  289.1   9.1e-87 deoxyribonuclease IV [EC:3.1.21.2]
+* ANKDFBEC_00293      K01255  418.07  451.9  1.1e-135 leucyl aminopeptidase [EC:3.4.11.1]
+* ANKDFBEC_00301      K02956   32.03   59.1   9.8e-17 small subunit ribosomal protein S15
+* ANKDFBEC_00312      K01893  376.90  626.7    1e-188 asparaginyl-tRNA synthetase [EC:6.1.1.22]
+* ANKDFBEC_00321      K01872  198.30  387.5  2.8e-116 alanyl-tRNA synthetase [EC:6.1.1.7]
+* ANKDFBEC_00325      K09760   96.00  124.1   1.3e-36 DNA recombination protein RmuC
+* ANKDFBEC_00327      K03702  143.73  959.6  6.1e-289 excinuclease ABC subunit B
+* ANKDFBEC_00330      K02316   54.50  267.1     1e-79 DNA primase [EC:2.7.7.101]
+* ANKDFBEC_00331      K02986   77.73  184.3   6.1e-55 small subunit ribosomal protein S4
+* ANKDFBEC_00335      K03685  157.10  207.4   8.2e-62 ribonuclease III [EC:3.1.26.3]
+* ANKDFBEC_00338      K01885  303.63  508.7  5.7e-153 glutamyl-tRNA synthetase [EC:6.1.1.17]
+* ANKDFBEC_00340      K02914   18.57   47.3   2.9e-13 large subunit ribosomal protein L34
+* ANKDFBEC_00341      K03536   19.73   63.1   6.4e-18 ribonuclease P protein component [EC:3.1.26.5]
+* ANKDFBEC_00343      K04564   29.40  177.9   6.2e-53 superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+* ANKDFBEC_00346      K02838   26.67   85.9   4.8e-25 ribosome recycling factor
+* ANKDFBEC_00350      K03703  248.20  437.0  3.1e-131 excinuclease ABC subunit C
+* ANKDFBEC_00352      K07171   19.37   57.7   2.5e-16 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00366      K07584   35.60   74.5   1.9e-21 uncharacterized protein
+* ANKDFBEC_00367      K02888   25.87   76.4   4.9e-22 large subunit ribosomal protein L21
+* ANKDFBEC_00369      K03470  129.20  232.4   1.7e-69 ribonuclease HII [EC:3.1.26.4]
+* ANKDFBEC_00371      K02939   47.80   62.0   1.2e-17 large subunit ribosomal protein L9
+* ANKDFBEC_00372      K02963   71.50   73.8   3.3e-21 small subunit ribosomal protein S18
+* ANKDFBEC_00373      K03111   24.80   26.8   7.7e-07 single-strand DNA-binding protein
+* ANKDFBEC_00412      K15255   91.03  328.2   1.7e-98 ATP-dependent DNA helicase PIF1 [EC:3.6.4.12]
+* ANKDFBEC_00418      K03650  167.93  444.2  2.1e-133 tRNA modification GTPase [EC:3.6.-.-]
+* ANKDFBEC_00420      K03763  228.33  687.2  9.1e-207 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* ANKDFBEC_00420      K02342  108.03  139.9   1.8e-41 DNA polymerase III subunit epsilon [EC:2.7.7.7]
+* ANKDFBEC_00423      K03763  228.33  339.6  6.8e-102 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* ANKDFBEC_00427      K02959   28.23  101.8   9.4e-30 small subunit ribosomal protein S16
+* ANKDFBEC_00430      K03495  121.13  827.9  1.8e-249 tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+* ANKDFBEC_00439      K01868  140.00  445.1  1.2e-133 threonyl-tRNA synthetase [EC:6.1.1.3]
+* ANKDFBEC_00441      K02520   51.07  135.1   6.8e-40 translation initiation factor IF-3
+* ANKDFBEC_00443      K10563  195.93  281.2   2.8e-84 formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+* ANKDFBEC_00450      K07171   19.37   75.0   1.3e-21 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00467      K00945   76.83  205.7   2.5e-61 CMP/dCMP kinase [EC:2.7.4.25]
+* ANKDFBEC_00468      K07496   31.67  101.7     8e-30 putative transposase
+* ANKDFBEC_00469      K07496   31.67   66.1   4.7e-19 putative transposase
+* ANKDFBEC_00477      K00940  131.40  243.1   1.1e-72 nucleoside-diphosphate kinase [EC:2.7.4.6]
+* ANKDFBEC_00481      K02906  123.00  240.6   7.3e-72 large subunit ribosomal protein L3
+* ANKDFBEC_00483      K02926   76.47  202.8   1.9e-60 large subunit ribosomal protein L4
+* ANKDFBEC_00484      K02892   55.07   57.3   3.9e-16 large subunit ribosomal protein L23
+* ANKDFBEC_00488      K00962  149.47  619.4  2.1e-186 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* ANKDFBEC_00492      K03799  133.77  157.0   1.4e-46 heat shock protein HtpX [EC:3.4.24.-]
+* ANKDFBEC_00494      K02834   27.27   38.2   1.9e-10 ribosome-binding factor A
+* ANKDFBEC_00495      K02519  306.67  481.8  9.6e-145 translation initiation factor IF-2
+* ANKDFBEC_00496      K02600   40.37  234.6   3.9e-70 transcription termination/antitermination protein NusA
+* ANKDFBEC_00498      K06878  111.70  132.5   1.9e-39 tRNA-binding protein
+* ANKDFBEC_00499      K07496   31.67  159.7   2.2e-47 putative transposase
+* ANKDFBEC_00500      K07496   31.67  152.8   2.7e-45 putative transposase
+* ANKDFBEC_00504      K03685  157.10  219.0   2.5e-65 ribonuclease III [EC:3.1.26.3]
+* ANKDFBEC_00505      K06999  106.67  110.2   2.2e-32 phospholipase/carboxylesterase
+* ANKDFBEC_00508      K02355  515.13  973.5  2.8e-293 elongation factor G
+* ANKDFBEC_00509      K02992  105.13  154.5   5.4e-46 small subunit ribosomal protein S7
+* ANKDFBEC_00510      K02950   85.93  195.1   4.1e-58 small subunit ribosomal protein S12
+* ANKDFBEC_00524      K07171   19.37   35.7   1.3e-09 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00527      K07171   19.37   38.7   1.6e-10 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00532      K04567  302.73  657.0  8.5e-198 lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+* ANKDFBEC_00534      K01869  429.83  947.9  2.3e-285 leucyl-tRNA synthetase [EC:6.1.1.4]
+* ANKDFBEC_00534      K07496   31.67  219.1   2.2e-65 putative transposase
+* ANKDFBEC_00535      K03177  215.57  289.2   1.1e-86 tRNA pseudouridine55 synthase [EC:5.4.99.25]
+* ANKDFBEC_00545      K01297   68.23  130.7   1.2e-38 muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]
+* ANKDFBEC_00548      K03046  542.03 1007.8  2.1e-303 DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+* ANKDFBEC_00549      K03043  365.63  852.3  1.1e-256 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+* ANKDFBEC_00550      K02935   28.83   67.9   1.9e-19 large subunit ribosomal protein L7/L12
+* ANKDFBEC_00563      K02968   35.03   65.8   9.1e-19 small subunit ribosomal protein S20
+* ANKDFBEC_00564      K02956   32.03   63.2   5.7e-18 small subunit ribosomal protein S15
+* ANKDFBEC_00573      K07334   76.87   86.6   3.1e-25 toxin HigB-1
+* ANKDFBEC_00574      K21498   47.93  116.9   1.5e-34 antitoxin HigA-1
+* ANKDFBEC_00580      K03702  143.73  959.3  7.5e-289 excinuclease ABC subunit B
+* ANKDFBEC_00583      K06925   47.07  115.4   6.4e-34 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+* ANKDFBEC_00585      K00566  428.00  480.2  8.7e-145 tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+* ANKDFBEC_00590      K02358  348.87  749.8  9.6e-226 elongation factor Tu
+* ANKDFBEC_00591      K02909   22.33   73.4   2.3e-21 large subunit ribosomal protein L31
+* ANKDFBEC_00595      K03427   97.00  273.6     8e-82 type I restriction enzyme M protein [EC:2.1.1.72]
+* ANKDFBEC_00595      K01154   25.93   84.6   1.4e-24 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* ANKDFBEC_00596      K01154   25.93   39.0   9.7e-11 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* ANKDFBEC_00606      K07171   19.37   90.6   2.3e-26 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00610      K07171   19.37   58.0     2e-16 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00623      K01056   46.53  225.8   1.4e-67 peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+* ANKDFBEC_00626      K07052   25.67   55.3     1e-15 uncharacterized protein
+* ANKDFBEC_00627      K01868  140.00  435.4  1.1e-130 threonyl-tRNA synthetase [EC:6.1.1.3]
+* ANKDFBEC_00630      K02867   66.80   81.4   1.3e-23 large subunit ribosomal protein L11
+* ANKDFBEC_00633      K02884   22.50   67.6   2.5e-19 large subunit ribosomal protein L19
+* ANKDFBEC_00650      K07496   31.67  219.0   2.4e-65 putative transposase
+* ANKDFBEC_00652      K00600   55.33  568.1  5.3e-171 glycine hydroxymethyltransferase [EC:2.1.2.1]
+* ANKDFBEC_00653      K01876  291.87  355.1  1.8e-106 aspartyl-tRNA synthetase [EC:6.1.1.12]
+* ANKDFBEC_00658      K01972  100.33  634.3  7.3e-191 DNA ligase (NAD+) [EC:6.5.1.2]
+* ANKDFBEC_00659      K03652   51.33  227.3   5.9e-68 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* ANKDFBEC_00660      K01507   23.07  149.9     3e-44 inorganic pyrophosphatase [EC:3.6.1.1]
+* ANKDFBEC_00661      K02878   86.63  174.4   6.4e-52 large subunit ribosomal protein L16
+* ANKDFBEC_00662      K02982  108.80  164.3   7.3e-49 small subunit ribosomal protein S3
+* ANKDFBEC_00663      K02890   79.10   95.6   6.6e-28 large subunit ribosomal protein L22
+* ANKDFBEC_00664      K02965  108.47  119.9   3.2e-35 small subunit ribosomal protein S19
+* ANKDFBEC_00665      K02886  162.97  324.4   2.3e-97 large subunit ribosomal protein L2
+* ANKDFBEC_00672      K07171   19.37   66.9   3.8e-19 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00675      K21498   47.93   71.9   1.1e-20 antitoxin HigA-1
+* ANKDFBEC_00676      K07171   19.37   70.7   2.7e-20 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00680      K02874  102.87  124.3   9.5e-37 large subunit ribosomal protein L14
+* ANKDFBEC_00682      K02931   99.93  189.8   7.9e-57 large subunit ribosomal protein L5
+* ANKDFBEC_00685      K02954   24.90   57.0   4.3e-16 small subunit ribosomal protein S14
+* ANKDFBEC_00686      K02994   89.83  132.2   3.4e-39 small subunit ribosomal protein S8
+* ANKDFBEC_00687      K02933  112.43  138.5     6e-41 large subunit ribosomal protein L6
+* ANKDFBEC_00688      K02881   60.30   88.7   9.2e-26 large subunit ribosomal protein L18
+* ANKDFBEC_00691      K02876   42.03  149.7   2.5e-44 large subunit ribosomal protein L15
+* ANKDFBEC_00694      K01265  125.50  246.9   1.1e-73 methionyl aminopeptidase [EC:3.4.11.18]
+* ANKDFBEC_00696      K02919   27.60   61.7   1.9e-17 large subunit ribosomal protein L36
+* ANKDFBEC_00697      K02952  115.63  135.6   2.8e-40 small subunit ribosomal protein S13
+* ANKDFBEC_00698      K02948   97.70  101.4   1.3e-29 small subunit ribosomal protein S11
+* ANKDFBEC_00704      K00558  160.57  296.7   3.8e-89 DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]
+* ANKDFBEC_00707      K07171   19.37   92.1   7.5e-27 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00714      K07171   19.37   86.6   3.6e-25 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00729      K00558  160.57  275.6     9e-83 DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]
+* ANKDFBEC_00732      K07171   19.37   82.6     6e-24 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00740      K01872  198.30  289.0   1.6e-86 alanyl-tRNA synthetase [EC:6.1.1.7]
+* ANKDFBEC_00742      K03470  129.20  240.8   4.6e-72 ribonuclease HII [EC:3.1.26.4]
+* ANKDFBEC_00745      K07171   19.37   81.3   1.5e-23 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00759      K01887   47.77  368.5  1.5e-110 arginyl-tRNA synthetase [EC:6.1.1.19]
+* ANKDFBEC_00778      K00943   98.17  159.0   2.9e-47 dTMP kinase [EC:2.7.4.9]
+* ANKDFBEC_00778      K07766   88.53   93.0   4.2e-27 diphosphoinositol-polyphosphate diphosphatase [EC:3.6.1.52]
+* ANKDFBEC_00779      K00943   98.17  129.1   3.7e-38 dTMP kinase [EC:2.7.4.9]
+* ANKDFBEC_00781      K01151  122.83  302.3   8.6e-91 deoxyribonuclease IV [EC:3.1.21.2]
+* ANKDFBEC_00783      K04564   29.40  176.2     2e-52 superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+* ANKDFBEC_00790      K01426  211.53  234.8   4.4e-70 amidase [EC:3.5.1.4]
+* ANKDFBEC_00791      K03799  133.77  151.4   7.2e-45 heat shock protein HtpX [EC:3.4.24.-]
+* ANKDFBEC_00792      K09769   82.67  316.1     3e-95 uncharacterized protein
+* ANKDFBEC_00797      K07171   19.37   91.4   1.2e-26 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00798      K03218  217.53  221.1   3.7e-66 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+* ANKDFBEC_00800      K07317  150.63  193.8   1.2e-57 adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+* ANKDFBEC_00806      K01883  398.70  443.0  6.1e-133 cysteinyl-tRNA synthetase [EC:6.1.1.16]
+* ANKDFBEC_00811      K00566  428.00  485.6    2e-146 tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+* ANKDFBEC_00814      K01887   47.77  352.7  8.9e-106 arginyl-tRNA synthetase [EC:6.1.1.19]
+* ANKDFBEC_00834      K03164  252.80  272.8   9.2e-82 DNA topoisomerase II [EC:5.6.2.2]
+* ANKDFBEC_00844      K07171   19.37   60.1   4.5e-17 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00850      K02357  118.20  188.0   5.7e-56 elongation factor Ts
+* ANKDFBEC_00851      K03979  160.43  454.4  1.2e-136 GTPase [EC:3.6.5.-]
+* ANKDFBEC_00853      K01156  140.97  155.5     4e-46 type III restriction enzyme [EC:3.1.21.5]
+* ANKDFBEC_00858      K03070  152.83  707.0  7.7e-213 preprotein translocase subunit SecA [EC:7.4.2.8]
+* ANKDFBEC_00860      K02835  355.80  440.8    2e-132 peptide chain release factor 1
+* ANKDFBEC_00863      K01889  109.70  344.7  1.8e-103 phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+* ANKDFBEC_00867      K01874  236.63  494.8    1e-148 methionyl-tRNA synthetase [EC:6.1.1.10]
+* ANKDFBEC_00869      K01893  376.90  617.4  6.6e-186 asparaginyl-tRNA synthetase [EC:6.1.1.22]
+* ANKDFBEC_00888      K02434  265.63  352.6  1.1e-105 aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+* ANKDFBEC_00890      K02911   21.47   37.2   5.3e-10 large subunit ribosomal protein L32
+* ANKDFBEC_00892      K03664   28.77  131.2   8.2e-39 SsrA-binding protein
+* ANKDFBEC_00894      K02871   70.00  154.1   8.9e-46 large subunit ribosomal protein L13
+* ANKDFBEC_00895      K12574  172.07  587.2  1.1e-176 ribonuclease J [EC:3.1.-.-]
+* ANKDFBEC_00898      K01890  121.63  282.8   1.2e-84 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* ANKDFBEC_00913      K02887   55.13  155.4   3.7e-46 large subunit ribosomal protein L20
+* ANKDFBEC_00918      K07171   19.37   86.3   4.4e-25 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_00944      K02520   51.07  144.1   1.2e-42 translation initiation factor IF-3
+* ANKDFBEC_00946      K02916   22.97   30.0   1.1e-07 large subunit ribosomal protein L35
+* ANKDFBEC_00947      K02986   77.73  193.3   1.1e-57 small subunit ribosomal protein S4
+* ANKDFBEC_00948      K03657  379.80  517.1  2.1e-155 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]
+* ANKDFBEC_00953      K00558  160.57  162.2   2.4e-48 DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]
+* ANKDFBEC_00955      K07494   74.50   89.8   4.7e-26 putative transposase
+* ANKDFBEC_00957      K01873  589.77  761.3  2.9e-229 valyl-tRNA synthetase [EC:6.1.1.9]
+* ANKDFBEC_00958      K03438  118.37  381.6  1.2e-114 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+* ANKDFBEC_00960      K03536   19.73   62.5     1e-17 ribonuclease P protein component [EC:3.1.26.5]
+* ANKDFBEC_00995      K21498   47.93   87.6   1.6e-25 antitoxin HigA-1
+* ANKDFBEC_00998      K03168  435.60  500.5  2.3e-150 DNA topoisomerase I [EC:5.6.2.1]
+* ANKDFBEC_00999      K02888   25.87   94.9   1.2e-27 large subunit ribosomal protein L21
+* ANKDFBEC_01001      K01426  211.53  233.9   8.5e-70 amidase [EC:3.5.1.4]
+* ANKDFBEC_01002      K03703  248.20  426.2  5.8e-128 excinuclease ABC subunit C
+* ANKDFBEC_01006      K00384  339.83  370.7  2.8e-111 thioredoxin reductase (NADPH) [EC:1.8.1.9]
+* ANKDFBEC_01013      K01156  140.97  163.8   1.2e-48 type III restriction enzyme [EC:3.1.21.5]
+* ANKDFBEC_01026      K02503   86.80  102.6   4.4e-30 histidine triad (HIT) family protein
+* ANKDFBEC_01027      K03553  103.57  348.6    1e-104 recombination protein RecA
+* ANKDFBEC_01028      K02316   54.50  286.9   9.8e-86 DNA primase [EC:2.7.7.101]
+* ANKDFBEC_01029      K02864   56.00   83.4   4.1e-24 large subunit ribosomal protein L10
+* ANKDFBEC_01033      K06934   32.83   61.0   1.9e-17 uncharacterized protein
+* ANKDFBEC_01034      K01409   84.10  396.2  6.8e-119 N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+* ANKDFBEC_01036      K07584   35.60   69.1   8.7e-20 uncharacterized protein
+* ANKDFBEC_01040      K08597  115.77  130.9   1.6e-38 sentrin-specific protease 8 [EC:3.4.22.68]
+* ANKDFBEC_01041      K06881  215.23  325.5   8.8e-98 bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]
+* ANKDFBEC_01043      K19055   93.40  113.6   2.1e-33 Ala-tRNA(Pro) deacylase [EC:3.1.1.-]
+* ANKDFBEC_01045      K02879   35.07  106.8   3.1e-31 large subunit ribosomal protein L17
+* ANKDFBEC_01057      K03687   30.90  127.8     1e-37 molecular chaperone GrpE
+* ANKDFBEC_01061      K01867  137.37  326.3   6.4e-98 tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+* ANKDFBEC_01065      K06223   68.57  151.5   7.1e-45 DNA adenine methylase [EC:2.1.1.72]
+* ANKDFBEC_01066      K01507   23.07  142.8   4.2e-42 inorganic pyrophosphatase [EC:3.6.1.1]
+* ANKDFBEC_01070      K01889  109.70  351.2  1.9e-105 phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+* ANKDFBEC_01071      K02926   76.47  193.4   1.4e-57 large subunit ribosomal protein L4
+* ANKDFBEC_01074      K07042   59.80  133.9   1.5e-39 probable rRNA maturation factor
+* ANKDFBEC_01103      K02968   35.03   50.1   5.8e-14 small subunit ribosomal protein S20
+* ANKDFBEC_01108      K02600   40.37  202.0   2.9e-60 transcription termination/antitermination protein NusA
+* ANKDFBEC_01109      K02519  306.67  463.1  4.1e-139 translation initiation factor IF-2
+* ANKDFBEC_01114      K07488   43.87  105.3   7.1e-31 transposase
+* ANKDFBEC_01116      K03648   88.37  256.6   1.3e-76 uracil-DNA glycosylase [EC:3.2.2.27]
+* ANKDFBEC_01121      K02968   35.03   60.6   3.4e-17 small subunit ribosomal protein S20
+* ANKDFBEC_01126      K01507   23.07  153.1   3.1e-45 inorganic pyrophosphatase [EC:3.6.1.1]
+* ANKDFBEC_01127      K03070  152.83  724.8  3.2e-218 preprotein translocase subunit SecA [EC:7.4.2.8]
+* ANKDFBEC_01128      K07494   74.50   83.3   4.3e-24 putative transposase
+* ANKDFBEC_01139      K01874  236.63  506.3  3.4e-152 methionyl-tRNA synthetase [EC:6.1.1.10]
+* ANKDFBEC_01151      K01890  121.63  454.8  1.3e-136 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* ANKDFBEC_01155      K01875   76.07  391.9  8.1e-118 seryl-tRNA synthetase [EC:6.1.1.11]
+* ANKDFBEC_01158      K03177  215.57  291.1     3e-87 tRNA pseudouridine55 synthase [EC:5.4.99.25]
+* ANKDFBEC_01164      K02355  515.13  919.7  4.8e-277 elongation factor G
+* ANKDFBEC_01170      K03648   88.37  260.3     1e-77 uracil-DNA glycosylase [EC:3.2.2.27]
+* ANKDFBEC_01171      K02967  138.30  275.1   1.5e-82 small subunit ribosomal protein S2
+* ANKDFBEC_01173      K02954   24.90   43.9   4.5e-12 small subunit ribosomal protein S14
+* ANKDFBEC_01177      K07488   43.87   96.8   2.8e-28 transposase
+* ANKDFBEC_01185      K03685  157.10  187.9   6.3e-56 ribonuclease III [EC:3.1.26.3]
+* ANKDFBEC_01188      K02986   77.73  176.1     2e-52 small subunit ribosomal protein S4
+* ANKDFBEC_01190      K01876  291.87  336.5  7.7e-101 aspartyl-tRNA synthetase [EC:6.1.1.12]
+* ANKDFBEC_01191      K03652   51.33  215.4   2.5e-64 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* ANKDFBEC_01195      K15255   91.03  332.2   1.1e-99 ATP-dependent DNA helicase PIF1 [EC:3.6.4.12]
+* ANKDFBEC_01196      K03438  118.37  387.7  1.7e-116 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+* ANKDFBEC_01197      K02911   21.47   46.9   5.5e-13 large subunit ribosomal protein L32
+* ANKDFBEC_01200      K00571  148.63  181.2   7.5e-54 site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]
+* ANKDFBEC_01205      K01156  140.97  174.4   8.2e-52 type III restriction enzyme [EC:3.1.21.5]
+* ANKDFBEC_01207      K07171   19.37   66.2   6.2e-19 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_01209      K07316  209.03  309.3   1.1e-92 adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+* ANKDFBEC_01213      K07334   76.87   99.6   3.4e-29 toxin HigB-1
+* ANKDFBEC_01214      K21498   47.93   95.5   5.8e-28 antitoxin HigA-1
+* ANKDFBEC_01219      K03553  103.57  286.0     1e-85 recombination protein RecA
+* ANKDFBEC_01222      K01880  107.30  295.3   2.3e-88 glycyl-tRNA synthetase [EC:6.1.1.14]
+* ANKDFBEC_01234      K06218   35.80   72.3   1.5e-20 mRNA interferase RelE/StbE
+* ANKDFBEC_01239      K02863   98.10  121.3     1e-35 large subunit ribosomal protein L1
+* ANKDFBEC_01240      K02952  115.63  136.1   1.9e-40 small subunit ribosomal protein S13
+* ANKDFBEC_01241      K18554  117.60  123.6   1.7e-36 chloramphenicol 3-O phosphotransferase [EC:2.7.1.-]
+* ANKDFBEC_01242      K02948   97.70  121.2   1.1e-35 small subunit ribosomal protein S11
+* ANKDFBEC_01243      K03040  130.30  157.2     1e-46 DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+* ANKDFBEC_01244      K02879   35.07  107.6   1.8e-31 large subunit ribosomal protein L17
+* ANKDFBEC_01251      K03495  121.13  814.8  1.7e-245 tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+* ANKDFBEC_01253      K01875   76.07  379.7  3.9e-114 seryl-tRNA synthetase [EC:6.1.1.11]
+* ANKDFBEC_01257      K02884   22.50   58.5   1.5e-16 large subunit ribosomal protein L19
+* ANKDFBEC_01258      K00554  127.83  289.7   6.7e-87 tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]
+* ANKDFBEC_01260      K01881  159.03  285.4   1.5e-85 prolyl-tRNA synthetase [EC:6.1.1.15]
+* ANKDFBEC_01261      K00943   98.17  132.6   3.2e-39 dTMP kinase [EC:2.7.4.9]
+* ANKDFBEC_01262      K00943   98.17  159.5   2.1e-47 dTMP kinase [EC:2.7.4.9]
+* ANKDFBEC_01264      K06925   47.07  115.8   4.5e-34 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+* ANKDFBEC_01266      K03977  204.07  305.7   1.1e-91 GTPase
+* ANKDFBEC_01269      K02956   32.03   61.4     2e-17 small subunit ribosomal protein S15
+* ANKDFBEC_01277      K02906  123.00  223.9   8.2e-67 large subunit ribosomal protein L3
+* ANKDFBEC_01284      K07171   19.37   74.7   1.6e-21 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_01286      K15255   91.03  336.9  4.1e-101 ATP-dependent DNA helicase PIF1 [EC:3.6.4.12]
+* ANKDFBEC_01292      K03687   30.90  119.2     4e-35 molecular chaperone GrpE
+* ANKDFBEC_01293      K13993   74.27  106.5   3.1e-31 HSP20 family protein
+* ANKDFBEC_01296      K21064  178.67  180.0   1.2e-53 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+* ANKDFBEC_01299      K02959   28.23   87.4   2.4e-25 small subunit ribosomal protein S16
+* ANKDFBEC_01300      K02913   23.47   31.7   2.8e-08 large subunit ribosomal protein L33
+* ANKDFBEC_01313      K09769   82.67  319.2   3.5e-96 uncharacterized protein
+* ANKDFBEC_01315      K03657  379.80  504.0    2e-151 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]
+* ANKDFBEC_01317      K03763  228.33  349.0    1e-104 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* ANKDFBEC_01318      K03070  152.83  720.6  5.6e-217 preprotein translocase subunit SecA [EC:7.4.2.8]
+* ANKDFBEC_01326      K02863   98.10  159.9     2e-47 large subunit ribosomal protein L1
+* ANKDFBEC_01328      K02838   26.67   98.4   7.1e-29 ribosome recycling factor
+* ANKDFBEC_01340      K07171   19.37   68.8     1e-19 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_01347      K02892   55.07   61.3   2.4e-17 large subunit ribosomal protein L23
+* ANKDFBEC_01349      K02867   66.80  102.4   5.4e-30 large subunit ribosomal protein L11
+* ANKDFBEC_01352      K02996  107.43  149.8     2e-44 small subunit ribosomal protein S9
+* ANKDFBEC_01354      K02871   70.00  155.3   3.8e-46 large subunit ribosomal protein L13
+* ANKDFBEC_01355      K03536   19.73   68.7   1.3e-19 ribonuclease P protein component [EC:3.1.26.5]
+* ANKDFBEC_01357      K04564   29.40  183.7   1.1e-54 superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+* ANKDFBEC_01358      K03702  143.73  928.7  1.3e-279 excinuclease ABC subunit B
+* ANKDFBEC_01359      K00600   55.33  588.1  4.7e-177 glycine hydroxymethyltransferase [EC:2.1.2.1]
+* ANKDFBEC_01362      K01868  140.00  439.1  7.8e-132 threonyl-tRNA synthetase [EC:6.1.1.3]
+* ANKDFBEC_01363      K18626   84.83  100.7   9.5e-30 trichohyalin
+* ANKDFBEC_01372      K06999  106.67  112.0   6.2e-33 phospholipase/carboxylesterase
+* ANKDFBEC_01374      K01866   93.67  237.3   6.3e-71 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+* ANKDFBEC_01377      K02959   28.23   98.6   8.8e-29 small subunit ribosomal protein S16
+* ANKDFBEC_01384      K02355  515.13  937.3  2.4e-282 elongation factor G
+* ANKDFBEC_01386      K02886  162.97  329.9   5.2e-99 large subunit ribosomal protein L2
+* ANKDFBEC_01389      K01872  198.30  283.1   9.7e-85 alanyl-tRNA synthetase [EC:6.1.1.7]
+* ANKDFBEC_01390      K07334   76.87   81.3   1.3e-23 toxin HigB-1
+* ANKDFBEC_01391      K21498   47.93   72.3   8.1e-21 antitoxin HigA-1
+* ANKDFBEC_01395      K07171   19.37   29.2   1.3e-07 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_01396      K07171   19.37   37.4   4.1e-10 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_01397      K02434  265.63  361.5  2.1e-108 aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+* ANKDFBEC_01403      K04567  302.73  677.5  5.5e-204 lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+* ANKDFBEC_01405      K01056   46.53  221.5   3.1e-66 peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+* ANKDFBEC_01416      K09760   96.00  189.0   2.8e-56 DNA recombination protein RmuC
+* ANKDFBEC_01425      K00566  428.00  450.7  8.2e-136 tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+* ANKDFBEC_01428      K03799  133.77  169.7   1.9e-50 heat shock protein HtpX [EC:3.4.24.-]
+* ANKDFBEC_01433      K03177  215.57  298.6   1.7e-89 tRNA pseudouridine55 synthase [EC:5.4.99.25]
+* ANKDFBEC_01435      K02899   49.63   94.4   1.5e-27 large subunit ribosomal protein L27
+* ANKDFBEC_01438      K02950   85.93  162.2   4.6e-48 small subunit ribosomal protein S12
+* ANKDFBEC_01439      K02992  105.13  160.6   7.4e-48 small subunit ribosomal protein S7
+* ANKDFBEC_01441      K02890   79.10   85.9   5.7e-25 large subunit ribosomal protein L22
+* ANKDFBEC_01443      K02982  108.80  157.1   1.1e-46 small subunit ribosomal protein S3
+* ANKDFBEC_01444      K02878   86.63  168.1     5e-50 large subunit ribosomal protein L16
+* ANKDFBEC_01448      K02874  102.87  131.4   6.4e-39 large subunit ribosomal protein L14
+* ANKDFBEC_01488      K07496   31.67  260.7   5.8e-78 putative transposase
+* ANKDFBEC_01493      K07496   31.67   44.6   1.5e-12 putative transposase
+* ANKDFBEC_01494      K07496   31.67  327.6   3.5e-98 putative transposase
+* ANKDFBEC_01501      K02316   54.50  265.9   2.2e-79 DNA primase [EC:2.7.7.101]
+* ANKDFBEC_01512      K07052   25.67   63.3   3.8e-18 uncharacterized protein
+* ANKDFBEC_01516      K07171   19.37   85.0   1.2e-24 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_01517      K01866   93.67  231.6   3.4e-69 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+* ANKDFBEC_01518      K06223   68.57  262.4   1.6e-78 DNA adenine methylase [EC:2.1.1.72]
+* ANKDFBEC_01518      K01155   25.73   81.4   2.3e-23 type II restriction enzyme [EC:3.1.21.4]
+* ANKDFBEC_01519      K03424   88.03  265.5   1.5e-79 TatD DNase family protein [EC:3.1.21.-]
+* ANKDFBEC_01520      K02996  107.43  167.9   6.2e-50 small subunit ribosomal protein S9
+* ANKDFBEC_01524      K10563  195.93  271.0   3.5e-81 formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+* ANKDFBEC_01537      K07171   19.37   64.7   1.8e-18 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_01544      K07494   74.50   91.3   1.5e-26 putative transposase
+* ANKDFBEC_01550      K09760   96.00  171.5   5.8e-51 DNA recombination protein RmuC
+* ANKDFBEC_01567      K01255  418.07  436.0  6.7e-131 leucyl aminopeptidase [EC:3.4.11.1]
+* ANKDFBEC_01571      K01151  122.83  276.2   7.5e-83 deoxyribonuclease IV [EC:3.1.21.2]
+* ANKDFBEC_01574      K02887   55.13  144.6   6.8e-43 large subunit ribosomal protein L20
+* ANKDFBEC_01575      K02913   23.47   30.0   9.7e-08 large subunit ribosomal protein L33
+* ANKDFBEC_01577      K01869  429.83  972.7  7.5e-293 leucyl-tRNA synthetase [EC:6.1.1.4]
+* ANKDFBEC_01595      K01156  140.97  297.6   4.6e-89 type III restriction enzyme [EC:3.1.21.5]
+* ANKDFBEC_01596      K07171   19.37   79.9     4e-23 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_01599      K07316  209.03  272.1   2.1e-81 adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+* ANKDFBEC_01603      K01870  514.83  590.2    2e-177 isoleucyl-tRNA synthetase [EC:6.1.1.5]
+* ANKDFBEC_01642      K07316  209.03  395.0  1.2e-118 adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+* ANKDFBEC_01645      K01156  140.97  226.4   1.5e-67 type III restriction enzyme [EC:3.1.21.5]
+* ANKDFBEC_01651      K07334   76.87   92.8   3.8e-27 toxin HigB-1
+* ANKDFBEC_01652      K21498   47.93  110.0     2e-32 antitoxin HigA-1
+* ANKDFBEC_01660      K06218   35.80   49.1   2.1e-13 mRNA interferase RelE/StbE
+* ANKDFBEC_01663      K03650  167.93  439.1  7.5e-132 tRNA modification GTPase [EC:3.6.-.-]
+* ANKDFBEC_01679      K01972  100.33  636.6  1.4e-191 DNA ligase (NAD+) [EC:6.5.1.2]
+* ANKDFBEC_01681      K01874  236.63  509.4  3.9e-153 methionyl-tRNA synthetase [EC:6.1.1.10]
+* ANKDFBEC_01696      K18554  117.60  136.8   1.5e-40 chloramphenicol 3-O phosphotransferase [EC:2.7.1.-]
+* ANKDFBEC_01700      K03111   24.80   46.3   8.7e-13 single-strand DNA-binding protein
+* ANKDFBEC_01701      K02963   71.50   76.5   4.8e-22 small subunit ribosomal protein S18
+* ANKDFBEC_01703      K02939   47.80   78.0   1.6e-22 large subunit ribosomal protein L9
+* ANKDFBEC_01705      K00384  339.83  349.5  7.3e-105 thioredoxin reductase (NADPH) [EC:1.8.1.9]
+* ANKDFBEC_01707      K03664   28.77  145.9   2.6e-43 SsrA-binding protein
+* ANKDFBEC_01710      K02358  348.87  642.1  3.2e-193 elongation factor Tu
+* ANKDFBEC_01728      K02838   26.67   91.5   9.1e-27 ribosome recycling factor
+* ANKDFBEC_01731      K12574  172.07  595.3  4.1e-179 ribonuclease J [EC:3.1.-.-]
+* ANKDFBEC_01735      K07171   19.37   99.8   3.3e-29 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_01737      K01881  159.03  278.9   1.4e-83 prolyl-tRNA synthetase [EC:6.1.1.15]
+* ANKDFBEC_01739      K01154   25.93   57.1   3.3e-16 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* ANKDFBEC_01740      K03427   97.00  280.5   6.5e-84 type I restriction enzyme M protein [EC:2.1.1.72]
+* ANKDFBEC_01740      K01154   25.93   43.1   5.6e-12 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* ANKDFBEC_01742      K02939   47.80   79.4   5.9e-23 large subunit ribosomal protein L9
+* ANKDFBEC_01743      K02963   71.50   78.7   1.1e-22 small subunit ribosomal protein S18
+* ANKDFBEC_01744      K02990   23.27   40.1   6.5e-11 small subunit ribosomal protein S6
+* ANKDFBEC_01750      K01255  418.07  446.1    6e-134 leucyl aminopeptidase [EC:3.4.11.1]
+* ANKDFBEC_01753      K02899   49.63  103.6   2.3e-30 large subunit ribosomal protein L27
+* ANKDFBEC_01754      K02967  138.30  250.8   3.5e-75 small subunit ribosomal protein S2
+* ANKDFBEC_01756      K01880  107.30  307.9   3.7e-92 glycyl-tRNA synthetase [EC:6.1.1.14]
+* ANKDFBEC_01758      K01875   76.07  388.3  9.9e-117 seryl-tRNA synthetase [EC:6.1.1.11]
+* ANKDFBEC_01760      K07496   31.67   55.7   6.6e-16 putative transposase
+* ANKDFBEC_01767      K02358  348.87  647.2  9.1e-195 elongation factor Tu
+* ANKDFBEC_01769      K03664   28.77  152.6   2.4e-45 SsrA-binding protein
+* ANKDFBEC_01772      K02906  123.00  240.4     8e-72 large subunit ribosomal protein L3
+* ANKDFBEC_01773      K02926   76.47  187.3   9.7e-56 large subunit ribosomal protein L4
+* ANKDFBEC_01775      K02886  162.97  318.0   2.1e-95 large subunit ribosomal protein L2
+* ANKDFBEC_01783      K02909   22.33   57.8   1.7e-16 large subunit ribosomal protein L31
+* ANKDFBEC_01799      K03763  228.33  696.5  1.4e-209 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* ANKDFBEC_01799      K02342  108.03  140.4   1.3e-41 DNA polymerase III subunit epsilon [EC:2.7.7.7]
+* ANKDFBEC_01799      K09951   23.40   28.2   2.1e-07 CRISPR-associated protein Cas2
+* ANKDFBEC_01801      K02909   22.33   51.5   1.5e-14 large subunit ribosomal protein L31
+* ANKDFBEC_01809      K21498   47.93   75.8   6.7e-22 antitoxin HigA-1
+* ANKDFBEC_01811      K03763  228.33  961.2  1.9e-289 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* ANKDFBEC_01811      K02342  108.03  115.0   6.8e-34 DNA polymerase III subunit epsilon [EC:2.7.7.7]
+* ANKDFBEC_01845      K07056   83.27  218.5   2.1e-65 16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]
+* ANKDFBEC_01850      K07171   19.37   84.6   1.5e-24 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_01864      K07171   19.37   92.5   5.9e-27 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_01871      K01890  121.63  249.4   1.5e-74 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* ANKDFBEC_01873      K01867  137.37  265.3   2.1e-79 tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+* ANKDFBEC_01875      K01885  303.63  500.8  1.4e-150 glutamyl-tRNA synthetase [EC:6.1.1.17]
+* ANKDFBEC_01908      K18626   84.83  100.7   9.5e-30 trichohyalin
+* ANKDFBEC_01916      K07494   74.50   99.6   4.8e-29 putative transposase
+* ANKDFBEC_01919      K00940  131.40  203.1   1.6e-60 nucleoside-diphosphate kinase [EC:2.7.4.6]
+* ANKDFBEC_01923      K03495  121.13  861.0  1.8e-259 tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+* ANKDFBEC_01929      K03046  542.03 1027.3         0 DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+* ANKDFBEC_01930      K03043  365.63  852.4  1.1e-256 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+* ANKDFBEC_01931      K02935   28.83   68.2   1.5e-19 large subunit ribosomal protein L7/L12
+* ANKDFBEC_01932      K02864   56.00   81.3   1.8e-23 large subunit ribosomal protein L10
+* ANKDFBEC_01959      K07171   19.37   99.3   4.7e-29 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_01967      K01873  589.77  790.5  4.5e-238 valyl-tRNA synthetase [EC:6.1.1.9]
+* ANKDFBEC_01972      K02835  355.80  418.8  9.4e-126 peptide chain release factor 1
+* ANKDFBEC_01982      K01866   93.67  242.3     2e-72 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+* ANKDFBEC_01984      K03977  204.07  285.6   1.5e-85 GTPase
+* ANKDFBEC_01996      K01409   84.10  377.1  3.9e-113 N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+* ANKDFBEC_01998      K02520   51.07  128.2   8.2e-38 translation initiation factor IF-3
+* ANKDFBEC_01999      K02916   22.97   37.6     5e-10 large subunit ribosomal protein L35
+* ANKDFBEC_02005      K02931   99.93  170.3   7.4e-51 large subunit ribosomal protein L5
+* ANKDFBEC_02013      K07171   19.37   83.9   2.5e-24 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02023      K18626   84.83   99.2   2.7e-29 trichohyalin
+* ANKDFBEC_02029      K07171   19.37   70.7   2.7e-20 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02033      K21498   47.93   86.5   3.4e-25 antitoxin HigA-1
+* ANKDFBEC_02039      K07171   19.37   96.7   2.9e-28 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02042      K07171   19.37   59.8   5.6e-17 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02044      K10563  195.93  266.2     1e-79 formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+* ANKDFBEC_02049      K07496   31.67  399.4  6.2e-120 putative transposase
+* ANKDFBEC_02050      K07491   17.77  114.6   1.4e-33 putative transposase
+* ANKDFBEC_02063      K07171   19.37   63.8   3.4e-18 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02074      K07316  209.03  298.2   2.5e-89 adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+* ANKDFBEC_02075      K07171   19.37   63.6   3.8e-18 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02081      K07171   19.37   53.0     7e-15 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02085      K07496   31.67  276.8   7.9e-83 putative transposase
+* ANKDFBEC_02104      K18682  118.43  474.1    1e-142 ribonucrease Y [EC:3.1.-.-]
+* ANKDFBEC_02106      K02946   65.63   83.6   2.7e-24 small subunit ribosomal protein S10
+* ANKDFBEC_02133      K03703  248.20  444.8  1.3e-133 excinuclease ABC subunit C
+* ANKDFBEC_02135      K03424   88.03  258.6     2e-77 TatD DNase family protein [EC:3.1.21.-]
+* ANKDFBEC_02159      K00554  127.83  292.0   1.3e-87 tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]
+* ANKDFBEC_02161      K01870  514.83  566.7  2.5e-170 isoleucyl-tRNA synthetase [EC:6.1.1.5]
+* ANKDFBEC_02163      K09769   82.67  325.5   4.3e-98 uncharacterized protein
+* ANKDFBEC_02182      K02950   85.93  140.7   1.6e-41 small subunit ribosomal protein S12
+* ANKDFBEC_02183      K02992  105.13  141.1   6.7e-42 small subunit ribosomal protein S7
+* ANKDFBEC_02184      K02965  108.47  119.2   5.2e-35 small subunit ribosomal protein S19
+* ANKDFBEC_02185      K02890   79.10   92.5   5.6e-27 large subunit ribosomal protein L22
+* ANKDFBEC_02189      K02878   86.63  162.6   2.5e-48 large subunit ribosomal protein L16
+* ANKDFBEC_02191      K02874  102.87  136.1   2.3e-40 large subunit ribosomal protein L14
+* ANKDFBEC_02193      K02931   99.93  181.2   3.4e-54 large subunit ribosomal protein L5
+* ANKDFBEC_02208      K01890  121.63  447.0  2.8e-134 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* ANKDFBEC_02223      K02876   42.03  137.2   1.6e-40 large subunit ribosomal protein L15
+* ANKDFBEC_02225      K02881   60.30   92.8   5.1e-27 large subunit ribosomal protein L18
+* ANKDFBEC_02226      K02933  112.43  151.2   8.4e-45 large subunit ribosomal protein L6
+* ANKDFBEC_02227      K02994   89.83  124.1   1.1e-36 small subunit ribosomal protein S8
+* ANKDFBEC_02233      K07488   43.87   65.3   1.1e-18 transposase
+* ANKDFBEC_02235      K00962  149.47  646.4  1.4e-194 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* ANKDFBEC_02236      K03151  132.87  393.2    4e-118 tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]
+* ANKDFBEC_02262      K01887   47.77  385.4  1.2e-115 arginyl-tRNA synthetase [EC:6.1.1.19]
+* ANKDFBEC_02263      K02919   27.60   68.8   1.3e-19 large subunit ribosomal protein L36
+* ANKDFBEC_02265      K03168  435.60  521.5  1.1e-156 DNA topoisomerase I [EC:5.6.2.1]
+* ANKDFBEC_02275      K01265  125.50  236.3   1.7e-70 methionyl aminopeptidase [EC:3.4.11.18]
+* ANKDFBEC_02276      K02518   47.27   52.3   9.7e-15 translation initiation factor IF-1
+* ANKDFBEC_02281      K00962  149.47  635.4    3e-191 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* ANKDFBEC_02294      K07488   43.87   95.5     7e-28 transposase
+* ANKDFBEC_02303      K07171   19.37   84.6   1.5e-24 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02306      K07171   19.37   87.4   2.1e-25 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02310      K07171   19.37   69.0   8.8e-20 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02312      K07171   19.37   71.8   1.3e-20 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02320      K07334   76.87   95.9   4.6e-28 toxin HigB-1
+* ANKDFBEC_02321      K21498   47.93   81.7     1e-23 antitoxin HigA-1
+* ANKDFBEC_02335      K07171   19.37   53.8   3.9e-15 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02342      K03648   88.37  262.6   2.1e-78 uracil-DNA glycosylase [EC:3.2.2.27]
+* ANKDFBEC_02343      K03218  217.53  242.7     1e-72 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+* ANKDFBEC_02345      K01883  398.70  452.8  6.6e-136 cysteinyl-tRNA synthetase [EC:6.1.1.16]
+* ANKDFBEC_02352      K21498   47.93   50.5   4.3e-14 antitoxin HigA-1
+* ANKDFBEC_02359      K07334   76.87   81.0   1.6e-23 toxin HigB-1
+* ANKDFBEC_02360      K21498   47.93   98.4   7.3e-29 antitoxin HigA-1
+* ANKDFBEC_02361      K07584   35.60   71.6   1.5e-20 uncharacterized protein
+* ANKDFBEC_02364      K03151  132.87  393.7  2.9e-118 tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]
+* ANKDFBEC_02365      K07488   43.87   87.8   1.5e-25 transposase
+* ANKDFBEC_02368      K01426  211.53  215.6   2.9e-64 amidase [EC:3.5.1.4]
+* ANKDFBEC_02369      K07496   31.67  217.2     9e-65 putative transposase
+* ANKDFBEC_02370      K03427   97.00  270.3   7.5e-81 type I restriction enzyme M protein [EC:2.1.1.72]
+* ANKDFBEC_02370      K01154   25.93   59.4   6.4e-17 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* ANKDFBEC_02407      K09952  118.17  196.3   1.9e-58 CRISPR-associated endonuclease Csn1 [EC:3.1.-.-]
+* ANKDFBEC_02408      K09952  118.17  195.3   3.9e-58 CRISPR-associated endonuclease Csn1 [EC:3.1.-.-]
+* ANKDFBEC_02414      K07496   31.67  107.3   1.5e-31 putative transposase
+* ANKDFBEC_02415      K07496   31.67   35.9   6.2e-10 putative transposase
+* ANKDFBEC_02426      K18682  118.43  509.2  2.3e-153 ribonucrease Y [EC:3.1.-.-]
+* ANKDFBEC_02428      K02946   65.63   81.3   1.4e-23 small subunit ribosomal protein S10
+* ANKDFBEC_02431      K01883  398.70  454.5    2e-136 cysteinyl-tRNA synthetase [EC:6.1.1.16]
+* ANKDFBEC_02449      K07171   19.37   73.7   3.2e-21 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02505      K02503   86.80  112.9     3e-33 histidine triad (HIT) family protein
+* ANKDFBEC_02538      K07171   19.37   87.5   1.9e-25 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02543      K07171   19.37   70.7   2.7e-20 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02553      K15342   81.73  135.3   5.2e-40 CRISP-associated protein Cas1
+* ANKDFBEC_02554      K09951   23.40   37.5     3e-10 CRISPR-associated protein Cas2
+* ANKDFBEC_02556      K01893  376.90  604.9  3.9e-182 asparaginyl-tRNA synthetase [EC:6.1.1.22]
+* ANKDFBEC_02580      K01885  303.63  507.5  1.4e-152 glutamyl-tRNA synthetase [EC:6.1.1.17]
+* ANKDFBEC_02582      K07496   31.67  294.5   3.5e-88 putative transposase
+* ANKDFBEC_02585      K07494   74.50  114.3   1.6e-33 putative transposase
+* ANKDFBEC_02600      K07334   76.87   80.9   1.7e-23 toxin HigB-1
+* ANKDFBEC_02601      K21498   47.93   99.0   4.8e-29 antitoxin HigA-1
+* ANKDFBEC_02607      K03427   97.00  148.2   7.4e-44 type I restriction enzyme M protein [EC:2.1.1.72]
+* ANKDFBEC_02613      K01154   25.93   46.6   5.1e-13 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* ANKDFBEC_02614      K03427   97.00  283.4   8.4e-85 type I restriction enzyme M protein [EC:2.1.1.72]
+* ANKDFBEC_02614      K01154   25.93   41.8   1.4e-11 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* ANKDFBEC_02617      K07171   19.37   69.0   8.9e-20 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02627      K07052   25.67   66.4   4.3e-19 uncharacterized protein
+* ANKDFBEC_02639      K07171   19.37   83.8   2.7e-24 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02683      K00571  148.63  186.1   2.5e-55 site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]
+* ANKDFBEC_02694      K09760   96.00  139.4   3.1e-41 DNA recombination protein RmuC
+* ANKDFBEC_02698      K07171   19.37   90.0   3.4e-26 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02705      K07488   43.87   92.6   5.5e-27 transposase
+* ANKDFBEC_02726      K07341   34.03   45.4   1.7e-12 death on curing protein
+* ANKDFBEC_02743      K07317  150.63  195.8   2.9e-58 adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+* ANKDFBEC_02750      K03977  204.07  311.7   1.8e-93 GTPase
+* ANKDFBEC_02800      K03427   97.00  129.2   4.4e-38 type I restriction enzyme M protein [EC:2.1.1.72]
+* ANKDFBEC_02819      K02888   25.87   64.1   2.8e-18 large subunit ribosomal protein L21
+* ANKDFBEC_02824      K07171   19.37   36.7   6.7e-10 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02859      K01868  140.00  177.0   1.1e-52 threonyl-tRNA synthetase [EC:6.1.1.3]
+* ANKDFBEC_02874      K07488   43.87  101.4   1.1e-29 transposase
+* ANKDFBEC_02890      K03427   97.00  183.5   1.6e-54 type I restriction enzyme M protein [EC:2.1.1.72]
+* ANKDFBEC_02920      K07171   19.37   28.7   1.9e-07 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02923      K00558  160.57  283.8   3.1e-85 DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]
+* ANKDFBEC_02929      K01875   76.07  388.1  1.1e-116 seryl-tRNA synthetase [EC:6.1.1.11]
+* ANKDFBEC_02930      K04564   29.40  175.0   4.8e-52 superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+* ANKDFBEC_02934      K03427   97.00  141.4   8.6e-42 type I restriction enzyme M protein [EC:2.1.1.72]
+* ANKDFBEC_02976      K07171   19.37   76.3   5.3e-22 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_02990      K01154   25.93   45.2   1.3e-12 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* ANKDFBEC_02993      K07488   43.87   64.4   2.2e-18 transposase
+* ANKDFBEC_03011      K07171   19.37   76.7   3.9e-22 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_03013      K07494   74.50   80.9   2.3e-23 putative transposase
+* ANKDFBEC_03021      K03218  217.53  220.3   6.3e-66 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+* ANKDFBEC_03022      K03470  129.20  237.4   5.2e-71 ribonuclease HII [EC:3.1.26.4]
+* ANKDFBEC_03027      K07171   19.37   90.9   1.8e-26 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_03053      K07494   74.50   81.6   1.4e-23 putative transposase
+* ANKDFBEC_03088      K07341   34.03   43.9   5.2e-12 death on curing protein
+* ANKDFBEC_03104      K07488   43.87  109.7   3.3e-32 transposase
+* ANKDFBEC_03108      K07171   19.37   83.7   2.8e-24 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_03118      K07171   19.37   84.2     2e-24 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_03193      K07494   74.50   86.5   4.6e-25 putative transposase
+* ANKDFBEC_03201      K00571  148.63  186.4     2e-55 site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]
+* ANKDFBEC_03205      K00558  160.57  167.8   4.6e-50 DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]
+* ANKDFBEC_03207      K02874  102.87  120.0     2e-35 large subunit ribosomal protein L14
+* ANKDFBEC_03211      K07488   43.87  110.0   2.6e-32 transposase
+* ANKDFBEC_03228      K01887   47.77  322.7   1.1e-96 arginyl-tRNA synthetase [EC:6.1.1.19]
+* ANKDFBEC_03237      K07496   31.67  185.7     3e-55 putative transposase
+* ANKDFBEC_03257      K02916   22.97   34.7   3.7e-09 large subunit ribosomal protein L35
+* ANKDFBEC_03265      K18554  117.60  155.2   3.5e-46 chloramphenicol 3-O phosphotransferase [EC:2.7.1.-]
+* ANKDFBEC_03273      K07496   31.67  220.0   1.2e-65 putative transposase
+* ANKDFBEC_03310      K06218   35.80   47.2   7.8e-13 mRNA interferase RelE/StbE
+* ANKDFBEC_03329      K02954   24.90   58.3   1.8e-16 small subunit ribosomal protein S14
+* ANKDFBEC_03387      K02838   26.67   28.8   1.2e-07 ribosome recycling factor
+* ANKDFBEC_03423      K21498   47.93  105.1   6.5e-31 antitoxin HigA-1
+* ANKDFBEC_03437      K07171   19.37   22.2   1.8e-05 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_03440      K01866   93.67  123.9   1.4e-36 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+* ANKDFBEC_03453      K07171   19.37   35.9   1.2e-09 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_03463      K07171   19.37   86.8   3.3e-25 mRNA interferase MazF [EC:3.1.-.-]
+* ANKDFBEC_03465      K07488   43.87   85.5   7.7e-25 transposase
+* ANKDFBEC_03474      K00945   76.83  209.0   2.5e-62 CMP/dCMP kinase [EC:2.7.4.25]

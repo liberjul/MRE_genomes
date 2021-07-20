@@ -1,0 +1,762 @@
+Species,Brite,Br_name,Level,Count
+DhMRE,09180,Brite Hierarchies,1,51
+DhMRE,09120,Genetic Information Processing,1,77
+DhMRE,09100,Metabolism,1,17
+DhMRE,09190,Not Included in Pathway or Brite,1,7
+DhMRE,09150,Organismal Systems,1,1
+DhMRE,09130,Environmental Information Processing,1,1
+DhMRE,09183,Protein families: signaling and cellular processes,2,27
+DhMRE,09124,Replication and repair,2,14
+DhMRE,09104,Nucleotide metabolism,2,7
+DhMRE,09182,Protein families: genetic information processing,2,22
+DhMRE,09122,Translation,2,56
+DhMRE,09123,Folding sorting and degradation,2,5
+DhMRE,09191,Unclassified: metabolism,2,3
+DhMRE,09121,Transcription,2,2
+DhMRE,09181,Protein families: metabolism,2,2
+DhMRE,09192,Unclassified: genetic information processing,2,2
+DhMRE,09159,Environmental adaptation,2,1
+DhMRE,09101,Carbohydrate metabolism,2,1
+DhMRE,09106,Metabolism of other amino acids,2,3
+DhMRE,09108,Metabolism of cofactors and vitamins,2,4
+DhMRE,09132,Signal transduction,2,1
+DhMRE,09102,Energy metabolism,2,1
+DhMRE,09194,Poorly characterized,2,2
+DhMRE,09105,Amino acid metabolism,2,1
+DhMRE,02048,Prokaryotic defense system,3,25
+DhMRE,03420,Nucleotide excision repair,3,3
+DhMRE,00240,Pyrimidine metabolism,3,4
+DhMRE,03400,DNA repair and recombination proteins,3,1
+DhMRE,00970,Aminoacyl-tRNA biosynthesis,3,19
+DhMRE,03018,RNA degradation,3,3
+DhMRE,99980,Enzymes with EC numbers,3,2
+DhMRE,03110,Chaperones and folding catalysts,3,1
+DhMRE,03009,Ribosome biogenesis,3,4
+DhMRE,03010,Ribosome,3,36
+DhMRE,03012,Translation factors,3,6
+DhMRE,03030,DNA replication,3,6
+DhMRE,03020,RNA polymerase,3,2
+DhMRE,03016,Transfer RNA biogenesis,3,8
+DhMRE,01002,Peptidases and inhibitors,3,2
+DhMRE,03410,Base excision repair,3,3
+DhMRE,99999,Others,3,1
+DhMRE,03060,Protein export,3,1
+DhMRE,99975,Protein processing,3,1
+DhMRE,04626,Plant-pathogen interaction,3,1
+DhMRE,00630,Glyoxylate and dicarboxylate metabolism,3,1
+DhMRE,00230,Purine metabolism,3,3
+DhMRE,03440,Homologous recombination,3,1
+DhMRE,00480,Glutathione metabolism,3,1
+DhMRE,03430,Mismatch repair,3,1
+DhMRE,03021,Transcription machinery,3,1
+DhMRE,04147,Exosome,3,1
+DhMRE,00790,Folate biosynthesis,3,1
+DhMRE,04013,MAPK signaling pathway - fly,3,1
+DhMRE,04812,Cytoskeleton proteins,3,1
+DhMRE,99976,Replication and repair,3,1
+DhMRE,00860,Porphyrin and chlorophyll metabolism,3,1
+DhMRE,00190,Oxidative phosphorylation,3,1
+DhMRE,03008,Ribosome biogenesis in eukaryotes,3,1
+DhMRE,00450,Selenocompound metabolism,3,2
+DhMRE,03032,DNA replication proteins,3,1
+DhMRE,04122,Sulfur relay system,3,1
+DhMRE,99997,Function unknown,3,2
+DhMRE,00730,Thiamine metabolism,3,1
+DhMRE,00330,Arginine and proline metabolism,3,1
+DhMRE,00740,Riboflavin metabolism,3,1
+Endogone_FLAS59071,09120,Genetic Information Processing,1,272
+Endogone_FLAS59071,09180,Brite Hierarchies,1,212
+Endogone_FLAS59071,09100,Metabolism,1,46
+Endogone_FLAS59071,09190,Not Included in Pathway or Brite,1,61
+Endogone_FLAS59071,09130,Environmental Information Processing,1,4
+Endogone_FLAS59071,09150,Organismal Systems,1,3
+Endogone_FLAS59071,09160,Human Diseases,1,1
+Endogone_FLAS59071,09124,Replication and repair,2,46
+Endogone_FLAS59071,09182,Protein families: genetic information processing,2,70
+Endogone_FLAS59071,09122,Translation,2,201
+Endogone_FLAS59071,09183,Protein families: signaling and cellular processes,2,134
+Endogone_FLAS59071,09123,Folding sorting and degradation,2,17
+Endogone_FLAS59071,09106,Metabolism of other amino acids,2,9
+Endogone_FLAS59071,09104,Nucleotide metabolism,2,15
+Endogone_FLAS59071,09194,Poorly characterized,2,9
+Endogone_FLAS59071,09191,Unclassified: metabolism,2,6
+Endogone_FLAS59071,09181,Protein families: metabolism,2,8
+Endogone_FLAS59071,09101,Carbohydrate metabolism,2,3
+Endogone_FLAS59071,09108,Metabolism of cofactors and vitamins,2,7
+Endogone_FLAS59071,09192,Unclassified: genetic information processing,2,46
+Endogone_FLAS59071,09121,Transcription,2,8
+Endogone_FLAS59071,09132,Signal transduction,2,4
+Endogone_FLAS59071,09159,Environmental adaptation,2,3
+Endogone_FLAS59071,09102,Energy metabolism,2,4
+Endogone_FLAS59071,09105,Amino acid metabolism,2,8
+Endogone_FLAS59071,09176,Drug resistance: antineoplastic,2,1
+Endogone_FLAS59071,03030,DNA replication,3,19
+Endogone_FLAS59071,03009,Ribosome biogenesis,3,15
+Endogone_FLAS59071,03010,Ribosome,3,138
+Endogone_FLAS59071,03016,Transfer RNA biogenesis,3,20
+Endogone_FLAS59071,03430,Mismatch repair,3,3
+Endogone_FLAS59071,02048,Prokaryotic defense system,3,125
+Endogone_FLAS59071,03018,RNA degradation,3,9
+Endogone_FLAS59071,00450,Selenocompound metabolism,3,6
+Endogone_FLAS59071,03012,Translation factors,3,21
+Endogone_FLAS59071,00240,Pyrimidine metabolism,3,9
+Endogone_FLAS59071,00230,Purine metabolism,3,6
+Endogone_FLAS59071,99996,General function prediction only,3,2
+Endogone_FLAS59071,00970,Aminoacyl-tRNA biosynthesis,3,60
+Endogone_FLAS59071,03410,Base excision repair,3,12
+Endogone_FLAS59071,03032,DNA replication proteins,3,6
+Endogone_FLAS59071,03021,Transcription machinery,3,3
+Endogone_FLAS59071,03110,Chaperones and folding catalysts,3,3
+Endogone_FLAS59071,99980,Enzymes with EC numbers,3,4
+Endogone_FLAS59071,04141,Protein processing in endoplasmic reticulum,3,2
+Endogone_FLAS59071,03400,DNA repair and recombination proteins,3,2
+Endogone_FLAS59071,03420,Nucleotide excision repair,3,9
+Endogone_FLAS59071,03440,Homologous recombination,3,3
+Endogone_FLAS59071,01002,Peptidases and inhibitors,3,8
+Endogone_FLAS59071,00630,Glyoxylate and dicarboxylate metabolism,3,3
+Endogone_FLAS59071,00790,Folate biosynthesis,3,1
+Endogone_FLAS59071,99976,Replication and repair,3,43
+Endogone_FLAS59071,03020,RNA polymerase,3,8
+Endogone_FLAS59071,04147,Exosome,3,3
+Endogone_FLAS59071,00480,Glutathione metabolism,3,3
+Endogone_FLAS59071,03008,Ribosome biogenesis in eukaryotes,3,3
+Endogone_FLAS59071,00860,Porphyrin and chlorophyll metabolism,3,3
+Endogone_FLAS59071,04013,MAPK signaling pathway - fly,3,4
+Endogone_FLAS59071,99997,Function unknown,3,7
+Endogone_FLAS59071,99999,Others,3,2
+Endogone_FLAS59071,04122,Sulfur relay system,3,3
+Endogone_FLAS59071,04626,Plant-pathogen interaction,3,3
+Endogone_FLAS59071,00190,Oxidative phosphorylation,3,3
+Endogone_FLAS59071,00270,Cysteine and methionine metabolism,3,5
+Endogone_FLAS59071,00330,Arginine and proline metabolism,3,3
+Endogone_FLAS59071,01524,Platinum drug resistance,3,1
+Endogone_FLAS59071,03060,Protein export,3,3
+Endogone_FLAS59071,99975,Protein processing,3,3
+Endogone_FLAS59071,00920,Sulfur metabolism,3,1
+Endogone_FLAS59071,01504,Antimicrobial resistance genes,3,3
+Endogone_FLAS59071,00740,Riboflavin metabolism,3,1
+Endogone_FLAS59071,04812,Cytoskeleton proteins,3,3
+Endogone_FLAS59071,00730,Thiamine metabolism,3,2
+GBAus27b-MRE,09100,Metabolism,1,16
+GBAus27b-MRE,09180,Brite Hierarchies,1,58
+GBAus27b-MRE,09120,Genetic Information Processing,1,103
+GBAus27b-MRE,09190,Not Included in Pathway or Brite,1,13
+GBAus27b-MRE,09130,Environmental Information Processing,1,1
+GBAus27b-MRE,09150,Organismal Systems,1,1
+GBAus27b-MRE,09106,Metabolism of other amino acids,2,5
+GBAus27b-MRE,09182,Protein families: genetic information processing,2,26
+GBAus27b-MRE,09124,Replication and repair,2,17
+GBAus27b-MRE,09122,Translation,2,70
+GBAus27b-MRE,09181,Protein families: metabolism,2,2
+GBAus27b-MRE,09101,Carbohydrate metabolism,2,1
+GBAus27b-MRE,09121,Transcription,2,4
+GBAus27b-MRE,09192,Unclassified: genetic information processing,2,11
+GBAus27b-MRE,09108,Metabolism of cofactors and vitamins,2,4
+GBAus27b-MRE,09123,Folding sorting and degradation,2,12
+GBAus27b-MRE,09102,Energy metabolism,2,2
+GBAus27b-MRE,09183,Protein families: signaling and cellular processes,2,30
+GBAus27b-MRE,09132,Signal transduction,2,1
+GBAus27b-MRE,09159,Environmental adaptation,2,1
+GBAus27b-MRE,09103,Lipid metabolism,2,1
+GBAus27b-MRE,09104,Nucleotide metabolism,2,2
+GBAus27b-MRE,09191,Unclassified: metabolism,2,1
+GBAus27b-MRE,09194,Poorly characterized,2,1
+GBAus27b-MRE,09105,Amino acid metabolism,2,1
+GBAus27b-MRE,00450,Selenocompound metabolism,3,4
+GBAus27b-MRE,03016,Transfer RNA biogenesis,3,9
+GBAus27b-MRE,03410,Base excision repair,3,6
+GBAus27b-MRE,00970,Aminoacyl-tRNA biosynthesis,3,21
+GBAus27b-MRE,03010,Ribosome,3,48
+GBAus27b-MRE,01002,Peptidases and inhibitors,3,2
+GBAus27b-MRE,03012,Translation factors,3,6
+GBAus27b-MRE,03030,DNA replication,3,6
+GBAus27b-MRE,00562,Inositol phosphate metabolism,3,1
+GBAus27b-MRE,03020,RNA polymerase,3,4
+GBAus27b-MRE,99976,Replication and repair,3,10
+GBAus27b-MRE,00730,Thiamine metabolism,3,3
+GBAus27b-MRE,03018,RNA degradation,3,8
+GBAus27b-MRE,00190,Oxidative phosphorylation,3,2
+GBAus27b-MRE,02048,Prokaryotic defense system,3,27
+GBAus27b-MRE,03021,Transcription machinery,3,1
+GBAus27b-MRE,03009,Ribosome biogenesis,3,4
+GBAus27b-MRE,04013,MAPK signaling pathway - fly,3,1
+GBAus27b-MRE,00860,Porphyrin and chlorophyll metabolism,3,1
+GBAus27b-MRE,04812,Cytoskeleton proteins,3,1
+GBAus27b-MRE,99975,Protein processing,3,1
+GBAus27b-MRE,04626,Plant-pathogen interaction,3,1
+GBAus27b-MRE,03400,DNA repair and recombination proteins,3,1
+GBAus27b-MRE,00564,Glycerophospholipid metabolism,3,1
+GBAus27b-MRE,00230,Purine metabolism,3,2
+GBAus27b-MRE,03440,Homologous recombination,3,1
+GBAus27b-MRE,03008,Ribosome biogenesis in eukaryotes,3,1
+GBAus27b-MRE,99980,Enzymes with EC numbers,3,1
+GBAus27b-MRE,03420,Nucleotide excision repair,3,4
+GBAus27b-MRE,03110,Chaperones and folding catalysts,3,1
+GBAus27b-MRE,99997,Function unknown,3,1
+GBAus27b-MRE,03060,Protein export,3,2
+GBAus27b-MRE,03032,DNA replication proteins,3,3
+GBAus27b-MRE,04147,Exosome,3,2
+GBAus27b-MRE,04141,Protein processing in endoplasmic reticulum,3,1
+GBAus27b-MRE,00480,Glutathione metabolism,3,1
+GBAus27b-MRE,04122,Sulfur relay system,3,1
+GBAus27b-MRE,00330,Arginine and proline metabolism,3,1
+GBAus27b-MRE,03036,Chromosome and associated proteins,3,1
+GvMRE,09120,Genetic Information Processing,1,235
+GvMRE,09100,Metabolism,1,54
+GvMRE,09180,Brite Hierarchies,1,162
+GvMRE,09190,Not Included in Pathway or Brite,1,42
+GvMRE,09130,Environmental Information Processing,1,3
+GvMRE,09150,Organismal Systems,1,3
+GvMRE,09124,Replication and repair,2,40
+GvMRE,09122,Translation,2,172
+GvMRE,09108,Metabolism of cofactors and vitamins,2,11
+GvMRE,09123,Folding sorting and degradation,2,17
+GvMRE,09106,Metabolism of other amino acids,2,9
+GvMRE,09182,Protein families: genetic information processing,2,63
+GvMRE,09183,Protein families: signaling and cellular processes,2,89
+GvMRE,09105,Amino acid metabolism,2,3
+GvMRE,09191,Unclassified: metabolism,2,9
+GvMRE,09102,Energy metabolism,2,3
+GvMRE,09104,Nucleotide metabolism,2,23
+GvMRE,09121,Transcription,2,6
+GvMRE,09101,Carbohydrate metabolism,2,5
+GvMRE,09132,Signal transduction,2,3
+GvMRE,09181,Protein families: metabolism,2,10
+GvMRE,09194,Poorly characterized,2,10
+GvMRE,09192,Unclassified: genetic information processing,2,23
+GvMRE,09159,Environmental adaptation,2,3
+GvMRE,03030,DNA replication,3,16
+GvMRE,03010,Ribosome,3,113
+GvMRE,00860,Porphyrin and chlorophyll metabolism,3,6
+GvMRE,03018,RNA degradation,3,9
+GvMRE,00970,Aminoacyl-tRNA biosynthesis,3,56
+GvMRE,00450,Selenocompound metabolism,3,6
+GvMRE,03016,Transfer RNA biogenesis,3,22
+GvMRE,03032,DNA replication proteins,3,4
+GvMRE,02048,Prokaryotic defense system,3,80
+GvMRE,03400,DNA repair and recombination proteins,3,1
+GvMRE,00330,Arginine and proline metabolism,3,3
+GvMRE,04141,Protein processing in endoplasmic reticulum,3,2
+GvMRE,03410,Base excision repair,3,11
+GvMRE,03110,Chaperones and folding catalysts,3,3
+GvMRE,02000,Transporters,3,1
+GvMRE,99980,Enzymes with EC numbers,3,7
+GvMRE,00480,Glutathione metabolism,3,3
+GvMRE,00190,Oxidative phosphorylation,3,3
+GvMRE,00230,Purine metabolism,3,10
+GvMRE,03420,Nucleotide excision repair,3,9
+GvMRE,00240,Pyrimidine metabolism,3,13
+GvMRE,03060,Protein export,3,3
+GvMRE,03012,Translation factors,3,17
+GvMRE,00730,Thiamine metabolism,3,1
+GvMRE,03020,RNA polymerase,3,6
+GvMRE,00630,Glyoxylate and dicarboxylate metabolism,3,3
+GvMRE,03009,Ribosome biogenesis,3,12
+GvMRE,04013,MAPK signaling pathway - fly,3,3
+GvMRE,01002,Peptidases and inhibitors,3,10
+GvMRE,03008,Ribosome biogenesis in eukaryotes,3,3
+GvMRE,99997,Function unknown,3,10
+GvMRE,03440,Homologous recombination,3,3
+GvMRE,99975,Protein processing,3,3
+GvMRE,99976,Replication and repair,3,20
+GvMRE,04626,Plant-pathogen interaction,3,3
+GvMRE,04147,Exosome,3,3
+GvMRE,04122,Sulfur relay system,3,3
+GvMRE,03029,Mitochondrial biogenesis,3,1
+GvMRE,03430,Mismatch repair,3,1
+GvMRE,01504,Antimicrobial resistance genes,3,4
+GvMRE,04812,Cytoskeleton proteins,3,1
+GvMRE,00790,Folate biosynthesis,3,3
+GvMRE,99999,Others,3,2
+GvMRE,03021,Transcription machinery,3,2
+GvMRE,00620,Pyruvate metabolism,3,2
+GvMRE,03000,Transcription factors,3,1
+GvMRE,00740,Riboflavin metabolism,3,1
+Jflam_AD002,09120,Genetic Information Processing,1,85
+Jflam_AD002,09180,Brite Hierarchies,1,83
+Jflam_AD002,09190,Not Included in Pathway or Brite,1,12
+Jflam_AD002,09100,Metabolism,1,15
+Jflam_AD002,09130,Environmental Information Processing,1,1
+Jflam_AD002,09150,Organismal Systems,1,1
+Jflam_AD002,09122,Translation,2,63
+Jflam_AD002,09123,Folding sorting and degradation,2,5
+Jflam_AD002,09181,Protein families: metabolism,2,3
+Jflam_AD002,09182,Protein families: genetic information processing,2,27
+Jflam_AD002,09194,Poorly characterized,2,5
+Jflam_AD002,09191,Unclassified: metabolism,2,3
+Jflam_AD002,09124,Replication and repair,2,15
+Jflam_AD002,09105,Amino acid metabolism,2,3
+Jflam_AD002,09104,Nucleotide metabolism,2,6
+Jflam_AD002,09183,Protein families: signaling and cellular processes,2,53
+Jflam_AD002,09132,Signal transduction,2,1
+Jflam_AD002,09192,Unclassified: genetic information processing,2,4
+Jflam_AD002,09106,Metabolism of other amino acids,2,3
+Jflam_AD002,09101,Carbohydrate metabolism,2,1
+Jflam_AD002,09159,Environmental adaptation,2,1
+Jflam_AD002,09108,Metabolism of cofactors and vitamins,2,1
+Jflam_AD002,09121,Transcription,2,2
+Jflam_AD002,09102,Energy metabolism,2,1
+Jflam_AD002,03010,Ribosome,3,44
+Jflam_AD002,03018,RNA degradation,3,3
+Jflam_AD002,01002,Peptidases and inhibitors,3,3
+Jflam_AD002,03009,Ribosome biogenesis,3,6
+Jflam_AD002,03012,Translation factors,3,8
+Jflam_AD002,03021,Transcription machinery,3,1
+Jflam_AD002,99996,General function prediction only,3,1
+Jflam_AD002,03008,Ribosome biogenesis in eukaryotes,3,1
+Jflam_AD002,99999,Others,3,1
+Jflam_AD002,03060,Protein export,3,1
+Jflam_AD002,00970,Aminoacyl-tRNA biosynthesis,3,18
+Jflam_AD002,03410,Base excision repair,3,4
+Jflam_AD002,00270,Cysteine and methionine metabolism,3,2
+Jflam_AD002,00240,Pyrimidine metabolism,3,3
+Jflam_AD002,99980,Enzymes with EC numbers,3,2
+Jflam_AD002,03430,Mismatch repair,3,2
+Jflam_AD002,02048,Prokaryotic defense system,3,50
+Jflam_AD002,04013,MAPK signaling pathway - fly,3,1
+Jflam_AD002,00230,Purine metabolism,3,3
+Jflam_AD002,03016,Transfer RNA biogenesis,3,7
+Jflam_AD002,99976,Replication and repair,3,3
+Jflam_AD002,03030,DNA replication,3,5
+Jflam_AD002,00450,Selenocompound metabolism,3,2
+Jflam_AD002,00630,Glyoxylate and dicarboxylate metabolism,3,1
+Jflam_AD002,04626,Plant-pathogen interaction,3,1
+Jflam_AD002,04122,Sulfur relay system,3,1
+Jflam_AD002,03420,Nucleotide excision repair,3,3
+Jflam_AD002,99975,Protein processing,3,1
+Jflam_AD002,04147,Exosome,3,1
+Jflam_AD002,03440,Homologous recombination,3,1
+Jflam_AD002,00860,Porphyrin and chlorophyll metabolism,3,1
+Jflam_AD002,03020,RNA polymerase,3,2
+Jflam_AD002,99997,Function unknown,3,4
+Jflam_AD002,00190,Oxidative phosphorylation,3,1
+Jflam_AD002,01504,Antimicrobial resistance genes,3,1
+Jflam_AD002,00480,Glutathione metabolism,3,1
+Jflam_AD002,03032,DNA replication proteins,3,3
+Jflam_AD002,04812,Cytoskeleton proteins,3,1
+Jflam_AD002,03110,Chaperones and folding catalysts,3,1
+Jflam_AD002,00330,Arginine and proline metabolism,3,1
+Jflam_AD002,03036,Chromosome and associated proteins,3,1
+Jlac_OSC162217,09120,Genetic Information Processing,1,161
+Jlac_OSC162217,09180,Brite Hierarchies,1,157
+Jlac_OSC162217,09190,Not Included in Pathway or Brite,1,33
+Jlac_OSC162217,09100,Metabolism,1,31
+Jlac_OSC162217,09130,Environmental Information Processing,1,2
+Jlac_OSC162217,09150,Organismal Systems,1,2
+Jlac_OSC162217,09160,Human Diseases,1,1
+Jlac_OSC162217,09122,Translation,2,118
+Jlac_OSC162217,09121,Transcription,2,5
+Jlac_OSC162217,09183,Protein families: signaling and cellular processes,2,97
+Jlac_OSC162217,09181,Protein families: metabolism,2,9
+Jlac_OSC162217,09182,Protein families: genetic information processing,2,51
+Jlac_OSC162217,09192,Unclassified: genetic information processing,2,23
+Jlac_OSC162217,09102,Energy metabolism,2,2
+Jlac_OSC162217,09124,Replication and repair,2,28
+Jlac_OSC162217,09105,Amino acid metabolism,2,4
+Jlac_OSC162217,09106,Metabolism of other amino acids,2,6
+Jlac_OSC162217,09104,Nucleotide metabolism,2,11
+Jlac_OSC162217,09132,Signal transduction,2,2
+Jlac_OSC162217,09191,Unclassified: metabolism,2,5
+Jlac_OSC162217,09123,Folding sorting and degradation,2,10
+Jlac_OSC162217,09101,Carbohydrate metabolism,2,2
+Jlac_OSC162217,09108,Metabolism of cofactors and vitamins,2,6
+Jlac_OSC162217,09159,Environmental adaptation,2,2
+Jlac_OSC162217,09194,Poorly characterized,2,5
+Jlac_OSC162217,09176,Drug resistance: antineoplastic,2,1
+Jlac_OSC162217,03010,Ribosome,3,81
+Jlac_OSC162217,03020,RNA polymerase,3,5
+Jlac_OSC162217,02048,Prokaryotic defense system,3,93
+Jlac_OSC162217,01002,Peptidases and inhibitors,3,9
+Jlac_OSC162217,03016,Transfer RNA biogenesis,3,13
+Jlac_OSC162217,00970,Aminoacyl-tRNA biosynthesis,3,35
+Jlac_OSC162217,99976,Replication and repair,3,21
+Jlac_OSC162217,03012,Translation factors,3,14
+Jlac_OSC162217,00190,Oxidative phosphorylation,3,2
+Jlac_OSC162217,04147,Exosome,3,2
+Jlac_OSC162217,03440,Homologous recombination,3,2
+Jlac_OSC162217,03030,DNA replication,3,10
+Jlac_OSC162217,03420,Nucleotide excision repair,3,6
+Jlac_OSC162217,00330,Arginine and proline metabolism,3,1
+Jlac_OSC162217,00450,Selenocompound metabolism,3,4
+Jlac_OSC162217,00240,Pyrimidine metabolism,3,7
+Jlac_OSC162217,03410,Base excision repair,3,8
+Jlac_OSC162217,03009,Ribosome biogenesis,3,12
+Jlac_OSC162217,04013,MAPK signaling pathway - fly,3,2
+Jlac_OSC162217,99980,Enzymes with EC numbers,3,3
+Jlac_OSC162217,00480,Glutathione metabolism,3,2
+Jlac_OSC162217,00230,Purine metabolism,3,4
+Jlac_OSC162217,03021,Transcription machinery,3,2
+Jlac_OSC162217,03018,RNA degradation,3,6
+Jlac_OSC162217,00630,Glyoxylate and dicarboxylate metabolism,3,2
+Jlac_OSC162217,03110,Chaperones and folding catalysts,3,2
+Jlac_OSC162217,00740,Riboflavin metabolism,3,1
+Jlac_OSC162217,03036,Chromosome and associated proteins,3,2
+Jlac_OSC162217,03060,Protein export,3,2
+Jlac_OSC162217,03430,Mismatch repair,3,2
+Jlac_OSC162217,04626,Plant-pathogen interaction,3,2
+Jlac_OSC162217,03032,DNA replication proteins,3,5
+Jlac_OSC162217,99997,Function unknown,3,4
+Jlac_OSC162217,00860,Porphyrin and chlorophyll metabolism,3,3
+Jlac_OSC162217,99975,Protein processing,3,2
+Jlac_OSC162217,04122,Sulfur relay system,3,2
+Jlac_OSC162217,04812,Cytoskeleton proteins,3,1
+Jlac_OSC162217,03400,DNA repair and recombination proteins,3,1
+Jlac_OSC162217,01524,Platinum drug resistance,3,1
+Jlac_OSC162217,00270,Cysteine and methionine metabolism,3,3
+Jlac_OSC162217,99999,Others,3,2
+Jlac_OSC162217,00790,Folate biosynthesis,3,1
+Jlac_OSC162217,99996,General function prediction only,3,1
+Jlac_OSC162217,00730,Thiamine metabolism,3,1
+Jlac_OSC162217,02000,Transporters,3,1
+Jlac_OSC162217,03008,Ribosome biogenesis in eukaryotes,3,2
+MorAlp_AD073_MRE,09180,Brite Hierarchies,1,41
+MorAlp_AD073_MRE,09190,Not Included in Pathway or Brite,1,8
+MorAlp_AD073_MRE,09120,Genetic Information Processing,1,90
+MorAlp_AD073_MRE,09100,Metabolism,1,8
+MorAlp_AD073_MRE,09150,Organismal Systems,1,2
+MorAlp_AD073_MRE,09182,Protein families: genetic information processing,2,28
+MorAlp_AD073_MRE,09183,Protein families: signaling and cellular processes,2,12
+MorAlp_AD073_MRE,09194,Poorly characterized,2,2
+MorAlp_AD073_MRE,09124,Replication and repair,2,12
+MorAlp_AD073_MRE,09122,Translation,2,66
+MorAlp_AD073_MRE,09108,Metabolism of cofactors and vitamins,2,3
+MorAlp_AD073_MRE,09121,Transcription,2,3
+MorAlp_AD073_MRE,09181,Protein families: metabolism,2,1
+MorAlp_AD073_MRE,09159,Environmental adaptation,2,1
+MorAlp_AD073_MRE,09123,Folding sorting and degradation,2,9
+MorAlp_AD073_MRE,09106,Metabolism of other amino acids,2,1
+MorAlp_AD073_MRE,09102,Energy metabolism,2,1
+MorAlp_AD073_MRE,09151,Immune system,2,1
+MorAlp_AD073_MRE,09192,Unclassified: genetic information processing,2,3
+MorAlp_AD073_MRE,09191,Unclassified: metabolism,2,3
+MorAlp_AD073_MRE,09104,Nucleotide metabolism,2,3
+MorAlp_AD073_MRE,03032,DNA replication proteins,3,4
+MorAlp_AD073_MRE,02048,Prokaryotic defense system,3,11
+MorAlp_AD073_MRE,99997,Function unknown,3,2
+MorAlp_AD073_MRE,03420,Nucleotide excision repair,3,3
+MorAlp_AD073_MRE,03410,Base excision repair,3,4
+MorAlp_AD073_MRE,00970,Aminoacyl-tRNA biosynthesis,3,19
+MorAlp_AD073_MRE,00740,Riboflavin metabolism,3,1
+MorAlp_AD073_MRE,03010,Ribosome,3,46
+MorAlp_AD073_MRE,03012,Translation factors,3,8
+MorAlp_AD073_MRE,03009,Ribosome biogenesis,3,6
+MorAlp_AD073_MRE,03020,RNA polymerase,3,3
+MorAlp_AD073_MRE,01002,Peptidases and inhibitors,3,1
+MorAlp_AD073_MRE,04626,Plant-pathogen interaction,3,1
+MorAlp_AD073_MRE,04141,Protein processing in endoplasmic reticulum,3,3
+MorAlp_AD073_MRE,03016,Transfer RNA biogenesis,3,7
+MorAlp_AD073_MRE,00450,Selenocompound metabolism,3,1
+MorAlp_AD073_MRE,03400,DNA repair and recombination proteins,3,1
+MorAlp_AD073_MRE,00190,Oxidative phosphorylation,3,1
+MorAlp_AD073_MRE,04621,NOD-like receptor signaling pathway,3,1
+MorAlp_AD073_MRE,03018,RNA degradation,3,4
+MorAlp_AD073_MRE,04147,Exosome,3,1
+MorAlp_AD073_MRE,99975,Protein processing,3,1
+MorAlp_AD073_MRE,99980,Enzymes with EC numbers,3,3
+MorAlp_AD073_MRE,03110,Chaperones and folding catalysts,3,1
+MorAlp_AD073_MRE,00860,Porphyrin and chlorophyll metabolism,3,1
+MorAlp_AD073_MRE,03008,Ribosome biogenesis in eukaryotes,3,1
+MorAlp_AD073_MRE,00230,Purine metabolism,3,3
+MorAlp_AD073_MRE,03030,DNA replication,3,5
+MorAlp_AD073_MRE,04122,Sulfur relay system,3,1
+MorAlp_AD073_MRE,99976,Replication and repair,3,2
+MorAlp_AD073_MRE,03021,Transcription machinery,3,1
+MorAlp_AD073_MRE,00730,Thiamine metabolism,3,1
+MorAlp_AD073_MRE,03060,Protein export,3,1
+MorGam_AM1032_MRE,09180,Brite Hierarchies,1,39
+MorGam_AM1032_MRE,09120,Genetic Information Processing,1,85
+MorGam_AM1032_MRE,09100,Metabolism,1,6
+MorGam_AM1032_MRE,09190,Not Included in Pathway or Brite,1,4
+MorGam_AM1032_MRE,09150,Organismal Systems,1,1
+MorGam_AM1032_MRE,09160,Human Diseases,1,1
+MorGam_AM1032_MRE,09183,Protein families: signaling and cellular processes,2,12
+MorGam_AM1032_MRE,09124,Replication and repair,2,12
+MorGam_AM1032_MRE,09122,Translation,2,63
+MorGam_AM1032_MRE,09104,Nucleotide metabolism,2,2
+MorGam_AM1032_MRE,09182,Protein families: genetic information processing,2,26
+MorGam_AM1032_MRE,09123,Folding sorting and degradation,2,7
+MorGam_AM1032_MRE,09108,Metabolism of cofactors and vitamins,2,2
+MorGam_AM1032_MRE,09191,Unclassified: metabolism,2,2
+MorGam_AM1032_MRE,09194,Poorly characterized,2,1
+MorGam_AM1032_MRE,09106,Metabolism of other amino acids,2,1
+MorGam_AM1032_MRE,09102,Energy metabolism,2,1
+MorGam_AM1032_MRE,09192,Unclassified: genetic information processing,2,1
+MorGam_AM1032_MRE,09159,Environmental adaptation,2,1
+MorGam_AM1032_MRE,09181,Protein families: metabolism,2,1
+MorGam_AM1032_MRE,09121,Transcription,2,3
+MorGam_AM1032_MRE,09176,Drug resistance: antineoplastic,2,1
+MorGam_AM1032_MRE,02048,Prokaryotic defense system,3,11
+MorGam_AM1032_MRE,03030,DNA replication,3,4
+MorGam_AM1032_MRE,00970,Aminoacyl-tRNA biosynthesis,3,18
+MorGam_AM1032_MRE,00230,Purine metabolism,3,2
+MorGam_AM1032_MRE,03410,Base excision repair,3,4
+MorGam_AM1032_MRE,03012,Translation factors,3,8
+MorGam_AM1032_MRE,03060,Protein export,3,1
+MorGam_AM1032_MRE,03009,Ribosome biogenesis,3,5
+MorGam_AM1032_MRE,03008,Ribosome biogenesis in eukaryotes,3,1
+MorGam_AM1032_MRE,03016,Transfer RNA biogenesis,3,7
+MorGam_AM1032_MRE,00860,Porphyrin and chlorophyll metabolism,3,1
+MorGam_AM1032_MRE,03010,Ribosome,3,44
+MorGam_AM1032_MRE,03420,Nucleotide excision repair,3,3
+MorGam_AM1032_MRE,03110,Chaperones and folding catalysts,3,1
+MorGam_AM1032_MRE,99980,Enzymes with EC numbers,3,2
+MorGam_AM1032_MRE,99997,Function unknown,3,1
+MorGam_AM1032_MRE,03018,RNA degradation,3,4
+MorGam_AM1032_MRE,00450,Selenocompound metabolism,3,1
+MorGam_AM1032_MRE,03400,DNA repair and recombination proteins,3,1
+MorGam_AM1032_MRE,00190,Oxidative phosphorylation,3,1
+MorGam_AM1032_MRE,03032,DNA replication proteins,3,2
+MorGam_AM1032_MRE,99975,Protein processing,3,1
+MorGam_AM1032_MRE,04147,Exosome,3,1
+MorGam_AM1032_MRE,04141,Protein processing in endoplasmic reticulum,3,1
+MorGam_AM1032_MRE,04626,Plant-pathogen interaction,3,1
+MorGam_AM1032_MRE,01002,Peptidases and inhibitors,3,1
+MorGam_AM1032_MRE,03020,RNA polymerase,3,3
+MorGam_AM1032_MRE,04122,Sulfur relay system,3,1
+MorGam_AM1032_MRE,01524,Platinum drug resistance,3,1
+MorGam_AM1032_MRE,03021,Transcription machinery,3,2
+MorGam_AM1032_MRE,03440,Homologous recombination,3,1
+MorGam_AM1032_MRE,00730,Thiamine metabolism,3,1
+MortAD185_MRE,09120,Genetic Information Processing,1,85
+MortAD185_MRE,09180,Brite Hierarchies,1,42
+MortAD185_MRE,09100,Metabolism,1,11
+MortAD185_MRE,09190,Not Included in Pathway or Brite,1,8
+MortAD185_MRE,09130,Environmental Information Processing,1,1
+MortAD185_MRE,09150,Organismal Systems,1,1
+MortAD185_MRE,09122,Translation,2,61
+MortAD185_MRE,09182,Protein families: genetic information processing,2,22
+MortAD185_MRE,09104,Nucleotide metabolism,2,3
+MortAD185_MRE,09183,Protein families: signaling and cellular processes,2,18
+MortAD185_MRE,09123,Folding sorting and degradation,2,7
+MortAD185_MRE,09124,Replication and repair,2,15
+MortAD185_MRE,09192,Unclassified: genetic information processing,2,5
+MortAD185_MRE,09108,Metabolism of cofactors and vitamins,2,2
+MortAD185_MRE,09105,Amino acid metabolism,2,2
+MortAD185_MRE,09194,Poorly characterized,2,2
+MortAD185_MRE,09181,Protein families: metabolism,2,2
+MortAD185_MRE,09191,Unclassified: metabolism,2,1
+MortAD185_MRE,09121,Transcription,2,2
+MortAD185_MRE,09106,Metabolism of other amino acids,2,3
+MortAD185_MRE,09132,Signal transduction,2,1
+MortAD185_MRE,09159,Environmental adaptation,2,1
+MortAD185_MRE,09102,Energy metabolism,2,1
+MortAD185_MRE,03010,Ribosome,3,42
+MortAD185_MRE,03110,Chaperones and folding catalysts,3,1
+MortAD185_MRE,00230,Purine metabolism,3,2
+MortAD185_MRE,00970,Aminoacyl-tRNA biosynthesis,3,18
+MortAD185_MRE,03032,DNA replication proteins,3,1
+MortAD185_MRE,02048,Prokaryotic defense system,3,16
+MortAD185_MRE,03060,Protein export,3,1
+MortAD185_MRE,03016,Transfer RNA biogenesis,3,8
+MortAD185_MRE,03018,RNA degradation,3,3
+MortAD185_MRE,04812,Cytoskeleton proteins,3,1
+MortAD185_MRE,03430,Mismatch repair,3,1
+MortAD185_MRE,03410,Base excision repair,3,4
+MortAD185_MRE,03009,Ribosome biogenesis,3,3
+MortAD185_MRE,03036,Chromosome and associated proteins,3,1
+MortAD185_MRE,03420,Nucleotide excision repair,3,3
+MortAD185_MRE,99976,Replication and repair,3,3
+MortAD185_MRE,00240,Pyrimidine metabolism,3,1
+MortAD185_MRE,03440,Homologous recombination,3,1
+MortAD185_MRE,03008,Ribosome biogenesis in eukaryotes,3,1
+MortAD185_MRE,00730,Thiamine metabolism,3,1
+MortAD185_MRE,00270,Cysteine and methionine metabolism,3,1
+MortAD185_MRE,99997,Function unknown,3,2
+MortAD185_MRE,03012,Translation factors,3,7
+MortAD185_MRE,01002,Peptidases and inhibitors,3,2
+MortAD185_MRE,03030,DNA replication,3,6
+MortAD185_MRE,04141,Protein processing in endoplasmic reticulum,3,2
+MortAD185_MRE,00330,Arginine and proline metabolism,3,1
+MortAD185_MRE,99980,Enzymes with EC numbers,3,1
+MortAD185_MRE,04122,Sulfur relay system,3,1
+MortAD185_MRE,03020,RNA polymerase,3,2
+MortAD185_MRE,00450,Selenocompound metabolism,3,2
+MortAD185_MRE,04147,Exosome,3,1
+MortAD185_MRE,03021,Transcription machinery,3,1
+MortAD185_MRE,00860,Porphyrin and chlorophyll metabolism,3,1
+MortAD185_MRE,04013,MAPK signaling pathway - fly,3,1
+MortAD185_MRE,00480,Glutathione metabolism,3,1
+MortAD185_MRE,04626,Plant-pathogen interaction,3,1
+MortAD185_MRE,99975,Protein processing,3,2
+MortAD185_MRE,00190,Oxidative phosphorylation,3,1
+Mycoplasmataceae_CE_OT135,09180,Brite Hierarchies,1,60
+Mycoplasmataceae_CE_OT135,09120,Genetic Information Processing,1,71
+Mycoplasmataceae_CE_OT135,09190,Not Included in Pathway or Brite,1,11
+Mycoplasmataceae_CE_OT135,09130,Environmental Information Processing,1,2
+Mycoplasmataceae_CE_OT135,09100,Metabolism,1,23
+Mycoplasmataceae_CE_OT135,09183,Protein families: signaling and cellular processes,2,35
+Mycoplasmataceae_CE_OT135,09124,Replication and repair,2,12
+Mycoplasmataceae_CE_OT135,09122,Translation,2,53
+Mycoplasmataceae_CE_OT135,09192,Unclassified: genetic information processing,2,4
+Mycoplasmataceae_CE_OT135,09182,Protein families: genetic information processing,2,24
+Mycoplasmataceae_CE_OT135,09132,Signal transduction,2,2
+Mycoplasmataceae_CE_OT135,09123,Folding sorting and degradation,2,6
+Mycoplasmataceae_CE_OT135,09102,Energy metabolism,2,2
+Mycoplasmataceae_CE_OT135,09194,Poorly characterized,2,6
+Mycoplasmataceae_CE_OT135,09104,Nucleotide metabolism,2,9
+Mycoplasmataceae_CE_OT135,09191,Unclassified: metabolism,2,1
+Mycoplasmataceae_CE_OT135,09101,Carbohydrate metabolism,2,5
+Mycoplasmataceae_CE_OT135,09108,Metabolism of cofactors and vitamins,2,5
+Mycoplasmataceae_CE_OT135,09105,Amino acid metabolism,2,1
+Mycoplasmataceae_CE_OT135,09106,Metabolism of other amino acids,2,1
+Mycoplasmataceae_CE_OT135,09181,Protein families: metabolism,2,1
+Mycoplasmataceae_CE_OT135,02048,Prokaryotic defense system,3,31
+Mycoplasmataceae_CE_OT135,03410,Base excision repair,3,4
+Mycoplasmataceae_CE_OT135,00970,Aminoacyl-tRNA biosynthesis,3,18
+Mycoplasmataceae_CE_OT135,03010,Ribosome,3,35
+Mycoplasmataceae_CE_OT135,99976,Replication and repair,3,4
+Mycoplasmataceae_CE_OT135,03420,Nucleotide excision repair,3,4
+Mycoplasmataceae_CE_OT135,03012,Translation factors,3,7
+Mycoplasmataceae_CE_OT135,01504,Antimicrobial resistance genes,3,1
+Mycoplasmataceae_CE_OT135,03016,Transfer RNA biogenesis,3,6
+Mycoplasmataceae_CE_OT135,03030,DNA replication,3,4
+Mycoplasmataceae_CE_OT135,04013,MAPK signaling pathway - fly,3,2
+Mycoplasmataceae_CE_OT135,04122,Sulfur relay system,3,1
+Mycoplasmataceae_CE_OT135,00920,Sulfur metabolism,3,1
+Mycoplasmataceae_CE_OT135,99997,Function unknown,3,6
+Mycoplasmataceae_CE_OT135,03060,Protein export,3,1
+Mycoplasmataceae_CE_OT135,03009,Ribosome biogenesis,3,7
+Mycoplasmataceae_CE_OT135,00240,Pyrimidine metabolism,3,6
+Mycoplasmataceae_CE_OT135,99980,Enzymes with EC numbers,3,1
+Mycoplasmataceae_CE_OT135,04812,Cytoskeleton proteins,3,1
+Mycoplasmataceae_CE_OT135,00630,Glyoxylate and dicarboxylate metabolism,3,3
+Mycoplasmataceae_CE_OT135,03018,RNA degradation,3,3
+Mycoplasmataceae_CE_OT135,00790,Folate biosynthesis,3,3
+Mycoplasmataceae_CE_OT135,00330,Arginine and proline metabolism,3,1
+Mycoplasmataceae_CE_OT135,00620,Pyruvate metabolism,3,2
+Mycoplasmataceae_CE_OT135,02000,Transporters,3,2
+Mycoplasmataceae_CE_OT135,00190,Oxidative phosphorylation,3,1
+Mycoplasmataceae_CE_OT135,00860,Porphyrin and chlorophyll metabolism,3,1
+Mycoplasmataceae_CE_OT135,04141,Protein processing in endoplasmic reticulum,3,1
+Mycoplasmataceae_CE_OT135,03021,Transcription machinery,3,2
+Mycoplasmataceae_CE_OT135,00450,Selenocompound metabolism,3,1
+Mycoplasmataceae_CE_OT135,00740,Riboflavin metabolism,3,1
+Mycoplasmataceae_CE_OT135,01002,Peptidases and inhibitors,3,1
+Mycoplasmataceae_CE_OT135,00230,Purine metabolism,3,3
+Mycoplasmataceae_CE_OT135,03032,DNA replication proteins,3,2
+Mycoplasmataceae_RC_NB112A,09190,Not Included in Pathway or Brite,1,39
+Mycoplasmataceae_RC_NB112A,09180,Brite Hierarchies,1,51
+Mycoplasmataceae_RC_NB112A,09120,Genetic Information Processing,1,98
+Mycoplasmataceae_RC_NB112A,09100,Metabolism,1,21
+Mycoplasmataceae_RC_NB112A,09130,Environmental Information Processing,1,2
+Mycoplasmataceae_RC_NB112A,09150,Organismal Systems,1,1
+Mycoplasmataceae_RC_NB112A,09192,Unclassified: genetic information processing,2,33
+Mycoplasmataceae_RC_NB112A,09182,Protein families: genetic information processing,2,27
+Mycoplasmataceae_RC_NB112A,09124,Replication and repair,2,14
+Mycoplasmataceae_RC_NB112A,09104,Nucleotide metabolism,2,12
+Mycoplasmataceae_RC_NB112A,09122,Translation,2,73
+Mycoplasmataceae_RC_NB112A,09108,Metabolism of cofactors and vitamins,2,4
+Mycoplasmataceae_RC_NB112A,09132,Signal transduction,2,2
+Mycoplasmataceae_RC_NB112A,09191,Unclassified: metabolism,2,2
+Mycoplasmataceae_RC_NB112A,09106,Metabolism of other amino acids,2,2
+Mycoplasmataceae_RC_NB112A,09194,Poorly characterized,2,4
+Mycoplasmataceae_RC_NB112A,09181,Protein families: metabolism,2,2
+Mycoplasmataceae_RC_NB112A,09183,Protein families: signaling and cellular processes,2,22
+Mycoplasmataceae_RC_NB112A,09123,Folding sorting and degradation,2,7
+Mycoplasmataceae_RC_NB112A,09121,Transcription,2,4
+Mycoplasmataceae_RC_NB112A,09102,Energy metabolism,2,2
+Mycoplasmataceae_RC_NB112A,09159,Environmental adaptation,2,1
+Mycoplasmataceae_RC_NB112A,09101,Carbohydrate metabolism,2,1
+Mycoplasmataceae_RC_NB112A,99976,Replication and repair,3,32
+Mycoplasmataceae_RC_NB112A,03032,DNA replication proteins,3,2
+Mycoplasmataceae_RC_NB112A,03030,DNA replication,3,6
+Mycoplasmataceae_RC_NB112A,03009,Ribosome biogenesis,3,3
+Mycoplasmataceae_RC_NB112A,00230,Purine metabolism,3,5
+Mycoplasmataceae_RC_NB112A,03012,Translation factors,3,7
+Mycoplasmataceae_RC_NB112A,03010,Ribosome,3,45
+Mycoplasmataceae_RC_NB112A,00970,Aminoacyl-tRNA biosynthesis,3,27
+Mycoplasmataceae_RC_NB112A,00240,Pyrimidine metabolism,3,7
+Mycoplasmataceae_RC_NB112A,03440,Homologous recombination,3,1
+Mycoplasmataceae_RC_NB112A,00730,Thiamine metabolism,3,2
+Mycoplasmataceae_RC_NB112A,04013,MAPK signaling pathway - fly,3,2
+Mycoplasmataceae_RC_NB112A,03016,Transfer RNA biogenesis,3,11
+Mycoplasmataceae_RC_NB112A,03420,Nucleotide excision repair,3,3
+Mycoplasmataceae_RC_NB112A,99975,Protein processing,3,1
+Mycoplasmataceae_RC_NB112A,99980,Enzymes with EC numbers,3,2
+Mycoplasmataceae_RC_NB112A,00450,Selenocompound metabolism,3,2
+Mycoplasmataceae_RC_NB112A,03110,Chaperones and folding catalysts,3,2
+Mycoplasmataceae_RC_NB112A,99997,Function unknown,3,2
+Mycoplasmataceae_RC_NB112A,01002,Peptidases and inhibitors,3,2
+Mycoplasmataceae_RC_NB112A,02048,Prokaryotic defense system,3,19
+Mycoplasmataceae_RC_NB112A,03060,Protein export,3,2
+Mycoplasmataceae_RC_NB112A,03020,RNA polymerase,3,4
+Mycoplasmataceae_RC_NB112A,00190,Oxidative phosphorylation,3,2
+Mycoplasmataceae_RC_NB112A,99996,General function prediction only,3,2
+Mycoplasmataceae_RC_NB112A,04147,Exosome,3,2
+Mycoplasmataceae_RC_NB112A,01504,Antimicrobial resistance genes,3,1
+Mycoplasmataceae_RC_NB112A,04626,Plant-pathogen interaction,3,1
+Mycoplasmataceae_RC_NB112A,00630,Glyoxylate and dicarboxylate metabolism,3,1
+Mycoplasmataceae_RC_NB112A,04141,Protein processing in endoplasmic reticulum,3,1
+Mycoplasmataceae_RC_NB112A,00860,Porphyrin and chlorophyll metabolism,3,1
+Mycoplasmataceae_RC_NB112A,00790,Folate biosynthesis,3,1
+Mycoplasmataceae_RC_NB112A,03021,Transcription machinery,3,1
+Mycoplasmataceae_RC_NB112A,03410,Base excision repair,3,4
+Mycoplasmataceae_RC_NB112A,03008,Ribosome biogenesis in eukaryotes,3,1
+Mycoplasmataceae_RC_NB112A,03400,DNA repair and recombination proteins,3,1
+Mycoplasmataceae_RC_NB112A,03018,RNA degradation,3,3
+Mycoplasmataceae_RC_NB112A,04122,Sulfur relay system,3,1
+Mycoplasmataceae_RV_VA103A,09180,Brite Hierarchies,1,97
+Mycoplasmataceae_RV_VA103A,09190,Not Included in Pathway or Brite,1,25
+Mycoplasmataceae_RV_VA103A,09120,Genetic Information Processing,1,85
+Mycoplasmataceae_RV_VA103A,09100,Metabolism,1,20
+Mycoplasmataceae_RV_VA103A,09150,Organismal Systems,1,1
+Mycoplasmataceae_RV_VA103A,09130,Environmental Information Processing,1,1
+Mycoplasmataceae_RV_VA103A,09183,Protein families: signaling and cellular processes,2,70
+Mycoplasmataceae_RV_VA103A,09192,Unclassified: genetic information processing,2,21
+Mycoplasmataceae_RV_VA103A,09122,Translation,2,60
+Mycoplasmataceae_RV_VA103A,09123,Folding sorting and degradation,2,7
+Mycoplasmataceae_RV_VA103A,09182,Protein families: genetic information processing,2,26
+Mycoplasmataceae_RV_VA103A,09194,Poorly characterized,2,2
+Mycoplasmataceae_RV_VA103A,09104,Nucleotide metabolism,2,9
+Mycoplasmataceae_RV_VA103A,09124,Replication and repair,2,16
+Mycoplasmataceae_RV_VA103A,09108,Metabolism of cofactors and vitamins,2,5
+Mycoplasmataceae_RV_VA103A,09105,Amino acid metabolism,2,1
+Mycoplasmataceae_RV_VA103A,09159,Environmental adaptation,2,1
+Mycoplasmataceae_RV_VA103A,09106,Metabolism of other amino acids,2,4
+Mycoplasmataceae_RV_VA103A,09132,Signal transduction,2,1
+Mycoplasmataceae_RV_VA103A,09191,Unclassified: metabolism,2,2
+Mycoplasmataceae_RV_VA103A,09101,Carbohydrate metabolism,2,1
+Mycoplasmataceae_RV_VA103A,09121,Transcription,2,2
+Mycoplasmataceae_RV_VA103A,09181,Protein families: metabolism,2,1
+Mycoplasmataceae_RV_VA103A,02048,Prokaryotic defense system,3,64
+Mycoplasmataceae_RV_VA103A,99975,Protein processing,3,1
+Mycoplasmataceae_RV_VA103A,03010,Ribosome,3,38
+Mycoplasmataceae_RV_VA103A,04141,Protein processing in endoplasmic reticulum,3,1
+Mycoplasmataceae_RV_VA103A,03032,DNA replication proteins,3,2
+Mycoplasmataceae_RV_VA103A,99976,Replication and repair,3,20
+Mycoplasmataceae_RV_VA103A,04147,Exosome,3,2
+Mycoplasmataceae_RV_VA103A,03036,Chromosome and associated proteins,3,1
+Mycoplasmataceae_RV_VA103A,03016,Transfer RNA biogenesis,3,9
+Mycoplasmataceae_RV_VA103A,00970,Aminoacyl-tRNA biosynthesis,3,21
+Mycoplasmataceae_RV_VA103A,99997,Function unknown,3,2
+Mycoplasmataceae_RV_VA103A,00240,Pyrimidine metabolism,3,4
+Mycoplasmataceae_RV_VA103A,03009,Ribosome biogenesis,3,4
+Mycoplasmataceae_RV_VA103A,03420,Nucleotide excision repair,3,3
+Mycoplasmataceae_RV_VA103A,00230,Purine metabolism,3,5
+Mycoplasmataceae_RV_VA103A,00740,Riboflavin metabolism,3,2
+Mycoplasmataceae_RV_VA103A,03012,Translation factors,3,6
+Mycoplasmataceae_RV_VA103A,03030,DNA replication,3,7
+Mycoplasmataceae_RV_VA103A,00330,Arginine and proline metabolism,3,1
+Mycoplasmataceae_RV_VA103A,03430,Mismatch repair,3,2
+Mycoplasmataceae_RV_VA103A,04626,Plant-pathogen interaction,3,1
+Mycoplasmataceae_RV_VA103A,03008,Ribosome biogenesis in eukaryotes,3,1
+Mycoplasmataceae_RV_VA103A,00450,Selenocompound metabolism,3,3
+Mycoplasmataceae_RV_VA103A,04122,Sulfur relay system,3,2
+Mycoplasmataceae_RV_VA103A,00730,Thiamine metabolism,3,2
+Mycoplasmataceae_RV_VA103A,01504,Antimicrobial resistance genes,3,1
+Mycoplasmataceae_RV_VA103A,03018,RNA degradation,3,3
+Mycoplasmataceae_RV_VA103A,04013,MAPK signaling pathway - fly,3,1
+Mycoplasmataceae_RV_VA103A,99980,Enzymes with EC numbers,3,2
+Mycoplasmataceae_RV_VA103A,03410,Base excision repair,3,3
+Mycoplasmataceae_RV_VA103A,00630,Glyoxylate and dicarboxylate metabolism,3,1
+Mycoplasmataceae_RV_VA103A,00860,Porphyrin and chlorophyll metabolism,3,1
+Mycoplasmataceae_RV_VA103A,04812,Cytoskeleton proteins,3,2
+Mycoplasmataceae_RV_VA103A,03400,DNA repair and recombination proteins,3,2
+Mycoplasmataceae_RV_VA103A,03020,RNA polymerase,3,2
+Mycoplasmataceae_RV_VA103A,01002,Peptidases and inhibitors,3,1
+Mycoplasmataceae_RV_VA103A,00480,Glutathione metabolism,3,1
+Mycoplasmataceae_RV_VA103A,03060,Protein export,3,1
+Mycoplasmataceae_RV_VA103A,03021,Transcription machinery,3,1
+Mycoplasmataceae_RV_VA103A,03110,Chaperones and folding catalysts,3,1
+Mycoplasmataceae_RV_VA103A,03440,Homologous recombination,3,1
+Mycoplasmataceae_RV_VA103A,02000,Transporters,3,1

@@ -1,0 +1,169 @@
+# gene name           KO     thrshld  score   E-value KO definition
+#-------------------- ------ ------- ------ --------- ---------------------
+* KLL02413.1          K21498   47.93   94.6   3.5e-28 antitoxin HigA-1
+* KLL02727.1          K01151  122.83  308.5   3.8e-93 deoxyribonuclease IV [EC:3.1.21.2]
+* KLL02730.1          K01872  198.30  262.0   7.4e-79 alanyl-tRNA synthetase [EC:6.1.1.7]
+* KLL02769.1          K01875   76.07  385.7  1.9e-116 seryl-tRNA synthetase [EC:6.1.1.11]
+* KLL02771.1          K02956   32.03   70.9   8.2e-21 small subunit ribosomal protein S15
+* KLL02787.1          K07488   43.87  117.4   4.6e-35 transposase
+* KLL02842.1          K03702  143.73  925.6  3.4e-279 excinuclease ABC subunit B
+* KLL02852.1          K01156  140.97  188.5   1.4e-56 type III restriction enzyme [EC:3.1.21.5]
+* KLL02856.1          K07316  209.03  366.5  1.7e-110 adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+* KLL02892.1          K21498   47.93   96.9     7e-29 antitoxin HigA-1
+* KLL02921.1          K02886  162.97  322.6   2.7e-97 large subunit ribosomal protein L2
+* KLL02955.1          K02916   22.97   63.8   1.3e-18 large subunit ribosomal protein L35
+* KLL02956.1          K02520   51.07  126.3     1e-37 translation initiation factor IF-3
+* KLL02957.1          K18554  117.60  146.5   5.3e-44 chloramphenicol 3-O phosphotransferase [EC:2.7.1.-]
+* KLL02979.1          K02871   70.00  111.8   2.3e-33 large subunit ribosomal protein L13
+* KLL03028.1          K07171   19.37   71.5   4.7e-21 mRNA interferase MazF [EC:3.1.-.-]
+* KLL03049.1          K01887   47.77  353.7  1.4e-106 arginyl-tRNA synthetase [EC:6.1.1.19]
+* KLL03062.1          K01869  429.83  952.4  3.1e-287 leucyl-tRNA synthetase [EC:6.1.1.4]
+* KLL03064.1          K02887   55.13  133.4   5.9e-40 large subunit ribosomal protein L20
+* KLL03067.1          K02926   76.47  225.2   9.7e-68 large subunit ribosomal protein L4
+* KLL03069.1          K04075  115.90  197.8   2.1e-59 tRNA(Ile)-lysidine synthase [EC:6.3.4.19]
+* KLL03080.1          K07494   74.50   94.8   4.4e-28 putative transposase
+* KLL03105.1          K07171   19.37   72.0   3.4e-21 mRNA interferase MazF [EC:3.1.-.-]
+* KLL03112.1          K03763  228.33  943.7  1.2e-284 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* KLL03112.1          K02342  108.03  117.9   2.9e-35 DNA polymerase III subunit epsilon [EC:2.7.7.7]
+* KLL03112.1          K09951   23.40   32.4   3.6e-09 CRISPR-associated protein Cas2
+* KLL03123.1          K04564   29.40  145.8   1.2e-43 superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+* KLL03127.1          K00566  428.00  466.6  3.9e-141 tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+* KLL03130.1          K04564   29.40  145.8   1.2e-43 superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+* KLL03144.1          K06881  215.23  329.3     2e-99 bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]
+* KLL03145.1          K02888   25.87   77.9   5.4e-23 large subunit ribosomal protein L21
+* KLL03146.1          K02316   54.50  292.6   5.9e-88 DNA primase [EC:2.7.7.101]
+* KLL03148.1          K07052   25.67   28.1   6.5e-08 uncharacterized protein
+* KLL03151.1          K03495  121.13  823.6  1.2e-248 tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+* KLL03152.1          K02863   98.10  167.7   2.7e-50 large subunit ribosomal protein L1
+* KLL03155.1          K03070  152.83  441.3  4.5e-133 preprotein translocase subunit SecA [EC:7.4.2.8]
+* KLL03167.1          K06934   32.83   65.6   2.4e-19 uncharacterized protein
+* KLL03175.1          K07052   25.67   75.4   2.4e-22 uncharacterized protein
+* KLL03176.1          K02959   28.23  104.4   4.8e-31 small subunit ribosomal protein S16
+* KLL03177.1          K02913   23.47   27.9   1.4e-07 large subunit ribosomal protein L33
+* KLL03179.1          K02986   77.73  156.3   6.8e-47 small subunit ribosomal protein S4
+* KLL03198.1          K02986   77.73  158.8   1.2e-47 small subunit ribosomal protein S4
+* KLL03226.1          K07042   59.80  151.5   2.1e-45 probable rRNA maturation factor
+* KLL03229.1          K00943   98.17  157.8   2.2e-47 dTMP kinase [EC:2.7.4.9]
+* KLL03241.1          K01866   93.67  254.3   1.4e-76 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+* KLL03245.1          K03702  143.73  934.2  8.7e-282 excinuclease ABC subunit B
+* KLL03246.1          K03424   88.03  268.6   5.7e-81 TatD DNase family protein [EC:3.1.21.-]
+* KLL03247.1          K02864   56.00   85.2   3.8e-25 large subunit ribosomal protein L10
+* KLL03254.1          K07494   74.50  101.3   4.7e-30 putative transposase
+* KLL03288.1          K18626   84.83   86.5   5.8e-26 trichohyalin
+* KLL03292.1          K07171   19.37   81.5   4.1e-24 mRNA interferase MazF [EC:3.1.-.-]
+* KLL03303.1          K02434  265.63  358.4  6.1e-108 aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+* KLL03305.1          K03495  121.13  794.5  7.2e-240 tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+* KLL03312.1          K03438  118.37  394.5  4.8e-119 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+* KLL03361.1          K07494   74.50   94.8   4.4e-28 putative transposase
+* KLL03380.1          K02931   99.93  198.7   5.1e-60 large subunit ribosomal protein L5
+* KLL03381.1          K02982  108.80  145.5   1.2e-43 small subunit ribosomal protein S3
+* KLL03382.1          K02890   79.10   95.5   2.2e-28 large subunit ribosomal protein L22
+* KLL03406.1          K00600   55.33  602.2  8.2e-182 glycine hydroxymethyltransferase [EC:2.1.2.1]
+* KLL03409.1          K03979  160.43  455.4  1.9e-137 GTPase [EC:3.6.5.-]
+* KLL03414.1          K02919   27.60   62.8     3e-18 large subunit ribosomal protein L36
+* KLL03415.1          K00560   77.53  387.9  3.3e-117 thymidylate synthase [EC:2.1.1.45]
+* KLL03418.1          K01880  107.30  307.8   1.3e-92 glycyl-tRNA synthetase [EC:6.1.1.14]
+* KLL03425.1          K07171   19.37   82.3   2.4e-24 mRNA interferase MazF [EC:3.1.-.-]
+* KLL03452.1          K02939   47.80   90.8   6.6e-27 large subunit ribosomal protein L9
+* KLL03455.1          K00962  149.47  653.8  2.7e-197 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* KLL03487.1          K02967  138.30  217.6   1.4e-65 small subunit ribosomal protein S2
+* KLL03488.1          K02874  102.87  118.9   1.4e-35 large subunit ribosomal protein L14
+* KLL03493.1          K02884   22.50   66.3   1.9e-19 large subunit ribosomal protein L19
+* KLL03494.1          K00287   53.23  148.9   1.2e-44 dihydrofolate reductase [EC:1.5.1.3]
+* KLL03496.1          K07584   35.60   78.3   4.2e-23 uncharacterized protein
+* KLL03526.1          K01873  589.77  759.9  2.5e-229 valyl-tRNA synthetase [EC:6.1.1.9]
+* KLL03529.1          K02909   22.33   40.3   1.5e-11 large subunit ribosomal protein L31
+* KLL03531.1          K02911   21.47   50.8   1.1e-14 large subunit ribosomal protein L32
+* KLL03537.1          K01426  211.53  233.3   4.2e-70 amidase [EC:3.5.1.4]
+* KLL03541.1          K07171   19.37   85.0   3.7e-25 mRNA interferase MazF [EC:3.1.-.-]
+* KLL03591.1          K07171   19.37   98.1   3.5e-29 mRNA interferase MazF [EC:3.1.-.-]
+* KLL03662.1          K01887   47.77  351.4  6.9e-106 arginyl-tRNA synthetase [EC:6.1.1.19]
+* KLL03665.1          K03657  379.80  530.7  5.3e-160 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]
+* KLL03666.1          K01972  100.33  654.7  1.5e-197 DNA ligase (NAD+) [EC:6.5.1.2]
+* KLL03706.1          K02968   35.03   56.1   2.6e-16 small subunit ribosomal protein S20
+* KLL03708.1          K01881  159.03  292.3   3.6e-88 prolyl-tRNA synthetase [EC:6.1.1.15]
+* KLL03714.1          K02967  138.30  217.6   1.4e-65 small subunit ribosomal protein S2
+* KLL03715.1          K02874  102.87  118.9   1.4e-35 large subunit ribosomal protein L14
+* KLL03720.1          K02884   22.50   66.3   1.9e-19 large subunit ribosomal protein L19
+* KLL03721.1          K00287   53.23  146.1   8.5e-44 dihydrofolate reductase [EC:1.5.1.3]
+* KLL03725.1          K00029  301.23  531.9  1.3e-160 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+* KLL03728.1          K01992   21.17   23.6   1.8e-06 ABC-2 type transport system permease protein
+* KLL03805.1          K01151  122.83  306.7   1.3e-92 deoxyribonuclease IV [EC:3.1.21.2]
+* KLL03811.1          K01872  198.30  268.7   7.1e-81 alanyl-tRNA synthetase [EC:6.1.1.7]
+* KLL03815.1          K03652   51.33  227.9   1.3e-68 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* KLL03823.1          K02879   35.07  100.1   1.1e-29 large subunit ribosomal protein L17
+* KLL03825.1          K01507   23.07  163.8   5.8e-49 inorganic pyrophosphatase [EC:3.6.1.1]
+* KLL03827.1          K02914   18.57   37.7   8.7e-11 large subunit ribosomal protein L34
+* KLL03829.1          K01885  303.63  517.9  3.1e-156 glutamyl-tRNA synthetase [EC:6.1.1.17]
+* KLL03832.1          K06934   32.83   53.9   8.5e-16 uncharacterized protein
+* KLL03835.1          K13993   74.27   91.8   2.7e-27 HSP20 family protein
+* KLL03893.1          K01409   84.10  407.3  9.2e-123 N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+* KLL03895.1          K02834   27.27   34.4   8.5e-10 ribosome-binding factor A
+* KLL03896.1          K02519  306.67  533.3  8.4e-161 translation initiation factor IF-2
+* KLL03897.1          K02600   40.37  201.2   1.6e-60 transcription termination/antitermination protein NusA
+* KLL03898.1          K01873  589.77  747.0    2e-225 valyl-tRNA synthetase [EC:6.1.1.9]
+* KLL03916.1          K07171   19.37   82.3   2.4e-24 mRNA interferase MazF [EC:3.1.-.-]
+* KLL03923.1          K01880  107.30  307.8   1.3e-92 glycyl-tRNA synthetase [EC:6.1.1.14]
+* KLL03926.1          K00560   77.53  387.9  3.3e-117 thymidylate synthase [EC:2.1.1.45]
+* KLL03927.1          K02919   27.60   62.8     3e-18 large subunit ribosomal protein L36
+* KLL03932.1          K03979  160.43  455.4  1.9e-137 GTPase [EC:3.6.5.-]
+* KLL03935.1          K00600   55.33  598.4  1.1e-180 glycine hydroxymethyltransferase [EC:2.1.2.1]
+* KLL03949.1          K00945   76.83  209.0   8.3e-63 CMP/dCMP kinase [EC:2.7.4.25]
+* KLL03968.1          K12574  172.07  596.2  6.8e-180 ribonuclease J [EC:3.1.-.-]
+* KLL03972.1          K02838   26.67  106.8   6.5e-32 ribosome recycling factor
+* KLL03973.1          K01890  121.63  284.7     1e-85 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* KLL03983.1          K00600   55.33  601.7  1.1e-181 glycine hydroxymethyltransferase [EC:2.1.2.1]
+* KLL03993.1          K21498   47.93   97.8   3.7e-29 antitoxin HigA-1
+* KLL03996.1          K11754  366.00  410.5  6.9e-124 dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]
+* KLL03997.1          K01890  121.63  223.1   4.1e-67 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* KLL03999.1          K01866   93.67  253.4   2.6e-76 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+* KLL04017.1          K01868  140.00  190.1   3.8e-57 threonyl-tRNA synthetase [EC:6.1.1.3]
+* KLL04018.1          K07341   34.03   51.0   1.1e-14 death on curing protein
+* KLL04027.1          K01874  236.63  524.1  4.6e-158 methionyl-tRNA synthetase [EC:6.1.1.10]
+* KLL04030.1          K06925   47.07  111.3   3.6e-33 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+* KLL04032.1          K03977  204.07  317.9   7.4e-96 GTPase
+* KLL04033.1          K00029  301.23  521.9  1.3e-157 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+* KLL04039.1          K02913   23.47   27.6   1.8e-07 large subunit ribosomal protein L33
+* KLL04040.1          K02959   28.23  103.1   1.2e-30 small subunit ribosomal protein S16
+* KLL04041.1          K07052   25.67   74.5   4.5e-22 uncharacterized protein
+* KLL04044.1          K02600   40.37  198.5   1.1e-59 transcription termination/antitermination protein NusA
+* KLL04045.1          K02519  306.67  522.8  1.2e-157 translation initiation factor IF-2
+* KLL04046.1          K02834   27.27   37.3   1.1e-10 ribosome-binding factor A
+* KLL04048.1          K01409   84.10  409.1  2.6e-123 N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+* KLL04053.1          K02899   49.63  102.6   1.6e-30 large subunit ribosomal protein L27
+* KLL04085.1          K01992   21.17   21.9   6.4e-06 ABC-2 type transport system permease protein
+* KLL04088.1          K02931   99.93  200.2   1.7e-60 large subunit ribosomal protein L5
+* KLL04090.1          K21064  178.67  183.8   2.8e-55 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+* KLL04093.1          K12574  172.07  587.7  2.7e-177 ribonuclease J [EC:3.1.-.-]
+* KLL04094.1          K02835  355.80  407.2  9.7e-123 peptide chain release factor 1
+* KLL04102.1          K02867   66.80   93.6   8.1e-28 large subunit ribosomal protein L11
+* KLL04105.1          K03799  133.77  185.0   1.4e-55 heat shock protein HtpX [EC:3.4.24.-]
+* KLL04107.1          K01893  376.90  628.7  7.8e-190 asparaginyl-tRNA synthetase [EC:6.1.1.22]
+* KLL04108.1          K00526  163.10  387.7  3.8e-117 ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]
+* KLL04193.1          K07171   19.37   84.7   4.6e-25 mRNA interferase MazF [EC:3.1.-.-]
+* KLL04211.1          K07171   19.37   54.1   1.1e-15 mRNA interferase MazF [EC:3.1.-.-]
+* KLL04282.1          K01056   46.53  225.4   6.3e-68 peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+* KLL04284.1          K03168  435.60  519.0  1.9e-156 DNA topoisomerase I [EC:5.6.2.1]
+* KLL04285.1          K00857   96.13  199.8   5.1e-60 thymidine kinase [EC:2.7.1.21]
+* KLL04287.1          K09769   82.67  308.0   2.8e-93 uncharacterized protein
+* KLL04293.1          K07171   19.37   73.3   1.3e-21 mRNA interferase MazF [EC:3.1.-.-]
+* KLL04296.1          K07171   19.37   67.1   1.1e-19 mRNA interferase MazF [EC:3.1.-.-]
+* KLL04306.1          K07171   19.37   81.3   4.8e-24 mRNA interferase MazF [EC:3.1.-.-]
+* KLL04311.1          K07171   19.37   65.4   3.5e-19 mRNA interferase MazF [EC:3.1.-.-]
+* KLL04320.1          K01154   25.93   46.1   2.2e-13 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* KLL04321.1          K01154   25.93   94.8   3.8e-28 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* KLL04322.1          K03427   97.00  257.0   2.6e-77 type I restriction enzyme M protein [EC:2.1.1.72]
+* KLL04328.1          K07171   19.37   91.2   4.7e-27 mRNA interferase MazF [EC:3.1.-.-]
+* KLL04336.1          K03427   97.00  257.0   2.6e-77 type I restriction enzyme M protein [EC:2.1.1.72]
+* KLL04337.1          K01154   25.93   94.8   3.8e-28 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* KLL04338.1          K01154   25.93   46.1   2.2e-13 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* KLL04347.1          K07171   19.37   65.4   3.5e-19 mRNA interferase MazF [EC:3.1.-.-]
+* KLL04352.1          K07171   19.37   81.3   4.8e-24 mRNA interferase MazF [EC:3.1.-.-]
+* KLL04362.1          K07171   19.37   67.1   1.1e-19 mRNA interferase MazF [EC:3.1.-.-]
+* KLL04365.1          K07171   19.37   73.3   1.3e-21 mRNA interferase MazF [EC:3.1.-.-]
+* KLL04371.1          K09769   82.67  308.0   2.8e-93 uncharacterized protein
+* KLL04373.1          K00857   96.13  199.8   5.1e-60 thymidine kinase [EC:2.7.1.21]
+* KLL04374.1          K03168  435.60  519.0  1.9e-156 DNA topoisomerase I [EC:5.6.2.1]
+* KLL04376.1          K01056   46.53  225.4   6.3e-68 peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+* KLL04377.1          K10563  195.93  277.6   1.1e-83 formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+* KLL04379.1          K03703  248.20  454.3  5.8e-137 excinuclease ABC subunit C

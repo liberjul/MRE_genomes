@@ -1,0 +1,151 @@
+# gene name           KO     thrshld  score   E-value KO definition
+#-------------------- ------ ------- ------ --------- ---------------------
+* EGNFDAKC_00004      K03530  113.50  137.1   1.1e-41 DNA-binding protein HU-beta
+* EGNFDAKC_00010      K03530  113.50  119.6   2.6e-36 DNA-binding protein HU-beta
+* EGNFDAKC_00024      K07171   19.10   45.4   1.5e-13 mRNA interferase MazF [EC:3.1.-.-]
+* EGNFDAKC_00028      K07171   19.10   63.5   4.6e-19 mRNA interferase MazF [EC:3.1.-.-]
+* EGNFDAKC_00030      K07052   29.57   33.5   4.6e-10 uncharacterized protein
+* EGNFDAKC_00033      K03702  324.07  865.9  9.1e-262 excinuclease ABC subunit B
+* EGNFDAKC_00035      K03648   49.23  248.9   2.3e-75 uracil-DNA glycosylase [EC:3.2.2.27]
+* EGNFDAKC_00041      K01867  137.80  305.3   1.8e-92 tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+* EGNFDAKC_00047      K01869  392.93  903.4    5e-273 leucyl-tRNA synthetase [EC:6.1.1.4]
+* EGNFDAKC_00048      K21064  162.30  178.6   3.8e-54 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+* EGNFDAKC_00050      K02916   28.97   56.7   6.2e-17 large subunit ribosomal protein L35
+* EGNFDAKC_00051      K02520   41.87  140.2   2.2e-42 translation initiation factor IF-3
+* EGNFDAKC_00052      K01868  174.17  422.0  1.1e-127 threonyl-tRNA synthetase [EC:6.1.1.3]
+* EGNFDAKC_00059      K02909   24.53   67.3   2.4e-20 large subunit ribosomal protein L31
+* EGNFDAKC_00063      K03977  248.37  269.7   9.3e-82 GTPase
+* EGNFDAKC_00065      K03979  157.53  416.1  4.5e-126 GTPase [EC:3.6.5.-]
+* EGNFDAKC_00069      K02884   21.10   68.9   9.6e-21 large subunit ribosomal protein L19
+* EGNFDAKC_00070      K01893  376.30  590.6  6.7e-179 asparaginyl-tRNA synthetase [EC:6.1.1.22]
+* EGNFDAKC_00072      K03046  435.50 1031.3         0 DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+* EGNFDAKC_00073      K03043  641.50  955.3  9.2e-289 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+* EGNFDAKC_00074      K02935   23.87   81.9   1.2e-24 large subunit ribosomal protein L7/L12
+* EGNFDAKC_00075      K02864   52.27   79.4     6e-24 large subunit ribosomal protein L10
+* EGNFDAKC_00076      K02863   91.17  168.0   5.8e-51 large subunit ribosomal protein L1
+* EGNFDAKC_00077      K02867   73.03  124.5   1.2e-37 large subunit ribosomal protein L11
+* EGNFDAKC_00078      K02867   73.03  124.5   1.2e-37 large subunit ribosomal protein L11
+* EGNFDAKC_00080      K02996  109.00  188.3   4.6e-57 small subunit ribosomal protein S9
+* EGNFDAKC_00081      K02871   76.33  154.8   6.6e-47 large subunit ribosomal protein L13
+* EGNFDAKC_00084      K02879   35.17   99.7   4.9e-30 large subunit ribosomal protein L17
+* EGNFDAKC_00085      K03040   54.23  152.7   2.3e-46 DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+* EGNFDAKC_00086      K02948   99.23  131.8   6.3e-40 small subunit ribosomal protein S11
+* EGNFDAKC_00087      K02952  118.60  158.1   5.7e-48 small subunit ribosomal protein S13
+* EGNFDAKC_00088      K02518   42.30   82.6   4.8e-25 translation initiation factor IF-1
+* EGNFDAKC_00089      K01265  136.07  221.8   2.8e-67 methionyl aminopeptidase [EC:3.4.11.18]
+* EGNFDAKC_00092      K02876   55.33  156.3   2.6e-47 large subunit ribosomal protein L15
+* EGNFDAKC_00093      K02988  137.37  166.7   1.5e-50 small subunit ribosomal protein S5
+* EGNFDAKC_00094      K02881   52.67   78.8     1e-23 large subunit ribosomal protein L18
+* EGNFDAKC_00095      K02933  110.03  173.0   1.7e-52 large subunit ribosomal protein L6
+* EGNFDAKC_00096      K02994   92.23  135.5   2.5e-41 small subunit ribosomal protein S8
+* EGNFDAKC_00097      K02954   24.50   51.1   2.7e-15 small subunit ribosomal protein S14
+* EGNFDAKC_00098      K02931  103.93  209.0   1.2e-63 large subunit ribosomal protein L5
+* EGNFDAKC_00099      K02874  102.00  136.8   1.5e-41 large subunit ribosomal protein L14
+* EGNFDAKC_00100      K02961   86.87   92.2     7e-28 small subunit ribosomal protein S17
+* EGNFDAKC_00102      K02878   85.10  179.6   1.6e-54 large subunit ribosomal protein L16
+* EGNFDAKC_00103      K02982  105.20  190.9   5.8e-58 small subunit ribosomal protein S3
+* EGNFDAKC_00104      K02890   81.73   92.3   6.1e-28 large subunit ribosomal protein L22
+* EGNFDAKC_00105      K02965  110.10  139.2   3.8e-42 small subunit ribosomal protein S19
+* EGNFDAKC_00106      K02886  168.77  324.7   1.9e-98 large subunit ribosomal protein L2
+* EGNFDAKC_00107      K02892   48.37   50.9   3.9e-15 large subunit ribosomal protein L23
+* EGNFDAKC_00108      K02926   95.00  222.8   1.3e-67 large subunit ribosomal protein L4
+* EGNFDAKC_00109      K02906  117.67  264.4     4e-80 large subunit ribosomal protein L3
+* EGNFDAKC_00110      K02906  117.67  264.4     4e-80 large subunit ribosomal protein L3
+* EGNFDAKC_00112      K02906  117.67  264.4     4e-80 large subunit ribosomal protein L3
+* EGNFDAKC_00126      K02358  343.57  691.6  1.4e-209 elongation factor Tu
+* EGNFDAKC_00128      K01880  198.37  474.5  2.3e-143 glycyl-tRNA synthetase [EC:6.1.1.14]
+* EGNFDAKC_00129      K13993   74.30  101.4   1.1e-30 HSP20 family protein
+* EGNFDAKC_00130      K13993   74.30  101.4   1.1e-30 HSP20 family protein
+* EGNFDAKC_00133      K01155   20.63   67.3     5e-20 type II restriction enzyme [EC:3.1.21.4]
+* EGNFDAKC_00134      K01881  154.73  285.1   2.2e-86 prolyl-tRNA synthetase [EC:6.1.1.15]
+* EGNFDAKC_00135      K01881  154.73  285.1   2.2e-86 prolyl-tRNA synthetase [EC:6.1.1.15]
+* EGNFDAKC_00137      K01881  154.73  285.1   2.2e-86 prolyl-tRNA synthetase [EC:6.1.1.15]
+* EGNFDAKC_00139      K02355  534.57 1034.1         0 elongation factor G
+* EGNFDAKC_00140      K02992  117.10  162.7   1.7e-49 small subunit ribosomal protein S7
+* EGNFDAKC_00141      K02950   78.33  189.4   1.1e-57 small subunit ribosomal protein S12
+* EGNFDAKC_00142      K04567  312.30  605.7  2.1e-183 lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+* EGNFDAKC_00143      K01873  594.70  733.9  5.4e-222 valyl-tRNA synthetase [EC:6.1.1.9]
+* EGNFDAKC_00149      K01409   99.57  351.3  1.2e-106 N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+* EGNFDAKC_00150      K01866   98.27  194.6   6.5e-59 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+* EGNFDAKC_00155      K01874  190.10  498.6  7.7e-151 methionyl-tRNA synthetase [EC:6.1.1.10]
+* EGNFDAKC_00156      K03546  168.77  170.9     1e-51 DNA repair protein SbcC/Rad50
+* EGNFDAKC_00157      K02959   27.97  109.9   4.2e-33 small subunit ribosomal protein S16
+* EGNFDAKC_00158      K03438  126.20  378.4  8.4e-115 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+* EGNFDAKC_00159      K02911   21.97   32.8   1.3e-09 large subunit ribosomal protein L32
+* EGNFDAKC_00160      K02967  139.03  268.5   1.6e-81 small subunit ribosomal protein S2
+* EGNFDAKC_00161      K01507   19.37  161.6     6e-49 inorganic pyrophosphatase [EC:3.6.1.1]
+* EGNFDAKC_00163      K03671  111.87  136.8   2.2e-41 thioredoxin 1
+* EGNFDAKC_00164      K12574  134.83  573.1  1.7e-173 ribonuclease J [EC:3.1.-.-]
+* EGNFDAKC_00165      K12574  134.83  573.1  1.7e-173 ribonuclease J [EC:3.1.-.-]
+* EGNFDAKC_00167      K02986   71.73  182.8   1.9e-55 small subunit ribosomal protein S4
+* EGNFDAKC_00168      K00554  144.17  279.2   8.8e-85 tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]
+* EGNFDAKC_00170      K02503   92.37  118.1   9.5e-36 histidine triad (HIT) family protein
+* EGNFDAKC_00171      K03664   39.10  146.2   2.4e-44 SsrA-binding protein
+* EGNFDAKC_00173      K02913   24.33   26.5   1.2e-07 large subunit ribosomal protein L33
+* EGNFDAKC_00177      K01056   50.23  200.2   1.2e-60 peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+* EGNFDAKC_00179      K03536   28.60   79.5   6.7e-24 ribonuclease P protein component [EC:3.1.26.5]
+* EGNFDAKC_00180      K03650  170.50  452.6  5.6e-137 tRNA modification GTPase [EC:3.6.-.-]
+* EGNFDAKC_00182      K03168  470.77  496.6  3.8e-150 DNA topoisomerase I [EC:5.6.2.1]
+* EGNFDAKC_00183      K02946   60.83  107.4   1.9e-32 small subunit ribosomal protein S10
+* EGNFDAKC_00185      K18682  103.30  456.4  2.4e-138 ribonucrease Y [EC:3.1.-.-]
+* EGNFDAKC_00189      K00962  307.30  575.6  3.1e-174 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* EGNFDAKC_00190      K02968   25.83   61.4     2e-18 small subunit ribosomal protein S20
+* EGNFDAKC_00194      K07584   41.37   70.7   2.3e-21 uncharacterized protein
+* EGNFDAKC_00196      K03703  240.03  411.9    1e-124 excinuclease ABC subunit C
+* EGNFDAKC_00197      K03530  113.50  128.6   4.5e-39 DNA-binding protein HU-beta
+* EGNFDAKC_00199      K03424   90.83  252.9     1e-76 TatD DNase family protein [EC:3.1.21.-]
+* EGNFDAKC_00201      K01872  199.10  388.5  1.4e-117 alanyl-tRNA synthetase [EC:6.1.1.7]
+* EGNFDAKC_00202      K07447   36.43   83.3   4.4e-25 putative holliday junction resolvase [EC:3.1.-.-]
+* EGNFDAKC_00205      K01887   64.50  359.5  8.7e-109 arginyl-tRNA synthetase [EC:6.1.1.19]
+* EGNFDAKC_00206      K01883  404.20  444.3    2e-134 cysteinyl-tRNA synthetase [EC:6.1.1.16]
+* EGNFDAKC_00208      K01151  116.17  303.2   5.2e-92 deoxyribonuclease IV [EC:3.1.21.2]
+* EGNFDAKC_00210      K01876  307.97  537.0  1.8e-162 aspartyl-tRNA synthetase [EC:6.1.1.12]
+* EGNFDAKC_00213      K10563  201.63  286.2   9.2e-87 formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+* EGNFDAKC_00216      K02939   46.73  103.8   2.6e-31 large subunit ribosomal protein L9
+* EGNFDAKC_00217      K02963   74.37   78.4   1.5e-23 small subunit ribosomal protein S18
+* EGNFDAKC_00218      K02990   26.83   36.4   8.2e-11 small subunit ribosomal protein S6
+* EGNFDAKC_00219      K02990   26.83   36.4   8.2e-11 small subunit ribosomal protein S6
+* EGNFDAKC_00221      K02990   26.83   36.4   8.2e-11 small subunit ribosomal protein S6
+* EGNFDAKC_00223      K07056  128.77  243.2     1e-73 16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]
+* EGNFDAKC_00225      K03687   31.10  118.7   5.9e-36 molecular chaperone GrpE
+* EGNFDAKC_00228      K02357  115.03  181.4   5.8e-55 elongation factor Ts
+* EGNFDAKC_00229      K03657  371.10  481.8    1e-145 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]
+* EGNFDAKC_00231      K06925   63.17   98.7   7.6e-30 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+* EGNFDAKC_00233      K01885  313.97  488.5  1.1e-147 glutamyl-tRNA synthetase [EC:6.1.1.17]
+* EGNFDAKC_00234      K04075  114.40  139.8   2.7e-42 tRNA(Ile)-lysidine synthase [EC:6.3.4.19]
+* EGNFDAKC_00237      K03685  157.40  189.0   2.8e-57 ribonuclease III [EC:3.1.26.3]
+* EGNFDAKC_00239      K09769  139.53  318.8   4.8e-97 2',3'-cyclic-nucleotide 2'-phosphodiesterase [EC:3.1.4.16]
+* EGNFDAKC_00245      K01972  117.70  528.9  5.1e-160 DNA ligase (NAD+) [EC:6.5.1.2]
+* EGNFDAKC_00249      K01870  501.37  927.0  4.4e-280 isoleucyl-tRNA synthetase [EC:6.1.1.5]
+* EGNFDAKC_00250      K03652   43.30  209.9   1.8e-63 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* EGNFDAKC_00252      K02316   59.27  274.7   3.8e-83 DNA primase [EC:2.7.7.101]
+* EGNFDAKC_00253      K01890  147.30  415.0  1.6e-125 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* EGNFDAKC_00255      K03495  337.47  835.1  1.2e-252 tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+* EGNFDAKC_00261      K01889  119.23  322.8     1e-97 phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+* EGNFDAKC_00262      K02838   28.93  105.8   4.4e-32 ribosome recycling factor
+* EGNFDAKC_00263      K01875   78.90  394.9  1.2e-119 seryl-tRNA synthetase [EC:6.1.1.11]
+* EGNFDAKC_00269      K07042   55.47  146.5   2.4e-44 probable rRNA maturation factor
+* EGNFDAKC_00270      K03218  212.17  230.0   7.5e-70 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+* EGNFDAKC_00272      K00566  186.40  451.8  4.3e-137 tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+* EGNFDAKC_00273      K00940  147.83  188.2   6.2e-57 nucleoside-diphosphate kinase [EC:2.7.4.6]
+* EGNFDAKC_00274      K00940  147.83  188.2   6.2e-57 nucleoside-diphosphate kinase [EC:2.7.4.6]
+* EGNFDAKC_00278      K02835  352.33  408.9  6.9e-124 peptide chain release factor 1
+* EGNFDAKC_00293      K07496   35.83  101.2   1.5e-30 putative transposase
+* EGNFDAKC_00312      K13993   74.30  107.7   1.3e-32 HSP20 family protein
+* EGNFDAKC_00313      K00573   90.90  231.7   3.1e-70 protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]
+* EGNFDAKC_00316      K02519  323.23  541.0  1.1e-163 translation initiation factor IF-2
+* EGNFDAKC_00317      K02600   37.50  252.1   1.7e-76 transcription termination/antitermination protein NusA
+* EGNFDAKC_00318      K03151  117.00  374.7  1.7e-113 tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]
+* EGNFDAKC_00321      K14060  121.20  133.6   1.6e-40 putative DNA-invertase from lambdoid prophage Rac
+* EGNFDAKC_00322      K03763  905.10 1038.0         0 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* EGNFDAKC_00322      K02342  104.87  114.2   1.2e-34 DNA polymerase III subunit epsilon [EC:2.7.7.7]
+* EGNFDAKC_00322      K09951   44.87   50.0   5.8e-15 CRISPR-associated protein Cas2
+* EGNFDAKC_00323      K03070  312.60  727.4  5.4e-220 preprotein translocase subunit SecA [EC:7.4.2.8]
+* EGNFDAKC_00325      K07317  147.37  178.8   3.7e-54 adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+* EGNFDAKC_00329      K07171   19.10   71.3   1.8e-21 mRNA interferase MazF [EC:3.1.-.-]
+* EGNFDAKC_00337      K07171   19.10   66.9   4.2e-20 mRNA interferase MazF [EC:3.1.-.-]
+* EGNFDAKC_00345      K03427  113.80  261.7   3.2e-79 type I restriction enzyme M protein [EC:2.1.1.72]
+* EGNFDAKC_00345      K01154   45.47   76.2     5e-23 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* EGNFDAKC_00351      K07334   70.90   95.5   6.9e-29 toxin HigB-1
+* EGNFDAKC_00359      K07171   19.10   73.5   3.8e-22 mRNA interferase MazF [EC:3.1.-.-]
+* EGNFDAKC_00365      K03470  132.67  230.5   6.4e-70 ribonuclease HII [EC:3.1.26.4]

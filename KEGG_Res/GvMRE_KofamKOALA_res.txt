@@ -1,0 +1,501 @@
+# gene name           KO     thrshld  score   E-value KO definition
+#-------------------- ------ ------- ------ --------- ---------------------
+* RHZ35175.1          K03763  228.33  352.1  8.9e-106 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* RHZ35186.1          K02884   22.50   73.5   2.9e-21 large subunit ribosomal protein L19
+* RHZ35187.1          K01885  303.63  507.7  8.5e-153 glutamyl-tRNA synthetase [EC:6.1.1.17]
+* RHZ35197.1          K18682  118.43  502.8  1.5e-151 ribonucrease Y [EC:3.1.-.-]
+* RHZ35203.1          K01889  109.70  325.0   1.3e-97 phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+* RHZ35219.1          K02968   35.03   51.4   1.7e-14 small subunit ribosomal protein S20
+* RHZ35224.1          K01866   93.67  240.0     7e-72 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+* RHZ35225.1          K02990   23.27   33.3   5.7e-09 small subunit ribosomal protein S6
+* RHZ35227.1          K02963   71.50   75.3   8.5e-22 small subunit ribosomal protein S18
+* RHZ35231.1          K02956   32.03   57.7   1.9e-16 small subunit ribosomal protein S15
+* RHZ35232.1          K02939   47.80   62.8   5.2e-18 large subunit ribosomal protein L9
+* RHZ35233.1          K01874  236.63  444.7    1e-133 methionyl-tRNA synthetase [EC:6.1.1.10]
+* RHZ35238.1          K02906  123.00  217.0   7.6e-65 large subunit ribosomal protein L3
+* RHZ35239.1          K06925   47.07  106.4   2.6e-31 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+* RHZ35244.1          K02899   49.63   95.1   6.7e-28 large subunit ribosomal protein L27
+* RHZ35247.1          K02887   55.13  145.5   2.7e-43 large subunit ribosomal protein L20
+* RHZ35249.1          K01872  198.30  284.0   3.9e-85 alanyl-tRNA synthetase [EC:6.1.1.7]
+* RHZ35250.1          K01867  137.37  306.1   6.4e-92 tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+* RHZ35251.1          K02434  265.63  339.2  8.9e-102 aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+* RHZ35266.1          K02959   28.23   77.1   2.4e-22 small subunit ribosomal protein S16
+* RHZ35269.1          K02876   42.03  124.6   8.3e-37 large subunit ribosomal protein L15
+* RHZ35270.1          K02871   70.00  139.6   1.8e-41 large subunit ribosomal protein L13
+* RHZ35273.1          K02967  138.30  239.3   8.3e-72 small subunit ribosomal protein S2
+* RHZ35284.1          K03168  435.60  506.6  2.4e-152 DNA topoisomerase I [EC:5.6.2.1]
+* RHZ35287.1          K02913   23.47   26.9   6.7e-07 large subunit ribosomal protein L33
+* RHZ35291.1          K03763  228.33  675.7  2.1e-203 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* RHZ35291.1          K02342  108.03  134.1   7.9e-40 DNA polymerase III subunit epsilon [EC:2.7.7.7]
+* RHZ35291.1          K09951   23.40   31.7   1.4e-08 CRISPR-associated protein Cas2
+* RHZ35300.1          K03547   84.70   85.1   7.5e-25 DNA repair protein SbcD/Mre11
+* RHZ35303.1          K02996  107.43  158.7     3e-47 small subunit ribosomal protein S9
+* RHZ35304.1          K02954   24.90   37.5   2.9e-10 small subunit ribosomal protein S14
+* RHZ35305.1          K03470  129.20  236.7   6.4e-71 ribonuclease HII [EC:3.1.26.4]
+* RHZ35320.1          K03495  121.13  802.2  8.2e-242 tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+* RHZ35324.1          K01426  211.53  227.0   7.7e-68 amidase [EC:3.5.1.4]
+* RHZ35331.1          K13993   74.27  116.9   1.6e-34 HSP20 family protein
+* RHZ35335.1          K01151  122.83  290.2   3.1e-87 deoxyribonuclease IV [EC:3.1.21.2]
+* RHZ35336.1          K01972  100.33  621.6  3.6e-187 DNA ligase (NAD+) [EC:6.5.1.2]
+* RHZ35341.1          K01872  198.30  283.5   5.5e-85 alanyl-tRNA synthetase [EC:6.1.1.7]
+* RHZ35362.1          K02926   76.47  189.8   1.3e-56 large subunit ribosomal protein L4
+* RHZ35363.1          K01409   84.10  384.9  1.3e-115 N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+* RHZ35366.1          K01870  514.83  569.8  2.2e-171 isoleucyl-tRNA synthetase [EC:6.1.1.5]
+* RHZ35367.1          K12574  172.07  579.1  2.5e-174 ribonuclease J [EC:3.1.-.-]
+* RHZ35371.1          K03687   30.90   93.4   2.1e-27 molecular chaperone GrpE
+* RHZ35374.1          K03320  142.27  379.6  4.8e-114 ammonium transporter, Amt family
+* RHZ35375.1          K02952  115.63  134.2   5.7e-40 small subunit ribosomal protein S13
+* RHZ35377.1          K02992  105.13  129.2   2.1e-38 small subunit ribosomal protein S7
+* RHZ35379.1          K01890  121.63  364.7  1.6e-109 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* RHZ35383.1          K00384  339.83  370.2  2.9e-111 thioredoxin reductase (NADPH) [EC:1.8.1.9]
+* RHZ35385.1          K19221  115.87  157.4   9.1e-47 cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+* RHZ35388.1          K02874  102.87  108.8     4e-32 large subunit ribosomal protein L14
+* RHZ35390.1          K01876  291.87  293.3   6.6e-88 aspartyl-tRNA synthetase [EC:6.1.1.12]
+* RHZ35396.1          K00962  149.47  622.2  2.1e-187 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* RHZ35397.1          K03424   88.03  267.7   2.5e-80 TatD DNase family protein [EC:3.1.21.-]
+* RHZ35399.1          K01255  418.07  439.7  3.9e-132 leucyl aminopeptidase [EC:3.4.11.1]
+* RHZ35400.1          K02950   85.93  178.1   4.7e-53 small subunit ribosomal protein S12
+* RHZ35406.1          K01507   23.07  156.7   1.8e-46 inorganic pyrophosphatase [EC:3.6.1.1]
+* RHZ35407.1          K02986   77.73  172.9   1.3e-51 small subunit ribosomal protein S4
+* RHZ35411.1          K00940  131.40  192.3   2.4e-57 nucleoside-diphosphate kinase [EC:2.7.4.6]
+* RHZ35414.1          K03652   51.33  216.1   1.1e-64 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* RHZ35417.1          K03702  143.73  940.5  2.6e-283 excinuclease ABC subunit B
+* RHZ35423.1          K00525  363.03  595.3  2.2e-179 ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]
+* RHZ35427.1          K02994   89.83  124.0   8.7e-37 small subunit ribosomal protein S8
+* RHZ35430.1          K01873  589.77  676.0  1.3e-203 valyl-tRNA synthetase [EC:6.1.1.9]
+* RHZ35431.1          K01883  398.70  452.3  6.8e-136 cysteinyl-tRNA synthetase [EC:6.1.1.16]
+* RHZ35434.1          K00857   96.13  188.8   2.6e-56 thymidine kinase [EC:2.7.1.21]
+* RHZ35437.1          K03070  152.83  723.9  4.4e-218 preprotein translocase subunit SecA [EC:7.4.2.8]
+* RHZ35440.1          K01881  159.03  287.0   3.5e-86 prolyl-tRNA synthetase [EC:6.1.1.15]
+* RHZ35445.1          K00554  127.83  299.6   5.2e-90 tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]
+* RHZ35448.1          K02892   55.07   66.2   5.7e-19 large subunit ribosomal protein L23
+* RHZ35449.1          K02520   51.07  130.3   1.4e-38 translation initiation factor IF-3
+* RHZ35452.1          K02886  162.97  330.6   2.3e-99 large subunit ribosomal protein L2
+* RHZ35455.1          K03151  132.87  419.4  3.3e-126 tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]
+* RHZ35461.1          K02864   56.00   71.3   1.5e-20 large subunit ribosomal protein L10
+* RHZ35464.1          K02355  515.13  879.4  5.6e-265 elongation factor G
+* RHZ35465.1          K03046  542.03  993.6    3e-299 DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+* RHZ35466.1          K03043  365.63  894.7  1.4e-269 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+* RHZ35468.1          K02931   99.93  180.2   5.2e-54 large subunit ribosomal protein L5
+* RHZ35473.1          K02948   97.70  122.4   3.6e-36 small subunit ribosomal protein S11
+* RHZ35476.1          K02911   21.47   31.6   2.2e-08 large subunit ribosomal protein L32
+* RHZ35484.1          K00600   55.33  587.5  5.3e-177 glycine hydroxymethyltransferase [EC:2.1.2.1]
+* RHZ35487.1          K03438  118.37  392.0  6.5e-118 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+* RHZ35492.1          K03536   19.73   43.0   6.4e-12 ribonuclease P protein component [EC:3.1.26.5]
+* RHZ35494.1          K02863   98.10  144.2   8.3e-43 large subunit ribosomal protein L1
+* RHZ35495.1          K04564   29.40  179.9   1.1e-53 superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+* RHZ35497.1          K01892  276.97  280.1     5e-84 histidyl-tRNA synthetase [EC:6.1.1.21]
+* RHZ35506.1          K02933  112.43  140.9   8.4e-42 large subunit ribosomal protein L6
+* RHZ35509.1          K02878   86.63  162.4   2.1e-48 large subunit ribosomal protein L16
+* RHZ35509.1          K02982  108.80  151.9   3.2e-45 small subunit ribosomal protein S3
+* RHZ35510.1          K01265  125.50  224.7   4.2e-67 methionyl aminopeptidase [EC:3.4.11.18]
+* RHZ35511.1          K03685  157.10  173.0   1.6e-51 ribonuclease III [EC:3.1.26.3]
+* RHZ35520.1          K01869  429.83  971.2  1.6e-292 leucyl-tRNA synthetase [EC:6.1.1.4]
+* RHZ35528.1          K00943   98.17  154.2   6.6e-46 dTMP kinase [EC:2.7.4.9]
+* RHZ35530.1          K03977  204.07  295.5   1.1e-88 GTPase
+* RHZ35536.1          K02919   27.60   59.3   7.9e-17 large subunit ribosomal protein L36
+* RHZ35540.1          K01887   47.77  337.8  2.2e-101 arginyl-tRNA synthetase [EC:6.1.1.19]
+* RHZ35550.1          K07584   35.60   68.9   7.7e-20 uncharacterized protein
+* RHZ35565.1          K02888   25.87   50.2   3.5e-14 large subunit ribosomal protein L21
+* RHZ35567.1          K01056   46.53  229.5   8.5e-69 peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+* RHZ35577.1          K03553  103.57  328.2   1.2e-98 recombination protein RecA
+* RHZ35579.1          K01880  107.30  304.0   4.2e-91 glycyl-tRNA synthetase [EC:6.1.1.14]
+* RHZ35584.1          K02909   22.33   32.8   7.2e-09 large subunit ribosomal protein L31
+* RHZ35587.1          K02838   26.67   89.1   3.8e-26 ribosome recycling factor
+* RHZ35590.1          K03664   28.77  147.8   5.1e-44 SsrA-binding protein
+* RHZ35592.1          K07496   31.67  144.8   5.4e-43 putative transposase
+* RHZ35593.1          K02358  348.87  637.5    6e-192 elongation factor Tu
+* RHZ35597.1          K07171   19.37   27.0   4.6e-07 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ35606.1          K02916   22.97   51.6   1.8e-14 large subunit ribosomal protein L35
+* RHZ35607.1          K02503   86.80   96.7     2e-28 histidine triad (HIT) family protein
+* RHZ35611.1          K01893  376.90  591.9  2.5e-178 asparaginyl-tRNA synthetase [EC:6.1.1.22]
+* RHZ35614.1          K02879   35.07   93.3     3e-27 large subunit ribosomal protein L17
+* RHZ35624.1          K02881   60.30   81.9   7.8e-24 large subunit ribosomal protein L18
+* RHZ35631.1          K02519  306.67  391.4  1.5e-117 translation initiation factor IF-2
+* RHZ35633.1          K03703  248.20  447.8  1.2e-134 excinuclease ABC subunit C
+* RHZ35636.1          K07171   19.37   34.0   3.4e-09 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ35649.1          K07171   19.37   45.8   8.4e-13 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ35654.1          K00573   96.73  234.7   3.4e-70 protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]
+* RHZ35657.1          K00943   98.17  135.7   2.8e-40 dTMP kinase [EC:2.7.4.9]
+* RHZ35667.1          K01875   76.07  368.3  8.1e-111 seryl-tRNA synthetase [EC:6.1.1.11]
+* RHZ35682.1          K03657  379.80  509.7  2.7e-153 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]
+* RHZ35685.1          K10563  195.93  252.7     9e-76 formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+* RHZ35691.1          K00566  428.00  475.9  1.4e-143 tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+* RHZ35694.1          K04567  302.73  649.3  1.3e-195 lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+* RHZ35697.1          K01868  140.00  421.9  9.7e-127 threonyl-tRNA synthetase [EC:6.1.1.3]
+* RHZ35699.1          K02316   54.50  247.7   5.5e-74 DNA primase [EC:2.7.7.101]
+* RHZ35701.1          K09769   82.67  307.2   1.2e-92 uncharacterized protein
+* RHZ35703.1          K03650  167.93  451.0  1.4e-135 tRNA modification GTPase [EC:3.6.-.-]
+* RHZ35705.1          K08900  121.77  220.2   8.3e-66 mitochondrial chaperone BCS1
+* RHZ35714.1          K07171   19.37   81.2   1.2e-23 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ35716.1          K15255   91.03  355.8  6.1e-107 ATP-dependent DNA helicase PIF1 [EC:3.6.4.12]
+* RHZ35726.1          K07171   19.37  107.1   1.5e-31 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ35728.1          K00573   96.73  138.6   4.5e-41 protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]
+* RHZ35740.1          K07171   19.37   60.8   2.1e-17 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ35748.1          K00573   96.73  138.6   4.5e-41 protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]
+* RHZ35758.1          K01889  109.70  339.4  5.5e-102 phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+* RHZ35762.1          K04564   29.40  141.8   4.3e-42 superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+* RHZ35792.1          K07171   19.37   75.9     5e-22 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ35801.1          K07494   74.50   84.0   1.9e-24 putative transposase
+* RHZ35843.1          K07171   19.37   24.5   2.6e-06 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ35864.1          K07171   19.37   68.8   7.5e-20 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ35879.1          K06223   68.57  274.8   2.1e-82 DNA adenine methylase [EC:2.1.1.72]
+* RHZ35879.1          K01155   25.73   87.5   2.3e-25 type II restriction enzyme [EC:3.1.21.4]
+* RHZ35907.1          K07171   19.37   97.9   9.7e-29 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ35910.1          K07171   19.37   87.5   1.5e-25 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ35941.1          K07171   19.37   73.2   3.5e-21 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ35946.1          K21498   47.93  103.3   1.7e-30 antitoxin HigA-1
+* RHZ35963.1          K02982  108.80  124.3   7.9e-37 small subunit ribosomal protein S3
+* RHZ35964.1          K02878   86.63  149.6   1.7e-44 large subunit ribosomal protein L16
+* RHZ35965.1          K02914   18.57   53.4   2.8e-15 large subunit ribosomal protein L34
+* RHZ35966.1          K02886  162.97  325.8   6.8e-98 large subunit ribosomal protein L2
+* RHZ35968.1          K02890   79.10   85.2   7.2e-25 large subunit ribosomal protein L22
+* RHZ35971.1          K01885  303.63  534.6  6.3e-161 glutamyl-tRNA synthetase [EC:6.1.1.17]
+* RHZ35978.1          K07496   31.67  108.3   5.8e-32 putative transposase
+* RHZ35989.1          K03070  152.83  720.9  3.6e-217 preprotein translocase subunit SecA [EC:7.4.2.8]
+* RHZ35996.1          K03427   97.00  263.5   6.8e-79 type I restriction enzyme M protein [EC:2.1.1.72]
+* RHZ36009.1          K21498   47.93   79.9   2.8e-23 antitoxin HigA-1
+* RHZ36013.1          K02316   54.50  304.0   5.1e-91 DNA primase [EC:2.7.7.101]
+* RHZ36021.1          K03168  435.60  520.1  2.1e-156 DNA topoisomerase I [EC:5.6.2.1]
+* RHZ36035.1          K07171   19.37   80.7   1.8e-23 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36045.1          K01870  514.83  607.1  1.2e-182 isoleucyl-tRNA synthetase [EC:6.1.1.5]
+* RHZ36049.1          K02838   26.67  121.6   4.5e-36 ribosome recycling factor
+* RHZ36053.1          K02996  107.43  171.1   4.9e-51 small subunit ribosomal protein S9
+* RHZ36055.1          K02871   70.00  159.4   1.6e-47 large subunit ribosomal protein L13
+* RHZ36056.1          K03763  228.33 1015.1         0 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* RHZ36056.1          K02342  108.03  116.6   1.6e-34 DNA polymerase III subunit epsilon [EC:2.7.7.7]
+* RHZ36056.1          K09951   23.40   34.6   1.7e-09 CRISPR-associated protein Cas2
+* RHZ36072.1          K21498   47.93   96.0   3.1e-28 antitoxin HigA-1
+* RHZ36077.1          K00857   96.13  192.9   1.4e-57 thymidine kinase [EC:2.7.1.21]
+* RHZ36122.1          K07171   19.37   33.7   4.1e-09 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36124.1          K07171   19.37   81.4     1e-23 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36133.1          K07171   19.37   89.6   3.3e-26 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36138.1          K07494   74.50   91.4   1.1e-26 putative transposase
+* RHZ36141.1          K07171   19.37   37.7   2.5e-10 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36156.1          K07171   19.37   43.0   5.8e-12 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36157.1          K07171   19.37   44.3   2.4e-12 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36170.1          K07171   19.37   66.3   4.4e-19 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36173.1          K07488   43.87  108.8   4.6e-32 transposase
+* RHZ36180.1          K07171   19.37   88.2   8.7e-26 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36189.1          K07171   19.37   88.3   8.2e-26 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36196.1          K07171   19.37   79.6   3.9e-23 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36217.1          K07334   76.87   94.2   1.1e-27 toxin HigB-1
+* RHZ36221.1          K09760   96.00  187.5     6e-56 DNA recombination protein RmuC
+* RHZ36232.1          K21498   47.93   71.7   9.6e-21 antitoxin HigA-1
+* RHZ36237.1          K07171   19.37   93.6   1.9e-27 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36246.1          K02933  112.43  180.4   8.3e-54 large subunit ribosomal protein L6
+* RHZ36249.1          K02876   42.03  113.2   2.4e-33 large subunit ribosomal protein L15
+* RHZ36250.1          K02988  140.23  143.6   1.2e-42 small subunit ribosomal protein S5
+* RHZ36253.1          K07488   43.87   99.0   4.6e-29 transposase
+* RHZ36264.1          K00525  363.03  584.0  5.8e-176 ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]
+* RHZ36266.1          K02954   24.90   29.2     1e-07 small subunit ribosomal protein S14
+* RHZ36267.1          K02994   89.83  126.8   1.2e-37 small subunit ribosomal protein S8
+* RHZ36270.1          K02888   25.87   65.2   9.3e-19 large subunit ribosomal protein L21
+* RHZ36271.1          K01874  236.63  534.5    8e-161 methionyl-tRNA synthetase [EC:6.1.1.10]
+* RHZ36272.1          K01255  418.07  457.6  1.6e-137 leucyl aminopeptidase [EC:3.4.11.1]
+* RHZ36294.1          K07494   74.50   91.4   1.1e-26 putative transposase
+* RHZ36313.1          K07171   19.37   93.6     2e-27 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36322.1          K01265  125.50  228.4   3.3e-68 methionyl aminopeptidase [EC:3.4.11.18]
+* RHZ36323.1          K02919   27.60   66.1   6.5e-19 large subunit ribosomal protein L36
+* RHZ36327.1          K01426  211.53  240.6     6e-72 amidase [EC:3.5.1.4]
+* RHZ36340.1          K02887   55.13  141.0   6.6e-42 large subunit ribosomal protein L20
+* RHZ36342.1          K01876  291.87  337.3  3.3e-101 aspartyl-tRNA synthetase [EC:6.1.1.12]
+* RHZ36355.1          K03424   88.03  273.5   4.5e-82 TatD DNase family protein [EC:3.1.21.-]
+* RHZ36357.1          K02864   56.00   95.5   6.6e-28 large subunit ribosomal protein L10
+* RHZ36359.1          K01874  236.63  514.4  9.4e-155 methionyl-tRNA synthetase [EC:6.1.1.10]
+* RHZ36362.1          K02888   25.87   69.9   3.6e-20 large subunit ribosomal protein L21
+* RHZ36365.1          K21498   47.93  112.7   2.2e-33 antitoxin HigA-1
+* RHZ36366.1          K07334   76.87   84.1   1.4e-24 toxin HigB-1
+* RHZ36374.1          K07584   35.60   72.1   8.1e-21 uncharacterized protein
+* RHZ36394.1          K01867  137.37  296.4   5.8e-89 tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+* RHZ36398.1          K01873  589.77  747.9  2.6e-225 valyl-tRNA synthetase [EC:6.1.1.9]
+* RHZ36400.1          K03427   97.00  130.1   1.7e-38 type I restriction enzyme M protein [EC:2.1.1.72]
+* RHZ36402.1          K01507   23.07  140.8   1.3e-41 inorganic pyrophosphatase [EC:3.6.1.1]
+* RHZ36403.1          K02909   22.33   37.2   3.2e-10 large subunit ribosomal protein L31
+* RHZ36405.1          K02428  123.23  142.6   2.7e-42 XTP/dITP diphosphohydrolase [EC:3.6.1.66]
+* RHZ36407.1          K10563  195.93  262.1   1.3e-78 formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+* RHZ36408.1          K03553  103.57  273.4   5.2e-82 recombination protein RecA
+* RHZ36417.1          K01893  376.90  514.2  8.2e-155 asparaginyl-tRNA synthetase [EC:6.1.1.22]
+* RHZ36417.1          K01154   25.93   53.5   2.9e-15 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* RHZ36434.1          K19164   24.20   24.9   2.5e-06 antitoxin CcdA
+* RHZ36435.1          K18554  117.60  127.1     1e-37 chloramphenicol 3-O phosphotransferase [EC:2.7.1.-]
+* RHZ36436.1          K02916   22.97   42.5   1.1e-11 large subunit ribosomal protein L35
+* RHZ36440.1          K01255  418.07  434.5  1.4e-130 leucyl aminopeptidase [EC:3.4.11.1]
+* RHZ36442.1          K01890  121.63  282.2   1.3e-84 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* RHZ36462.1          K00560   77.53  380.5  1.4e-114 thymidylate synthase [EC:2.1.1.45]
+* RHZ36466.1          K02926   76.47  217.5   4.8e-65 large subunit ribosomal protein L4
+* RHZ36467.1          K01866   93.67  245.8   1.3e-73 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+* RHZ36470.1          K03427   97.00  264.5   3.4e-79 type I restriction enzyme M protein [EC:2.1.1.72]
+* RHZ36470.1          K01154   25.93   64.9     1e-18 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* RHZ36476.1          K07171   19.37   80.7   1.7e-23 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36485.1          K01873  589.77  754.6  2.4e-227 valyl-tRNA synthetase [EC:6.1.1.9]
+* RHZ36493.1          K07171   19.37   77.6   1.5e-22 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36509.1          K03685  157.10  211.0     5e-63 ribonuclease III [EC:3.1.26.3]
+* RHZ36512.1          K04075  115.90  192.2   2.5e-57 tRNA(Ile)-lysidine synthase [EC:6.3.4.19]
+* RHZ36515.1          K01893  376.90  619.6  1.1e-186 asparaginyl-tRNA synthetase [EC:6.1.1.22]
+* RHZ36518.1          K07316  209.03  268.2   2.3e-80 adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+* RHZ36522.1          K07171   19.37   85.6   5.4e-25 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36526.1          K01156  140.97  246.3   1.1e-73 type III restriction enzyme [EC:3.1.21.5]
+* RHZ36551.1          K03536   19.73   67.1   2.8e-19 ribonuclease P protein component [EC:3.1.26.5]
+* RHZ36553.1          K01875   76.07  365.6  5.6e-110 seryl-tRNA synthetase [EC:6.1.1.11]
+* RHZ36562.1          K01867  137.37  301.6   1.5e-90 tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+* RHZ36565.1          K21498   47.93   86.6   2.4e-25 antitoxin HigA-1
+* RHZ36566.1          K07494   74.50   87.3     2e-25 putative transposase
+* RHZ36586.1          K01892  276.97  277.6   2.9e-83 histidyl-tRNA synthetase [EC:6.1.1.21]
+* RHZ36608.1          K08602  124.97  508.4  5.2e-153 oligoendopeptidase F [EC:3.4.24.-]
+* RHZ36625.1          K00573   96.73  250.4   6.2e-75 protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]
+* RHZ36626.1          K03470  129.20  244.4   2.8e-73 ribonuclease HII [EC:3.1.26.4]
+* RHZ36628.1          K00940  131.40  247.2   4.9e-74 nucleoside-diphosphate kinase [EC:2.7.4.6]
+* RHZ36629.1          K01056   46.53  235.6   1.1e-70 peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+* RHZ36630.1          K03427   97.00  176.2   1.8e-52 type I restriction enzyme M protein [EC:2.1.1.72]
+* RHZ36634.1          K01271  377.77  390.6  1.5e-117 Xaa-Pro dipeptidase [EC:3.4.13.9]
+* RHZ36634.1          K01262  246.37  273.9   5.1e-82 Xaa-Pro aminopeptidase [EC:3.4.11.9]
+* RHZ36634.1          K01265  125.50  133.6   1.6e-39 methionyl aminopeptidase [EC:3.4.11.18]
+* RHZ36635.1          K07496   31.67  313.7     4e-94 putative transposase
+* RHZ36636.1          K00566  428.00  471.0  4.2e-142 tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+* RHZ36637.1          K01156  140.97  311.7     2e-93 type III restriction enzyme [EC:3.1.21.5]
+* RHZ36638.1          K02879   35.07   74.7   1.3e-21 large subunit ribosomal protein L17
+* RHZ36652.1          K01154   25.93   58.8   7.6e-17 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* RHZ36677.1          K02956   32.03   70.1   3.4e-20 small subunit ribosomal protein S15
+* RHZ36689.1          K01872  198.30  267.4   3.9e-80 alanyl-tRNA synthetase [EC:6.1.1.7]
+* RHZ36692.1          K02909   22.33   37.6   2.4e-10 large subunit ribosomal protein L31
+* RHZ36695.1          K01409   84.10  398.1  1.3e-119 N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+* RHZ36696.1          K02986   77.73  154.9   4.2e-46 small subunit ribosomal protein S4
+* RHZ36700.1          K07171   19.37   58.8   8.7e-17 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36715.1          K18626   84.83   97.8   5.5e-29 trichohyalin
+* RHZ36732.1          K12574  172.07  584.0  7.7e-176 ribonuclease J [EC:3.1.-.-]
+* RHZ36750.1          K03687   30.90  105.6   4.2e-31 molecular chaperone GrpE
+* RHZ36752.1          K02434  265.63  361.3  1.9e-108 aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+* RHZ36768.1          K03046  542.03  986.0  6.1e-297 DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+* RHZ36769.1          K03043  365.63  927.1  2.3e-279 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+* RHZ36770.1          K02935   28.83   33.3   5.4e-09 large subunit ribosomal protein L7/L12
+* RHZ36779.1          K01972  100.33  646.2  1.4e-194 DNA ligase (NAD+) [EC:6.5.1.2]
+* RHZ36784.1          K03424   88.03  256.4     7e-77 TatD DNase family protein [EC:3.1.21.-]
+* RHZ36788.1          K07584   35.60   73.8   2.4e-21 uncharacterized protein
+* RHZ36789.1          K01887   47.77  367.5  2.2e-110 arginyl-tRNA synthetase [EC:6.1.1.19]
+* RHZ36790.1          K03427   97.00  152.1   3.7e-45 type I restriction enzyme M protein [EC:2.1.1.72]
+* RHZ36792.1          K21498   47.93   98.5   5.3e-29 antitoxin HigA-1
+* RHZ36805.1          K10563  195.93  271.5   1.8e-81 formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+* RHZ36806.1          K01890  121.63  289.4   9.1e-87 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* RHZ36810.1          K02906  123.00  251.1   3.5e-75 large subunit ribosomal protein L3
+* RHZ36811.1          K01493   82.97  196.0   1.4e-58 dCMP deaminase [EC:3.5.4.12]
+* RHZ36817.1          K03657  379.80  522.2  4.8e-157 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]
+* RHZ36824.1          K03702  143.73  932.7  6.1e-281 excinuclease ABC subunit B
+* RHZ36828.1          K02503   86.80  108.1   6.5e-32 histidine triad (HIT) family protein
+* RHZ36829.1          K03438  118.37  380.8  1.5e-114 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+* RHZ36835.1          K00384  339.83  346.6    4e-104 thioredoxin reductase (NADPH) [EC:1.8.1.9]
+* RHZ36837.1          K00943   98.17  159.3   1.9e-47 dTMP kinase [EC:2.7.4.9]
+* RHZ36840.1          K02864   56.00   99.4   4.1e-29 large subunit ribosomal protein L10
+* RHZ36843.1          K00287   53.23  147.1   9.6e-44 dihydrofolate reductase [EC:1.5.1.3]
+* RHZ36850.1          K04567  302.73  649.6  1.1e-195 lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+* RHZ36853.1          K02899   49.63   83.7     2e-24 large subunit ribosomal protein L27
+* RHZ36854.1          K06999  106.67  113.6   1.5e-33 phospholipase/carboxylesterase
+* RHZ36857.1          K00554  127.83  278.6   1.2e-83 tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]
+* RHZ36859.1          K07566   83.40  121.0   8.9e-36 L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]
+* RHZ36861.1          K01507   23.07  136.5   2.5e-40 inorganic pyrophosphatase [EC:3.6.1.1]
+* RHZ36872.1          K04564   29.40  142.2   3.4e-42 superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+* RHZ36878.1          K02874  102.87  107.9   7.2e-32 large subunit ribosomal protein L14
+* RHZ36880.1          K01889  109.70  336.7  3.6e-101 phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+* RHZ36882.1          K01154   25.93   58.8   7.6e-17 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* RHZ36885.1          K07494   74.50  100.9   1.4e-29 putative transposase
+* RHZ36888.1          K02931   99.93  206.2     6e-62 large subunit ribosomal protein L5
+* RHZ36895.1          K02884   22.50   53.1   4.7e-15 large subunit ribosomal protein L19
+* RHZ36912.1          K07494   74.50  100.9   1.4e-29 putative transposase
+* RHZ36913.1          K03427   97.00  176.2   1.8e-52 type I restriction enzyme M protein [EC:2.1.1.72]
+* RHZ36916.1          K01869  429.83  956.9  3.3e-288 leucyl-tRNA synthetase [EC:6.1.1.4]
+* RHZ36919.1          K02887   55.13  136.5   1.5e-40 large subunit ribosomal protein L20
+* RHZ36920.1          K02911   21.47   42.8   7.6e-12 large subunit ribosomal protein L32
+* RHZ36925.1          K01876  291.87  338.8  1.1e-101 aspartyl-tRNA synthetase [EC:6.1.1.12]
+* RHZ36927.1          K07052   25.67   45.1   9.6e-13 uncharacterized protein
+* RHZ36938.1          K18682  118.43  498.5  3.1e-150 ribonucrease Y [EC:3.1.-.-]
+* RHZ36945.1          K03495  121.13  739.2  8.8e-223 tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+* RHZ36946.1          K02863   98.10  171.6     4e-51 large subunit ribosomal protein L1
+* RHZ36948.1          K01151  122.83  303.8   2.3e-91 deoxyribonuclease IV [EC:3.1.21.2]
+* RHZ36949.1          K03979  160.43  446.0  2.9e-134 GTPase [EC:3.6.5.-]
+* RHZ36951.1          K09769   82.67  299.7   2.2e-90 uncharacterized protein
+* RHZ36953.1          K07052   25.67   49.5   4.4e-14 uncharacterized protein
+* RHZ36955.1          K02519  306.67  502.3  4.4e-151 translation initiation factor IF-2
+* RHZ36956.1          K02600   40.37  194.0   5.7e-58 transcription termination/antitermination protein NusA
+* RHZ36960.1          K02916   22.97   40.7     4e-11 large subunit ribosomal protein L35
+* RHZ36962.1          K03799  133.77  183.2   1.2e-54 heat shock protein HtpX [EC:3.4.24.-]
+* RHZ36963.1          K01890  121.63  228.5   2.3e-68 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* RHZ36971.1          K02967  138.30  178.7   2.1e-53 small subunit ribosomal protein S2
+* RHZ36972.1          K07052   25.67   46.1   4.8e-13 uncharacterized protein
+* RHZ36973.1          K02867   66.80   93.3   2.4e-27 large subunit ribosomal protein L11
+* RHZ36978.1          K03648   88.37  250.2   8.6e-75 uracil-DNA glycosylase [EC:3.2.2.27]
+* RHZ36980.1          K03218  217.53  227.8   2.5e-68 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+* RHZ36981.1          K02968   35.03   44.9   1.6e-12 small subunit ribosomal protein S20
+* RHZ36987.1          K02835  355.80  407.9  1.4e-122 peptide chain release factor 1
+* RHZ36989.1          K19221  115.87  174.9   4.5e-52 cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+* RHZ36990.1          K03977  204.07  307.2   3.1e-92 GTPase
+* RHZ36991.1          K07171   19.37   25.2   1.7e-06 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ36998.1          K02939   47.80   90.0   2.6e-26 large subunit ribosomal protein L9
+* RHZ36999.1          K00962  149.47  634.9  3.2e-191 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* RHZ37005.1          K06925   47.07  111.4   7.7e-33 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+* RHZ37009.1          K00600   55.33  595.6  1.9e-179 glycine hydroxymethyltransferase [EC:2.1.2.1]
+* RHZ37013.1          K03703  248.20  447.9  1.2e-134 excinuclease ABC subunit C
+* RHZ37018.1          K02959   28.23   86.7   2.8e-25 small subunit ribosomal protein S16
+* RHZ37020.1          K03652   51.33  218.9   1.6e-65 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* RHZ37021.1          K02913   23.47   29.2   1.3e-07 large subunit ribosomal protein L33
+* RHZ37023.1          K00029  301.23  521.3  4.6e-157 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+* RHZ37027.1          K03553  103.57  270.7   3.2e-81 recombination protein RecA
+* RHZ37030.1          K01154   25.93   45.1   1.1e-12 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* RHZ37031.1          K03427   97.00  278.3   2.1e-83 type I restriction enzyme M protein [EC:2.1.1.72]
+* RHZ37031.1          K01154   25.93   92.4   4.5e-27 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* RHZ37035.1          K02950   85.93  194.2   6.1e-58 small subunit ribosomal protein S12
+* RHZ37036.1          K02992  105.13  119.6   1.7e-35 small subunit ribosomal protein S7
+* RHZ37038.1          K02520   51.07  108.4   6.6e-32 translation initiation factor IF-3
+* RHZ37039.1          K03177  215.57  295.4   1.2e-88 tRNA pseudouridine55 synthase [EC:5.4.99.25]
+* RHZ37040.1          K02355  515.13  891.2  1.5e-268 elongation factor G
+* RHZ37041.1          K00945   76.83  205.7     2e-61 CMP/dCMP kinase [EC:2.7.4.25]
+* RHZ37043.1          K18554  117.60  118.8   3.6e-35 chloramphenicol 3-O phosphotransferase [EC:2.7.1.-]
+* RHZ37045.1          K01868  140.00  456.1  4.3e-137 threonyl-tRNA synthetase [EC:6.1.1.3]
+* RHZ37052.1          K03650  167.93  443.8  2.1e-133 tRNA modification GTPase [EC:3.6.-.-]
+* RHZ37054.1          K02358  348.87  625.9  1.9e-188 elongation factor Tu
+* RHZ37057.1          K03664   28.77  131.0   7.2e-39 SsrA-binding protein
+* RHZ37059.1          K01880  107.30  309.2   1.1e-92 glycyl-tRNA synthetase [EC:6.1.1.14]
+* RHZ37103.1          K01409   84.10  413.0  4.1e-124 N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+* RHZ37108.1          K02874  102.87  105.1   5.3e-31 large subunit ribosomal protein L14
+* RHZ37109.1          K03652   51.33   73.8   2.2e-21 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* RHZ37112.1          K12574  172.07  588.1  4.4e-177 ribonuclease J [EC:3.1.-.-]
+* RHZ37114.1          K07052   25.67   77.5   1.3e-22 uncharacterized protein
+* RHZ37123.1          K01883  398.70  482.2  6.2e-145 cysteinyl-tRNA synthetase [EC:6.1.1.16]
+* RHZ37125.1          K02434  265.63  369.3  7.2e-111 aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+* RHZ37128.1          K02956   32.03   69.7   4.3e-20 small subunit ribosomal protein S15
+* RHZ37132.1          K19221  115.87  176.7   1.3e-52 cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+* RHZ37135.1          K07488   43.87   81.8   8.3e-24 transposase
+* RHZ37137.1          K07566   83.40  116.4   2.2e-34 L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]
+* RHZ37138.1          K03799  133.77  183.5   9.2e-55 heat shock protein HtpX [EC:3.4.24.-]
+* RHZ37140.1          K06925   47.07  110.7   1.3e-32 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+* RHZ37142.1          K01868  140.00  439.6  4.4e-132 threonyl-tRNA synthetase [EC:6.1.1.3]
+* RHZ37143.1          K00940  131.40  232.0     2e-69 nucleoside-diphosphate kinase [EC:2.7.4.6]
+* RHZ37144.1          K07496   31.67   43.5   2.5e-12 putative transposase
+* RHZ37158.1          K01154   25.93   42.9   4.8e-12 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* RHZ37159.1          K02876   42.03  111.7     7e-33 large subunit ribosomal protein L15
+* RHZ37165.1          K02988  140.23  147.2   9.6e-44 small subunit ribosomal protein S5
+* RHZ37166.1          K02881   60.30   70.7   2.2e-20 large subunit ribosomal protein L18
+* RHZ37181.1          K02503   86.80  121.0   7.4e-36 histidine triad (HIT) family protein
+* RHZ37182.1          K00525  363.03  582.0  2.4e-175 ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]
+* RHZ37188.1          K18918   41.03   45.4   1.1e-12 RHH-type transcriptional regulator, rel operon repressor / antitoxin RelB
+* RHZ37191.1          K07496   31.67  178.5   3.3e-53 putative transposase
+* RHZ37192.1          K02519  306.67  479.6  3.4e-144 translation initiation factor IF-2
+* RHZ37195.1          K02600   40.37  196.1   1.3e-58 transcription termination/antitermination protein NusA
+* RHZ37196.1          K00287   53.23  150.2   1.1e-44 dihydrofolate reductase [EC:1.5.1.3]
+* RHZ37197.1          K01875   76.07  360.7  1.7e-108 seryl-tRNA synthetase [EC:6.1.1.11]
+* RHZ37207.1          K04075  115.90  196.6   1.2e-58 tRNA(Ile)-lysidine synthase [EC:6.3.4.19]
+* RHZ37212.1          K03685  157.10  211.6   3.3e-63 ribonuclease III [EC:3.1.26.3]
+* RHZ37214.1          K04567  302.73  657.7    4e-198 lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+* RHZ37224.1          K03495  121.13  731.2  2.3e-220 tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+* RHZ37225.1          K00554  127.83  278.3   1.5e-83 tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]
+* RHZ37226.1          K06999  106.67  107.0   1.5e-31 phospholipase/carboxylesterase
+* RHZ37229.1          K03427   97.00  257.4   4.5e-77 type I restriction enzyme M protein [EC:2.1.1.72]
+* RHZ37229.1          K01154   25.93   90.7   1.5e-26 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* RHZ37232.1          K02316   54.50  303.8   5.8e-91 DNA primase [EC:2.7.7.101]
+* RHZ37236.1          K01154   25.93   47.2   2.4e-13 type I restriction enzyme, S subunit [EC:3.1.21.3]
+* RHZ37238.1          K00029  301.23  524.0  7.3e-158 malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+* RHZ37239.1          K01493   82.97  194.8   3.1e-58 dCMP deaminase [EC:3.5.4.12]
+* RHZ37240.1          K03470  129.20  247.6   2.9e-74 ribonuclease HII [EC:3.1.26.4]
+* RHZ37242.1          K03703  248.20  448.1    1e-134 excinuclease ABC subunit C
+* RHZ37243.1          K03168  435.60  521.0  1.1e-156 DNA topoisomerase I [EC:5.6.2.1]
+* RHZ37244.1          K03664   28.77  129.6   1.8e-38 SsrA-binding protein
+* RHZ37276.1          K02884   22.50   60.3   3.1e-17 large subunit ribosomal protein L19
+* RHZ37277.1          K18554  117.60  160.1   8.6e-48 chloramphenicol 3-O phosphotransferase [EC:2.7.1.-]
+* RHZ37278.1          K02520   51.07  104.7   9.2e-31 translation initiation factor IF-3
+* RHZ37279.1          K02950   85.93  201.0   4.8e-60 small subunit ribosomal protein S12
+* RHZ37280.1          K02992  105.13  124.6   5.4e-37 small subunit ribosomal protein S7
+* RHZ37281.1          K02355  515.13  886.9  2.9e-267 elongation factor G
+* RHZ37282.1          K00945   76.83  202.0   2.5e-60 CMP/dCMP kinase [EC:2.7.4.25]
+* RHZ37291.1          K01426  211.53  242.9   1.2e-72 amidase [EC:3.5.1.4]
+* RHZ37292.1          K03650  167.93  441.6  9.8e-133 tRNA modification GTPase [EC:3.6.-.-]
+* RHZ37293.1          K00566  428.00  476.6  8.2e-144 tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+* RHZ37294.1          K03979  160.43  439.1  3.7e-132 GTPase [EC:3.6.5.-]
+* RHZ37295.1          K01972  100.33  660.8  5.3e-199 DNA ligase (NAD+) [EC:6.5.1.2]
+* RHZ37296.1          K03218  217.53  225.8     1e-67 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+* RHZ37297.1          K02968   35.03   39.7   6.5e-11 small subunit ribosomal protein S20
+* RHZ37298.1          K09769   82.67  298.8   4.3e-90 uncharacterized protein
+* RHZ37302.1          K01880  107.30  305.7   1.3e-91 glycyl-tRNA synthetase [EC:6.1.1.14]
+* RHZ37305.1          K07488   43.87  108.3   6.8e-32 transposase
+* RHZ37306.1          K03702  143.73  938.3  1.2e-282 excinuclease ABC subunit B
+* RHZ37310.1          K02863   98.10  168.5   3.6e-50 large subunit ribosomal protein L1
+* RHZ37311.1          K02994   89.83  126.6   1.4e-37 small subunit ribosomal protein S8
+* RHZ37312.1          K02933  112.43  175.7   2.2e-52 large subunit ribosomal protein L6
+* RHZ37314.1          K02899   49.63   78.7   6.6e-23 large subunit ribosomal protein L27
+* RHZ37317.1          K01890  121.63  232.7   1.2e-69 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* RHZ37319.1          K02838   26.67  121.3   5.5e-36 ribosome recycling factor
+* RHZ37339.1          K03427   97.00  140.8   9.8e-42 type I restriction enzyme M protein [EC:2.1.1.72]
+* RHZ37340.1          K07052   25.67   43.4   3.2e-12 uncharacterized protein
+* RHZ37341.1          K02963   71.50   72.3   7.1e-21 small subunit ribosomal protein S18
+* RHZ37345.1          K03070  152.83  721.0  3.2e-217 preprotein translocase subunit SecA [EC:7.4.2.8]
+* RHZ37350.1          K07488   43.87  106.8   1.8e-31 transposase
+* RHZ37372.1          K03687   30.90  107.3   1.3e-31 molecular chaperone GrpE
+* RHZ37406.1          K01056   46.53  234.9   1.9e-70 peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+* RHZ37464.1          K00857   96.13  191.4   4.3e-57 thymidine kinase [EC:2.7.1.21]
+* RHZ37472.1          K01887   47.77  356.6  4.5e-107 arginyl-tRNA synthetase [EC:6.1.1.19]
+* RHZ37473.1          K02906  123.00  254.5   3.3e-76 large subunit ribosomal protein L3
+* RHZ37488.1          K07488   43.87  108.3   6.8e-32 transposase
+* RHZ37499.1          K02886  162.97  325.4   8.9e-98 large subunit ribosomal protein L2
+* RHZ37504.1          K01872  198.30  270.5   4.5e-81 alanyl-tRNA synthetase [EC:6.1.1.7]
+* RHZ37508.1          K02878   86.63  154.2   6.8e-46 large subunit ribosomal protein L16
+* RHZ37510.1          K02890   79.10   97.4   1.4e-28 large subunit ribosomal protein L22
+* RHZ37513.1          K02939   47.80   95.7   4.9e-28 large subunit ribosomal protein L9
+* RHZ37514.1          K00962  149.47  642.2    2e-193 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* RHZ37516.1          K00384  339.83  348.3  1.3e-104 thioredoxin reductase (NADPH) [EC:1.8.1.9]
+* RHZ37519.1          K21064  178.67  180.5   6.8e-54 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+* RHZ37527.1          K01156  140.97  186.2   1.6e-55 type III restriction enzyme [EC:3.1.21.5]
+* RHZ37528.1          K07171   19.37  103.7   1.6e-30 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ37529.1          K03177  215.57  299.5   6.6e-90 tRNA pseudouridine55 synthase [EC:5.4.99.25]
+* RHZ37532.1          K01870  514.83  608.7    4e-183 isoleucyl-tRNA synthetase [EC:6.1.1.5]
+* RHZ37533.1          K07316  209.03  276.0     1e-82 adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+* RHZ37548.1          K02926   76.47  225.9   1.3e-67 large subunit ribosomal protein L4
+* RHZ37550.1          K01885  303.63  521.8  4.6e-157 glutamyl-tRNA synthetase [EC:6.1.1.17]
+* RHZ37553.1          K01866   93.67  245.8   1.3e-73 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+* RHZ37555.1          K18554  117.60  131.0   6.6e-39 chloramphenicol 3-O phosphotransferase [EC:2.7.1.-]
+* RHZ37556.1          K02914   18.57   54.0   1.8e-15 large subunit ribosomal protein L34
+* RHZ37557.1          K00943   98.17  147.0   9.7e-44 dTMP kinase [EC:2.7.4.9]
+* RHZ37563.1          K07496   31.67  114.5   7.7e-34 putative transposase
+* RHZ37564.1          K02952  115.63  119.6   1.7e-35 small subunit ribosomal protein S13
+* RHZ37569.1          K07334   76.87   91.2   9.3e-27 toxin HigB-1
+* RHZ37570.1          K21498   47.93  104.0   1.1e-30 antitoxin HigA-1
+* RHZ37573.1          K07494   74.50   84.0   1.9e-24 putative transposase
+* RHZ37584.1          K01265  125.50  234.5   4.6e-70 methionyl aminopeptidase [EC:3.4.11.18]
+* RHZ37586.1          K02871   70.00  155.8   2.1e-46 large subunit ribosomal protein L13
+* RHZ37587.1          K02996  107.43  169.2   1.9e-50 small subunit ribosomal protein S9
+* RHZ37588.1          K03648   88.37  234.9   3.9e-70 uracil-DNA glycosylase [EC:3.2.2.27]
+* RHZ37589.1          K03427   97.00  334.3  2.3e-100 type I restriction enzyme M protein [EC:2.1.1.72]
+* RHZ37590.1          K02913   23.47   28.2   2.6e-07 large subunit ribosomal protein L33
+* RHZ37591.1          K03763  228.33 1013.8         0 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* RHZ37591.1          K02342  108.03  118.3     5e-35 DNA polymerase III subunit epsilon [EC:2.7.7.7]
+* RHZ37591.1          K09951   23.40   36.6   4.4e-10 CRISPR-associated protein Cas2
+* RHZ37593.1          K02959   28.23  106.8   2.1e-31 small subunit ribosomal protein S16
+* RHZ37602.1          K07171   19.37   62.0   9.1e-18 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ37632.1          K02879   35.07   83.1   3.7e-24 large subunit ribosomal protein L17
+* RHZ37633.1          K07052   25.67   47.1   2.4e-13 uncharacterized protein
+* RHZ37639.1          K03977  204.07  313.4     4e-94 GTPase
+* RHZ37647.1          K03438  118.37  371.2  1.3e-111 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+* RHZ37649.1          K02967  138.30  189.5   1.1e-56 small subunit ribosomal protein S2
+* RHZ37652.1          K18682  118.43  497.2  7.6e-150 ribonucrease Y [EC:3.1.-.-]
+* RHZ37655.1          K02835  355.80  398.7  8.4e-120 peptide chain release factor 1
+* RHZ37656.1          K03427   97.00  251.3   3.4e-75 type I restriction enzyme M protein [EC:2.1.1.72]
+* RHZ37659.1          K07171   19.37   88.8   5.8e-26 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ37660.1          K01156  140.97  178.5   3.3e-53 type III restriction enzyme [EC:3.1.21.5]
+* RHZ37662.1          K02931   99.93  210.6   2.8e-63 large subunit ribosomal protein L5
+* RHZ37672.1          K01869  429.83  634.6  6.1e-191 leucyl-tRNA synthetase [EC:6.1.1.4]
+* RHZ37684.1          K07171   19.37   44.3   2.4e-12 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ37690.1          K11754  366.00  397.7  1.2e-119 dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]
+* RHZ37691.1          K03652   51.33  216.4   9.2e-65 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* RHZ37699.1          K02935   28.83   36.9   4.5e-10 large subunit ribosomal protein L7/L12
+* RHZ37704.1          K03046  542.03 1135.2         0 DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+* RHZ37704.1          K03043  365.63  920.7    2e-277 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+* RHZ37705.1          K00600   55.33  580.8  5.5e-175 glycine hydroxymethyltransferase [EC:2.1.2.1]
+* RHZ37724.1          K07171   19.37   93.6     2e-27 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ37732.1          K02986   77.73  155.9   2.1e-46 small subunit ribosomal protein S4
+* RHZ37735.1          K13993   74.27   87.6   1.2e-25 HSP20 family protein
+* RHZ37739.1          K03536   19.73   66.5   4.4e-19 ribonuclease P protein component [EC:3.1.26.5]
+* RHZ37741.1          K06934   32.83   71.6   8.6e-21 uncharacterized protein
+* RHZ37746.1          K03427   97.00  139.4   2.6e-41 type I restriction enzyme M protein [EC:2.1.1.72]
+* RHZ37762.1          K03657  379.80  519.6  2.8e-156 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]
+* RHZ37780.1          K07171   19.37   83.0   3.4e-24 mRNA interferase MazF [EC:3.1.-.-]
+* RHZ37781.1          K00560   77.53  383.0  2.3e-115 thymidylate synthase [EC:2.1.1.45]
+* RHZ37786.1          K02358  348.87  594.4  6.1e-179 elongation factor Tu
+* RHZ37788.1          K08602  124.97  502.6    3e-151 oligoendopeptidase F [EC:3.4.24.-]
+* RHZ37794.1          K06218   35.80   54.5   3.4e-15 mRNA interferase RelE/StbE

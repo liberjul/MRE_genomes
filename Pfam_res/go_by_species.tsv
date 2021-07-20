@@ -1,0 +1,1774 @@
+Species	GO_term	GO_description	Count
+DhMREa_prot	GO:0004672	protein kinase activity	6
+DhMREa_prot	GO:0006468	protein phosphorylation	6
+DhMREa_prot	GO:0006260	DNA replication	3
+DhMREa_prot	GO:0055114	oxidation-reduction process	4
+DhMREa_prot	GO:0000166	nucleotide binding	15
+DhMREa_prot	GO:0004812	aminoacyl-tRNA ligase activity	16
+DhMREa_prot	GO:0005524	ATP binding	44
+DhMREa_prot	GO:0006418	tRNA aminoacylation for protein translation	14
+DhMREa_prot	GO:0003735	structural constituent of ribosome	35
+DhMREa_prot	GO:0006412	translation	34
+DhMREa_prot	GO:0005840	ribosome	33
+DhMREa_prot	GO:0003899	DNA-directed 5'-3' RNA polymerase activity	3
+DhMREa_prot	GO:0006351	transcription DNA-templated	3
+DhMREa_prot	GO:0004813	alanine-tRNA ligase activity	2
+DhMREa_prot	GO:0006419	alanyl-tRNA aminoacylation	2
+DhMREa_prot	GO:0016491	oxidoreductase activity	1
+DhMREa_prot	GO:0003743	translation initiation factor activity	2
+DhMREa_prot	GO:0006413	translational initiation	2
+DhMREa_prot	GO:0009405	pathogenesis	2
+DhMREa_prot	GO:0016020	membrane	2
+DhMREa_prot	GO:0005509	calcium ion binding	1
+DhMREa_prot	GO:0005576	extracellular region	2
+DhMREa_prot	GO:0003677	DNA binding	44
+DhMREa_prot	GO:0045454	cell redox homeostasis	1
+DhMREa_prot	GO:0004810	tRNA adenylyltransferase activity	1
+DhMREa_prot	GO:0006310	DNA recombination	5
+DhMREa_prot	GO:0015074	DNA integration	5
+DhMREa_prot	GO:0008234	cysteine-type peptidase activity	3
+DhMREa_prot	GO:0006508	proteolysis	9
+DhMREa_prot	GO:0032784	regulation of DNA-templated transcription elongation	1
+DhMREa_prot	GO:0003918	DNA topoisomerase type II (double strand cut ATP-hydrolyzing) activity	1
+DhMREa_prot	GO:0006265	DNA topological change	2
+DhMREa_prot	GO:0022857	transmembrane transporter activity	1
+DhMREa_prot	GO:0055085	transmembrane transport	1
+DhMREa_prot	GO:0005886	plasma membrane	1
+DhMREa_prot	GO:0008170	N-methyltransferase activity	9
+DhMREa_prot	GO:0006306	DNA methylation	9
+DhMREa_prot	GO:0008289	lipid binding	1
+DhMREa_prot	GO:0006869	lipid transport	1
+DhMREa_prot	GO:0042157	lipoprotein metabolic process	1
+DhMREa_prot	GO:0008855	exodeoxyribonuclease VII activity	1
+DhMREa_prot	GO:0006308	DNA catabolic process	1
+DhMREa_prot	GO:0009318	exodeoxyribonuclease VII complex	1
+DhMREa_prot	GO:0005525	GTP binding	7
+DhMREa_prot	GO:0004803	transposase activity	1
+DhMREa_prot	GO:0006313	transposition DNA-mediated	1
+DhMREa_prot	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system	1
+DhMREa_prot	GO:0016787	hydrolase activity	6
+DhMREa_prot	GO:0004519	endonuclease activity	1
+DhMREa_prot	GO:0006289	nucleotide-excision repair	2
+DhMREa_prot	GO:0009411	response to UV	1
+DhMREa_prot	GO:0016887	ATPase activity	4
+DhMREa_prot	GO:0003916	DNA topoisomerase activity	1
+DhMREa_prot	GO:0005506	iron ion binding	1
+DhMREa_prot	GO:0051536	iron-sulfur cluster binding	1
+DhMREa_prot	GO:0016226	iron-sulfur cluster assembly	1
+DhMREa_prot	GO:0004525	ribonuclease III activity	1
+DhMREa_prot	GO:0006396	RNA processing	3
+DhMREa_prot	GO:0002949	tRNA threonylcarbamoyladenosine modification	1
+DhMREa_prot	GO:0003924	GTPase activity	4
+DhMREa_prot	GO:0019843	rRNA binding	3
+DhMREa_prot	GO:0000287	magnesium ion binding	1
+DhMREa_prot	GO:0004427	inorganic diphosphatase activity	1
+DhMREa_prot	GO:0006796	phosphate-containing compound metabolic process	1
+DhMREa_prot	GO:0005737	cytoplasm	1
+DhMREa_prot	GO:0003723	RNA binding	10
+DhMREa_prot	GO:0008173	RNA methyltransferase activity	1
+DhMREa_prot	GO:0000049	tRNA binding	2
+DhMREa_prot	GO:0004526	ribonuclease P activity	1
+DhMREa_prot	GO:0008033	tRNA processing	1
+DhMREa_prot	GO:0043039	tRNA aminoacylation	2
+DhMREa_prot	GO:0016740	transferase activity	1
+DhMREa_prot	GO:0006730	one-carbon metabolic process	1
+DhMREa_prot	GO:0004176	ATP-dependent peptidase activity	2
+DhMREa_prot	GO:0004252	serine-type endopeptidase activity	2
+DhMREa_prot	GO:0006364	rRNA processing	1
+DhMREa_prot	GO:0006415	translational termination	1
+DhMREa_prot	GO:0003824	catalytic activity	2
+DhMREa_prot	GO:0006304	DNA modification	1
+DhMREa_prot	GO:0003700	DNA-binding transcription factor activity	2
+DhMREa_prot	GO:0006355	regulation of transcription DNA-templated	4
+DhMREa_prot	GO:0005096	GTPase activator activity	1
+DhMREa_prot	GO:0008083	growth factor activity	1
+DhMREa_prot	GO:0019867	outer membrane	1
+DhMREa_prot	GO:0004784	superoxide dismutase activity	1
+DhMREa_prot	GO:0046872	metal ion binding	1
+DhMREa_prot	GO:0006801	superoxide metabolic process	1
+DhMREa_prot	GO:0004146	dihydrofolate reductase activity	1
+DhMREa_prot	GO:0046654	tetrahydrofolate biosynthetic process	1
+DhMREa_prot	GO:0003905	alkylbase DNA N-glycosylase activity	1
+DhMREa_prot	GO:0006284	base-excision repair	1
+DhMREa_prot	GO:0009007	site-specific DNA-methyltransferase (adenine-specific) activity	1
+DhMREa_prot	GO:0032775	DNA methylation on adenine	1
+DhMREa_prot	GO:0016021	integral component of membrane	2
+DhMREa_prot	GO:0004177	aminopeptidase activity	1
+DhMREa_prot	GO:0005515	protein binding	4
+DhMREa_prot	GO:0009982	pseudouridine synthase activity	2
+DhMREa_prot	GO:0001522	pseudouridine synthesis	2
+DhMREa_prot	GO:0009451	RNA modification	2
+DhMREa_prot	GO:0003697	single-stranded DNA binding	2
+DhMREa_prot	GO:0006281	DNA repair	2
+DhMREa_prot	GO:0004127	cytidylate kinase activity	1
+DhMREa_prot	GO:0006139	nucleobase-containing compound metabolic process	1
+DhMREa_prot	GO:0003676	nucleic acid binding	1
+DhMREa_prot	GO:0003911	DNA ligase (NAD+) activity	1
+DhMREa_prot	GO:0006352	DNA-templated transcription initiation	1
+DhMREa_prot	GO:0003684	damaged DNA binding	1
+DhMREa_prot	GO:0003906	DNA-(apurinic or apyrimidinic site) endonuclease activity	1
+DhMREa_prot	GO:0008270	zinc ion binding	1
+DhMREa_prot	GO:0016799	hydrolase activity hydrolyzing N-glycosyl compounds	1
+DhMREa_prot	GO:0017038	protein import	1
+DhMREa_prot	GO:0004553	hydrolase activity hydrolyzing O-glycosyl compounds	1
+DhMREa_prot	GO:0016884	carbon-nitrogen ligase activity with glutamine as amido-N-donor	1
+DhMREa_prot	GO:0004222	metalloendopeptidase activity	3
+DhMREa_prot	GO:0042254	ribosome biogenesis	1
+DhMREa_prot	GO:0008408	3'-5' exonuclease activity	2
+DhMREa_prot	GO:0004045	aminoacyl-tRNA hydrolase activity	1
+DhMREa_prot	GO:0008168	methyltransferase activity	1
+DhMREa_prot	GO:0000774	adenyl-nucleotide exchange factor activity	1
+DhMREa_prot	GO:0042803	protein homodimerization activity	1
+DhMREa_prot	GO:0051087	chaperone binding	1
+DhMREa_prot	GO:0006457	protein folding	1
+DhMREa_prot	GO:0016788	hydrolase activity acting on ester bonds	1
+DhMREa_prot	GO:0004814	arginine-tRNA ligase activity	1
+DhMREa_prot	GO:0006420	arginyl-tRNA aminoacylation	1
+DhMREa_prot	GO:0016874	ligase activity	1
+Endogone_FLAS59071	GO:0004127	cytidylate kinase activity	3
+Endogone_FLAS59071	GO:0005524	ATP binding	172
+Endogone_FLAS59071	GO:0006139	nucleobase-containing compound metabolic process	3
+Endogone_FLAS59071	GO:0003677	DNA binding	212
+Endogone_FLAS59071	GO:0006310	DNA recombination	42
+Endogone_FLAS59071	GO:0015074	DNA integration	42
+Endogone_FLAS59071	GO:0004177	aminopeptidase activity	4
+Endogone_FLAS59071	GO:0006508	proteolysis	24
+Endogone_FLAS59071	GO:0003676	nucleic acid binding	12
+Endogone_FLAS59071	GO:0004523	RNA-DNA hybrid ribonuclease activity	1
+Endogone_FLAS59071	GO:0003723	RNA binding	33
+Endogone_FLAS59071	GO:0009982	pseudouridine synthase activity	8
+Endogone_FLAS59071	GO:0001522	pseudouridine synthesis	8
+Endogone_FLAS59071	GO:0009451	RNA modification	8
+Endogone_FLAS59071	GO:0007165	signal transduction	2
+Endogone_FLAS59071	GO:0016020	membrane	17
+Endogone_FLAS59071	GO:0000166	nucleotide binding	54
+Endogone_FLAS59071	GO:0004812	aminoacyl-tRNA ligase activity	51
+Endogone_FLAS59071	GO:0006418	tRNA aminoacylation for protein translation	45
+Endogone_FLAS59071	GO:0008170	N-methyltransferase activity	42
+Endogone_FLAS59071	GO:0006306	DNA methylation	42
+Endogone_FLAS59071	GO:0003700	DNA-binding transcription factor activity	15
+Endogone_FLAS59071	GO:0006355	regulation of transcription DNA-templated	23
+Endogone_FLAS59071	GO:0005887	integral component of plasma membrane	10
+Endogone_FLAS59071	GO:0003824	catalytic activity	7
+Endogone_FLAS59071	GO:0008134	transcription factor binding	6
+Endogone_FLAS59071	GO:0042803	protein homodimerization activity	9
+Endogone_FLAS59071	GO:0070840	dynein complex binding	6
+Endogone_FLAS59071	GO:0016192	vesicle-mediated transport	2
+Endogone_FLAS59071	GO:0016021	integral component of membrane	20
+Endogone_FLAS59071	GO:0004672	protein kinase activity	6
+Endogone_FLAS59071	GO:0006468	protein phosphorylation	6
+Endogone_FLAS59071	GO:0004813	alanine-tRNA ligase activity	6
+Endogone_FLAS59071	GO:0006419	alanyl-tRNA aminoacylation	6
+Endogone_FLAS59071	GO:0008234	cysteine-type peptidase activity	5
+Endogone_FLAS59071	GO:0009036	type II site-specific deoxyribonuclease activity	6
+Endogone_FLAS59071	GO:0009307	DNA restriction-modification system	6
+Endogone_FLAS59071	GO:0003735	structural constituent of ribosome	132
+Endogone_FLAS59071	GO:0006412	translation	129
+Endogone_FLAS59071	GO:0005840	ribosome	122
+Endogone_FLAS59071	GO:0006811	ion transport	1
+Endogone_FLAS59071	GO:0004803	transposase activity	3
+Endogone_FLAS59071	GO:0006313	transposition DNA-mediated	3
+Endogone_FLAS59071	GO:0003896	DNA primase activity	4
+Endogone_FLAS59071	GO:0004386	helicase activity	3
+Endogone_FLAS59071	GO:0008270	zinc ion binding	10
+Endogone_FLAS59071	GO:0005515	protein binding	9
+Endogone_FLAS59071	GO:0042981	regulation of apoptotic process	1
+Endogone_FLAS59071	GO:0016884	carbon-nitrogen ligase activity with glutamine as amido-N-donor	1
+Endogone_FLAS59071	GO:0019069	viral capsid assembly	2
+Endogone_FLAS59071	GO:0004814	arginine-tRNA ligase activity	2
+Endogone_FLAS59071	GO:0006420	arginyl-tRNA aminoacylation	2
+Endogone_FLAS59071	GO:0008168	methyltransferase activity	16
+Endogone_FLAS59071	GO:0048487	beta-tubulin binding	1
+Endogone_FLAS59071	GO:0007021	tubulin complex assembly	1
+Endogone_FLAS59071	GO:0007023	post-chaperonin tubulin folding pathway	1
+Endogone_FLAS59071	GO:0016887	ATPase activity	26
+Endogone_FLAS59071	GO:0003989	acetyl-CoA carboxylase activity	3
+Endogone_FLAS59071	GO:0006633	fatty acid biosynthetic process	3
+Endogone_FLAS59071	GO:0009317	acetyl-CoA carboxylase complex	3
+Endogone_FLAS59071	GO:0003712	transcription coregulator activity	1
+Endogone_FLAS59071	GO:0006357	regulation of transcription by RNA polymerase II	1
+Endogone_FLAS59071	GO:0016592	mediator complex	1
+Endogone_FLAS59071	GO:0017119	Golgi transport complex	2
+Endogone_FLAS59071	GO:0003995	acyl-CoA dehydrogenase activity	1
+Endogone_FLAS59071	GO:0033539	fatty acid beta-oxidation using acyl-CoA dehydrogenase	1
+Endogone_FLAS59071	GO:0055114	oxidation-reduction process	9
+Endogone_FLAS59071	GO:0003887	DNA-directed DNA polymerase activity	3
+Endogone_FLAS59071	GO:0006260	DNA replication	11
+Endogone_FLAS59071	GO:0009306	protein secretion	3
+Endogone_FLAS59071	GO:0008173	RNA methyltransferase activity	3
+Endogone_FLAS59071	GO:0006396	RNA processing	9
+Endogone_FLAS59071	GO:0006304	DNA modification	9
+Endogone_FLAS59071	GO:0003774	motor activity	1
+Endogone_FLAS59071	GO:0016459	myosin complex	1
+Endogone_FLAS59071	GO:0051082	unfolded protein binding	3
+Endogone_FLAS59071	GO:0006457	protein folding	6
+Endogone_FLAS59071	GO:0003916	DNA topoisomerase activity	4
+Endogone_FLAS59071	GO:0006265	DNA topological change	7
+Endogone_FLAS59071	GO:0004784	superoxide dismutase activity	4
+Endogone_FLAS59071	GO:0046872	metal ion binding	8
+Endogone_FLAS59071	GO:0006801	superoxide metabolic process	4
+Endogone_FLAS59071	GO:0035556	intracellular signal transduction	1
+Endogone_FLAS59071	GO:0009055	electron transfer activity	1
+Endogone_FLAS59071	GO:0020037	heme binding	1
+Endogone_FLAS59071	GO:0005525	GTP binding	30
+Endogone_FLAS59071	GO:0042626	ATPase-coupled transmembrane transporter activity	3
+Endogone_FLAS59071	GO:0055085	transmembrane transport	5
+Endogone_FLAS59071	GO:0005484	SNAP receptor activity	1
+Endogone_FLAS59071	GO:0006890	retrograde vesicle-mediated transport Golgi to endoplasmic reticulum	1
+Endogone_FLAS59071	GO:0051607	defense response to virus	3
+Endogone_FLAS59071	GO:0004197	cysteine-type endopeptidase activity	3
+Endogone_FLAS59071	GO:0071586	CAAX-box protein processing	3
+Endogone_FLAS59071	GO:0072546	ER membrane protein complex	1
+Endogone_FLAS59071	GO:0043039	tRNA aminoacylation	6
+Endogone_FLAS59071	GO:0016272	prefoldin complex	2
+Endogone_FLAS59071	GO:0004519	endonuclease activity	2
+Endogone_FLAS59071	GO:0043571	maintenance of CRISPR repeat elements	2
+Endogone_FLAS59071	GO:0006281	DNA repair	11
+Endogone_FLAS59071	GO:0023041	neuronal signal transduction	1
+Endogone_FLAS59071	GO:0030867	rough endoplasmic reticulum membrane	1
+Endogone_FLAS59071	GO:0016888	endodeoxyribonuclease activity producing 5'-phosphomonoesters	1
+Endogone_FLAS59071	GO:0019028	viral capsid	3
+Endogone_FLAS59071	GO:0005198	structural molecule activity	1
+Endogone_FLAS59071	GO:0019031	viral envelope	1
+Endogone_FLAS59071	GO:0016788	hydrolase activity acting on ester bonds	4
+Endogone_FLAS59071	GO:0043022	ribosome binding	1
+Endogone_FLAS59071	GO:0009405	pathogenesis	1
+Endogone_FLAS59071	GO:0004129	cytochrome-c oxidase activity	1
+Endogone_FLAS59071	GO:0005740	mitochondrial envelope	1
+Endogone_FLAS59071	GO:0019901	protein kinase binding	1
+Endogone_FLAS59071	GO:0004810	tRNA adenylyltransferase activity	2
+Endogone_FLAS59071	GO:0046933	proton-transporting ATP synthase activity rotational mechanism	1
+Endogone_FLAS59071	GO:0015986	ATP synthesis coupled proton transport	1
+Endogone_FLAS59071	GO:0009058	biosynthetic process	1
+Endogone_FLAS59071	GO:0003743	translation initiation factor activity	5
+Endogone_FLAS59071	GO:0006413	translational initiation	6
+Endogone_FLAS59071	GO:0050840	extracellular matrix binding	1
+Endogone_FLAS59071	GO:0005576	extracellular region	2
+Endogone_FLAS59071	GO:0045454	cell redox homeostasis	3
+Endogone_FLAS59071	GO:0019843	rRNA binding	11
+Endogone_FLAS59071	GO:0015031	protein transport	3
+Endogone_FLAS59071	GO:0004826	phenylalanine-tRNA ligase activity	3
+Endogone_FLAS59071	GO:0016787	hydrolase activity	14
+Endogone_FLAS59071	GO:0000921	septin ring assembly	2
+Endogone_FLAS59071	GO:0005940	septin ring	2
+Endogone_FLAS59071	GO:0003684	damaged DNA binding	3
+Endogone_FLAS59071	GO:0003906	DNA-(apurinic or apyrimidinic site) endonuclease activity	3
+Endogone_FLAS59071	GO:0016799	hydrolase activity hydrolyzing N-glycosyl compounds	3
+Endogone_FLAS59071	GO:0006289	nucleotide-excision repair	2
+Endogone_FLAS59071	GO:0019867	outer membrane	6
+Endogone_FLAS59071	GO:0005319	lipid transporter activity	1
+Endogone_FLAS59071	GO:0006869	lipid transport	2
+Endogone_FLAS59071	GO:0006415	translational termination	3
+Endogone_FLAS59071	GO:0042254	ribosome biogenesis	3
+Endogone_FLAS59071	GO:0003899	DNA-directed 5'-3' RNA polymerase activity	9
+Endogone_FLAS59071	GO:0006351	transcription DNA-templated	9
+Endogone_FLAS59071	GO:0004176	ATP-dependent peptidase activity	8
+Endogone_FLAS59071	GO:0004252	serine-type endopeptidase activity	8
+Endogone_FLAS59071	GO:0016747	transferase activity transferring acyl groups other than amino-acyl groups	1
+Endogone_FLAS59071	GO:0008408	3'-5' exonuclease activity	6
+Endogone_FLAS59071	GO:0005506	iron ion binding	2
+Endogone_FLAS59071	GO:0051536	iron-sulfur cluster binding	2
+Endogone_FLAS59071	GO:0016226	iron-sulfur cluster assembly	2
+Endogone_FLAS59071	GO:0003924	GTPase activity	12
+Endogone_FLAS59071	GO:0009271	phage shock	1
+Endogone_FLAS59071	GO:0008289	lipid binding	1
+Endogone_FLAS59071	GO:0042157	lipoprotein metabolic process	1
+Endogone_FLAS59071	GO:0016491	oxidoreductase activity	3
+Endogone_FLAS59071	GO:0003697	single-stranded DNA binding	8
+Endogone_FLAS59071	GO:0003911	DNA ligase (NAD+) activity	3
+Endogone_FLAS59071	GO:0009403	toxin biosynthetic process	1
+Endogone_FLAS59071	GO:0030269	tetrahydromethanopterin S-methyltransferase activity	1
+Endogone_FLAS59071	GO:0015948	methanogenesis	1
+Endogone_FLAS59071	GO:0016032	viral process	1
+Endogone_FLAS59071	GO:0032784	regulation of DNA-templated transcription elongation	3
+Endogone_FLAS59071	GO:0006284	base-excision repair	4
+Endogone_FLAS59071	GO:0006352	DNA-templated transcription initiation	3
+Endogone_FLAS59071	GO:0004222	metalloendopeptidase activity	9
+Endogone_FLAS59071	GO:0004045	aminoacyl-tRNA hydrolase activity	3
+Endogone_FLAS59071	GO:0016874	ligase activity	3
+Endogone_FLAS59071	GO:0000049	tRNA binding	8
+Endogone_FLAS59071	GO:0004526	ribonuclease P activity	3
+Endogone_FLAS59071	GO:0008033	tRNA processing	3
+Endogone_FLAS59071	GO:0006886	intracellular protein transport	2
+Endogone_FLAS59071	GO:0017038	protein import	3
+Endogone_FLAS59071	GO:0000774	adenyl-nucleotide exchange factor activity	3
+Endogone_FLAS59071	GO:0051087	chaperone binding	3
+Endogone_FLAS59071	GO:0003678	DNA helicase activity	3
+Endogone_FLAS59071	GO:0000723	telomere maintenance	3
+Endogone_FLAS59071	GO:0005856	cytoskeleton	1
+Endogone_FLAS59071	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system	3
+Endogone_FLAS59071	GO:0002949	tRNA threonylcarbamoyladenosine modification	3
+Endogone_FLAS59071	GO:0016151	nickel cation binding	1
+Endogone_FLAS59071	GO:0051604	protein maturation	1
+Endogone_FLAS59071	GO:0046983	protein dimerization activity	1
+Endogone_FLAS59071	GO:0003918	DNA topoisomerase type II (double strand cut ATP-hydrolyzing) activity	3
+Endogone_FLAS59071	GO:0015934	large ribosomal subunit	3
+Endogone_FLAS59071	GO:0003905	alkylbase DNA N-glycosylase activity	3
+Endogone_FLAS59071	GO:0004525	ribonuclease III activity	3
+Endogone_FLAS59071	GO:0000287	magnesium ion binding	3
+Endogone_FLAS59071	GO:0004427	inorganic diphosphatase activity	3
+Endogone_FLAS59071	GO:0006796	phosphate-containing compound metabolic process	3
+Endogone_FLAS59071	GO:0005737	cytoplasm	4
+Endogone_FLAS59071	GO:0006275	regulation of DNA replication	1
+Endogone_FLAS59071	GO:0042025	host cell nucleus	1
+Endogone_FLAS59071	GO:0006364	rRNA processing	5
+Endogone_FLAS59071	GO:0043065	positive regulation of apoptotic process	1
+Endogone_FLAS59071	GO:0005886	plasma membrane	1
+Endogone_FLAS59071	GO:0008324	cation transmembrane transporter activity	1
+Endogone_FLAS59071	GO:0006812	cation transport	1
+Endogone_FLAS59071	GO:0009007	site-specific DNA-methyltransferase (adenine-specific) activity	1
+Endogone_FLAS59071	GO:0032775	DNA methylation on adenine	1
+Endogone_FLAS59071	GO:0002161	aminoacyl-tRNA editing activity	1
+Endogone_FLAS59071	GO:0015078	proton transmembrane transporter activity	1
+Endogone_FLAS59071	GO:1902600	proton transmembrane transport	1
+Endogone_FLAS59071	GO:0033179	proton-transporting V-type ATPase V0 domain	1
+Endogone_FLAS59071	GO:0005743	mitochondrial inner membrane	1
+Endogone_FLAS59071	GO:0070469	respirasome	1
+Endogone_FLAS59071	GO:0032007	negative regulation of TOR signaling	1
+Endogone_FLAS59071	GO:0034198	cellular response to amino acid starvation	1
+Endogone_FLAS59071	GO:0006606	protein import into nucleus	1
+Endogone_FLAS59071	GO:0016301	kinase activity	1
+Endogone_FLAS59071	GO:0003746	translation elongation factor activity	1
+Endogone_FLAS59071	GO:0006414	translational elongation	1
+Endogone_FLAS59071	GO:0004832	valine-tRNA ligase activity	1
+Endogone_FLAS59071	GO:0006438	valyl-tRNA aminoacylation	1
+Endogone_FLAS59071	GO:0006486	protein glycosylation	1
+Endogone_FLAS59071	GO:0008948	oxaloacetate decarboxylase activity	1
+Endogone_FLAS59071	GO:0015081	sodium ion transmembrane transporter activity	1
+Endogone_FLAS59071	GO:0036376	sodium ion export across plasma membrane	1
+Endogone_FLAS59071	GO:0007094	mitotic spindle assembly checkpoint	1
+Endogone_FLAS59071	GO:0004553	hydrolase activity hydrolyzing O-glycosyl compounds	1
+Endogone_FLAS59071	GO:0004146	dihydrofolate reductase activity	1
+Endogone_FLAS59071	GO:0046654	tetrahydrofolate biosynthetic process	1
+Endogone_FLAS59071	GO:0008107	galactoside 2-alpha-L-fucosyltransferase activity	1
+Endogone_FLAS59071	GO:0005975	carbohydrate metabolic process	1
+Endogone_FLAS59071	GO:0032051	clathrin light chain binding	1
+Endogone_FLAS59071	GO:0007212	dopamine receptor signaling pathway	1
+Endogone_FLAS59071	GO:0048268	clathrin coat assembly	1
+GBAus27b-MRE-ap	GO:0003677	DNA binding	77
+GBAus27b-MRE-ap	GO:0003899	DNA-directed 5'-3' RNA polymerase activity	6
+GBAus27b-MRE-ap	GO:0006351	transcription DNA-templated	6
+GBAus27b-MRE-ap	GO:0004519	endonuclease activity	10
+GBAus27b-MRE-ap	GO:0004129	cytochrome-c oxidase activity	1
+GBAus27b-MRE-ap	GO:0020037	heme binding	1
+GBAus27b-MRE-ap	GO:0009060	aerobic respiration	1
+GBAus27b-MRE-ap	GO:0055114	oxidation-reduction process	3
+GBAus27b-MRE-ap	GO:0016021	integral component of membrane	8
+GBAus27b-MRE-ap	GO:0004672	protein kinase activity	14
+GBAus27b-MRE-ap	GO:0006468	protein phosphorylation	14
+GBAus27b-MRE-ap	GO:0005634	nucleus	3
+GBAus27b-MRE-ap	GO:0009405	pathogenesis	3
+GBAus27b-MRE-ap	GO:0005576	extracellular region	2
+GBAus27b-MRE-ap	GO:0006310	DNA recombination	17
+GBAus27b-MRE-ap	GO:0015074	DNA integration	15
+GBAus27b-MRE-ap	GO:0000166	nucleotide binding	36
+GBAus27b-MRE-ap	GO:0003887	DNA-directed DNA polymerase activity	8
+GBAus27b-MRE-ap	GO:0006260	DNA replication	10
+GBAus27b-MRE-ap	GO:0005515	protein binding	2
+GBAus27b-MRE-ap	GO:0003678	DNA helicase activity	2
+GBAus27b-MRE-ap	GO:0000723	telomere maintenance	2
+GBAus27b-MRE-ap	GO:0006281	DNA repair	4
+GBAus27b-MRE-ap	GO:0005525	GTP binding	9
+GBAus27b-MRE-ap	GO:0005524	ATP binding	70
+GBAus27b-MRE-ap	GO:0004812	aminoacyl-tRNA ligase activity	30
+GBAus27b-MRE-ap	GO:0006418	tRNA aminoacylation for protein translation	28
+GBAus27b-MRE-ap	GO:0006396	RNA processing	5
+GBAus27b-MRE-ap	GO:0003905	alkylbase DNA N-glycosylase activity	3
+GBAus27b-MRE-ap	GO:0006284	base-excision repair	4
+GBAus27b-MRE-ap	GO:0016787	hydrolase activity	4
+GBAus27b-MRE-ap	GO:0003735	structural constituent of ribosome	46
+GBAus27b-MRE-ap	GO:0006412	translation	44
+GBAus27b-MRE-ap	GO:0005840	ribosome	43
+GBAus27b-MRE-ap	GO:0016887	ATPase activity	8
+GBAus27b-MRE-ap	GO:0006304	DNA modification	4
+GBAus27b-MRE-ap	GO:0015078	proton transmembrane transporter activity	1
+GBAus27b-MRE-ap	GO:0015986	ATP synthesis coupled proton transport	1
+GBAus27b-MRE-ap	GO:0000276	mitochondrial proton-transporting ATP synthase complex coupling factor F(o)	1
+GBAus27b-MRE-ap	GO:0004176	ATP-dependent peptidase activity	6
+GBAus27b-MRE-ap	GO:0004252	serine-type endopeptidase activity	6
+GBAus27b-MRE-ap	GO:0006508	proteolysis	12
+GBAus27b-MRE-ap	GO:0006606	protein import into nucleus	1
+GBAus27b-MRE-ap	GO:0015031	protein transport	2
+GBAus27b-MRE-ap	GO:0030176	integral component of endoplasmic reticulum membrane	1
+GBAus27b-MRE-ap	GO:0022857	transmembrane transporter activity	8
+GBAus27b-MRE-ap	GO:0016020	membrane	12
+GBAus27b-MRE-ap	GO:0004810	tRNA adenylyltransferase activity	3
+GBAus27b-MRE-ap	GO:0003723	RNA binding	17
+GBAus27b-MRE-ap	GO:0009982	pseudouridine synthase activity	5
+GBAus27b-MRE-ap	GO:0001522	pseudouridine synthesis	5
+GBAus27b-MRE-ap	GO:0009451	RNA modification	5
+GBAus27b-MRE-ap	GO:0000287	magnesium ion binding	3
+GBAus27b-MRE-ap	GO:0004427	inorganic diphosphatase activity	2
+GBAus27b-MRE-ap	GO:0006796	phosphate-containing compound metabolic process	2
+GBAus27b-MRE-ap	GO:0005737	cytoplasm	2
+GBAus27b-MRE-ap	GO:0003676	nucleic acid binding	7
+GBAus27b-MRE-ap	GO:0019843	rRNA binding	4
+GBAus27b-MRE-ap	GO:0006355	regulation of transcription DNA-templated	10
+GBAus27b-MRE-ap	GO:0042254	ribosome biogenesis	2
+GBAus27b-MRE-ap	GO:0008170	N-methyltransferase activity	4
+GBAus27b-MRE-ap	GO:0006306	DNA methylation	4
+GBAus27b-MRE-ap	GO:0006952	defense response	1
+GBAus27b-MRE-ap	GO:0045926	negative regulation of growth	1
+GBAus27b-MRE-ap	GO:0008233	peptidase activity	2
+GBAus27b-MRE-ap	GO:0006465	signal peptide processing	2
+GBAus27b-MRE-ap	GO:0005787	signal peptidase complex	2
+GBAus27b-MRE-ap	GO:0003916	DNA topoisomerase activity	2
+GBAus27b-MRE-ap	GO:0006265	DNA topological change	3
+GBAus27b-MRE-ap	GO:0017038	protein import	2
+GBAus27b-MRE-ap	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system	2
+GBAus27b-MRE-ap	GO:0008234	cysteine-type peptidase activity	3
+GBAus27b-MRE-ap	GO:0003824	catalytic activity	3
+GBAus27b-MRE-ap	GO:0045892	negative regulation of transcription DNA-templated	2
+GBAus27b-MRE-ap	GO:0023041	neuronal signal transduction	1
+GBAus27b-MRE-ap	GO:0030867	rough endoplasmic reticulum membrane	1
+GBAus27b-MRE-ap	GO:0003924	GTPase activity	4
+GBAus27b-MRE-ap	GO:0000049	tRNA binding	2
+GBAus27b-MRE-ap	GO:0043039	tRNA aminoacylation	2
+GBAus27b-MRE-ap	GO:0046961	proton-transporting ATPase activity rotational mechanism	1
+GBAus27b-MRE-ap	GO:1902600	proton transmembrane transport	1
+GBAus27b-MRE-ap	GO:0000221	vacuolar proton-transporting V-type ATPase V1 domain	1
+GBAus27b-MRE-ap	GO:0008168	methyltransferase activity	5
+GBAus27b-MRE-ap	GO:0008173	RNA methyltransferase activity	1
+GBAus27b-MRE-ap	GO:0004045	aminoacyl-tRNA hydrolase activity	1
+GBAus27b-MRE-ap	GO:0055085	transmembrane transport	1
+GBAus27b-MRE-ap	GO:0004177	aminopeptidase activity	1
+GBAus27b-MRE-ap	GO:0003684	damaged DNA binding	2
+GBAus27b-MRE-ap	GO:0003906	DNA-(apurinic or apyrimidinic site) endonuclease activity	1
+GBAus27b-MRE-ap	GO:0008270	zinc ion binding	1
+GBAus27b-MRE-ap	GO:0016799	hydrolase activity hydrolyzing N-glycosyl compounds	1
+GBAus27b-MRE-ap	GO:0008408	3'-5' exonuclease activity	2
+GBAus27b-MRE-ap	GO:0004222	metalloendopeptidase activity	2
+GBAus27b-MRE-ap	GO:0043565	sequence-specific DNA binding	2
+GBAus27b-MRE-ap	GO:0016491	oxidoreductase activity	1
+GBAus27b-MRE-ap	GO:0003743	translation initiation factor activity	2
+GBAus27b-MRE-ap	GO:0006413	translational initiation	2
+GBAus27b-MRE-ap	GO:0004826	phenylalanine-tRNA ligase activity	1
+GBAus27b-MRE-ap	GO:0003700	DNA-binding transcription factor activity	4
+GBAus27b-MRE-ap	GO:0015934	large ribosomal subunit	1
+GBAus27b-MRE-ap	GO:0000774	adenyl-nucleotide exchange factor activity	1
+GBAus27b-MRE-ap	GO:0042803	protein homodimerization activity	1
+GBAus27b-MRE-ap	GO:0051087	chaperone binding	1
+GBAus27b-MRE-ap	GO:0006457	protein folding	1
+GBAus27b-MRE-ap	GO:0048870	cell motility	1
+GBAus27b-MRE-ap	GO:0031514	motile cilium	1
+GBAus27b-MRE-ap	GO:0032784	regulation of DNA-templated transcription elongation	1
+GBAus27b-MRE-ap	GO:0003918	DNA topoisomerase type II (double strand cut ATP-hydrolyzing) activity	1
+GBAus27b-MRE-ap	GO:0016788	hydrolase activity acting on ester bonds	1
+GBAus27b-MRE-ap	GO:0004525	ribonuclease III activity	1
+GBAus27b-MRE-ap	GO:0003697	single-stranded DNA binding	2
+GBAus27b-MRE-ap	GO:0002949	tRNA threonylcarbamoyladenosine modification	1
+GBAus27b-MRE-ap	GO:0000150	recombinase activity	3
+GBAus27b-MRE-ap	GO:0004623	phospholipase A2 activity	1
+GBAus27b-MRE-ap	GO:0006644	phospholipid metabolic process	1
+GBAus27b-MRE-ap	GO:0050482	arachidonic acid secretion	1
+GBAus27b-MRE-ap	GO:0004814	arginine-tRNA ligase activity	1
+GBAus27b-MRE-ap	GO:0006420	arginyl-tRNA aminoacylation	1
+GBAus27b-MRE-ap	GO:0019867	outer membrane	1
+GBAus27b-MRE-ap	GO:0005887	integral component of plasma membrane	1
+GBAus27b-MRE-ap	GO:0006614	SRP-dependent cotranslational protein targeting to membrane	1
+GBAus27b-MRE-ap	GO:0045454	cell redox homeostasis	1
+GBAus27b-MRE-ap	GO:0016872	intramolecular lyase activity	1
+GBAus27b-MRE-ap	GO:0004526	ribonuclease P activity	1
+GBAus27b-MRE-ap	GO:0008033	tRNA processing	1
+GBAus27b-MRE-ap	GO:0004784	superoxide dismutase activity	1
+GBAus27b-MRE-ap	GO:0046872	metal ion binding	1
+GBAus27b-MRE-ap	GO:0006801	superoxide metabolic process	1
+GBAus27b-MRE-ap	GO:0046983	protein dimerization activity	1
+GBAus27b-MRE-ap	GO:0003911	DNA ligase (NAD+) activity	1
+GBAus27b-MRE-ap	GO:0016874	ligase activity	1
+GBAus27b-MRE-ap	GO:0006364	rRNA processing	1
+GBAus27b-MRE-ap	GO:0016032	viral process	1
+GBAus27b-MRE-ap	GO:0016151	nickel cation binding	1
+GBAus27b-MRE-ap	GO:0051604	protein maturation	1
+GBAus27b-MRE-ap	GO:0006352	DNA-templated transcription initiation	1
+GBAus27b-MRE-ap	GO:0005783	endoplasmic reticulum	1
+GBAus27b-MRE-ap	GO:0006289	nucleotide-excision repair	1
+GBAus27b-MRE-ap	GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	1
+GBAus27b-MRE-ap	GO:0006629	lipid metabolic process	1
+GBAus27b-MRE-ap	GO:0010333	terpene synthase activity	1
+GBAus27b-MRE-ap	GO:0016829	lyase activity	1
+GBAus27b-MRE-ap	GO:0006415	translational termination	1
+GBAus27b-MRE-ap	GO:0004813	alanine-tRNA ligase activity	1
+GBAus27b-MRE-ap	GO:0006419	alanyl-tRNA aminoacylation	1
+GvMRE_prot	GO:0003700	DNA-binding transcription factor activity	3
+GvMRE_prot	GO:0006355	regulation of transcription DNA-templated	12
+GvMRE_prot	GO:0006525	arginine metabolic process	1
+GvMRE_prot	GO:0004222	metalloendopeptidase activity	8
+GvMRE_prot	GO:0006508	proteolysis	29
+GvMRE_prot	GO:0003924	GTPase activity	14
+GvMRE_prot	GO:0005525	GTP binding	35
+GvMRE_prot	GO:0008168	methyltransferase activity	6
+GvMRE_prot	GO:0003824	catalytic activity	6
+GvMRE_prot	GO:0006281	DNA repair	7
+GvMRE_prot	GO:0003677	DNA binding	149
+GvMRE_prot	GO:0045454	cell redox homeostasis	2
+GvMRE_prot	GO:0005524	ATP binding	154
+GvMRE_prot	GO:0008134	transcription factor binding	1
+GvMRE_prot	GO:0042803	protein homodimerization activity	4
+GvMRE_prot	GO:0070840	dynein complex binding	4
+GvMRE_prot	GO:0008170	N-methyltransferase activity	20
+GvMRE_prot	GO:0006306	DNA methylation	20
+GvMRE_prot	GO:0005506	iron ion binding	5
+GvMRE_prot	GO:0000049	tRNA binding	6
+GvMRE_prot	GO:0004526	ribonuclease P activity	3
+GvMRE_prot	GO:0008033	tRNA processing	3
+GvMRE_prot	GO:0019843	rRNA binding	9
+GvMRE_prot	GO:0003735	structural constituent of ribosome	113
+GvMRE_prot	GO:0006412	translation	110
+GvMRE_prot	GO:0005840	ribosome	108
+GvMRE_prot	GO:0005911	cell-cell junction	2
+GvMRE_prot	GO:0006310	DNA recombination	33
+GvMRE_prot	GO:0015074	DNA integration	33
+GvMRE_prot	GO:0003899	DNA-directed 5'-3' RNA polymerase activity	8
+GvMRE_prot	GO:0006351	transcription DNA-templated	8
+GvMRE_prot	GO:0003905	alkylbase DNA N-glycosylase activity	4
+GvMRE_prot	GO:0006284	base-excision repair	6
+GvMRE_prot	GO:0009058	biosynthetic process	1
+GvMRE_prot	GO:0006304	DNA modification	9
+GvMRE_prot	GO:0000166	nucleotide binding	48
+GvMRE_prot	GO:0004812	aminoacyl-tRNA ligase activity	45
+GvMRE_prot	GO:0006418	tRNA aminoacylation for protein translation	39
+GvMRE_prot	GO:0016887	ATPase activity	24
+GvMRE_prot	GO:0016787	hydrolase activity	13
+GvMRE_prot	GO:0043093	FtsZ-dependent cytokinesis	1
+GvMRE_prot	GO:0090529	cell septum assembly	1
+GvMRE_prot	GO:0005737	cytoplasm	6
+GvMRE_prot	GO:0006415	translational termination	3
+GvMRE_prot	GO:0004176	ATP-dependent peptidase activity	10
+GvMRE_prot	GO:0004252	serine-type endopeptidase activity	11
+GvMRE_prot	GO:0003723	RNA binding	31
+GvMRE_prot	GO:0009982	pseudouridine synthase activity	7
+GvMRE_prot	GO:0001522	pseudouridine synthesis	7
+GvMRE_prot	GO:0009451	RNA modification	7
+GvMRE_prot	GO:0004197	cysteine-type endopeptidase activity	6
+GvMRE_prot	GO:0071586	CAAX-box protein processing	6
+GvMRE_prot	GO:0016020	membrane	20
+GvMRE_prot	GO:0016884	carbon-nitrogen ligase activity with glutamine as amido-N-donor	3
+GvMRE_prot	GO:0004672	protein kinase activity	10
+GvMRE_prot	GO:0006468	protein phosphorylation	12
+GvMRE_prot	GO:0003676	nucleic acid binding	6
+GvMRE_prot	GO:0008408	3'-5' exonuclease activity	6
+GvMRE_prot	GO:0006260	DNA replication	9
+GvMRE_prot	GO:0015031	protein transport	3
+GvMRE_prot	GO:0048870	cell motility	2
+GvMRE_prot	GO:0031514	motile cilium	2
+GvMRE_prot	GO:0019867	outer membrane	5
+GvMRE_prot	GO:0007094	mitotic spindle assembly checkpoint	1
+GvMRE_prot	GO:0043039	tRNA aminoacylation	6
+GvMRE_prot	GO:0006396	RNA processing	8
+GvMRE_prot	GO:0016491	oxidoreductase activity	4
+GvMRE_prot	GO:0055114	oxidation-reduction process	12
+GvMRE_prot	GO:0016021	integral component of membrane	12
+GvMRE_prot	GO:0003712	transcription coregulator activity	1
+GvMRE_prot	GO:0006357	regulation of transcription by RNA polymerase II	1
+GvMRE_prot	GO:0016592	mediator complex	1
+GvMRE_prot	GO:0004813	alanine-tRNA ligase activity	7
+GvMRE_prot	GO:0006419	alanyl-tRNA aminoacylation	7
+GvMRE_prot	GO:0004674	protein serine/threonine kinase activity	2
+GvMRE_prot	GO:0019001	guanyl nucleotide binding	1
+GvMRE_prot	GO:0031683	G-protein beta/gamma-subunit complex binding	1
+GvMRE_prot	GO:0007186	G protein-coupled receptor signaling pathway	1
+GvMRE_prot	GO:0016151	nickel cation binding	1
+GvMRE_prot	GO:0051604	protein maturation	1
+GvMRE_prot	GO:0005887	integral component of plasma membrane	8
+GvMRE_prot	GO:0004814	arginine-tRNA ligase activity	3
+GvMRE_prot	GO:0006420	arginyl-tRNA aminoacylation	3
+GvMRE_prot	GO:0004797	thymidine kinase activity	3
+GvMRE_prot	GO:0046872	metal ion binding	6
+GvMRE_prot	GO:0007030	Golgi organization	3
+GvMRE_prot	GO:0008270	zinc ion binding	6
+GvMRE_prot	GO:0005634	nucleus	3
+GvMRE_prot	GO:0004045	aminoacyl-tRNA hydrolase activity	3
+GvMRE_prot	GO:0000774	adenyl-nucleotide exchange factor activity	3
+GvMRE_prot	GO:0051087	chaperone binding	3
+GvMRE_prot	GO:0006457	protein folding	3
+GvMRE_prot	GO:0017038	protein import	3
+GvMRE_prot	GO:0032784	regulation of DNA-templated transcription elongation	3
+GvMRE_prot	GO:0003918	DNA topoisomerase type II (double strand cut ATP-hydrolyzing) activity	4
+GvMRE_prot	GO:0006265	DNA topological change	7
+GvMRE_prot	GO:0004826	phenylalanine-tRNA ligase activity	2
+GvMRE_prot	GO:0015078	proton transmembrane transporter activity	3
+GvMRE_prot	GO:1902600	proton transmembrane transport	3
+GvMRE_prot	GO:0033179	proton-transporting V-type ATPase V0 domain	3
+GvMRE_prot	GO:0008173	RNA methyltransferase activity	3
+GvMRE_prot	GO:0003911	DNA ligase (NAD+) activity	3
+GvMRE_prot	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system	2
+GvMRE_prot	GO:0008455	alpha-16-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity	1
+GvMRE_prot	GO:0009312	oligosaccharide biosynthetic process	1
+GvMRE_prot	GO:0005795	Golgi stack	1
+GvMRE_prot	GO:0004127	cytidylate kinase activity	2
+GvMRE_prot	GO:0006139	nucleobase-containing compound metabolic process	2
+GvMRE_prot	GO:0003743	translation initiation factor activity	6
+GvMRE_prot	GO:0006413	translational initiation	6
+GvMRE_prot	GO:0003916	DNA topoisomerase activity	3
+GvMRE_prot	GO:0051287	NAD binding	2
+GvMRE_prot	GO:0004525	ribonuclease III activity	3
+GvMRE_prot	GO:0004146	dihydrofolate reductase activity	2
+GvMRE_prot	GO:0046654	tetrahydrofolate biosynthetic process	2
+GvMRE_prot	GO:0003746	translation elongation factor activity	2
+GvMRE_prot	GO:0006414	translational elongation	2
+GvMRE_prot	GO:0002949	tRNA threonylcarbamoyladenosine modification	3
+GvMRE_prot	GO:0003725	double-stranded RNA binding	2
+GvMRE_prot	GO:0008817	cob(I)yrinic acid ac-diamide adenosyltransferase activity	3
+GvMRE_prot	GO:0009236	cobalamin biosynthetic process	3
+GvMRE_prot	GO:0016874	ligase activity	3
+GvMRE_prot	GO:0006364	rRNA processing	3
+GvMRE_prot	GO:0003697	single-stranded DNA binding	4
+GvMRE_prot	GO:0008047	enzyme activator activity	1
+GvMRE_prot	GO:0007586	digestion	1
+GvMRE_prot	GO:0016042	lipid catabolic process	1
+GvMRE_prot	GO:0005576	extracellular region	4
+GvMRE_prot	GO:0016973	poly(A)+ mRNA export from nucleus	1
+GvMRE_prot	GO:0005643	nuclear pore	2
+GvMRE_prot	GO:0015934	large ribosomal subunit	2
+GvMRE_prot	GO:0008234	cysteine-type peptidase activity	8
+GvMRE_prot	GO:0004784	superoxide dismutase activity	3
+GvMRE_prot	GO:0006801	superoxide metabolic process	3
+GvMRE_prot	GO:0000287	magnesium ion binding	3
+GvMRE_prot	GO:0004427	inorganic diphosphatase activity	3
+GvMRE_prot	GO:0006796	phosphate-containing compound metabolic process	3
+GvMRE_prot	GO:0042254	ribosome biogenesis	3
+GvMRE_prot	GO:0051536	iron-sulfur cluster binding	3
+GvMRE_prot	GO:0016226	iron-sulfur cluster assembly	3
+GvMRE_prot	GO:0003684	damaged DNA binding	3
+GvMRE_prot	GO:0003906	DNA-(apurinic or apyrimidinic site) endonuclease activity	3
+GvMRE_prot	GO:0016799	hydrolase activity hydrolyzing N-glycosyl compounds	3
+GvMRE_prot	GO:0006904	vesicle docking involved in exocytosis	1
+GvMRE_prot	GO:0016192	vesicle-mediated transport	1
+GvMRE_prot	GO:0016788	hydrolase activity acting on ester bonds	4
+GvMRE_prot	GO:0042407	cristae formation	1
+GvMRE_prot	GO:0061617	MICOS complex	1
+GvMRE_prot	GO:0071973	bacterial-type flagellum-dependent cell motility	1
+GvMRE_prot	GO:0009288	bacterial-type flagellum	1
+GvMRE_prot	GO:0080009	mRNA methylation	1
+GvMRE_prot	GO:0009372	quorum sensing	1
+GvMRE_prot	GO:0017148	negative regulation of translation	1
+GvMRE_prot	GO:0044010	single-species biofilm formation	1
+GvMRE_prot	GO:0009289	pilus	1
+GvMRE_prot	GO:0009007	site-specific DNA-methyltransferase (adenine-specific) activity	2
+GvMRE_prot	GO:0032775	DNA methylation on adenine	2
+GvMRE_prot	GO:0004832	valine-tRNA ligase activity	2
+GvMRE_prot	GO:0006438	valyl-tRNA aminoacylation	2
+GvMRE_prot	GO:0006334	nucleosome assembly	1
+GvMRE_prot	GO:0004177	aminopeptidase activity	3
+GvMRE_prot	GO:0035556	intracellular signal transduction	1
+GvMRE_prot	GO:0006811	ion transport	1
+GvMRE_prot	GO:0047429	nucleoside-triphosphate diphosphatase activity	1
+GvMRE_prot	GO:0009143	nucleoside triphosphate catabolic process	1
+GvMRE_prot	GO:0009966	regulation of signal transduction	1
+GvMRE_prot	GO:0051225	spindle assembly	1
+GvMRE_prot	GO:0070652	HAUS complex	1
+GvMRE_prot	GO:0016888	endodeoxyribonuclease activity producing 5'-phosphomonoesters	1
+GvMRE_prot	GO:0006269	DNA replication synthesis of RNA primer	1
+GvMRE_prot	GO:0003713	transcription coactivator activity	1
+GvMRE_prot	GO:0006406	mRNA export from nucleus	1
+GvMRE_prot	GO:0045893	positive regulation of transcription DNA-templated	1
+GvMRE_prot	GO:0000124	SAGA complex	1
+GvMRE_prot	GO:0055085	transmembrane transport	2
+GvMRE_prot	GO:0005515	protein binding	2
+GvMRE_prot	GO:0004540	ribonuclease activity	1
+GvMRE_prot	GO:0006397	mRNA processing	2
+GvMRE_prot	GO:0008093	cytoskeletal adaptor activity	3
+GvMRE_prot	GO:0000445	THO complex part of transcription export complex	1
+GvMRE_prot	GO:0008289	lipid binding	3
+GvMRE_prot	GO:0006869	lipid transport	3
+GvMRE_prot	GO:0042157	lipoprotein metabolic process	3
+GvMRE_prot	GO:0009061	anaerobic respiration	1
+GvMRE_prot	GO:0005261	cation channel activity	1
+GvMRE_prot	GO:0019076	viral release from host cell	1
+GvMRE_prot	GO:0032801	receptor catabolic process	1
+GvMRE_prot	GO:0033644	host cell membrane	1
+GvMRE_prot	GO:0003678	DNA helicase activity	1
+GvMRE_prot	GO:0000723	telomere maintenance	1
+GvMRE_prot	GO:0006352	DNA-templated transcription initiation	1
+GvMRE_prot	GO:0006289	nucleotide-excision repair	1
+GvMRE_prot	GO:0006886	intracellular protein transport	1
+GvMRE_prot	GO:0009403	toxin biosynthetic process	1
+GvMRE_prot	GO:0009055	electron transfer activity	1
+GvMRE_prot	GO:0020037	heme binding	1
+GvMRE_prot	GO:0022900	electron transport chain	1
+GvMRE_prot	GO:0042597	periplasmic space	1
+GvMRE_prot	GO:0019905	syntaxin binding	1
+GvMRE_prot	GO:0042802	identical protein binding	1
+GvMRE_prot	GO:0043015	gamma-tubulin binding	1
+GvMRE_prot	GO:0043022	ribosome binding	1
+GvMRE_prot	GO:0009405	pathogenesis	1
+GvMRE_prot	GO:0005886	plasma membrane	2
+GvMRE_prot	GO:0004810	tRNA adenylyltransferase activity	1
+GvMRE_prot	GO:0004100	chitin synthase activity	1
+GvMRE_prot	GO:0006031	chitin biosynthetic process	1
+GvMRE_prot	GO:0008519	ammonium transmembrane transporter activity	2
+GvMRE_prot	GO:0015696	ammonium transport	2
+GvMRE_prot	GO:0006914	autophagy	1
+GvMRE_prot	GO:0042626	ATPase-coupled transmembrane transporter activity	1
+GvMRE_prot	GO:0043190	ATP-binding cassette (ABC) transporter complex	1
+GvMRE_prot	GO:0051033	RNA transmembrane transporter activity	1
+GvMRE_prot	GO:0033227	dsRNA transport	1
+GvMRE_prot	GO:0005337	nucleoside transmembrane transporter activity	1
+GvMRE_prot	GO:1901642	nucleoside transmembrane transport	1
+Jflam_AD002	GO:0003677	DNA binding	80
+Jflam_AD002	GO:0006310	DNA recombination	15
+Jflam_AD002	GO:0015074	DNA integration	15
+Jflam_AD002	GO:0005198	structural molecule activity	2
+Jflam_AD002	GO:0019028	viral capsid	3
+Jflam_AD002	GO:0019031	viral envelope	1
+Jflam_AD002	GO:0043093	FtsZ-dependent cytokinesis	1
+Jflam_AD002	GO:0090529	cell septum assembly	1
+Jflam_AD002	GO:0005737	cytoplasm	3
+Jflam_AD002	GO:0004672	protein kinase activity	4
+Jflam_AD002	GO:0006468	protein phosphorylation	4
+Jflam_AD002	GO:0003713	transcription coactivator activity	1
+Jflam_AD002	GO:0035257	nuclear hormone receptor binding	1
+Jflam_AD002	GO:0006355	regulation of transcription DNA-templated	4
+Jflam_AD002	GO:0005634	nucleus	1
+Jflam_AD002	GO:0003725	double-stranded RNA binding	2
+Jflam_AD002	GO:0003678	DNA helicase activity	2
+Jflam_AD002	GO:0000723	telomere maintenance	2
+Jflam_AD002	GO:0006281	DNA repair	4
+Jflam_AD002	GO:0008168	methyltransferase activity	4
+Jflam_AD002	GO:0008170	N-methyltransferase activity	11
+Jflam_AD002	GO:0006306	DNA methylation	11
+Jflam_AD002	GO:0048870	cell motility	1
+Jflam_AD002	GO:0031514	motile cilium	1
+Jflam_AD002	GO:0015078	proton transmembrane transporter activity	1
+Jflam_AD002	GO:0015986	ATP synthesis coupled proton transport	1
+Jflam_AD002	GO:0000276	mitochondrial proton-transporting ATP synthase complex coupling factor F(o)	1
+Jflam_AD002	GO:0016888	endodeoxyribonuclease activity producing 5'-phosphomonoesters	1
+Jflam_AD002	GO:0016020	membrane	7
+Jflam_AD002	GO:0016021	integral component of membrane	7
+Jflam_AD002	GO:0016192	vesicle-mediated transport	1
+Jflam_AD002	GO:0008408	3'-5' exonuclease activity	2
+Jflam_AD002	GO:0006260	DNA replication	4
+Jflam_AD002	GO:0008270	zinc ion binding	6
+Jflam_AD002	GO:0019867	outer membrane	2
+Jflam_AD002	GO:0003916	DNA topoisomerase activity	1
+Jflam_AD002	GO:0006265	DNA topological change	3
+Jflam_AD002	GO:0005840	ribosome	36
+Jflam_AD002	GO:0003779	actin binding	1
+Jflam_AD002	GO:0017048	Rho GTPase binding	1
+Jflam_AD002	GO:0030036	actin cytoskeleton organization	1
+Jflam_AD002	GO:0008234	cysteine-type peptidase activity	1
+Jflam_AD002	GO:0006508	proteolysis	8
+Jflam_AD002	GO:0003924	GTPase activity	4
+Jflam_AD002	GO:0005525	GTP binding	18
+Jflam_AD002	GO:0003735	structural constituent of ribosome	39
+Jflam_AD002	GO:0006412	translation	38
+Jflam_AD002	GO:0003684	damaged DNA binding	1
+Jflam_AD002	GO:0003906	DNA-(apurinic or apyrimidinic site) endonuclease activity	1
+Jflam_AD002	GO:0016799	hydrolase activity hydrolyzing N-glycosyl compounds	1
+Jflam_AD002	GO:0006284	base-excision repair	2
+Jflam_AD002	GO:0004197	cysteine-type endopeptidase activity	2
+Jflam_AD002	GO:0071586	CAAX-box protein processing	2
+Jflam_AD002	GO:0009036	type II site-specific deoxyribonuclease activity	2
+Jflam_AD002	GO:0009307	DNA restriction-modification system	2
+Jflam_AD002	GO:0005524	ATP binding	49
+Jflam_AD002	GO:0003918	DNA topoisomerase type II (double strand cut ATP-hydrolyzing) activity	2
+Jflam_AD002	GO:0003723	RNA binding	11
+Jflam_AD002	GO:0004826	phenylalanine-tRNA ligase activity	1
+Jflam_AD002	GO:0000166	nucleotide binding	15
+Jflam_AD002	GO:0004812	aminoacyl-tRNA ligase activity	15
+Jflam_AD002	GO:0006418	tRNA aminoacylation for protein translation	13
+Jflam_AD002	GO:0000774	adenyl-nucleotide exchange factor activity	1
+Jflam_AD002	GO:0042803	protein homodimerization activity	2
+Jflam_AD002	GO:0051087	chaperone binding	1
+Jflam_AD002	GO:0006457	protein folding	1
+Jflam_AD002	GO:0006304	DNA modification	2
+Jflam_AD002	GO:0000049	tRNA binding	3
+Jflam_AD002	GO:0004526	ribonuclease P activity	1
+Jflam_AD002	GO:0008033	tRNA processing	1
+Jflam_AD002	GO:0016788	hydrolase activity acting on ester bonds	2
+Jflam_AD002	GO:0048193	Golgi vesicle transport	1
+Jflam_AD002	GO:0032007	negative regulation of TOR signaling	1
+Jflam_AD002	GO:0034198	cellular response to amino acid starvation	1
+Jflam_AD002	GO:0016787	hydrolase activity	4
+Jflam_AD002	GO:0008134	transcription factor binding	1
+Jflam_AD002	GO:0070840	dynein complex binding	1
+Jflam_AD002	GO:0003824	catalytic activity	1
+Jflam_AD002	GO:0046872	metal ion binding	2
+Jflam_AD002	GO:0004177	aminopeptidase activity	1
+Jflam_AD002	GO:0003676	nucleic acid binding	1
+Jflam_AD002	GO:0019843	rRNA binding	4
+Jflam_AD002	GO:0003743	translation initiation factor activity	2
+Jflam_AD002	GO:0006413	translational initiation	3
+Jflam_AD002	GO:0003729	mRNA binding	1
+Jflam_AD002	GO:0006376	mRNA splice site selection	1
+Jflam_AD002	GO:0005685	U1 snRNP	1
+Jflam_AD002	GO:0003899	DNA-directed 5'-3' RNA polymerase activity	3
+Jflam_AD002	GO:0006351	transcription DNA-templated	3
+Jflam_AD002	GO:0000287	magnesium ion binding	1
+Jflam_AD002	GO:0004427	inorganic diphosphatase activity	1
+Jflam_AD002	GO:0006796	phosphate-containing compound metabolic process	1
+Jflam_AD002	GO:0009982	pseudouridine synthase activity	3
+Jflam_AD002	GO:0001522	pseudouridine synthesis	3
+Jflam_AD002	GO:0009451	RNA modification	3
+Jflam_AD002	GO:0004045	aminoacyl-tRNA hydrolase activity	1
+Jflam_AD002	GO:0055085	transmembrane transport	3
+Jflam_AD002	GO:0016887	ATPase activity	9
+Jflam_AD002	GO:0004832	valine-tRNA ligase activity	1
+Jflam_AD002	GO:0006438	valyl-tRNA aminoacylation	1
+Jflam_AD002	GO:0042254	ribosome biogenesis	1
+Jflam_AD002	GO:0004813	alanine-tRNA ligase activity	1
+Jflam_AD002	GO:0006419	alanyl-tRNA aminoacylation	1
+Jflam_AD002	GO:0016973	poly(A)+ mRNA export from nucleus	1
+Jflam_AD002	GO:0005643	nuclear pore	1
+Jflam_AD002	GO:0003746	translation elongation factor activity	1
+Jflam_AD002	GO:0006414	translational elongation	1
+Jflam_AD002	GO:0004674	protein serine/threonine kinase activity	1
+Jflam_AD002	GO:0005815	microtubule organizing center	1
+Jflam_AD002	GO:0003700	DNA-binding transcription factor activity	1
+Jflam_AD002	GO:0006352	DNA-templated transcription initiation	1
+Jflam_AD002	GO:0003905	alkylbase DNA N-glycosylase activity	1
+Jflam_AD002	GO:0003911	DNA ligase (NAD+) activity	1
+Jflam_AD002	GO:0043039	tRNA aminoacylation	2
+Jflam_AD002	GO:0006935	chemotaxis	1
+Jflam_AD002	GO:0007165	signal transduction	1
+Jflam_AD002	GO:0045454	cell redox homeostasis	1
+Jflam_AD002	GO:0004176	ATP-dependent peptidase activity	4
+Jflam_AD002	GO:0004252	serine-type endopeptidase activity	4
+Jflam_AD002	GO:0015031	protein transport	1
+Jflam_AD002	GO:0006396	RNA processing	3
+Jflam_AD002	GO:0008324	cation transmembrane transporter activity	1
+Jflam_AD002	GO:0006812	cation transport	1
+Jflam_AD002	GO:0003896	DNA primase activity	1
+Jflam_AD002	GO:0003697	single-stranded DNA binding	1
+Jflam_AD002	GO:0055114	oxidation-reduction process	3
+Jflam_AD002	GO:0032784	regulation of DNA-templated transcription elongation	1
+Jflam_AD002	GO:0015934	large ribosomal subunit	1
+Jflam_AD002	GO:0002949	tRNA threonylcarbamoyladenosine modification	1
+Jflam_AD002	GO:0005506	iron ion binding	1
+Jflam_AD002	GO:0051536	iron-sulfur cluster binding	1
+Jflam_AD002	GO:0016226	iron-sulfur cluster assembly	1
+Jflam_AD002	GO:0016491	oxidoreductase activity	1
+Jflam_AD002	GO:0016874	ligase activity	1
+Jflam_AD002	GO:0005887	integral component of plasma membrane	1
+Jflam_AD002	GO:0006486	protein glycosylation	1
+Jflam_AD002	GO:0003755	peptidyl-prolyl cis-trans isomerase activity	1
+Jflam_AD002	GO:0000413	protein peptidyl-prolyl isomerization	1
+Jflam_AD002	GO:0004784	superoxide dismutase activity	1
+Jflam_AD002	GO:0006801	superoxide metabolic process	1
+Jflam_AD002	GO:0042626	ATPase-coupled transmembrane transporter activity	1
+Jflam_AD002	GO:0004127	cytidylate kinase activity	1
+Jflam_AD002	GO:0006139	nucleobase-containing compound metabolic process	1
+Jflam_AD002	GO:0008173	RNA methyltransferase activity	1
+Jflam_AD002	GO:0017038	protein import	1
+Jflam_AD002	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system	1
+Jflam_AD002	GO:0006415	translational termination	1
+Jflam_AD002	GO:0004525	ribonuclease III activity	1
+Jflam_AD002	GO:0004222	metalloendopeptidase activity	2
+Jflam_AD002	GO:0006364	rRNA processing	1
+Jflam_AD002	GO:0005515	protein binding	1
+Jlac_OSC162217	GO:0003735	structural constituent of ribosome	72
+Jlac_OSC162217	GO:0006412	translation	71
+Jlac_OSC162217	GO:0005840	ribosome	67
+Jlac_OSC162217	GO:0000166	nucleotide binding	31
+Jlac_OSC162217	GO:0004812	aminoacyl-tRNA ligase activity	31
+Jlac_OSC162217	GO:0005524	ATP binding	100
+Jlac_OSC162217	GO:0006418	tRNA aminoacylation for protein translation	27
+Jlac_OSC162217	GO:0003677	DNA binding	124
+Jlac_OSC162217	GO:0015979	photosynthesis	1
+Jlac_OSC162217	GO:0009523	photosystem II	1
+Jlac_OSC162217	GO:0016021	integral component of membrane	9
+Jlac_OSC162217	GO:0004222	metalloendopeptidase activity	7
+Jlac_OSC162217	GO:0006364	rRNA processing	3
+Jlac_OSC162217	GO:0003684	damaged DNA binding	2
+Jlac_OSC162217	GO:0003906	DNA-(apurinic or apyrimidinic site) endonuclease activity	2
+Jlac_OSC162217	GO:0008270	zinc ion binding	5
+Jlac_OSC162217	GO:0016799	hydrolase activity hydrolyzing N-glycosyl compounds	2
+Jlac_OSC162217	GO:0006289	nucleotide-excision repair	1
+Jlac_OSC162217	GO:0004525	ribonuclease III activity	2
+Jlac_OSC162217	GO:0006396	RNA processing	6
+Jlac_OSC162217	GO:0008234	cysteine-type peptidase activity	7
+Jlac_OSC162217	GO:0006508	proteolysis	23
+Jlac_OSC162217	GO:0004672	protein kinase activity	7
+Jlac_OSC162217	GO:0006468	protein phosphorylation	7
+Jlac_OSC162217	GO:0005525	GTP binding	28
+Jlac_OSC162217	GO:0003953	NAD+ nucleosidase activity	1
+Jlac_OSC162217	GO:0006352	DNA-templated transcription initiation	2
+Jlac_OSC162217	GO:0004784	superoxide dismutase activity	2
+Jlac_OSC162217	GO:0046872	metal ion binding	3
+Jlac_OSC162217	GO:0006801	superoxide metabolic process	2
+Jlac_OSC162217	GO:0055114	oxidation-reduction process	10
+Jlac_OSC162217	GO:0016787	hydrolase activity	9
+Jlac_OSC162217	GO:0004803	transposase activity	3
+Jlac_OSC162217	GO:0006313	transposition DNA-mediated	3
+Jlac_OSC162217	GO:0004045	aminoacyl-tRNA hydrolase activity	3
+Jlac_OSC162217	GO:0003924	GTPase activity	8
+Jlac_OSC162217	GO:0032784	regulation of DNA-templated transcription elongation	2
+Jlac_OSC162217	GO:0019867	outer membrane	3
+Jlac_OSC162217	GO:0006413	translational initiation	4
+Jlac_OSC162217	GO:0006355	regulation of transcription DNA-templated	8
+Jlac_OSC162217	GO:0008170	N-methyltransferase activity	21
+Jlac_OSC162217	GO:0006306	DNA methylation	21
+Jlac_OSC162217	GO:0003723	RNA binding	20
+Jlac_OSC162217	GO:0000049	tRNA binding	4
+Jlac_OSC162217	GO:0043039	tRNA aminoacylation	4
+Jlac_OSC162217	GO:0019843	rRNA binding	7
+Jlac_OSC162217	GO:0003824	catalytic activity	4
+Jlac_OSC162217	GO:0009058	biosynthetic process	1
+Jlac_OSC162217	GO:0003905	alkylbase DNA N-glycosylase activity	2
+Jlac_OSC162217	GO:0006284	base-excision repair	3
+Jlac_OSC162217	GO:0003887	DNA-directed DNA polymerase activity	1
+Jlac_OSC162217	GO:0006260	DNA replication	8
+Jlac_OSC162217	GO:0016020	membrane	9
+Jlac_OSC162217	GO:0003860	3-hydroxyisobutyryl-CoA hydrolase activity	1
+Jlac_OSC162217	GO:0016887	ATPase activity	21
+Jlac_OSC162217	GO:0019031	viral envelope	2
+Jlac_OSC162217	GO:0005506	iron ion binding	2
+Jlac_OSC162217	GO:0051536	iron-sulfur cluster binding	2
+Jlac_OSC162217	GO:0016226	iron-sulfur cluster assembly	2
+Jlac_OSC162217	GO:0008168	methyltransferase activity	13
+Jlac_OSC162217	GO:0004176	ATP-dependent peptidase activity	8
+Jlac_OSC162217	GO:0004252	serine-type endopeptidase activity	9
+Jlac_OSC162217	GO:0006310	DNA recombination	11
+Jlac_OSC162217	GO:0015074	DNA integration	11
+Jlac_OSC162217	GO:0003916	DNA topoisomerase activity	3
+Jlac_OSC162217	GO:0006265	DNA topological change	5
+Jlac_OSC162217	GO:0016874	ligase activity	2
+Jlac_OSC162217	GO:0003899	DNA-directed 5'-3' RNA polymerase activity	6
+Jlac_OSC162217	GO:0006351	transcription DNA-templated	6
+Jlac_OSC162217	GO:0005743	mitochondrial inner membrane	3
+Jlac_OSC162217	GO:0070469	respirasome	2
+Jlac_OSC162217	GO:0003676	nucleic acid binding	6
+Jlac_OSC162217	GO:0003725	double-stranded RNA binding	2
+Jlac_OSC162217	GO:0009982	pseudouridine synthase activity	4
+Jlac_OSC162217	GO:0001522	pseudouridine synthesis	4
+Jlac_OSC162217	GO:0009451	RNA modification	4
+Jlac_OSC162217	GO:0045454	cell redox homeostasis	2
+Jlac_OSC162217	GO:0016491	oxidoreductase activity	3
+Jlac_OSC162217	GO:0004523	RNA-DNA hybrid ribonuclease activity	1
+Jlac_OSC162217	GO:0004814	arginine-tRNA ligase activity	2
+Jlac_OSC162217	GO:0006420	arginyl-tRNA aminoacylation	2
+Jlac_OSC162217	GO:0015934	large ribosomal subunit	2
+Jlac_OSC162217	GO:0000287	magnesium ion binding	2
+Jlac_OSC162217	GO:0004427	inorganic diphosphatase activity	2
+Jlac_OSC162217	GO:0006796	phosphate-containing compound metabolic process	2
+Jlac_OSC162217	GO:0005737	cytoplasm	2
+Jlac_OSC162217	GO:0008408	3'-5' exonuclease activity	4
+Jlac_OSC162217	GO:0008817	cob(I)yrinic acid ac-diamide adenosyltransferase activity	1
+Jlac_OSC162217	GO:0009236	cobalamin biosynthetic process	1
+Jlac_OSC162217	GO:0016817	hydrolase activity acting on acid anhydrides	1
+Jlac_OSC162217	GO:0005315	inorganic phosphate transmembrane transporter activity	1
+Jlac_OSC162217	GO:0006817	phosphate ion transport	1
+Jlac_OSC162217	GO:0004810	tRNA adenylyltransferase activity	1
+Jlac_OSC162217	GO:0017038	protein import	2
+Jlac_OSC162217	GO:0004177	aminopeptidase activity	2
+Jlac_OSC162217	GO:0003697	single-stranded DNA binding	2
+Jlac_OSC162217	GO:0006281	DNA repair	7
+Jlac_OSC162217	GO:0004127	cytidylate kinase activity	2
+Jlac_OSC162217	GO:0006139	nucleobase-containing compound metabolic process	2
+Jlac_OSC162217	GO:0008017	microtubule binding	3
+Jlac_OSC162217	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system	2
+Jlac_OSC162217	GO:0009036	type II site-specific deoxyribonuclease activity	3
+Jlac_OSC162217	GO:0009307	DNA restriction-modification system	3
+Jlac_OSC162217	GO:0002949	tRNA threonylcarbamoyladenosine modification	2
+Jlac_OSC162217	GO:0005747	mitochondrial respiratory chain complex I	1
+Jlac_OSC162217	GO:0004826	phenylalanine-tRNA ligase activity	2
+Jlac_OSC162217	GO:0042802	identical protein binding	1
+Jlac_OSC162217	GO:0043015	gamma-tubulin binding	1
+Jlac_OSC162217	GO:0042254	ribosome biogenesis	2
+Jlac_OSC162217	GO:0003678	DNA helicase activity	3
+Jlac_OSC162217	GO:0000723	telomere maintenance	3
+Jlac_OSC162217	GO:0008173	RNA methyltransferase activity	2
+Jlac_OSC162217	GO:0003700	DNA-binding transcription factor activity	2
+Jlac_OSC162217	GO:0006304	DNA modification	3
+Jlac_OSC162217	GO:0003911	DNA ligase (NAD+) activity	2
+Jlac_OSC162217	GO:0016747	transferase activity transferring acyl groups other than amino-acyl groups	1
+Jlac_OSC162217	GO:0015031	protein transport	2
+Jlac_OSC162217	GO:0004146	dihydrofolate reductase activity	2
+Jlac_OSC162217	GO:0046654	tetrahydrofolate biosynthetic process	2
+Jlac_OSC162217	GO:0046740	transport of virus in host cell to cell	1
+Jlac_OSC162217	GO:0003743	translation initiation factor activity	3
+Jlac_OSC162217	GO:0046983	protein dimerization activity	1
+Jlac_OSC162217	GO:0007059	chromosome segregation	1
+Jlac_OSC162217	GO:0051301	cell division	1
+Jlac_OSC162217	GO:0003746	translation elongation factor activity	1
+Jlac_OSC162217	GO:0006414	translational elongation	1
+Jlac_OSC162217	GO:0020037	heme binding	1
+Jlac_OSC162217	GO:0017004	cytochrome complex assembly	1
+Jlac_OSC162217	GO:0016032	viral process	1
+Jlac_OSC162217	GO:0006415	translational termination	2
+Jlac_OSC162217	GO:0009405	pathogenesis	1
+Jlac_OSC162217	GO:0005887	integral component of plasma membrane	2
+Jlac_OSC162217	GO:0000774	adenyl-nucleotide exchange factor activity	2
+Jlac_OSC162217	GO:0042803	protein homodimerization activity	4
+Jlac_OSC162217	GO:0051087	chaperone binding	2
+Jlac_OSC162217	GO:0006457	protein folding	2
+Jlac_OSC162217	GO:0004813	alanine-tRNA ligase activity	3
+Jlac_OSC162217	GO:0006419	alanyl-tRNA aminoacylation	3
+Jlac_OSC162217	GO:0005815	microtubule organizing center	2
+Jlac_OSC162217	GO:0003918	DNA topoisomerase type II (double strand cut ATP-hydrolyzing) activity	2
+Jlac_OSC162217	GO:0016788	hydrolase activity acting on ester bonds	2
+Jlac_OSC162217	GO:0005085	guanyl-nucleotide exchange factor activity	1
+Jlac_OSC162217	GO:0003712	transcription coregulator activity	1
+Jlac_OSC162217	GO:0016592	mediator complex	1
+Jlac_OSC162217	GO:0004674	protein serine/threonine kinase activity	1
+Jlac_OSC162217	GO:0004519	endonuclease activity	1
+Jlac_OSC162217	GO:0043571	maintenance of CRISPR repeat elements	1
+Jlac_OSC162217	GO:0051607	defense response to virus	1
+Jlac_OSC162217	GO:0008134	transcription factor binding	2
+Jlac_OSC162217	GO:0070840	dynein complex binding	2
+Jlac_OSC162217	GO:0005198	structural molecule activity	2
+Jlac_OSC162217	GO:0008855	exodeoxyribonuclease VII activity	1
+Jlac_OSC162217	GO:0009403	toxin biosynthetic process	1
+Jlac_OSC162217	GO:0016702	oxidoreductase activity acting on single donors with incorporation of molecular oxygen incorporation of two atoms of oxygen	1
+Jlac_OSC162217	GO:0043531	ADP binding	1
+Jlac_OSC162217	GO:0050909	sensory perception of taste	1
+Jlac_OSC162217	GO:0019028	viral capsid	1
+Jlac_OSC162217	GO:0004526	ribonuclease P activity	1
+Jlac_OSC162217	GO:0008033	tRNA processing	1
+Jlac_OSC162217	GO:0055085	transmembrane transport	1
+Jlac_OSC162217	GO:0016192	vesicle-mediated transport	1
+Jlac_OSC162217	GO:0050840	extracellular matrix binding	1
+Jlac_OSC162217	GO:0005576	extracellular region	1
+Jlac_OSC162217	GO:0003896	DNA primase activity	1
+Jlac_OSC162217	GO:0006486	protein glycosylation	1
+MorAlp_AD073_MRE_prot	GO:0003677	DNA binding	22
+MorAlp_AD073_MRE_prot	GO:0008170	N-methyltransferase activity	2
+MorAlp_AD073_MRE_prot	GO:0006306	DNA methylation	2
+MorAlp_AD073_MRE_prot	GO:0005506	iron ion binding	1
+MorAlp_AD073_MRE_prot	GO:0016705	oxidoreductase activity acting on paired donors with incorporation or reduction of molecular oxygen	1
+MorAlp_AD073_MRE_prot	GO:0020037	heme binding	1
+MorAlp_AD073_MRE_prot	GO:0055114	oxidation-reduction process	2
+MorAlp_AD073_MRE_prot	GO:0005524	ATP binding	33
+MorAlp_AD073_MRE_prot	GO:0017038	protein import	1
+MorAlp_AD073_MRE_prot	GO:0016020	membrane	3
+MorAlp_AD073_MRE_prot	GO:0008408	3'-5' exonuclease activity	2
+MorAlp_AD073_MRE_prot	GO:0006260	DNA replication	2
+MorAlp_AD073_MRE_prot	GO:0000150	recombinase activity	1
+MorAlp_AD073_MRE_prot	GO:0006310	DNA recombination	1
+MorAlp_AD073_MRE_prot	GO:0004810	tRNA adenylyltransferase activity	1
+MorAlp_AD073_MRE_prot	GO:0003723	RNA binding	13
+MorAlp_AD073_MRE_prot	GO:0003924	GTPase activity	5
+MorAlp_AD073_MRE_prot	GO:0005525	GTP binding	6
+MorAlp_AD073_MRE_prot	GO:0006364	rRNA processing	3
+MorAlp_AD073_MRE_prot	GO:0016887	ATPase activity	4
+MorAlp_AD073_MRE_prot	GO:0016779	nucleotidyltransferase activity	1
+MorAlp_AD073_MRE_prot	GO:0006415	translational termination	1
+MorAlp_AD073_MRE_prot	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system	1
+MorAlp_AD073_MRE_prot	GO:0008173	RNA methyltransferase activity	1
+MorAlp_AD073_MRE_prot	GO:0006396	RNA processing	2
+MorAlp_AD073_MRE_prot	GO:0004222	metalloendopeptidase activity	3
+MorAlp_AD073_MRE_prot	GO:0000166	nucleotide binding	15
+MorAlp_AD073_MRE_prot	GO:0004812	aminoacyl-tRNA ligase activity	16
+MorAlp_AD073_MRE_prot	GO:0006418	tRNA aminoacylation for protein translation	14
+MorAlp_AD073_MRE_prot	GO:0000049	tRNA binding	2
+MorAlp_AD073_MRE_prot	GO:0043039	tRNA aminoacylation	2
+MorAlp_AD073_MRE_prot	GO:0004826	phenylalanine-tRNA ligase activity	1
+MorAlp_AD073_MRE_prot	GO:0008270	zinc ion binding	2
+MorAlp_AD073_MRE_prot	GO:0016021	integral component of membrane	2
+MorAlp_AD073_MRE_prot	GO:0003905	alkylbase DNA N-glycosylase activity	1
+MorAlp_AD073_MRE_prot	GO:0006284	base-excision repair	2
+MorAlp_AD073_MRE_prot	GO:0003911	DNA ligase (NAD+) activity	1
+MorAlp_AD073_MRE_prot	GO:0006355	regulation of transcription DNA-templated	4
+MorAlp_AD073_MRE_prot	GO:0004525	ribonuclease III activity	1
+MorAlp_AD073_MRE_prot	GO:0006508	proteolysis	4
+MorAlp_AD073_MRE_prot	GO:0002949	tRNA threonylcarbamoyladenosine modification	1
+MorAlp_AD073_MRE_prot	GO:0003746	translation elongation factor activity	1
+MorAlp_AD073_MRE_prot	GO:0006414	translational elongation	1
+MorAlp_AD073_MRE_prot	GO:0000774	adenyl-nucleotide exchange factor activity	1
+MorAlp_AD073_MRE_prot	GO:0042803	protein homodimerization activity	1
+MorAlp_AD073_MRE_prot	GO:0051087	chaperone binding	1
+MorAlp_AD073_MRE_prot	GO:0006457	protein folding	1
+MorAlp_AD073_MRE_prot	GO:0008168	methyltransferase activity	7
+MorAlp_AD073_MRE_prot	GO:0003735	structural constituent of ribosome	38
+MorAlp_AD073_MRE_prot	GO:0019843	rRNA binding	5
+MorAlp_AD073_MRE_prot	GO:0006412	translation	37
+MorAlp_AD073_MRE_prot	GO:0005840	ribosome	34
+MorAlp_AD073_MRE_prot	GO:0003684	damaged DNA binding	1
+MorAlp_AD073_MRE_prot	GO:0003906	DNA-(apurinic or apyrimidinic site) endonuclease activity	1
+MorAlp_AD073_MRE_prot	GO:0016799	hydrolase activity hydrolyzing N-glycosyl compounds	1
+MorAlp_AD073_MRE_prot	GO:0004814	arginine-tRNA ligase activity	1
+MorAlp_AD073_MRE_prot	GO:0006420	arginyl-tRNA aminoacylation	1
+MorAlp_AD073_MRE_prot	GO:0032784	regulation of DNA-templated transcription elongation	2
+MorAlp_AD073_MRE_prot	GO:0004813	alanine-tRNA ligase activity	1
+MorAlp_AD073_MRE_prot	GO:0006419	alanyl-tRNA aminoacylation	1
+MorAlp_AD073_MRE_prot	GO:0016788	hydrolase activity acting on ester bonds	1
+MorAlp_AD073_MRE_prot	GO:0003916	DNA topoisomerase activity	1
+MorAlp_AD073_MRE_prot	GO:0006265	DNA topological change	4
+MorAlp_AD073_MRE_prot	GO:0004526	ribonuclease P activity	1
+MorAlp_AD073_MRE_prot	GO:0008033	tRNA processing	1
+MorAlp_AD073_MRE_prot	GO:0004045	aminoacyl-tRNA hydrolase activity	1
+MorAlp_AD073_MRE_prot	GO:0016874	ligase activity	1
+MorAlp_AD073_MRE_prot	GO:0016491	oxidoreductase activity	1
+MorAlp_AD073_MRE_prot	GO:0003824	catalytic activity	1
+MorAlp_AD073_MRE_prot	GO:0006281	DNA repair	1
+MorAlp_AD073_MRE_prot	GO:0000287	magnesium ion binding	1
+MorAlp_AD073_MRE_prot	GO:0004427	inorganic diphosphatase activity	1
+MorAlp_AD073_MRE_prot	GO:0006796	phosphate-containing compound metabolic process	1
+MorAlp_AD073_MRE_prot	GO:0005737	cytoplasm	1
+MorAlp_AD073_MRE_prot	GO:0015934	large ribosomal subunit	1
+MorAlp_AD073_MRE_prot	GO:0016787	hydrolase activity	1
+MorAlp_AD073_MRE_prot	GO:0004176	ATP-dependent peptidase activity	3
+MorAlp_AD073_MRE_prot	GO:0004252	serine-type endopeptidase activity	3
+MorAlp_AD073_MRE_prot	GO:0009036	type II site-specific deoxyribonuclease activity	1
+MorAlp_AD073_MRE_prot	GO:0009307	DNA restriction-modification system	1
+MorAlp_AD073_MRE_prot	GO:0015031	protein transport	1
+MorAlp_AD073_MRE_prot	GO:0003743	translation initiation factor activity	2
+MorAlp_AD073_MRE_prot	GO:0006413	translational initiation	2
+MorAlp_AD073_MRE_prot	GO:0003899	DNA-directed 5'-3' RNA polymerase activity	3
+MorAlp_AD073_MRE_prot	GO:0006351	transcription DNA-templated	3
+MorAlp_AD073_MRE_prot	GO:0009982	pseudouridine synthase activity	3
+MorAlp_AD073_MRE_prot	GO:0001522	pseudouridine synthesis	3
+MorAlp_AD073_MRE_prot	GO:0009451	RNA modification	3
+MorAlp_AD073_MRE_prot	GO:0042254	ribosome biogenesis	1
+MorAlp_AD073_MRE_prot	GO:0003918	DNA topoisomerase type II (double strand cut ATP-hydrolyzing) activity	3
+MorAlp_AD073_MRE_prot	GO:0005267	potassium channel activity	1
+MorAlp_AD073_MRE_prot	GO:0003676	nucleic acid binding	1
+MorAlp_AD073_MRE_prot	GO:0003700	DNA-binding transcription factor activity	1
+MorAlp_AD073_MRE_prot	GO:0006352	DNA-templated transcription initiation	1
+MorAlp_AD073_MRE_prot	GO:0004197	cysteine-type endopeptidase activity	1
+MorAlp_AD073_MRE_prot	GO:0071586	CAAX-box protein processing	1
+MorAlp_AD073_MRE_prot	GO:0019013	viral nucleocapsid	1
+MorGam_AM1032_MRE	GO:0006364	rRNA processing	3
+MorGam_AM1032_MRE	GO:0003924	GTPase activity	4
+MorGam_AM1032_MRE	GO:0005525	GTP binding	6
+MorGam_AM1032_MRE	GO:0003723	RNA binding	12
+MorGam_AM1032_MRE	GO:0004810	tRNA adenylyltransferase activity	1
+MorGam_AM1032_MRE	GO:0000150	recombinase activity	1
+MorGam_AM1032_MRE	GO:0003677	DNA binding	13
+MorGam_AM1032_MRE	GO:0006310	DNA recombination	1
+MorGam_AM1032_MRE	GO:0003676	nucleic acid binding	2
+MorGam_AM1032_MRE	GO:0005524	ATP binding	34
+MorGam_AM1032_MRE	GO:0046559	alpha-glucuronidase activity	1
+MorGam_AM1032_MRE	GO:0045493	xylan catabolic process	1
+MorGam_AM1032_MRE	GO:0004672	protein kinase activity	4
+MorGam_AM1032_MRE	GO:0006468	protein phosphorylation	4
+MorGam_AM1032_MRE	GO:0019901	protein kinase binding	1
+MorGam_AM1032_MRE	GO:0005507	copper ion binding	1
+MorGam_AM1032_MRE	GO:0016641	oxidoreductase activity acting on the CH-NH2 group of donors oxygen as acceptor	1
+MorGam_AM1032_MRE	GO:0055114	oxidation-reduction process	2
+MorGam_AM1032_MRE	GO:0016887	ATPase activity	6
+MorGam_AM1032_MRE	GO:0000049	tRNA binding	2
+MorGam_AM1032_MRE	GO:0004812	aminoacyl-tRNA ligase activity	14
+MorGam_AM1032_MRE	GO:0043039	tRNA aminoacylation	2
+MorGam_AM1032_MRE	GO:0010506	regulation of autophagy	1
+MorGam_AM1032_MRE	GO:0005615	extracellular space	1
+MorGam_AM1032_MRE	GO:0003700	DNA-binding transcription factor activity	1
+MorGam_AM1032_MRE	GO:0006352	DNA-templated transcription initiation	1
+MorGam_AM1032_MRE	GO:0006355	regulation of transcription DNA-templated	3
+MorGam_AM1032_MRE	GO:0003697	single-stranded DNA binding	1
+MorGam_AM1032_MRE	GO:0006281	DNA repair	2
+MorGam_AM1032_MRE	GO:0003911	DNA ligase (NAD+) activity	1
+MorGam_AM1032_MRE	GO:0003735	structural constituent of ribosome	39
+MorGam_AM1032_MRE	GO:0006412	translation	38
+MorGam_AM1032_MRE	GO:0005840	ribosome	36
+MorGam_AM1032_MRE	GO:0000166	nucleotide binding	13
+MorGam_AM1032_MRE	GO:0006418	tRNA aminoacylation for protein translation	12
+MorGam_AM1032_MRE	GO:0008173	RNA methyltransferase activity	1
+MorGam_AM1032_MRE	GO:0006396	RNA processing	2
+MorGam_AM1032_MRE	GO:0003743	translation initiation factor activity	2
+MorGam_AM1032_MRE	GO:0006413	translational initiation	2
+MorGam_AM1032_MRE	GO:0003918	DNA topoisomerase type II (double strand cut ATP-hydrolyzing) activity	1
+MorGam_AM1032_MRE	GO:0006265	DNA topological change	2
+MorGam_AM1032_MRE	GO:0009982	pseudouridine synthase activity	3
+MorGam_AM1032_MRE	GO:0001522	pseudouridine synthesis	3
+MorGam_AM1032_MRE	GO:0009451	RNA modification	3
+MorGam_AM1032_MRE	GO:0003899	DNA-directed 5'-3' RNA polymerase activity	3
+MorGam_AM1032_MRE	GO:0006351	transcription DNA-templated	3
+MorGam_AM1032_MRE	GO:0042254	ribosome biogenesis	1
+MorGam_AM1032_MRE	GO:0015031	protein transport	1
+MorGam_AM1032_MRE	GO:0016020	membrane	2
+MorGam_AM1032_MRE	GO:0019843	rRNA binding	4
+MorGam_AM1032_MRE	GO:0045454	cell redox homeostasis	1
+MorGam_AM1032_MRE	GO:0004176	ATP-dependent peptidase activity	1
+MorGam_AM1032_MRE	GO:0004252	serine-type endopeptidase activity	1
+MorGam_AM1032_MRE	GO:0006508	proteolysis	2
+MorGam_AM1032_MRE	GO:0016491	oxidoreductase activity	1
+MorGam_AM1032_MRE	GO:0016874	ligase activity	1
+MorGam_AM1032_MRE	GO:0004045	aminoacyl-tRNA hydrolase activity	1
+MorGam_AM1032_MRE	GO:0004526	ribonuclease P activity	1
+MorGam_AM1032_MRE	GO:0008033	tRNA processing	1
+MorGam_AM1032_MRE	GO:0003916	DNA topoisomerase activity	1
+MorGam_AM1032_MRE	GO:0003824	catalytic activity	1
+MorGam_AM1032_MRE	GO:0000287	magnesium ion binding	1
+MorGam_AM1032_MRE	GO:0004427	inorganic diphosphatase activity	1
+MorGam_AM1032_MRE	GO:0006796	phosphate-containing compound metabolic process	1
+MorGam_AM1032_MRE	GO:0005737	cytoplasm	1
+MorGam_AM1032_MRE	GO:0015934	large ribosomal subunit	1
+MorGam_AM1032_MRE	GO:0008168	methyltransferase activity	1
+MorGam_AM1032_MRE	GO:0016787	hydrolase activity	1
+MorGam_AM1032_MRE	GO:0005515	protein binding	1
+MorGam_AM1032_MRE	GO:0003684	damaged DNA binding	1
+MorGam_AM1032_MRE	GO:0003906	DNA-(apurinic or apyrimidinic site) endonuclease activity	1
+MorGam_AM1032_MRE	GO:0008270	zinc ion binding	1
+MorGam_AM1032_MRE	GO:0016799	hydrolase activity hydrolyzing N-glycosyl compounds	1
+MorGam_AM1032_MRE	GO:0006284	base-excision repair	2
+MorGam_AM1032_MRE	GO:0016788	hydrolase activity acting on ester bonds	1
+MorGam_AM1032_MRE	GO:0004813	alanine-tRNA ligase activity	1
+MorGam_AM1032_MRE	GO:0006419	alanyl-tRNA aminoacylation	1
+MorGam_AM1032_MRE	GO:0032784	regulation of DNA-templated transcription elongation	1
+MorGam_AM1032_MRE	GO:0004814	arginine-tRNA ligase activity	1
+MorGam_AM1032_MRE	GO:0006420	arginyl-tRNA aminoacylation	1
+MorGam_AM1032_MRE	GO:0000774	adenyl-nucleotide exchange factor activity	1
+MorGam_AM1032_MRE	GO:0042803	protein homodimerization activity	1
+MorGam_AM1032_MRE	GO:0051087	chaperone binding	1
+MorGam_AM1032_MRE	GO:0006457	protein folding	1
+MorGam_AM1032_MRE	GO:0003746	translation elongation factor activity	1
+MorGam_AM1032_MRE	GO:0006414	translational elongation	1
+MorGam_AM1032_MRE	GO:0002949	tRNA threonylcarbamoyladenosine modification	1
+MorGam_AM1032_MRE	GO:0004222	metalloendopeptidase activity	2
+MorGam_AM1032_MRE	GO:0004525	ribonuclease III activity	1
+MorGam_AM1032_MRE	GO:0008408	3'-5' exonuclease activity	2
+MorGam_AM1032_MRE	GO:0006260	DNA replication	2
+MorGam_AM1032_MRE	GO:0017038	protein import	1
+MorGam_AM1032_MRE	GO:0006415	translational termination	1
+MorGam_AM1032_MRE	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system	1
+MorGam_AM1032_MRE	GO:0005484	SNAP receptor activity	1
+MorGam_AM1032_MRE	GO:0006890	retrograde vesicle-mediated transport Golgi to endoplasmic reticulum	1
+MorGam_AM1032_MRE	GO:0003905	alkylbase DNA N-glycosylase activity	1
+MorGam_AM1032_MRE	GO:0004826	phenylalanine-tRNA ligase activity	1
+MorGam_AM1032_MRE	GO:0048870	cell motility	1
+MorGam_AM1032_MRE	GO:0031514	motile cilium	1
+MortAD185_MRE_genomic	GO:0051082	unfolded protein binding	2
+MortAD185_MRE_genomic	GO:0006457	protein folding	3
+MortAD185_MRE_genomic	GO:0016272	prefoldin complex	1
+MortAD185_MRE_genomic	GO:0003824	catalytic activity	2
+MortAD185_MRE_genomic	GO:0003677	DNA binding	39
+MortAD185_MRE_genomic	GO:0005525	GTP binding	13
+MortAD185_MRE_genomic	GO:0004672	protein kinase activity	9
+MortAD185_MRE_genomic	GO:0006468	protein phosphorylation	9
+MortAD185_MRE_genomic	GO:0000287	magnesium ion binding	1
+MortAD185_MRE_genomic	GO:0004427	inorganic diphosphatase activity	1
+MortAD185_MRE_genomic	GO:0006796	phosphate-containing compound metabolic process	1
+MortAD185_MRE_genomic	GO:0005737	cytoplasm	2
+MortAD185_MRE_genomic	GO:0019385	methanogenesis from acetate	1
+MortAD185_MRE_genomic	GO:0003735	structural constituent of ribosome	39
+MortAD185_MRE_genomic	GO:0006412	translation	38
+MortAD185_MRE_genomic	GO:0005840	ribosome	37
+MortAD185_MRE_genomic	GO:0003700	DNA-binding transcription factor activity	2
+MortAD185_MRE_genomic	GO:0006352	DNA-templated transcription initiation	1
+MortAD185_MRE_genomic	GO:0006355	regulation of transcription DNA-templated	4
+MortAD185_MRE_genomic	GO:0000166	nucleotide binding	15
+MortAD185_MRE_genomic	GO:0004812	aminoacyl-tRNA ligase activity	15
+MortAD185_MRE_genomic	GO:0005524	ATP binding	43
+MortAD185_MRE_genomic	GO:0006418	tRNA aminoacylation for protein translation	13
+MortAD185_MRE_genomic	GO:0006310	DNA recombination	12
+MortAD185_MRE_genomic	GO:0015074	DNA integration	10
+MortAD185_MRE_genomic	GO:0005198	structural molecule activity	2
+MortAD185_MRE_genomic	GO:0016032	viral process	2
+MortAD185_MRE_genomic	GO:0016020	membrane	4
+MortAD185_MRE_genomic	GO:0003723	RNA binding	12
+MortAD185_MRE_genomic	GO:0003924	GTPase activity	4
+MortAD185_MRE_genomic	GO:0004222	metalloendopeptidase activity	3
+MortAD185_MRE_genomic	GO:0006508	proteolysis	6
+MortAD185_MRE_genomic	GO:0000049	tRNA binding	2
+MortAD185_MRE_genomic	GO:0043039	tRNA aminoacylation	2
+MortAD185_MRE_genomic	GO:0016021	integral component of membrane	4
+MortAD185_MRE_genomic	GO:0004177	aminopeptidase activity	1
+MortAD185_MRE_genomic	GO:0006396	RNA processing	3
+MortAD185_MRE_genomic	GO:0009982	pseudouridine synthase activity	2
+MortAD185_MRE_genomic	GO:0001522	pseudouridine synthesis	2
+MortAD185_MRE_genomic	GO:0009451	RNA modification	2
+MortAD185_MRE_genomic	GO:0004176	ATP-dependent peptidase activity	2
+MortAD185_MRE_genomic	GO:0004252	serine-type endopeptidase activity	2
+MortAD185_MRE_genomic	GO:0004784	superoxide dismutase activity	1
+MortAD185_MRE_genomic	GO:0046872	metal ion binding	1
+MortAD185_MRE_genomic	GO:0006801	superoxide metabolic process	1
+MortAD185_MRE_genomic	GO:0055114	oxidation-reduction process	2
+MortAD185_MRE_genomic	GO:0004526	ribonuclease P activity	1
+MortAD185_MRE_genomic	GO:0008033	tRNA processing	1
+MortAD185_MRE_genomic	GO:0016874	ligase activity	1
+MortAD185_MRE_genomic	GO:0005515	protein binding	1
+MortAD185_MRE_genomic	GO:0031554	regulation of DNA-templated transcription termination	1
+MortAD185_MRE_genomic	GO:0006364	rRNA processing	1
+MortAD185_MRE_genomic	GO:0016887	ATPase activity	5
+MortAD185_MRE_genomic	GO:0004827	proline-tRNA ligase activity	1
+MortAD185_MRE_genomic	GO:0006433	prolyl-tRNA aminoacylation	1
+MortAD185_MRE_genomic	GO:0003911	DNA ligase (NAD+) activity	1
+MortAD185_MRE_genomic	GO:0003684	damaged DNA binding	1
+MortAD185_MRE_genomic	GO:0003906	DNA-(apurinic or apyrimidinic site) endonuclease activity	1
+MortAD185_MRE_genomic	GO:0008270	zinc ion binding	2
+MortAD185_MRE_genomic	GO:0016799	hydrolase activity hydrolyzing N-glycosyl compounds	1
+MortAD185_MRE_genomic	GO:0006284	base-excision repair	2
+MortAD185_MRE_genomic	GO:0004814	arginine-tRNA ligase activity	1
+MortAD185_MRE_genomic	GO:0006420	arginyl-tRNA aminoacylation	1
+MortAD185_MRE_genomic	GO:0004826	phenylalanine-tRNA ligase activity	1
+MortAD185_MRE_genomic	GO:0000150	recombinase activity	2
+MortAD185_MRE_genomic	GO:0006415	translational termination	2
+MortAD185_MRE_genomic	GO:0003747	translation release factor activity	1
+MortAD185_MRE_genomic	GO:0003743	translation initiation factor activity	2
+MortAD185_MRE_genomic	GO:0006413	translational initiation	3
+MortAD185_MRE_genomic	GO:0008173	RNA methyltransferase activity	1
+MortAD185_MRE_genomic	GO:0008168	methyltransferase activity	3
+MortAD185_MRE_genomic	GO:0004045	aminoacyl-tRNA hydrolase activity	1
+MortAD185_MRE_genomic	GO:0003676	nucleic acid binding	1
+MortAD185_MRE_genomic	GO:0006281	DNA repair	2
+MortAD185_MRE_genomic	GO:0003697	single-stranded DNA binding	2
+MortAD185_MRE_genomic	GO:0019843	rRNA binding	3
+MortAD185_MRE_genomic	GO:0004197	cysteine-type endopeptidase activity	1
+MortAD185_MRE_genomic	GO:0071586	CAAX-box protein processing	1
+MortAD185_MRE_genomic	GO:0016491	oxidoreductase activity	1
+MortAD185_MRE_genomic	GO:0003899	DNA-directed 5'-3' RNA polymerase activity	3
+MortAD185_MRE_genomic	GO:0006351	transcription DNA-templated	3
+MortAD185_MRE_genomic	GO:0042254	ribosome biogenesis	2
+MortAD185_MRE_genomic	GO:0022857	transmembrane transporter activity	1
+MortAD185_MRE_genomic	GO:0055085	transmembrane transport	2
+MortAD185_MRE_genomic	GO:0043565	sequence-specific DNA binding	1
+MortAD185_MRE_genomic	GO:0008170	N-methyltransferase activity	9
+MortAD185_MRE_genomic	GO:0006306	DNA methylation	9
+MortAD185_MRE_genomic	GO:0000398	mRNA splicing via spliceosome	1
+MortAD185_MRE_genomic	GO:0032784	regulation of DNA-templated transcription elongation	1
+MortAD185_MRE_genomic	GO:0003918	DNA topoisomerase type II (double strand cut ATP-hydrolyzing) activity	1
+MortAD185_MRE_genomic	GO:0006265	DNA topological change	2
+MortAD185_MRE_genomic	GO:0016788	hydrolase activity acting on ester bonds	1
+MortAD185_MRE_genomic	GO:0045454	cell redox homeostasis	1
+MortAD185_MRE_genomic	GO:0019028	viral capsid	1
+MortAD185_MRE_genomic	GO:0019031	viral envelope	1
+MortAD185_MRE_genomic	GO:0016787	hydrolase activity	3
+MortAD185_MRE_genomic	GO:0008408	3'-5' exonuclease activity	2
+MortAD185_MRE_genomic	GO:0006260	DNA replication	3
+MortAD185_MRE_genomic	GO:0004813	alanine-tRNA ligase activity	1
+MortAD185_MRE_genomic	GO:0006419	alanyl-tRNA aminoacylation	1
+MortAD185_MRE_genomic	GO:0030492	hemoglobin binding	1
+MortAD185_MRE_genomic	GO:0030218	erythrocyte differentiation	1
+MortAD185_MRE_genomic	GO:0050821	protein stabilization	1
+MortAD185_MRE_genomic	GO:0009405	pathogenesis	1
+MortAD185_MRE_genomic	GO:0003887	DNA-directed DNA polymerase activity	1
+MortAD185_MRE_genomic	GO:0003729	mRNA binding	1
+MortAD185_MRE_genomic	GO:0006376	mRNA splice site selection	1
+MortAD185_MRE_genomic	GO:0005685	U1 snRNP	1
+MortAD185_MRE_genomic	GO:0004810	tRNA adenylyltransferase activity	1
+MortAD185_MRE_genomic	GO:0004525	ribonuclease III activity	1
+MortAD185_MRE_genomic	GO:0004127	cytidylate kinase activity	1
+MortAD185_MRE_genomic	GO:0006139	nucleobase-containing compound metabolic process	1
+MortAD185_MRE_genomic	GO:0046983	protein dimerization activity	1
+MortAD185_MRE_genomic	GO:0005200	structural constituent of cytoskeleton	1
+MortAD185_MRE_genomic	GO:0030474	spindle pole body duplication	1
+MortAD185_MRE_genomic	GO:0005823	central plaque of spindle pole body	1
+MortAD185_MRE_genomic	GO:0035556	intracellular signal transduction	1
+MortAD185_MRE_genomic	GO:0019033	viral tegument	1
+MortAD185_MRE_genomic	GO:0006353	DNA-templated transcription termination	1
+MortAD185_MRE_genomic	GO:0048870	cell motility	1
+MortAD185_MRE_genomic	GO:0031514	motile cilium	1
+MortAD185_MRE_genomic	GO:0003905	alkylbase DNA N-glycosylase activity	1
+MortAD185_MRE_genomic	GO:0019867	outer membrane	1
+MortAD185_MRE_genomic	GO:0005887	integral component of plasma membrane	1
+MortAD185_MRE_genomic	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system	1
+MortAD185_MRE_genomic	GO:0002949	tRNA threonylcarbamoyladenosine modification	1
+MortAD185_MRE_genomic	GO:0017038	protein import	1
+MortAD185_MRE_genomic	GO:0042626	ATPase-coupled transmembrane transporter activity	1
+MortAD185_MRE_genomic	GO:0003916	DNA topoisomerase activity	1
+MortAD185_MRE_genomic	GO:0000774	adenyl-nucleotide exchange factor activity	1
+MortAD185_MRE_genomic	GO:0042803	protein homodimerization activity	1
+MortAD185_MRE_genomic	GO:0051087	chaperone binding	1
+MortAD185_MRE_genomic	GO:0015031	protein transport	1
+Mycoplasmataceae_CE_OT135_prot	GO:0004176	ATP-dependent peptidase activity	4
+Mycoplasmataceae_CE_OT135_prot	GO:0004252	serine-type endopeptidase activity	4
+Mycoplasmataceae_CE_OT135_prot	GO:0006508	proteolysis	7
+Mycoplasmataceae_CE_OT135_prot	GO:0003677	DNA binding	58
+Mycoplasmataceae_CE_OT135_prot	GO:0003700	DNA-binding transcription factor activity	3
+Mycoplasmataceae_CE_OT135_prot	GO:0016987	sigma factor activity	2
+Mycoplasmataceae_CE_OT135_prot	GO:0006352	DNA-templated transcription initiation	2
+Mycoplasmataceae_CE_OT135_prot	GO:0006355	regulation of transcription DNA-templated	6
+Mycoplasmataceae_CE_OT135_prot	GO:0003684	damaged DNA binding	2
+Mycoplasmataceae_CE_OT135_prot	GO:0003906	DNA-(apurinic or apyrimidinic site) endonuclease activity	2
+Mycoplasmataceae_CE_OT135_prot	GO:0008270	zinc ion binding	3
+Mycoplasmataceae_CE_OT135_prot	GO:0016799	hydrolase activity hydrolyzing N-glycosyl compounds	2
+Mycoplasmataceae_CE_OT135_prot	GO:0006284	base-excision repair	3
+Mycoplasmataceae_CE_OT135_prot	GO:0004045	aminoacyl-tRNA hydrolase activity	2
+Mycoplasmataceae_CE_OT135_prot	GO:0003916	DNA topoisomerase activity	2
+Mycoplasmataceae_CE_OT135_prot	GO:0006265	DNA topological change	4
+Mycoplasmataceae_CE_OT135_prot	GO:0004797	thymidine kinase activity	2
+Mycoplasmataceae_CE_OT135_prot	GO:0005524	ATP binding	48
+Mycoplasmataceae_CE_OT135_prot	GO:0006310	DNA recombination	11
+Mycoplasmataceae_CE_OT135_prot	GO:0015074	DNA integration	11
+Mycoplasmataceae_CE_OT135_prot	GO:0003918	DNA topoisomerase type II (double strand cut ATP-hydrolyzing) activity	2
+Mycoplasmataceae_CE_OT135_prot	GO:0004672	protein kinase activity	13
+Mycoplasmataceae_CE_OT135_prot	GO:0006468	protein phosphorylation	13
+Mycoplasmataceae_CE_OT135_prot	GO:0006304	DNA modification	4
+Mycoplasmataceae_CE_OT135_prot	GO:0008170	N-methyltransferase activity	5
+Mycoplasmataceae_CE_OT135_prot	GO:0006306	DNA methylation	5
+Mycoplasmataceae_CE_OT135_prot	GO:0016020	membrane	10
+Mycoplasmataceae_CE_OT135_prot	GO:0016021	integral component of membrane	9
+Mycoplasmataceae_CE_OT135_prot	GO:0005887	integral component of plasma membrane	3
+Mycoplasmataceae_CE_OT135_prot	GO:0047429	nucleoside-triphosphate diphosphatase activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0009143	nucleoside triphosphate catabolic process	1
+Mycoplasmataceae_CE_OT135_prot	GO:0015297	antiporter activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0042910	xenobiotic transmembrane transporter activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0055085	transmembrane transport	1
+Mycoplasmataceae_CE_OT135_prot	GO:0006955	immune response	1
+Mycoplasmataceae_CE_OT135_prot	GO:0051249	regulation of lymphocyte activation	1
+Mycoplasmataceae_CE_OT135_prot	GO:0009405	pathogenesis	1
+Mycoplasmataceae_CE_OT135_prot	GO:0009263	deoxyribonucleotide biosynthetic process	1
+Mycoplasmataceae_CE_OT135_prot	GO:0000166	nucleotide binding	17
+Mycoplasmataceae_CE_OT135_prot	GO:0004812	aminoacyl-tRNA ligase activity	13
+Mycoplasmataceae_CE_OT135_prot	GO:0006418	tRNA aminoacylation for protein translation	12
+Mycoplasmataceae_CE_OT135_prot	GO:0004222	metalloendopeptidase activity	2
+Mycoplasmataceae_CE_OT135_prot	GO:0003723	RNA binding	10
+Mycoplasmataceae_CE_OT135_prot	GO:0016887	ATPase activity	10
+Mycoplasmataceae_CE_OT135_prot	GO:0006415	translational termination	2
+Mycoplasmataceae_CE_OT135_prot	GO:0003735	structural constituent of ribosome	38
+Mycoplasmataceae_CE_OT135_prot	GO:0006412	translation	38
+Mycoplasmataceae_CE_OT135_prot	GO:0005840	ribosome	37
+Mycoplasmataceae_CE_OT135_prot	GO:0009982	pseudouridine synthase activity	3
+Mycoplasmataceae_CE_OT135_prot	GO:0001522	pseudouridine synthesis	3
+Mycoplasmataceae_CE_OT135_prot	GO:0009451	RNA modification	3
+Mycoplasmataceae_CE_OT135_prot	GO:0008408	3'-5' exonuclease activity	3
+Mycoplasmataceae_CE_OT135_prot	GO:0006260	DNA replication	4
+Mycoplasmataceae_CE_OT135_prot	GO:0006364	rRNA processing	3
+Mycoplasmataceae_CE_OT135_prot	GO:0003924	GTPase activity	3
+Mycoplasmataceae_CE_OT135_prot	GO:0005525	GTP binding	4
+Mycoplasmataceae_CE_OT135_prot	GO:0004197	cysteine-type endopeptidase activity	3
+Mycoplasmataceae_CE_OT135_prot	GO:0071586	CAAX-box protein processing	3
+Mycoplasmataceae_CE_OT135_prot	GO:0051287	NAD binding	2
+Mycoplasmataceae_CE_OT135_prot	GO:0002949	tRNA threonylcarbamoyladenosine modification	1
+Mycoplasmataceae_CE_OT135_prot	GO:0008771	[citrate (pro-3S)-lyase] ligase activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0004826	phenylalanine-tRNA ligase activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0009058	biosynthetic process	1
+Mycoplasmataceae_CE_OT135_prot	GO:0032784	regulation of DNA-templated transcription elongation	1
+Mycoplasmataceae_CE_OT135_prot	GO:0008455	alpha-16-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity	2
+Mycoplasmataceae_CE_OT135_prot	GO:0009312	oligosaccharide biosynthetic process	2
+Mycoplasmataceae_CE_OT135_prot	GO:0005795	Golgi stack	2
+Mycoplasmataceae_CE_OT135_prot	GO:0003747	translation release factor activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0004127	cytidylate kinase activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0006139	nucleobase-containing compound metabolic process	1
+Mycoplasmataceae_CE_OT135_prot	GO:0004813	alanine-tRNA ligase activity	3
+Mycoplasmataceae_CE_OT135_prot	GO:0006419	alanyl-tRNA aminoacylation	3
+Mycoplasmataceae_CE_OT135_prot	GO:0003899	DNA-directed 5'-3' RNA polymerase activity	4
+Mycoplasmataceae_CE_OT135_prot	GO:0006351	transcription DNA-templated	5
+Mycoplasmataceae_CE_OT135_prot	GO:0043039	tRNA aminoacylation	1
+Mycoplasmataceae_CE_OT135_prot	GO:0000287	magnesium ion binding	1
+Mycoplasmataceae_CE_OT135_prot	GO:0004427	inorganic diphosphatase activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0006796	phosphate-containing compound metabolic process	1
+Mycoplasmataceae_CE_OT135_prot	GO:0005737	cytoplasm	1
+Mycoplasmataceae_CE_OT135_prot	GO:0003905	alkylbase DNA N-glycosylase activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0008234	cysteine-type peptidase activity	2
+Mycoplasmataceae_CE_OT135_prot	GO:0007094	mitotic spindle assembly checkpoint	1
+Mycoplasmataceae_CE_OT135_prot	GO:0004146	dihydrofolate reductase activity	2
+Mycoplasmataceae_CE_OT135_prot	GO:0046654	tetrahydrofolate biosynthetic process	2
+Mycoplasmataceae_CE_OT135_prot	GO:0055114	oxidation-reduction process	6
+Mycoplasmataceae_CE_OT135_prot	GO:0006606	protein import into nucleus	3
+Mycoplasmataceae_CE_OT135_prot	GO:0016491	oxidoreductase activity	2
+Mycoplasmataceae_CE_OT135_prot	GO:0003911	DNA ligase (NAD+) activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0005634	nucleus	1
+Mycoplasmataceae_CE_OT135_prot	GO:0043752	adenosylcobinamide kinase activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0009236	cobalamin biosynthetic process	1
+Mycoplasmataceae_CE_OT135_prot	GO:0051188	cofactor biosynthetic process	1
+Mycoplasmataceae_CE_OT135_prot	GO:0003887	DNA-directed DNA polymerase activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0015934	large ribosomal subunit	1
+Mycoplasmataceae_CE_OT135_prot	GO:0008168	methyltransferase activity	2
+Mycoplasmataceae_CE_OT135_prot	GO:0016874	ligase activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0005515	protein binding	1
+Mycoplasmataceae_CE_OT135_prot	GO:0042254	ribosome biogenesis	1
+Mycoplasmataceae_CE_OT135_prot	GO:0016788	hydrolase activity acting on ester bonds	1
+Mycoplasmataceae_CE_OT135_prot	GO:0016787	hydrolase activity	3
+Mycoplasmataceae_CE_OT135_prot	GO:0019843	rRNA binding	3
+Mycoplasmataceae_CE_OT135_prot	GO:0006886	intracellular protein transport	1
+Mycoplasmataceae_CE_OT135_prot	GO:0005801	cis-Golgi network	1
+Mycoplasmataceae_CE_OT135_prot	GO:0017038	protein import	1
+Mycoplasmataceae_CE_OT135_prot	GO:0005506	iron ion binding	1
+Mycoplasmataceae_CE_OT135_prot	GO:0051536	iron-sulfur cluster binding	1
+Mycoplasmataceae_CE_OT135_prot	GO:0016226	iron-sulfur cluster assembly	1
+Mycoplasmataceae_CE_OT135_prot	GO:0003676	nucleic acid binding	1
+Mycoplasmataceae_CE_OT135_prot	GO:0004784	superoxide dismutase activity	2
+Mycoplasmataceae_CE_OT135_prot	GO:0046872	metal ion binding	2
+Mycoplasmataceae_CE_OT135_prot	GO:0006801	superoxide metabolic process	2
+Mycoplasmataceae_CE_OT135_prot	GO:0016301	kinase activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0004814	arginine-tRNA ligase activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0006420	arginyl-tRNA aminoacylation	1
+Mycoplasmataceae_CE_OT135_prot	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system	1
+Mycoplasmataceae_CE_OT135_prot	GO:0003743	translation initiation factor activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0006413	translational initiation	1
+Mycoplasmataceae_CE_OT135_prot	GO:0003713	transcription coactivator activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0005375	copper ion transmembrane transporter activity	1
+Mycoplasmataceae_CE_OT135_prot	GO:0035434	copper ion transmembrane transport	1
+Mycoplasmataceae_CE_OT135_prot	GO:0003697	single-stranded DNA binding	1
+Mycoplasmataceae_CE_OT135_prot	GO:0006281	DNA repair	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0003684	damaged DNA binding	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0003906	DNA-(apurinic or apyrimidinic site) endonuclease activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0008270	zinc ion binding	3
+Mycoplasmataceae_RC_NB112A_prot	GO:0016799	hydrolase activity hydrolyzing N-glycosyl compounds	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0006289	nucleotide-excision repair	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0005524	ATP binding	56
+Mycoplasmataceae_RC_NB112A_prot	GO:0016887	ATPase activity	9
+Mycoplasmataceae_RC_NB112A_prot	GO:0004176	ATP-dependent peptidase activity	3
+Mycoplasmataceae_RC_NB112A_prot	GO:0004252	serine-type endopeptidase activity	3
+Mycoplasmataceae_RC_NB112A_prot	GO:0006508	proteolysis	5
+Mycoplasmataceae_RC_NB112A_prot	GO:0003735	structural constituent of ribosome	51
+Mycoplasmataceae_RC_NB112A_prot	GO:0006412	translation	50
+Mycoplasmataceae_RC_NB112A_prot	GO:0005840	ribosome	48
+Mycoplasmataceae_RC_NB112A_prot	GO:0045227	capsule polysaccharide biosynthetic process	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0016020	membrane	6
+Mycoplasmataceae_RC_NB112A_prot	GO:0004672	protein kinase activity	7
+Mycoplasmataceae_RC_NB112A_prot	GO:0006468	protein phosphorylation	7
+Mycoplasmataceae_RC_NB112A_prot	GO:0003677	DNA binding	44
+Mycoplasmataceae_RC_NB112A_prot	GO:0008170	N-methyltransferase activity	7
+Mycoplasmataceae_RC_NB112A_prot	GO:0006306	DNA methylation	7
+Mycoplasmataceae_RC_NB112A_prot	GO:0005525	GTP binding	10
+Mycoplasmataceae_RC_NB112A_prot	GO:0016788	hydrolase activity acting on ester bonds	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0003723	RNA binding	13
+Mycoplasmataceae_RC_NB112A_prot	GO:0009982	pseudouridine synthase activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0001522	pseudouridine synthesis	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0009451	RNA modification	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0003678	DNA helicase activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0000723	telomere maintenance	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0006281	DNA repair	4
+Mycoplasmataceae_RC_NB112A_prot	GO:0032784	regulation of DNA-templated transcription elongation	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0004045	aminoacyl-tRNA hydrolase activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0005261	cation channel activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0019076	viral release from host cell	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0032801	receptor catabolic process	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0033644	host cell membrane	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0005743	mitochondrial inner membrane	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0005747	mitochondrial respiratory chain complex I	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0000166	nucleotide binding	22
+Mycoplasmataceae_RC_NB112A_prot	GO:0004812	aminoacyl-tRNA ligase activity	24
+Mycoplasmataceae_RC_NB112A_prot	GO:0006418	tRNA aminoacylation for protein translation	21
+Mycoplasmataceae_RC_NB112A_prot	GO:0045454	cell redox homeostasis	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0003697	single-stranded DNA binding	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0008173	RNA methyltransferase activity	4
+Mycoplasmataceae_RC_NB112A_prot	GO:0006396	RNA processing	6
+Mycoplasmataceae_RC_NB112A_prot	GO:0004222	metalloendopeptidase activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0004797	thymidine kinase activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0003824	catalytic activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0000049	tRNA binding	6
+Mycoplasmataceae_RC_NB112A_prot	GO:0043039	tRNA aminoacylation	3
+Mycoplasmataceae_RC_NB112A_prot	GO:0016787	hydrolase activity	3
+Mycoplasmataceae_RC_NB112A_prot	GO:0003676	nucleic acid binding	4
+Mycoplasmataceae_RC_NB112A_prot	GO:0016021	integral component of membrane	3
+Mycoplasmataceae_RC_NB112A_prot	GO:0004519	endonuclease activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0046872	metal ion binding	3
+Mycoplasmataceae_RC_NB112A_prot	GO:0043571	maintenance of CRISPR repeat elements	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0051607	defense response to virus	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0004525	ribonuclease III activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0015031	protein transport	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0004803	transposase activity	5
+Mycoplasmataceae_RC_NB112A_prot	GO:0006313	transposition DNA-mediated	5
+Mycoplasmataceae_RC_NB112A_prot	GO:0003905	alkylbase DNA N-glycosylase activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0006284	base-excision repair	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0008408	3'-5' exonuclease activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0006260	DNA replication	5
+Mycoplasmataceae_RC_NB112A_prot	GO:0098519	nucleotide phosphatase activity acting on free nucleotides	4
+Mycoplasmataceae_RC_NB112A_prot	GO:0042157	lipoprotein metabolic process	4
+Mycoplasmataceae_RC_NB112A_prot	GO:0005576	extracellular region	4
+Mycoplasmataceae_RC_NB112A_prot	GO:0003924	GTPase activity	7
+Mycoplasmataceae_RC_NB112A_prot	GO:0005515	protein binding	6
+Mycoplasmataceae_RC_NB112A_prot	GO:0006457	protein folding	3
+Mycoplasmataceae_RC_NB112A_prot	GO:0009405	pathogenesis	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0048544	recognition of pollen	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0016874	ligase activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0000774	adenyl-nucleotide exchange factor activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0042803	protein homodimerization activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0051087	chaperone binding	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0004146	dihydrofolate reductase activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0046654	tetrahydrofolate biosynthetic process	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0055114	oxidation-reduction process	6
+Mycoplasmataceae_RC_NB112A_prot	GO:0003700	DNA-binding transcription factor activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0006352	DNA-templated transcription initiation	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0006355	regulation of transcription DNA-templated	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0046740	transport of virus in host cell to cell	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0042254	ribosome biogenesis	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0004826	phenylalanine-tRNA ligase activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0016301	kinase activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0035091	phosphatidylinositol binding	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0003896	DNA primase activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0003918	DNA topoisomerase type II (double strand cut ATP-hydrolyzing) activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0006265	DNA topological change	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0004814	arginine-tRNA ligase activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0006420	arginyl-tRNA aminoacylation	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0016491	oxidoreductase activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0008168	methyltransferase activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0019843	rRNA binding	5
+Mycoplasmataceae_RC_NB112A_prot	GO:0015934	large ribosomal subunit	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0004526	ribonuclease P activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0008033	tRNA processing	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0004784	superoxide dismutase activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0006801	superoxide metabolic process	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0004810	tRNA adenylyltransferase activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0006367	transcription initiation from RNA polymerase II promoter	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0032968	positive regulation of transcription elongation from RNA polymerase II promoter	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0005634	nucleus	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0003899	DNA-directed 5'-3' RNA polymerase activity	6
+Mycoplasmataceae_RC_NB112A_prot	GO:0046983	protein dimerization activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0006351	transcription DNA-templated	6
+Mycoplasmataceae_RC_NB112A_prot	GO:0009036	type II site-specific deoxyribonuclease activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0009307	DNA restriction-modification system	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0000287	magnesium ion binding	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0004427	inorganic diphosphatase activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0006796	phosphate-containing compound metabolic process	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0005737	cytoplasm	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0017038	protein import	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0004813	alanine-tRNA ligase activity	3
+Mycoplasmataceae_RC_NB112A_prot	GO:0006419	alanyl-tRNA aminoacylation	3
+Mycoplasmataceae_RC_NB112A_prot	GO:0006304	DNA modification	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0006310	DNA recombination	4
+Mycoplasmataceae_RC_NB112A_prot	GO:0015074	DNA integration	5
+Mycoplasmataceae_RC_NB112A_prot	GO:0008053	mitochondrial fusion	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0005741	mitochondrial outer membrane	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0002949	tRNA threonylcarbamoyladenosine modification	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0003743	translation initiation factor activity	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0006413	translational initiation	2
+Mycoplasmataceae_RC_NB112A_prot	GO:0071816	tail-anchored membrane protein insertion into ER membrane	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0004127	cytidylate kinase activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0006139	nucleobase-containing compound metabolic process	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0009401	phosphoenolpyruvate-dependent sugar phosphotransferase system	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0006415	translational termination	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0003911	DNA ligase (NAD+) activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0003916	DNA topoisomerase activity	1
+Mycoplasmataceae_RC_NB112A_prot	GO:0016032	viral process	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0003677	DNA binding	109
+Mycoplasmataceae_RV_VA103A_prot	GO:0008170	N-methyltransferase activity	25
+Mycoplasmataceae_RV_VA103A_prot	GO:0006306	DNA methylation	25
+Mycoplasmataceae_RV_VA103A_prot	GO:0006310	DNA recombination	15
+Mycoplasmataceae_RV_VA103A_prot	GO:0015074	DNA integration	17
+Mycoplasmataceae_RV_VA103A_prot	GO:0005887	integral component of plasma membrane	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0005096	GTPase activator activity	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0008083	growth factor activity	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0019867	outer membrane	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0004672	protein kinase activity	14
+Mycoplasmataceae_RV_VA103A_prot	GO:0006468	protein phosphorylation	14
+Mycoplasmataceae_RV_VA103A_prot	GO:0006304	DNA modification	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0005525	GTP binding	16
+Mycoplasmataceae_RV_VA103A_prot	GO:0008234	cysteine-type peptidase activity	6
+Mycoplasmataceae_RV_VA103A_prot	GO:0006508	proteolysis	15
+Mycoplasmataceae_RV_VA103A_prot	GO:0005524	ATP binding	71
+Mycoplasmataceae_RV_VA103A_prot	GO:0016887	ATPase activity	7
+Mycoplasmataceae_RV_VA103A_prot	GO:0006396	RNA processing	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0003735	structural constituent of ribosome	39
+Mycoplasmataceae_RV_VA103A_prot	GO:0006412	translation	37
+Mycoplasmataceae_RV_VA103A_prot	GO:0005840	ribosome	36
+Mycoplasmataceae_RV_VA103A_prot	GO:0005509	calcium ion binding	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0009405	pathogenesis	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0005576	extracellular region	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0000166	nucleotide binding	22
+Mycoplasmataceae_RV_VA103A_prot	GO:0004812	aminoacyl-tRNA ligase activity	19
+Mycoplasmataceae_RV_VA103A_prot	GO:0006418	tRNA aminoacylation for protein translation	16
+Mycoplasmataceae_RV_VA103A_prot	GO:0003697	single-stranded DNA binding	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0006281	DNA repair	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0004127	cytidylate kinase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0006139	nucleobase-containing compound metabolic process	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0000774	adenyl-nucleotide exchange factor activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0042803	protein homodimerization activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0051087	chaperone binding	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0006457	protein folding	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0000049	tRNA binding	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0043039	tRNA aminoacylation	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0004526	ribonuclease P activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0008033	tRNA processing	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0003723	RNA binding	9
+Mycoplasmataceae_RV_VA103A_prot	GO:0009982	pseudouridine synthase activity	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0001522	pseudouridine synthesis	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0009451	RNA modification	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0004222	metalloendopeptidase activity	4
+Mycoplasmataceae_RV_VA103A_prot	GO:0003924	GTPase activity	4
+Mycoplasmataceae_RV_VA103A_prot	GO:0005515	protein binding	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0004176	ATP-dependent peptidase activity	4
+Mycoplasmataceae_RV_VA103A_prot	GO:0004252	serine-type endopeptidase activity	4
+Mycoplasmataceae_RV_VA103A_prot	GO:0008168	methyltransferase activity	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0019843	rRNA binding	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0017137	Rab GTPase binding	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0043087	regulation of GTPase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0044161	host cell cytoplasmic vesicle	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0030833	regulation of actin filament polymerization	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0034314	Arp2/3 complex-mediated actin nucleation	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0005856	cytoskeleton	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0005885	Arp2/3 protein complex	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0008270	zinc ion binding	4
+Mycoplasmataceae_RV_VA103A_prot	GO:0003678	DNA helicase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0000723	telomere maintenance	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0016021	integral component of membrane	6
+Mycoplasmataceae_RV_VA103A_prot	GO:0043565	sequence-specific DNA binding	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0006355	regulation of transcription DNA-templated	12
+Mycoplasmataceae_RV_VA103A_prot	GO:0051082	unfolded protein binding	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0003700	DNA-binding transcription factor activity	7
+Mycoplasmataceae_RV_VA103A_prot	GO:0003824	catalytic activity	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0007030	Golgi organization	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0016491	oxidoreductase activity	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0055114	oxidation-reduction process	6
+Mycoplasmataceae_RV_VA103A_prot	GO:0004810	tRNA adenylyltransferase activity	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0006352	DNA-templated transcription initiation	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0004814	arginine-tRNA ligase activity	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0006420	arginyl-tRNA aminoacylation	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0004813	alanine-tRNA ligase activity	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0006419	alanyl-tRNA aminoacylation	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0016874	ligase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0016788	hydrolase activity acting on ester bonds	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0016884	carbon-nitrogen ligase activity with glutamine as amido-N-donor	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0006415	translational termination	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0005506	iron ion binding	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0051536	iron-sulfur cluster binding	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0016226	iron-sulfur cluster assembly	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0017038	protein import	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0016020	membrane	6
+Mycoplasmataceae_RV_VA103A_prot	GO:0004177	aminopeptidase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0003684	damaged DNA binding	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0003906	DNA-(apurinic or apyrimidinic site) endonuclease activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0016799	hydrolase activity hydrolyzing N-glycosyl compounds	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0006284	base-excision repair	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0006955	immune response	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0051249	regulation of lymphocyte activation	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0015934	large ribosomal subunit	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0016787	hydrolase activity	7
+Mycoplasmataceae_RV_VA103A_prot	GO:0015075	ion transmembrane transporter activity	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0006811	ion transport	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0055085	transmembrane transport	4
+Mycoplasmataceae_RV_VA103A_prot	GO:0005634	nucleus	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0003860	3-hydroxyisobutyryl-CoA hydrolase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0003899	DNA-directed 5'-3' RNA polymerase activity	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0006351	transcription DNA-templated	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0042254	ribosome biogenesis	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0003676	nucleic acid binding	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0004519	endonuclease activity	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0046872	metal ion binding	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0043571	maintenance of CRISPR repeat elements	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0051607	defense response to virus	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0008017	microtubule binding	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0007059	chromosome segregation	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0051301	cell division	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0003887	DNA-directed DNA polymerase activity	4
+Mycoplasmataceae_RV_VA103A_prot	GO:0006260	DNA replication	7
+Mycoplasmataceae_RV_VA103A_prot	GO:0022857	transmembrane transporter activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0005886	plasma membrane	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0008324	cation transmembrane transporter activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0006812	cation transport	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0035556	intracellular signal transduction	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0003905	alkylbase DNA N-glycosylase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0006289	nucleotide-excision repair	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0009411	response to UV	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0004045	aminoacyl-tRNA hydrolase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0005261	cation channel activity	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0019076	viral release from host cell	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0032801	receptor catabolic process	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0033644	host cell membrane	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0003918	DNA topoisomerase type II (double strand cut ATP-hydrolyzing) activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0006265	DNA topological change	3
+Mycoplasmataceae_RV_VA103A_prot	GO:0032784	regulation of DNA-templated transcription elongation	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0031966	mitochondrial membrane	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0008408	3'-5' exonuclease activity	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0006364	rRNA processing	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0019069	viral capsid assembly	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0004784	superoxide dismutase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0006801	superoxide metabolic process	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0004853	uroporphyrinogen decarboxylase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0006779	porphyrin-containing compound biosynthetic process	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0003743	translation initiation factor activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0006413	translational initiation	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0071705	nitrogen compound transport	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0002949	tRNA threonylcarbamoyladenosine modification	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0009036	type II site-specific deoxyribonuclease activity	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0009307	DNA restriction-modification system	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0047355	CDP-glycerol glycerophosphotransferase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0015031	protein transport	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0004525	ribonuclease III activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0048309	endoplasmic reticulum inheritance	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0051028	mRNA transport	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0003911	DNA ligase (NAD+) activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0004803	transposase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0006313	transposition DNA-mediated	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0009847	spore germination	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0004146	dihydrofolate reductase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0046654	tetrahydrofolate biosynthetic process	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0008173	RNA methyltransferase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0016192	vesicle-mediated transport	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0008289	lipid binding	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0006869	lipid transport	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0042157	lipoprotein metabolic process	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0055088	lipid homeostasis	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0031965	nuclear membrane	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0003916	DNA topoisomerase activity	2
+Mycoplasmataceae_RV_VA103A_prot	GO:0008883	glutamyl-tRNA reductase activity	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0050661	NADP binding	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0033014	tetrapyrrole biosynthetic process	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0071985	multivesicular body sorting pathway	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0000814	ESCRT II complex	1
+Mycoplasmataceae_RV_VA103A_prot	GO:0046983	protein dimerization activity	1

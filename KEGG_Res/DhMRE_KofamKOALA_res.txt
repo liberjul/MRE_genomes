@@ -1,0 +1,156 @@
+# gene name                          KO     thrshld  score   E-value KO definition
+#----------------------------------- ------ ------- ------ --------- ---------------------
+* lcl|LN828718.1_prot_CFW92751.1_8   K07171   19.37   70.9   4.2e-21 mRNA interferase MazF [EC:3.1.-.-]
+* lcl|LN828718.1_prot_CFW92752.1_9   K01156  140.97  320.4   1.1e-96 type III restriction enzyme [EC:3.1.21.5]
+* lcl|LN828718.1_prot_CFW92753.1_10  K03703  248.20  454.1  3.8e-137 excinuclease ABC subunit C
+* lcl|LN828718.1_prot_CFW92754.1_11  K00943   98.17  135.7   6.7e-41 dTMP kinase [EC:2.7.4.9]
+* lcl|LN828718.1_prot_CFW92754.1_11  K03574   70.10   72.4   1.1e-21 8-oxo-dGTP diphosphatase [EC:3.6.1.55]
+* lcl|LN828718.1_prot_CFW92757.1_14  K00560   77.53  417.9  1.4e-126 thymidylate synthase [EC:2.1.1.45]
+* lcl|LN828718.1_prot_CFW92759.1_16  K02434  265.63  340.8  7.2e-103 aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+* lcl|LN828718.1_prot_CFW92761.1_18  K01887   47.77  353.1  1.2e-106 arginyl-tRNA synthetase [EC:6.1.1.19]
+* lcl|LN828718.1_prot_CFW92766.1_23  K00962  149.47  637.6  1.1e-192 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+* lcl|LN828718.1_prot_CFW92767.1_24  K07171   19.37   86.6   6.8e-26 mRNA interferase MazF [EC:3.1.-.-]
+* lcl|LN828718.1_prot_CFW92777.1_34  K03424   88.03  273.2   1.3e-82 TatD DNase family protein [EC:3.1.21.-]
+* lcl|LN828718.1_prot_CFW92784.1_41  K01890  121.63  295.6   2.9e-89 phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+* lcl|LN828718.1_prot_CFW92794.1_51  K03687   30.90   99.4   7.5e-30 molecular chaperone GrpE
+* lcl|LN828718.1_prot_CFW92795.1_52  K03438  118.37  392.7  9.5e-119 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]
+* lcl|LN828718.1_prot_CFW92804.1_61  K02888   25.87   57.9   3.9e-17 large subunit ribosomal protein L21
+* lcl|LN828718.1_prot_CFW92805.1_62  K02906  123.00  224.3   1.1e-67 large subunit ribosomal protein L3
+* lcl|LN828718.1_prot_CFW92806.1_63  K02899   49.63  103.0   6.3e-31 large subunit ribosomal protein L27
+* lcl|LN828718.1_prot_CFW92808.1_65  K01056   46.53  228.8   3.4e-69 peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+* lcl|LN828718.1_prot_CFW92810.1_67  K02881   60.30   94.5   2.7e-28 large subunit ribosomal protein L18
+* lcl|LN828718.1_prot_CFW92812.1_69  K02876   42.03  113.3   5.6e-34 large subunit ribosomal protein L15
+* lcl|LN828718.1_prot_CFW92824.1_81  K03763  228.33  663.4  2.4e-200 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* lcl|LN828718.1_prot_CFW92824.1_81  K02342  108.03  145.4   7.1e-44 DNA polymerase III subunit epsilon [EC:2.7.7.7]
+* lcl|LN828718.1_prot_CFW92824.1_81  K09951   23.40   23.4     1e-06 CRISPR-associated protein Cas2
+* lcl|LN828718.1_prot_CFW92828.1_85  K01873  589.77  704.2    1e-212 valyl-tRNA synthetase [EC:6.1.1.9]
+* lcl|LN828718.1_prot_CFW92829.1_86  K03046  542.03  961.9  2.6e-290 DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+* lcl|LN828718.1_prot_CFW92830.1_87  K03043  365.63  837.6  5.7e-253 DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+* lcl|LN828718.1_prot_CFW92831.1_88  K02935   28.83   39.2   2.1e-11 large subunit ribosomal protein L7/L12
+* lcl|LN828718.1_prot_CFW92832.1_89  K02864   56.00   84.9   2.6e-25 large subunit ribosomal protein L10
+* lcl|LN828718.1_prot_CFW92838.1_95  K04075  115.90  188.6   7.4e-57 tRNA(Ile)-lysidine synthase [EC:6.3.4.19]
+* lcl|LN828718.1_prot_CFW92841.1_98  K02519  306.67  491.2  2.4e-148 translation initiation factor IF-2
+* lcl|LN828718.1_prot_CFW92843.1_100 K02986   77.73  196.8   1.7e-59 small subunit ribosomal protein S4
+* lcl|LN828718.1_prot_CFW92844.1_101 K03799  133.77  177.9   1.1e-53 heat shock protein HtpX [EC:3.4.24.-]
+* lcl|LN828718.1_prot_CFW92845.1_102 K01889  109.70  304.9   3.9e-92 phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+* lcl|LN828718.1_prot_CFW92850.1_107 K01883  398.70  455.7  1.6e-137 cysteinyl-tRNA synthetase [EC:6.1.1.16]
+* lcl|LN828718.1_prot_CFW92851.1_108 K01151  122.83  311.8     2e-94 deoxyribonuclease IV [EC:3.1.21.2]
+* lcl|LN828718.1_prot_CFW92852.1_109 K06999  106.67  114.8   1.5e-34 phospholipase/carboxylesterase
+* lcl|LN828718.1_prot_CFW92853.1_110 K03070  152.83  724.4  7.7e-219 preprotein translocase subunit SecA [EC:7.4.2.8]
+* lcl|LN828718.1_prot_CFW92862.1_119 K01156  140.97  223.8   1.7e-67 type III restriction enzyme [EC:3.1.21.5]
+* lcl|LN828718.1_prot_CFW92864.1_121 K07316  209.03  256.4   2.2e-77 adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+* lcl|LN828718.1_prot_CFW92870.1_127 K03177  215.57  291.4   4.5e-88 tRNA pseudouridine55 synthase [EC:5.4.99.25]
+* lcl|LN828718.1_prot_CFW92873.1_130 K02952  115.63  123.4   2.7e-37 small subunit ribosomal protein S13
+* lcl|LN828718.1_prot_132            K07171   19.37   34.8   4.6e-10 mRNA interferase MazF [EC:3.1.-.-]
+* lcl|LN828718.1_prot_CFW92884.1_141 K02994   89.83  116.8   3.3e-35 small subunit ribosomal protein S8
+* lcl|LN828718.1_prot_CFW92885.1_142 K03702  143.73  937.0  7.1e-283 excinuclease ABC subunit B
+* lcl|LN828718.1_prot_CFW92886.1_143 K03495  121.13  838.8  1.7e-253 tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+* lcl|LN828718.1_prot_CFW92888.1_145 K03664   28.77  151.7   8.2e-46 SsrA-binding protein
+* lcl|LN828718.1_prot_CFW92890.1_147 K10563  195.93  268.4   3.9e-81 formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+* lcl|LN828718.1_prot_CFW92891.1_148 K02916   22.97   47.4   8.2e-14 large subunit ribosomal protein L35
+* lcl|LN828718.1_prot_CFW92897.1_154 K02316   54.50  269.5   3.4e-81 DNA primase [EC:2.7.7.101]
+* lcl|LN828718.1_prot_CFW92901.1_158 K01972  100.33  652.7  3.7e-197 DNA ligase (NAD+) [EC:6.5.1.2]
+* lcl|LN828718.1_prot_CFW92902.1_159 K01265  125.50  250.9   1.2e-75 methionyl aminopeptidase [EC:3.4.11.18]
+* lcl|LN828718.1_prot_CFW92906.1_163 K18682  118.43  482.2  6.2e-146 ribonucrease Y [EC:3.1.-.-]
+* lcl|LN828718.1_prot_CFW92907.1_164 K02358  348.87  636.7  2.5e-192 elongation factor Tu
+* lcl|LN828718.1_prot_CFW92910.1_167 K00600   55.33  585.5  5.2e-177 glycine hydroxymethyltransferase [EC:2.1.2.1]
+* lcl|LN828718.1_prot_CFW92912.1_169 K02956   32.03   59.0   1.9e-17 small subunit ribosomal protein S15
+* lcl|LN828718.1_prot_CFW92915.1_172 K03650  167.93  449.5  9.8e-136 tRNA modification GTPase [EC:3.6.-.-]
+* lcl|LN828718.1_prot_CFW92916.1_173 K01876  291.87  322.7   2.1e-97 aspartyl-tRNA synthetase [EC:6.1.1.12]
+* lcl|LN828718.1_prot_CFW92919.1_176 K09769   82.67  298.1   1.6e-90 uncharacterized protein
+* lcl|LN828718.1_prot_CFW92922.1_179 K02950   85.93  176.6   3.2e-53 small subunit ribosomal protein S12
+* lcl|LN828718.1_prot_CFW92923.1_180 K02933  112.43  162.6     5e-49 large subunit ribosomal protein L6
+* lcl|LN828718.1_prot_CFW92925.1_182 K02939   47.80   55.8   1.7e-16 large subunit ribosomal protein L9
+* lcl|LN828718.1_prot_CFW92928.1_185 K02990   23.27   25.2   4.1e-07 small subunit ribosomal protein S6
+* lcl|LN828718.1_prot_CFW92929.1_186 K01880  107.30  320.4   1.1e-96 glycyl-tRNA synthetase [EC:6.1.1.14]
+* lcl|LN828718.1_prot_CFW92931.1_188 K00945   76.83  228.4   6.2e-69 CMP/dCMP kinase [EC:2.7.4.25]
+* lcl|LN828718.1_prot_CFW92932.1_189 K03553  103.57  351.1  3.3e-106 recombination protein RecA
+* lcl|LN828718.1_prot_CFW92935.1_192 K02838   26.67   72.8   8.1e-22 ribosome recycling factor
+* lcl|LN828718.1_prot_CFW92942.1_199 K03427   97.00  118.1   1.8e-35 type I restriction enzyme M protein [EC:2.1.1.72]
+* lcl|LN828718.1_prot_CFW92998.1_255 K21498   47.93  103.4   3.9e-31 antitoxin HigA-1
+* lcl|LN828718.1_prot_CFW92999.1_256 K07334   76.87  102.3   8.7e-31 toxin HigB-1
+* lcl|LN828718.1_prot_CFW93000.1_257 K01255  418.07  438.2  2.8e-132 leucyl aminopeptidase [EC:3.4.11.1]
+* lcl|LN828718.1_prot_CFW93002.1_259 K06223   68.57  282.5   2.3e-85 DNA adenine methylase [EC:2.1.1.72]
+* lcl|LN828718.1_prot_CFW93002.1_259 K01155   25.73   68.0   4.8e-20 type II restriction enzyme [EC:3.1.21.4]
+* lcl|LN828718.1_prot_CFW93007.1_264 K03657  379.80  513.3  5.7e-155 DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]
+* lcl|LN828718.1_prot_CFW93008.1_265 K02948   97.70  105.9   9.8e-32 small subunit ribosomal protein S11
+* lcl|LN828718.1_prot_CFW93009.1_266 K07171   19.37   25.7   2.8e-07 mRNA interferase MazF [EC:3.1.-.-]
+* lcl|LN828718.1_prot_CFW93012.1_269 K02600   40.37  176.3   3.2e-53 transcription termination/antitermination protein NusA
+* lcl|LN828718.1_prot_CFW93017.1_274 K02992  105.13  136.2   3.6e-41 small subunit ribosomal protein S7
+* lcl|LN828718.1_prot_CFW93020.1_277 K03977  204.07  304.4   5.3e-92 GTPase
+* lcl|LN828718.1_prot_CFW93021.1_278 K07171   19.37   32.9   1.7e-09 mRNA interferase MazF [EC:3.1.-.-]
+* lcl|LN828718.1_prot_CFW93024.1_281 K01409   84.10  387.8  4.2e-117 N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]
+* lcl|LN828718.1_prot_CFW93026.1_283 K03763  228.33  347.5  5.1e-105 DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+* lcl|LN828718.1_prot_CFW93028.1_285 K01881  159.03  293.7   7.9e-89 prolyl-tRNA synthetase [EC:6.1.1.15]
+* lcl|LN828718.1_prot_CFW93031.1_288 K02959   28.23   94.0     4e-28 small subunit ribosomal protein S16
+* lcl|LN828718.1_prot_CFW93032.1_289 K02503   86.80  110.7   2.5e-33 histidine triad (HIT) family protein
+* lcl|LN828718.1_prot_CFW93035.1_292 K03652   51.33  228.3   5.3e-69 DNA-3-methyladenine glycosylase [EC:3.2.2.21]
+* lcl|LN828718.1_prot_CFW93036.1_293 K00940  131.40  190.7   1.6e-57 nucleoside-diphosphate kinase [EC:2.7.4.6]
+* lcl|LN828718.1_prot_CFW93050.1_307 K02884   22.50   55.5   2.1e-16 large subunit ribosomal protein L19
+* lcl|LN828718.1_prot_CFW93052.1_309 K01868  140.00  444.2  4.1e-134 threonyl-tRNA synthetase [EC:6.1.1.3]
+* lcl|LN828718.1_prot_CFW93053.1_310 K00287   53.23  162.2   5.6e-49 dihydrofolate reductase [EC:1.5.1.3]
+* lcl|LN828718.1_prot_CFW93054.1_311 K04564   29.40  188.2   8.4e-57 superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+* lcl|LN828718.1_prot_CFW93057.1_314 K18626   84.83  116.1     4e-35 trichohyalin
+* lcl|LN828718.1_prot_CFW93087.1_344 K12574  172.07  608.2    9e-184 ribonuclease J [EC:3.1.-.-]
+* lcl|LN828718.1_prot_CFW93088.1_345 K02874  102.87  123.2   3.7e-37 large subunit ribosomal protein L14
+* lcl|LN828718.1_prot_CFW93092.1_349 K07171   19.37   40.2     1e-11 mRNA interferase MazF [EC:3.1.-.-]
+* lcl|LN828718.1_prot_CFW93096.1_353 K02835  355.80  389.4  1.3e-117 peptide chain release factor 1
+* lcl|LN828718.1_prot_CFW93099.1_356 K02834   27.27   41.9   2.6e-12 ribosome-binding factor A
+* lcl|LN828718.1_prot_CFW93101.1_358 K02878   86.63  119.1     8e-36 large subunit ribosomal protein L16
+* lcl|LN828718.1_prot_CFW93104.1_361 K02890   79.10   94.7   2.3e-28 large subunit ribosomal protein L22
+* lcl|LN828718.1_prot_CFW93105.1_362 K02886  162.97  323.8   6.5e-98 large subunit ribosomal protein L2
+* lcl|LN828718.1_prot_CFW93107.1_364 K02892   55.07   56.4   1.4e-16 large subunit ribosomal protein L23
+* lcl|LN828718.1_prot_CFW93113.1_370 K07488   43.87  111.7   1.4e-33 transposase
+* lcl|LN828718.1_prot_CFW93116.1_373 K02871   70.00  158.6   6.9e-48 large subunit ribosomal protein L13
+* lcl|LN828718.1_prot_CFW93120.1_377 K01885  303.63  518.9  8.4e-157 glutamyl-tRNA synthetase [EC:6.1.1.17]
+* lcl|LN828718.1_prot_CFW93122.1_379 K03536   19.73   79.4   1.2e-23 ribonuclease P protein component [EC:3.1.26.5]
+* lcl|LN828718.1_prot_381            K01872  198.30  273.7   1.2e-82 alanyl-tRNA synthetase [EC:6.1.1.7]
+* lcl|LN828718.1_prot_CFW93125.1_382 K03218  217.53  231.7   3.9e-70 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+* lcl|LN828718.1_prot_CFW93128.1_385 K01892  276.97  287.2   8.5e-87 histidyl-tRNA synthetase [EC:6.1.1.21]
+* lcl|LN828718.1_prot_CFW93129.1_386 K03470  129.20  232.7   2.5e-70 ribonuclease HII [EC:3.1.26.4]
+* lcl|LN828718.1_prot_CFW93136.1_391 K01507   23.07  142.4     1e-42 inorganic pyrophosphatase [EC:3.6.1.1]
+* lcl|LN828718.1_prot_CFW93138.1_392 K02867   66.80   85.7   1.2e-25 large subunit ribosomal protein L11
+* lcl|LN828718.1_prot_CFW93139.1_393 K02887   55.13  149.6   3.9e-45 large subunit ribosomal protein L20
+* lcl|LN828718.1_prot_CFW93141.1_394 K02913   23.47   35.8   2.8e-10 large subunit ribosomal protein L33
+* lcl|LN828718.1_prot_CFW93146.1_397 K02355  515.13  827.2  7.5e-250 elongation factor G
+* lcl|LN828718.1_prot_CFW93149.1_398 K06925   47.07  109.0   9.9e-33 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+* lcl|LN828718.1_prot_400            K07171   19.37   24.0   9.1e-07 mRNA interferase MazF [EC:3.1.-.-]
+* lcl|LN828718.1_prot_CFW93159.1_403 K07171   19.37  103.3   5.3e-31 mRNA interferase MazF [EC:3.1.-.-]
+* lcl|LN828718.1_prot_CFW93161.1_404 K01156  140.97  189.0   5.7e-57 type III restriction enzyme [EC:3.1.21.5]
+* lcl|LN828718.1_prot_405            K01870  514.83  587.3  2.7e-177 isoleucyl-tRNA synthetase [EC:6.1.1.5]
+* lcl|LN828718.1_prot_CFW93170.1_408 K03427   97.00  218.3   7.9e-66 type I restriction enzyme M protein [EC:2.1.1.72]
+* lcl|LN828718.1_prot_CFW93178.1_412 K03685  157.10  197.9   1.1e-59 ribonuclease III [EC:3.1.26.3]
+* lcl|LN828718.1_prot_CFW93196.1_419 K01874  236.63  512.4    9e-155 methionyl-tRNA synthetase [EC:6.1.1.10]
+* lcl|LN828718.1_prot_CFW93198.1_420 K02926   76.47  163.2   3.7e-49 large subunit ribosomal protein L4
+* lcl|LN828718.1_prot_CFW93204.1_423 K02996  107.43  141.1   1.7e-42 small subunit ribosomal protein S9
+* lcl|LN828718.1_prot_CFW93210.1_426 K01867  137.37  300.6   7.2e-91 tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+* lcl|LN828718.1_prot_CFW93213.1_427 K02967  138.30  232.1   3.2e-70 small subunit ribosomal protein S2
+* lcl|LN828718.1_prot_CFW93217.1_429 K00554  127.83  289.1   1.8e-87 tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]
+* lcl|LN828718.1_prot_CFW93227.1_433 K03168  435.60  508.6  1.5e-153 DNA topoisomerase I [EC:5.6.2.1]
+* lcl|LN828718.1_prot_CFW93231.1_434 K07171   19.37   78.5     2e-23 mRNA interferase MazF [EC:3.1.-.-]
+* lcl|LN828718.1_prot_CFW93240.1_438 K13281   64.43   70.5   4.8e-21 UV DNA damage endonuclease [EC:3.-.-.-]
+* lcl|LN828718.1_prot_CFW93243.1_439 K00566  428.00  473.5  1.8e-143 tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+* lcl|LN828718.1_prot_CFW93250.1_442 K01875   76.07  378.2  2.1e-114 seryl-tRNA synthetase [EC:6.1.1.11]
+* lcl|LN828718.1_prot_CFW93255.1_444 K01156  140.97  332.3  2.7e-100 type III restriction enzyme [EC:3.1.21.5]
+* lcl|LN828718.1_prot_CFW93260.1_446 K07316  209.03  369.2  1.5e-111 adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+* lcl|LN828718.1_prot_CFW93260.1_446 K00571  148.63  149.9   4.2e-45 site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]
+* lcl|LN828718.1_prot_CFW93263.1_447 K01893  376.90  580.2  2.1e-175 asparaginyl-tRNA synthetase [EC:6.1.1.22]
+* lcl|LN828718.1_prot_CFW93320.1_472 K07126   71.53  218.0   1.1e-65 uncharacterized protein
+* lcl|LN828718.1_prot_CFW93384.1_502 K00571  148.63  190.0     3e-57 site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]
+* lcl|LN828718.1_prot_CFW93431.1_549 K07171   19.37   77.0   5.5e-23 mRNA interferase MazF [EC:3.1.-.-]
+* lcl|LN828718.1_prot_CFW93434.1_552 K07171   19.37   62.0   2.2e-18 mRNA interferase MazF [EC:3.1.-.-]
+* lcl|LN828718.1_prot_CFW93441.1_559 K01869  429.83  985.7  1.7e-297 leucyl-tRNA synthetase [EC:6.1.1.4]
+* lcl|LN828718.1_prot_CFW93447.1_565 K01866   93.67  246.8   1.5e-74 tyrosyl-tRNA synthetase [EC:6.1.1.1]
+* lcl|LN828718.1_prot_CFW93448.1_566 K02931   99.93  186.8   1.2e-56 large subunit ribosomal protein L5
+* lcl|LN828718.1_prot_CFW93450.1_568 K03151  132.87  392.8  9.2e-119 tRNA uracil 4-sulfurtransferase [EC:2.8.1.4]
+* lcl|LN828718.1_prot_CFW93451.1_569 K02909   22.33   48.9   1.8e-14 large subunit ribosomal protein L31
+* lcl|LN828718.1_prot_CFW93457.1_575 K02863   98.10  145.4   8.6e-44 large subunit ribosomal protein L1
+* lcl|LN828718.1_prot_CFW93461.1_579 K07584   35.60   75.1   2.3e-22 uncharacterized protein
+* lcl|LN828718.1_prot_CFW93462.1_580 K01426  211.53  213.5   2.4e-64 amidase [EC:3.5.1.4]
+* lcl|LN828718.1_prot_CFW93468.1_586 K01493   82.97  217.6   8.3e-66 dCMP deaminase [EC:3.5.4.12]
+* lcl|LN828718.1_prot_CFW93475.1_593 K21064  178.67  202.8   2.5e-61 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+* lcl|LN828718.1_prot_CFW93477.1_595 K02520   51.07  116.7   4.8e-35 translation initiation factor IF-3
+* lcl|LN828718.1_prot_CFW93478.1_596 K00384  339.83  368.4  2.6e-111 thioredoxin reductase (NADPH) [EC:1.8.1.9]
+* lcl|LN828718.1_prot_CFW93482.1_600 K02879   35.07  101.9   1.8e-30 large subunit ribosomal protein L17
+* lcl|LN828718.1_prot_CFW93483.1_601 K04567  302.73  665.0  5.8e-201 lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+* lcl|LN828718.1_prot_CFW93484.1_602 K00525  363.03  590.6  1.4e-178 ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]
