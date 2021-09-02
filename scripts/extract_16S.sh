@@ -15,7 +15,7 @@ for filename in *_genomic.fna
 do
   echo $filename
   hmmsearch --domtblout $filename".out" --cpu 4 -T 70 ~/bin/rRNA_prediction/rRNA_hmm_fs_wst_v0/HMM3/bac_ssu.hmm $filename > hmm_temp.out
-  python domain_hmm_hits_extract.py -i $filename -o ./16S_fastas/
+  python ./scripts/domain_hmm_hits_extract.py -i $filename -o ./16S_fastas/
   rm $filename".out"
 done
 cat ./16S_fastas/*.fa > combined_16S_seqs.fa
