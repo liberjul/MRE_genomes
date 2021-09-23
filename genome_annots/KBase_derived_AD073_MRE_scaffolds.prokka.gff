@@ -1,0 +1,1368 @@
+##sequence-region scaffold_1
+scaffold_1	KBase	gene	96	1271	.	-	0	ID=EGNFDAKC_00001; product=hypothetical protein
+scaffold_1	KBase	mRNA	96	1271	.	-	0	ID=EGNFDAKC_00001_mRNA; Parent=EGNFDAKC_00001
+scaffold_1	KBase	exon	96	1271	.	-	0	ID=EGNFDAKC_00001_mRNA_exon_1; Parent=EGNFDAKC_00001_mRNA
+scaffold_1	KBase	CDS	96	1271	.	-	0	ID=EGNFDAKC_00001_CDS; Parent=EGNFDAKC_00001_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	1361	1636	.	-	0	ID=EGNFDAKC_00002; product=hypothetical protein
+scaffold_1	KBase	mRNA	1361	1636	.	-	0	ID=EGNFDAKC_00002_mRNA; Parent=EGNFDAKC_00002
+scaffold_1	KBase	exon	1361	1636	.	-	0	ID=EGNFDAKC_00002_mRNA_exon_1; Parent=EGNFDAKC_00002_mRNA
+scaffold_1	KBase	CDS	1361	1636	.	-	0	ID=EGNFDAKC_00002_CDS; Parent=EGNFDAKC_00002_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	1764	2090	.	-	0	ID=EGNFDAKC_00003; product=hypothetical protein
+scaffold_1	KBase	mRNA	1764	2090	.	-	0	ID=EGNFDAKC_00003_mRNA; Parent=EGNFDAKC_00003
+scaffold_1	KBase	exon	1764	2090	.	-	0	ID=EGNFDAKC_00003_mRNA_exon_1; Parent=EGNFDAKC_00003_mRNA
+scaffold_1	KBase	CDS	1764	2090	.	-	0	ID=EGNFDAKC_00003_CDS; Parent=EGNFDAKC_00003_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	2506	2778	.	+	0	ID=EGNFDAKC_00004; gene_synonym=hup_1; gene_synonym=hup_1; product=DNA-binding protein HU
+scaffold_1	KBase	mRNA	2506	2778	.	+	0	ID=EGNFDAKC_00004_mRNA; Parent=EGNFDAKC_00004
+scaffold_1	KBase	exon	2506	2778	.	+	0	ID=EGNFDAKC_00004_mRNA_exon_1; Parent=EGNFDAKC_00004_mRNA
+scaffold_1	KBase	CDS	2506	2778	.	+	0	ID=EGNFDAKC_00004_CDS; Parent=EGNFDAKC_00004_mRNA; gene_synonym=hup_1; gene_synonym=hup_1; product=DNA-binding protein HU
+scaffold_1	KBase	gene	3346	3495	.	+	0	ID=EGNFDAKC_00005; product=hypothetical protein
+scaffold_1	KBase	mRNA	3346	3495	.	+	0	ID=EGNFDAKC_00005_mRNA; Parent=EGNFDAKC_00005
+scaffold_1	KBase	exon	3346	3495	.	+	0	ID=EGNFDAKC_00005_mRNA_exon_1; Parent=EGNFDAKC_00005_mRNA
+scaffold_1	KBase	CDS	3346	3495	.	+	0	ID=EGNFDAKC_00005_CDS; Parent=EGNFDAKC_00005_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	3594	3740	.	+	0	ID=EGNFDAKC_00006; product=hypothetical protein
+scaffold_1	KBase	mRNA	3594	3740	.	+	0	ID=EGNFDAKC_00006_mRNA; Parent=EGNFDAKC_00006
+scaffold_1	KBase	exon	3594	3740	.	+	0	ID=EGNFDAKC_00006_mRNA_exon_1; Parent=EGNFDAKC_00006_mRNA
+scaffold_1	KBase	CDS	3594	3740	.	+	0	ID=EGNFDAKC_00006_CDS; Parent=EGNFDAKC_00006_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	3783	4109	.	-	0	ID=EGNFDAKC_00007; product=hypothetical protein
+scaffold_1	KBase	mRNA	3783	4109	.	-	0	ID=EGNFDAKC_00007_mRNA; Parent=EGNFDAKC_00007
+scaffold_1	KBase	exon	3783	4109	.	-	0	ID=EGNFDAKC_00007_mRNA_exon_1; Parent=EGNFDAKC_00007_mRNA
+scaffold_1	KBase	CDS	3783	4109	.	-	0	ID=EGNFDAKC_00007_CDS; Parent=EGNFDAKC_00007_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	4336	4824	.	-	0	ID=EGNFDAKC_00008; gene_synonym=greA_1; gene_synonym=greA_1; product=Transcription elongation factor GreA
+scaffold_1	KBase	mRNA	4336	4824	.	-	0	ID=EGNFDAKC_00008_mRNA; Parent=EGNFDAKC_00008
+scaffold_1	KBase	exon	4336	4824	.	-	0	ID=EGNFDAKC_00008_mRNA_exon_1; Parent=EGNFDAKC_00008_mRNA
+scaffold_1	KBase	CDS	4336	4824	.	-	0	ID=EGNFDAKC_00008_CDS; Parent=EGNFDAKC_00008_mRNA; gene_synonym=greA_1; gene_synonym=greA_1; product=Transcription elongation factor GreA
+scaffold_1	KBase	gene	5144	5437	.	-	0	ID=EGNFDAKC_00009; product=hypothetical protein
+scaffold_1	KBase	mRNA	5144	5437	.	-	0	ID=EGNFDAKC_00009_mRNA; Parent=EGNFDAKC_00009
+scaffold_1	KBase	exon	5144	5437	.	-	0	ID=EGNFDAKC_00009_mRNA_exon_1; Parent=EGNFDAKC_00009_mRNA
+scaffold_1	KBase	CDS	5144	5437	.	-	0	ID=EGNFDAKC_00009_CDS; Parent=EGNFDAKC_00009_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	5628	5900	.	-	0	ID=EGNFDAKC_00010; gene_synonym=hupB_1; gene_synonym=hupB_1; product=DNA-binding protein HU-beta
+scaffold_1	KBase	mRNA	5628	5900	.	-	0	ID=EGNFDAKC_00010_mRNA; Parent=EGNFDAKC_00010
+scaffold_1	KBase	exon	5628	5900	.	-	0	ID=EGNFDAKC_00010_mRNA_exon_1; Parent=EGNFDAKC_00010_mRNA
+scaffold_1	KBase	CDS	5628	5900	.	-	0	ID=EGNFDAKC_00010_CDS; Parent=EGNFDAKC_00010_mRNA; gene_synonym=hupB_1; gene_synonym=hupB_1; product=DNA-binding protein HU-beta
+scaffold_1	KBase	gene	6115	6378	.	-	0	ID=EGNFDAKC_00011; product=hypothetical protein
+scaffold_1	KBase	mRNA	6115	6378	.	-	0	ID=EGNFDAKC_00011_mRNA; Parent=EGNFDAKC_00011
+scaffold_1	KBase	exon	6115	6378	.	-	0	ID=EGNFDAKC_00011_mRNA_exon_1; Parent=EGNFDAKC_00011_mRNA
+scaffold_1	KBase	CDS	6115	6378	.	-	0	ID=EGNFDAKC_00011_CDS; Parent=EGNFDAKC_00011_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	6916	7263	.	+	0	ID=EGNFDAKC_00012; product=hypothetical protein
+scaffold_1	KBase	mRNA	6916	7263	.	+	0	ID=EGNFDAKC_00012_mRNA; Parent=EGNFDAKC_00012
+scaffold_1	KBase	exon	6916	7263	.	+	0	ID=EGNFDAKC_00012_mRNA_exon_1; Parent=EGNFDAKC_00012_mRNA
+scaffold_1	KBase	CDS	6916	7263	.	+	0	ID=EGNFDAKC_00012_CDS; Parent=EGNFDAKC_00012_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	7269	7526	.	-	0	ID=EGNFDAKC_00013; product=hypothetical protein
+scaffold_1	KBase	mRNA	7269	7526	.	-	0	ID=EGNFDAKC_00013_mRNA; Parent=EGNFDAKC_00013
+scaffold_1	KBase	exon	7269	7526	.	-	0	ID=EGNFDAKC_00013_mRNA_exon_1; Parent=EGNFDAKC_00013_mRNA
+scaffold_1	KBase	CDS	7269	7526	.	-	0	ID=EGNFDAKC_00013_CDS; Parent=EGNFDAKC_00013_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	7690	7854	.	-	0	ID=EGNFDAKC_00014; product=hypothetical protein
+scaffold_1	KBase	mRNA	7690	7854	.	-	0	ID=EGNFDAKC_00014_mRNA; Parent=EGNFDAKC_00014
+scaffold_1	KBase	exon	7690	7854	.	-	0	ID=EGNFDAKC_00014_mRNA_exon_1; Parent=EGNFDAKC_00014_mRNA
+scaffold_1	KBase	CDS	7690	7854	.	-	0	ID=EGNFDAKC_00014_CDS; Parent=EGNFDAKC_00014_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	8460	8558	.	+	0	ID=EGNFDAKC_00015; product=hypothetical protein
+scaffold_1	KBase	mRNA	8460	8558	.	+	0	ID=EGNFDAKC_00015_mRNA; Parent=EGNFDAKC_00015
+scaffold_1	KBase	exon	8460	8558	.	+	0	ID=EGNFDAKC_00015_mRNA_exon_1; Parent=EGNFDAKC_00015_mRNA
+scaffold_1	KBase	CDS	8460	8558	.	+	0	ID=EGNFDAKC_00015_CDS; Parent=EGNFDAKC_00015_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	9407	9727	.	+	0	ID=EGNFDAKC_00016; product=hypothetical protein
+scaffold_1	KBase	mRNA	9407	9727	.	+	0	ID=EGNFDAKC_00016_mRNA; Parent=EGNFDAKC_00016
+scaffold_1	KBase	exon	9407	9727	.	+	0	ID=EGNFDAKC_00016_mRNA_exon_1; Parent=EGNFDAKC_00016_mRNA
+scaffold_1	KBase	CDS	9407	9727	.	+	0	ID=EGNFDAKC_00016_CDS; Parent=EGNFDAKC_00016_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	9934	10881	.	-	0	ID=EGNFDAKC_00017; product=hypothetical protein
+scaffold_1	KBase	mRNA	9934	10881	.	-	0	ID=EGNFDAKC_00017_mRNA; Parent=EGNFDAKC_00017
+scaffold_1	KBase	exon	9934	10881	.	-	0	ID=EGNFDAKC_00017_mRNA_exon_1; Parent=EGNFDAKC_00017_mRNA
+scaffold_1	KBase	CDS	9934	10881	.	-	0	ID=EGNFDAKC_00017_CDS; Parent=EGNFDAKC_00017_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	11010	11180	.	-	0	ID=EGNFDAKC_00018; product=hypothetical protein
+scaffold_1	KBase	mRNA	11010	11180	.	-	0	ID=EGNFDAKC_00018_mRNA; Parent=EGNFDAKC_00018
+scaffold_1	KBase	exon	11010	11180	.	-	0	ID=EGNFDAKC_00018_mRNA_exon_1; Parent=EGNFDAKC_00018_mRNA
+scaffold_1	KBase	CDS	11010	11180	.	-	0	ID=EGNFDAKC_00018_CDS; Parent=EGNFDAKC_00018_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	12015	12278	.	+	0	ID=EGNFDAKC_00019; product=hypothetical protein
+scaffold_1	KBase	mRNA	12015	12278	.	+	0	ID=EGNFDAKC_00019_mRNA; Parent=EGNFDAKC_00019
+scaffold_1	KBase	exon	12015	12278	.	+	0	ID=EGNFDAKC_00019_mRNA_exon_1; Parent=EGNFDAKC_00019_mRNA
+scaffold_1	KBase	CDS	12015	12278	.	+	0	ID=EGNFDAKC_00019_CDS; Parent=EGNFDAKC_00019_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	12310	12612	.	+	0	ID=EGNFDAKC_00020; product=hypothetical protein
+scaffold_1	KBase	mRNA	12310	12612	.	+	0	ID=EGNFDAKC_00020_mRNA; Parent=EGNFDAKC_00020
+scaffold_1	KBase	exon	12310	12612	.	+	0	ID=EGNFDAKC_00020_mRNA_exon_1; Parent=EGNFDAKC_00020_mRNA
+scaffold_1	KBase	CDS	12310	12612	.	+	0	ID=EGNFDAKC_00020_CDS; Parent=EGNFDAKC_00020_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	14098	14223	.	+	0	ID=EGNFDAKC_00021; product=hypothetical protein
+scaffold_1	KBase	mRNA	14098	14223	.	+	0	ID=EGNFDAKC_00021_mRNA; Parent=EGNFDAKC_00021
+scaffold_1	KBase	exon	14098	14223	.	+	0	ID=EGNFDAKC_00021_mRNA_exon_1; Parent=EGNFDAKC_00021_mRNA
+scaffold_1	KBase	CDS	14098	14223	.	+	0	ID=EGNFDAKC_00021_CDS; Parent=EGNFDAKC_00021_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	14210	14449	.	+	0	ID=EGNFDAKC_00022; product=hypothetical protein
+scaffold_1	KBase	mRNA	14210	14449	.	+	0	ID=EGNFDAKC_00022_mRNA; Parent=EGNFDAKC_00022
+scaffold_1	KBase	exon	14210	14449	.	+	0	ID=EGNFDAKC_00022_mRNA_exon_1; Parent=EGNFDAKC_00022_mRNA
+scaffold_1	KBase	CDS	14210	14449	.	+	0	ID=EGNFDAKC_00022_CDS; Parent=EGNFDAKC_00022_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	14483	14782	.	-	0	ID=EGNFDAKC_00023; product=hypothetical protein
+scaffold_1	KBase	mRNA	14483	14782	.	-	0	ID=EGNFDAKC_00023_mRNA; Parent=EGNFDAKC_00023
+scaffold_1	KBase	exon	14483	14782	.	-	0	ID=EGNFDAKC_00023_mRNA_exon_1; Parent=EGNFDAKC_00023_mRNA
+scaffold_1	KBase	CDS	14483	14782	.	-	0	ID=EGNFDAKC_00023_CDS; Parent=EGNFDAKC_00023_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	15162	15500	.	-	0	ID=EGNFDAKC_00024; product=hypothetical protein
+scaffold_1	KBase	mRNA	15162	15500	.	-	0	ID=EGNFDAKC_00024_mRNA; Parent=EGNFDAKC_00024
+scaffold_1	KBase	exon	15162	15500	.	-	0	ID=EGNFDAKC_00024_mRNA_exon_1; Parent=EGNFDAKC_00024_mRNA
+scaffold_1	KBase	CDS	15162	15500	.	-	0	ID=EGNFDAKC_00024_CDS; Parent=EGNFDAKC_00024_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	15514	15678	.	-	0	ID=EGNFDAKC_00025; product=hypothetical protein
+scaffold_1	KBase	mRNA	15514	15678	.	-	0	ID=EGNFDAKC_00025_mRNA; Parent=EGNFDAKC_00025
+scaffold_1	KBase	exon	15514	15678	.	-	0	ID=EGNFDAKC_00025_mRNA_exon_1; Parent=EGNFDAKC_00025_mRNA
+scaffold_1	KBase	CDS	15514	15678	.	-	0	ID=EGNFDAKC_00025_CDS; Parent=EGNFDAKC_00025_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	16134	17513	.	+	0	ID=EGNFDAKC_00026; product=hypothetical protein
+scaffold_1	KBase	mRNA	16134	17513	.	+	0	ID=EGNFDAKC_00026_mRNA; Parent=EGNFDAKC_00026
+scaffold_1	KBase	exon	16134	17513	.	+	0	ID=EGNFDAKC_00026_mRNA_exon_1; Parent=EGNFDAKC_00026_mRNA
+scaffold_1	KBase	CDS	16134	17513	.	+	0	ID=EGNFDAKC_00026_CDS; Parent=EGNFDAKC_00026_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	17731	17997	.	+	0	ID=EGNFDAKC_00027; product=hypothetical protein
+scaffold_1	KBase	mRNA	17731	17997	.	+	0	ID=EGNFDAKC_00027_mRNA; Parent=EGNFDAKC_00027
+scaffold_1	KBase	exon	17731	17997	.	+	0	ID=EGNFDAKC_00027_mRNA_exon_1; Parent=EGNFDAKC_00027_mRNA
+scaffold_1	KBase	CDS	17731	17997	.	+	0	ID=EGNFDAKC_00027_CDS; Parent=EGNFDAKC_00027_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	17990	18358	.	+	0	ID=EGNFDAKC_00028; product=hypothetical protein
+scaffold_1	KBase	mRNA	17990	18358	.	+	0	ID=EGNFDAKC_00028_mRNA; Parent=EGNFDAKC_00028
+scaffold_1	KBase	exon	17990	18358	.	+	0	ID=EGNFDAKC_00028_mRNA_exon_1; Parent=EGNFDAKC_00028_mRNA
+scaffold_1	KBase	CDS	17990	18358	.	+	0	ID=EGNFDAKC_00028_CDS; Parent=EGNFDAKC_00028_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	18778	19014	.	+	0	ID=EGNFDAKC_00029; product=putative protein
+scaffold_1	KBase	mRNA	18778	19014	.	+	0	ID=EGNFDAKC_00029_mRNA; Parent=EGNFDAKC_00029
+scaffold_1	KBase	exon	18778	19014	.	+	0	ID=EGNFDAKC_00029_mRNA_exon_1; Parent=EGNFDAKC_00029_mRNA
+scaffold_1	KBase	CDS	18778	19014	.	+	0	ID=EGNFDAKC_00029_CDS; Parent=EGNFDAKC_00029_mRNA; product=putative protein
+scaffold_1	KBase	gene	19320	19874	.	+	0	ID=EGNFDAKC_00030; product=hypothetical protein
+scaffold_1	KBase	mRNA	19320	19874	.	+	0	ID=EGNFDAKC_00030_mRNA; Parent=EGNFDAKC_00030
+scaffold_1	KBase	exon	19320	19874	.	+	0	ID=EGNFDAKC_00030_mRNA_exon_1; Parent=EGNFDAKC_00030_mRNA
+scaffold_1	KBase	CDS	19320	19874	.	+	0	ID=EGNFDAKC_00030_CDS; Parent=EGNFDAKC_00030_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	20170	21129	.	+	0	ID=EGNFDAKC_00031; product=hypothetical protein
+scaffold_1	KBase	mRNA	20170	21129	.	+	0	ID=EGNFDAKC_00031_mRNA; Parent=EGNFDAKC_00031
+scaffold_1	KBase	exon	20170	21129	.	+	0	ID=EGNFDAKC_00031_mRNA_exon_1; Parent=EGNFDAKC_00031_mRNA
+scaffold_1	KBase	CDS	20170	21129	.	+	0	ID=EGNFDAKC_00031_CDS; Parent=EGNFDAKC_00031_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	21668	21853	.	+	0	ID=EGNFDAKC_00032; product=hypothetical protein
+scaffold_1	KBase	mRNA	21668	21853	.	+	0	ID=EGNFDAKC_00032_mRNA; Parent=EGNFDAKC_00032
+scaffold_1	KBase	exon	21668	21853	.	+	0	ID=EGNFDAKC_00032_mRNA_exon_1; Parent=EGNFDAKC_00032_mRNA
+scaffold_1	KBase	CDS	21668	21853	.	+	0	ID=EGNFDAKC_00032_CDS; Parent=EGNFDAKC_00032_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	23438	25402	.	+	0	ID=EGNFDAKC_00033; gene_synonym=uvrB; gene_synonym=uvrB; product=UvrABC system protein B
+scaffold_1	KBase	mRNA	23438	25402	.	+	0	ID=EGNFDAKC_00033_mRNA; Parent=EGNFDAKC_00033
+scaffold_1	KBase	exon	23438	25402	.	+	0	ID=EGNFDAKC_00033_mRNA_exon_1; Parent=EGNFDAKC_00033_mRNA
+scaffold_1	KBase	CDS	23438	25402	.	+	0	ID=EGNFDAKC_00033_CDS; Parent=EGNFDAKC_00033_mRNA; gene_synonym=uvrB; gene_synonym=uvrB; product=UvrABC system protein B
+scaffold_1	KBase	gene	25551	26054	.	-	0	ID=EGNFDAKC_00034; product=hypothetical protein
+scaffold_1	KBase	mRNA	25551	26054	.	-	0	ID=EGNFDAKC_00034_mRNA; Parent=EGNFDAKC_00034
+scaffold_1	KBase	exon	25551	26054	.	-	0	ID=EGNFDAKC_00034_mRNA_exon_1; Parent=EGNFDAKC_00034_mRNA
+scaffold_1	KBase	CDS	25551	26054	.	-	0	ID=EGNFDAKC_00034_CDS; Parent=EGNFDAKC_00034_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	26121	26840	.	-	0	ID=EGNFDAKC_00035; gene_synonym=ung; gene_synonym=ung; product=Uracil-DNA glycosylase; ec=ec:3.2.2.27
+scaffold_1	KBase	mRNA	26121	26840	.	-	0	ID=EGNFDAKC_00035_mRNA; Parent=EGNFDAKC_00035
+scaffold_1	KBase	exon	26121	26840	.	-	0	ID=EGNFDAKC_00035_mRNA_exon_1; Parent=EGNFDAKC_00035_mRNA
+scaffold_1	KBase	CDS	26121	26840	.	-	0	ID=EGNFDAKC_00035_CDS; Parent=EGNFDAKC_00035_mRNA; gene_synonym=ung; gene_synonym=ung; product=Uracil-DNA glycosylase
+scaffold_1	KBase	gene	26888	27313	.	-	0	ID=EGNFDAKC_00036; product=hypothetical protein
+scaffold_1	KBase	mRNA	26888	27313	.	-	0	ID=EGNFDAKC_00036_mRNA; Parent=EGNFDAKC_00036
+scaffold_1	KBase	exon	26888	27313	.	-	0	ID=EGNFDAKC_00036_mRNA_exon_1; Parent=EGNFDAKC_00036_mRNA
+scaffold_1	KBase	CDS	26888	27313	.	-	0	ID=EGNFDAKC_00036_CDS; Parent=EGNFDAKC_00036_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	27367	28698	.	-	0	ID=EGNFDAKC_00037; gene_synonym=gatA; gene_synonym=gatA; product=Glutamyl-tRNA%28Gln%29 amidotransferase subunit A; ec=ec:6.3.5.7
+scaffold_1	KBase	mRNA	27367	28698	.	-	0	ID=EGNFDAKC_00037_mRNA; Parent=EGNFDAKC_00037
+scaffold_1	KBase	exon	27367	28698	.	-	0	ID=EGNFDAKC_00037_mRNA_exon_1; Parent=EGNFDAKC_00037_mRNA
+scaffold_1	KBase	CDS	27367	28698	.	-	0	ID=EGNFDAKC_00037_CDS; Parent=EGNFDAKC_00037_mRNA; gene_synonym=gatA; gene_synonym=gatA; product=Glutamyl-tRNA%28Gln%29 amidotransferase subunit A
+scaffold_1	KBase	gene	28727	29659	.	-	0	ID=EGNFDAKC_00038; gene_synonym=rpoS; gene_synonym=rpoS; product=RNA polymerase sigma factor RpoS
+scaffold_1	KBase	mRNA	28727	29659	.	-	0	ID=EGNFDAKC_00038_mRNA; Parent=EGNFDAKC_00038
+scaffold_1	KBase	exon	28727	29659	.	-	0	ID=EGNFDAKC_00038_mRNA_exon_1; Parent=EGNFDAKC_00038_mRNA
+scaffold_1	KBase	CDS	28727	29659	.	-	0	ID=EGNFDAKC_00038_CDS; Parent=EGNFDAKC_00038_mRNA; gene_synonym=rpoS; gene_synonym=rpoS; product=RNA polymerase sigma factor RpoS
+scaffold_1	KBase	gene	29798	31291	.	-	0	ID=EGNFDAKC_00039; gene_synonym=cshA; gene_synonym=cshA; product=ATP-dependent RNA helicase CshA; ec=ec:3.6.4.13
+scaffold_1	KBase	mRNA	29798	31291	.	-	0	ID=EGNFDAKC_00039_mRNA; Parent=EGNFDAKC_00039
+scaffold_1	KBase	exon	29798	31291	.	-	0	ID=EGNFDAKC_00039_mRNA_exon_1; Parent=EGNFDAKC_00039_mRNA
+scaffold_1	KBase	CDS	29798	31291	.	-	0	ID=EGNFDAKC_00039_CDS; Parent=EGNFDAKC_00039_mRNA; gene_synonym=cshA; gene_synonym=cshA; product=ATP-dependent RNA helicase CshA
+scaffold_1	KBase	gene	31629	32429	.	-	0	ID=EGNFDAKC_00040; product=hypothetical protein
+scaffold_1	KBase	mRNA	31629	32429	.	-	0	ID=EGNFDAKC_00040_mRNA; Parent=EGNFDAKC_00040
+scaffold_1	KBase	exon	31629	32429	.	-	0	ID=EGNFDAKC_00040_mRNA_exon_1; Parent=EGNFDAKC_00040_mRNA
+scaffold_1	KBase	CDS	31629	32429	.	-	0	ID=EGNFDAKC_00040_CDS; Parent=EGNFDAKC_00040_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	32470	33468	.	-	0	ID=EGNFDAKC_00041; gene_synonym=trpS; gene_synonym=trpS; product=Tryptophan--tRNA ligase; ec=ec:6.1.1.2
+scaffold_1	KBase	mRNA	32470	33468	.	-	0	ID=EGNFDAKC_00041_mRNA; Parent=EGNFDAKC_00041
+scaffold_1	KBase	exon	32470	33468	.	-	0	ID=EGNFDAKC_00041_mRNA_exon_1; Parent=EGNFDAKC_00041_mRNA
+scaffold_1	KBase	CDS	32470	33468	.	-	0	ID=EGNFDAKC_00041_CDS; Parent=EGNFDAKC_00041_mRNA; gene_synonym=trpS; gene_synonym=trpS; product=Tryptophan--tRNA ligase
+scaffold_1	KBase	gene	33558	33941	.	-	0	ID=EGNFDAKC_00042; product=hypothetical protein
+scaffold_1	KBase	mRNA	33558	33941	.	-	0	ID=EGNFDAKC_00042_mRNA; Parent=EGNFDAKC_00042
+scaffold_1	KBase	exon	33558	33941	.	-	0	ID=EGNFDAKC_00042_mRNA_exon_1; Parent=EGNFDAKC_00042_mRNA
+scaffold_1	KBase	CDS	33558	33941	.	-	0	ID=EGNFDAKC_00042_CDS; Parent=EGNFDAKC_00042_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	34330	35325	.	+	0	ID=EGNFDAKC_00043; product=hypothetical protein
+scaffold_1	KBase	mRNA	34330	35325	.	+	0	ID=EGNFDAKC_00043_mRNA; Parent=EGNFDAKC_00043
+scaffold_1	KBase	exon	34330	35325	.	+	0	ID=EGNFDAKC_00043_mRNA_exon_1; Parent=EGNFDAKC_00043_mRNA
+scaffold_1	KBase	CDS	34330	35325	.	+	0	ID=EGNFDAKC_00043_CDS; Parent=EGNFDAKC_00043_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	35338	35703	.	-	0	ID=EGNFDAKC_00044; product=hypothetical protein
+scaffold_1	KBase	mRNA	35338	35703	.	-	0	ID=EGNFDAKC_00044_mRNA; Parent=EGNFDAKC_00044
+scaffold_1	KBase	exon	35338	35703	.	-	0	ID=EGNFDAKC_00044_mRNA_exon_1; Parent=EGNFDAKC_00044_mRNA
+scaffold_1	KBase	CDS	35338	35703	.	-	0	ID=EGNFDAKC_00044_CDS; Parent=EGNFDAKC_00044_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	35789	35878	.	-	0	ID=EGNFDAKC_00045; product=tRNA-Ser%28cga%29
+scaffold_1	KBase	gene	36411	37298	.	-	0	ID=EGNFDAKC_00046; product=hypothetical protein
+scaffold_1	KBase	mRNA	36411	37298	.	-	0	ID=EGNFDAKC_00046_mRNA; Parent=EGNFDAKC_00046
+scaffold_1	KBase	exon	36411	37298	.	-	0	ID=EGNFDAKC_00046_mRNA_exon_1; Parent=EGNFDAKC_00046_mRNA
+scaffold_1	KBase	CDS	36411	37298	.	-	0	ID=EGNFDAKC_00046_CDS; Parent=EGNFDAKC_00046_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	37316	39850	.	-	0	ID=EGNFDAKC_00047; gene_synonym=leuS; gene_synonym=leuS; product=Leucine--tRNA ligase; ec=ec:6.1.1.4
+scaffold_1	KBase	mRNA	37316	39850	.	-	0	ID=EGNFDAKC_00047_mRNA; Parent=EGNFDAKC_00047
+scaffold_1	KBase	exon	37316	39850	.	-	0	ID=EGNFDAKC_00047_mRNA_exon_1; Parent=EGNFDAKC_00047_mRNA
+scaffold_1	KBase	CDS	37316	39850	.	-	0	ID=EGNFDAKC_00047_CDS; Parent=EGNFDAKC_00047_mRNA; gene_synonym=leuS; gene_synonym=leuS; product=Leucine--tRNA ligase
+scaffold_1	KBase	gene	40159	41061	.	-	0	ID=EGNFDAKC_00048; gene_synonym=yitU; gene_synonym=yitU; product=5-amino-6-%285-phospho-D-ribitylamino%29uracil phosphatase YitU; ec=ec:3.1.3.104
+scaffold_1	KBase	mRNA	40159	41061	.	-	0	ID=EGNFDAKC_00048_mRNA; Parent=EGNFDAKC_00048
+scaffold_1	KBase	exon	40159	41061	.	-	0	ID=EGNFDAKC_00048_mRNA_exon_1; Parent=EGNFDAKC_00048_mRNA
+scaffold_1	KBase	CDS	40159	41061	.	-	0	ID=EGNFDAKC_00048_CDS; Parent=EGNFDAKC_00048_mRNA; gene_synonym=yitU; gene_synonym=yitU; product=5-amino-6-%285-phospho-D-ribitylamino%29uracil phosphatase YitU
+scaffold_1	KBase	gene	41096	41686	.	-	0	ID=EGNFDAKC_00049; gene_synonym=nusG; gene_synonym=nusG; product=Transcription termination/antitermination protein NusG
+scaffold_1	KBase	mRNA	41096	41686	.	-	0	ID=EGNFDAKC_00049_mRNA; Parent=EGNFDAKC_00049
+scaffold_1	KBase	exon	41096	41686	.	-	0	ID=EGNFDAKC_00049_mRNA_exon_1; Parent=EGNFDAKC_00049_mRNA
+scaffold_1	KBase	CDS	41096	41686	.	-	0	ID=EGNFDAKC_00049_CDS; Parent=EGNFDAKC_00049_mRNA; gene_synonym=nusG; gene_synonym=nusG; product=Transcription termination/antitermination protein NusG
+scaffold_1	KBase	gene	41727	41927	.	-	0	ID=EGNFDAKC_00050; gene_synonym=rpmI; gene_synonym=rpmI; product=50S ribosomal protein L35
+scaffold_1	KBase	mRNA	41727	41927	.	-	0	ID=EGNFDAKC_00050_mRNA; Parent=EGNFDAKC_00050
+scaffold_1	KBase	exon	41727	41927	.	-	0	ID=EGNFDAKC_00050_mRNA_exon_1; Parent=EGNFDAKC_00050_mRNA
+scaffold_1	KBase	CDS	41727	41927	.	-	0	ID=EGNFDAKC_00050_CDS; Parent=EGNFDAKC_00050_mRNA; gene_synonym=rpmI; gene_synonym=rpmI; product=50S ribosomal protein L35
+scaffold_1	KBase	gene	41914	42480	.	-	0	ID=EGNFDAKC_00051; gene_synonym=infC; gene_synonym=infC; product=Translation initiation factor IF-3
+scaffold_1	KBase	mRNA	41914	42480	.	-	0	ID=EGNFDAKC_00051_mRNA; Parent=EGNFDAKC_00051
+scaffold_1	KBase	exon	41914	42480	.	-	0	ID=EGNFDAKC_00051_mRNA_exon_1; Parent=EGNFDAKC_00051_mRNA
+scaffold_1	KBase	CDS	41914	42480	.	-	0	ID=EGNFDAKC_00051_CDS; Parent=EGNFDAKC_00051_mRNA; gene_synonym=infC; gene_synonym=infC; product=Translation initiation factor IF-3
+scaffold_1	KBase	gene	42585	43826	.	-	0	ID=EGNFDAKC_00052; gene_synonym=thrS; gene_synonym=thrS; product=Threonine--tRNA ligase 1; ec=ec:6.1.1.3
+scaffold_1	KBase	mRNA	42585	43826	.	-	0	ID=EGNFDAKC_00052_mRNA; Parent=EGNFDAKC_00052
+scaffold_1	KBase	exon	42585	43826	.	-	0	ID=EGNFDAKC_00052_mRNA_exon_1; Parent=EGNFDAKC_00052_mRNA
+scaffold_1	KBase	CDS	42585	43826	.	-	0	ID=EGNFDAKC_00052_CDS; Parent=EGNFDAKC_00052_mRNA; gene_synonym=thrS; gene_synonym=thrS; product=Threonine--tRNA ligase 1
+scaffold_1	KBase	gene	43848	48542	.	-	0	ID=EGNFDAKC_00053; gene_synonym=gyrB; gene_synonym=gyrB; product=DNA gyrase subunit B
+scaffold_1	KBase	mRNA	43848	48542	.	-	0	ID=EGNFDAKC_00053_mRNA; Parent=EGNFDAKC_00053
+scaffold_1	KBase	exon	43848	48542	.	-	0	ID=EGNFDAKC_00053_mRNA_exon_1; Parent=EGNFDAKC_00053_mRNA
+scaffold_1	KBase	CDS	43848	48542	.	-	0	ID=EGNFDAKC_00053_CDS; Parent=EGNFDAKC_00053_mRNA; gene_synonym=gyrB; gene_synonym=gyrB; product=DNA gyrase subunit B
+scaffold_1	KBase	gene	48607	48680	.	-	0	ID=EGNFDAKC_00054; product=tRNA-Trp%28cca%29
+scaffold_1	KBase	gene	48915	49097	.	-	0	ID=EGNFDAKC_00055; product=hypothetical protein
+scaffold_1	KBase	mRNA	48915	49097	.	-	0	ID=EGNFDAKC_00055_mRNA; Parent=EGNFDAKC_00055
+scaffold_1	KBase	exon	48915	49097	.	-	0	ID=EGNFDAKC_00055_mRNA_exon_1; Parent=EGNFDAKC_00055_mRNA
+scaffold_1	KBase	CDS	48915	49097	.	-	0	ID=EGNFDAKC_00055_CDS; Parent=EGNFDAKC_00055_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	49331	49407	.	-	0	ID=EGNFDAKC_00056; product=tRNA-Met%28cat%29
+scaffold_1	KBase	gene	49455	49727	.	-	0	ID=EGNFDAKC_00057; gene_synonym=rpmA; gene_synonym=rpmA; product=50S ribosomal protein L27
+scaffold_1	KBase	mRNA	49455	49727	.	-	0	ID=EGNFDAKC_00057_mRNA; Parent=EGNFDAKC_00057
+scaffold_1	KBase	exon	49455	49727	.	-	0	ID=EGNFDAKC_00057_mRNA_exon_1; Parent=EGNFDAKC_00057_mRNA
+scaffold_1	KBase	CDS	49455	49727	.	-	0	ID=EGNFDAKC_00057_CDS; Parent=EGNFDAKC_00057_mRNA; gene_synonym=rpmA; gene_synonym=rpmA; product=50S ribosomal protein L27
+scaffold_1	KBase	gene	49895	50575	.	-	0	ID=EGNFDAKC_00058; product=putative RNA pseudouridine synthase
+scaffold_1	KBase	mRNA	49895	50575	.	-	0	ID=EGNFDAKC_00058_mRNA; Parent=EGNFDAKC_00058
+scaffold_1	KBase	exon	49895	50575	.	-	0	ID=EGNFDAKC_00058_mRNA_exon_1; Parent=EGNFDAKC_00058_mRNA
+scaffold_1	KBase	CDS	49895	50575	.	-	0	ID=EGNFDAKC_00058_CDS; Parent=EGNFDAKC_00058_mRNA; product=putative RNA pseudouridine synthase
+scaffold_1	KBase	gene	50588	50821	.	-	0	ID=EGNFDAKC_00059; gene_synonym=rpmE; gene_synonym=rpmE; product=50S ribosomal protein L31
+scaffold_1	KBase	mRNA	50588	50821	.	-	0	ID=EGNFDAKC_00059_mRNA; Parent=EGNFDAKC_00059
+scaffold_1	KBase	exon	50588	50821	.	-	0	ID=EGNFDAKC_00059_mRNA_exon_1; Parent=EGNFDAKC_00059_mRNA
+scaffold_1	KBase	CDS	50588	50821	.	-	0	ID=EGNFDAKC_00059_CDS; Parent=EGNFDAKC_00059_mRNA; gene_synonym=rpmE; gene_synonym=rpmE; product=50S ribosomal protein L31
+scaffold_1	KBase	gene	50827	51189	.	-	0	ID=EGNFDAKC_00060; product=hypothetical protein
+scaffold_1	KBase	mRNA	50827	51189	.	-	0	ID=EGNFDAKC_00060_mRNA; Parent=EGNFDAKC_00060
+scaffold_1	KBase	exon	50827	51189	.	-	0	ID=EGNFDAKC_00060_mRNA_exon_1; Parent=EGNFDAKC_00060_mRNA
+scaffold_1	KBase	CDS	50827	51189	.	-	0	ID=EGNFDAKC_00060_CDS; Parent=EGNFDAKC_00060_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	51494	52555	.	-	0	ID=EGNFDAKC_00061; product=hypothetical protein
+scaffold_1	KBase	mRNA	51494	52555	.	-	0	ID=EGNFDAKC_00061_mRNA; Parent=EGNFDAKC_00061
+scaffold_1	KBase	exon	51494	52555	.	-	0	ID=EGNFDAKC_00061_mRNA_exon_1; Parent=EGNFDAKC_00061_mRNA
+scaffold_1	KBase	CDS	51494	52555	.	-	0	ID=EGNFDAKC_00061_CDS; Parent=EGNFDAKC_00061_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	52631	53629	.	-	0	ID=EGNFDAKC_00062; product=hypothetical protein
+scaffold_1	KBase	mRNA	52631	53629	.	-	0	ID=EGNFDAKC_00062_mRNA; Parent=EGNFDAKC_00062
+scaffold_1	KBase	exon	52631	53629	.	-	0	ID=EGNFDAKC_00062_mRNA_exon_1; Parent=EGNFDAKC_00062_mRNA
+scaffold_1	KBase	CDS	52631	53629	.	-	0	ID=EGNFDAKC_00062_CDS; Parent=EGNFDAKC_00062_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	53693	55000	.	-	0	ID=EGNFDAKC_00063; gene_synonym=der; gene_synonym=der; product=GTPase Der
+scaffold_1	KBase	mRNA	53693	55000	.	-	0	ID=EGNFDAKC_00063_mRNA; Parent=EGNFDAKC_00063
+scaffold_1	KBase	exon	53693	55000	.	-	0	ID=EGNFDAKC_00063_mRNA_exon_1; Parent=EGNFDAKC_00063_mRNA
+scaffold_1	KBase	CDS	53693	55000	.	-	0	ID=EGNFDAKC_00063_CDS; Parent=EGNFDAKC_00063_mRNA; gene_synonym=der; gene_synonym=der; product=GTPase Der
+scaffold_1	KBase	gene	55136	58213	.	-	0	ID=EGNFDAKC_00064; gene_synonym=dnaE2; gene_synonym=dnaE2; product=Error-prone DNA polymerase; ec=ec:2.7.7.7
+scaffold_1	KBase	mRNA	55136	58213	.	-	0	ID=EGNFDAKC_00064_mRNA; Parent=EGNFDAKC_00064
+scaffold_1	KBase	exon	55136	58213	.	-	0	ID=EGNFDAKC_00064_mRNA_exon_1; Parent=EGNFDAKC_00064_mRNA
+scaffold_1	KBase	CDS	55136	58213	.	-	0	ID=EGNFDAKC_00064_CDS; Parent=EGNFDAKC_00064_mRNA; gene_synonym=dnaE2; gene_synonym=dnaE2; product=Error-prone DNA polymerase
+scaffold_1	KBase	gene	58244	59533	.	-	0	ID=EGNFDAKC_00065; gene_synonym=obg; gene_synonym=obg; product=GTPase Obg
+scaffold_1	KBase	mRNA	58244	59533	.	-	0	ID=EGNFDAKC_00065_mRNA; Parent=EGNFDAKC_00065
+scaffold_1	KBase	exon	58244	59533	.	-	0	ID=EGNFDAKC_00065_mRNA_exon_1; Parent=EGNFDAKC_00065_mRNA
+scaffold_1	KBase	CDS	58244	59533	.	-	0	ID=EGNFDAKC_00065_CDS; Parent=EGNFDAKC_00065_mRNA; gene_synonym=obg; gene_synonym=obg; product=GTPase Obg
+scaffold_1	KBase	gene	59687	60244	.	-	0	ID=EGNFDAKC_00066; product=hypothetical protein
+scaffold_1	KBase	mRNA	59687	60244	.	-	0	ID=EGNFDAKC_00066_mRNA; Parent=EGNFDAKC_00066
+scaffold_1	KBase	exon	59687	60244	.	-	0	ID=EGNFDAKC_00066_mRNA_exon_1; Parent=EGNFDAKC_00066_mRNA
+scaffold_1	KBase	CDS	59687	60244	.	-	0	ID=EGNFDAKC_00066_CDS; Parent=EGNFDAKC_00066_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	60183	60623	.	-	0	ID=EGNFDAKC_00067; product=hypothetical protein
+scaffold_1	KBase	mRNA	60183	60623	.	-	0	ID=EGNFDAKC_00067_mRNA; Parent=EGNFDAKC_00067
+scaffold_1	KBase	exon	60183	60623	.	-	0	ID=EGNFDAKC_00067_mRNA_exon_1; Parent=EGNFDAKC_00067_mRNA
+scaffold_1	KBase	CDS	60183	60623	.	-	0	ID=EGNFDAKC_00067_CDS; Parent=EGNFDAKC_00067_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	60629	61489	.	-	0	ID=EGNFDAKC_00068; gene_synonym=rsmA; gene_synonym=rsmA; product=Ribosomal RNA small subunit methyltransferase A; ec=ec:2.1.1.182
+scaffold_1	KBase	mRNA	60629	61489	.	-	0	ID=EGNFDAKC_00068_mRNA; Parent=EGNFDAKC_00068
+scaffold_1	KBase	exon	60629	61489	.	-	0	ID=EGNFDAKC_00068_mRNA_exon_1; Parent=EGNFDAKC_00068_mRNA
+scaffold_1	KBase	CDS	60629	61489	.	-	0	ID=EGNFDAKC_00068_CDS; Parent=EGNFDAKC_00068_mRNA; gene_synonym=rsmA; gene_synonym=rsmA; product=Ribosomal RNA small subunit methyltransferase A
+scaffold_1	KBase	gene	61489	61845	.	-	0	ID=EGNFDAKC_00069; gene_synonym=rplS; gene_synonym=rplS; product=50S ribosomal protein L19
+scaffold_1	KBase	mRNA	61489	61845	.	-	0	ID=EGNFDAKC_00069_mRNA; Parent=EGNFDAKC_00069
+scaffold_1	KBase	exon	61489	61845	.	-	0	ID=EGNFDAKC_00069_mRNA_exon_1; Parent=EGNFDAKC_00069_mRNA
+scaffold_1	KBase	CDS	61489	61845	.	-	0	ID=EGNFDAKC_00069_CDS; Parent=EGNFDAKC_00069_mRNA; gene_synonym=rplS; gene_synonym=rplS; product=50S ribosomal protein L19
+scaffold_1	KBase	gene	62166	63536	.	+	0	ID=EGNFDAKC_00070; gene_synonym=asnS; gene_synonym=asnS; product=Asparagine--tRNA ligase; ec=ec:6.1.1.22
+scaffold_1	KBase	mRNA	62166	63536	.	+	0	ID=EGNFDAKC_00070_mRNA; Parent=EGNFDAKC_00070
+scaffold_1	KBase	exon	62166	63536	.	+	0	ID=EGNFDAKC_00070_mRNA_exon_1; Parent=EGNFDAKC_00070_mRNA
+scaffold_1	KBase	CDS	62166	63536	.	+	0	ID=EGNFDAKC_00070_CDS; Parent=EGNFDAKC_00070_mRNA; gene_synonym=asnS; gene_synonym=asnS; product=Asparagine--tRNA ligase
+scaffold_1	KBase	gene	63627	65153	.	-	0	ID=EGNFDAKC_00071; product=hypothetical protein
+scaffold_1	KBase	mRNA	63627	65153	.	-	0	ID=EGNFDAKC_00071_mRNA; Parent=EGNFDAKC_00071
+scaffold_1	KBase	exon	63627	65153	.	-	0	ID=EGNFDAKC_00071_mRNA_exon_1; Parent=EGNFDAKC_00071_mRNA
+scaffold_1	KBase	CDS	63627	65153	.	-	0	ID=EGNFDAKC_00071_CDS; Parent=EGNFDAKC_00071_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	65478	69245	.	-	0	ID=EGNFDAKC_00072; gene_synonym=rpoC; gene_synonym=rpoC; product=DNA-directed RNA polymerase subunit beta%27; ec=ec:2.7.7.6
+scaffold_1	KBase	mRNA	65478	69245	.	-	0	ID=EGNFDAKC_00072_mRNA; Parent=EGNFDAKC_00072
+scaffold_1	KBase	exon	65478	69245	.	-	0	ID=EGNFDAKC_00072_mRNA_exon_1; Parent=EGNFDAKC_00072_mRNA
+scaffold_1	KBase	CDS	65478	69245	.	-	0	ID=EGNFDAKC_00072_CDS; Parent=EGNFDAKC_00072_mRNA; gene_synonym=rpoC; gene_synonym=rpoC; product=DNA-directed RNA polymerase subunit beta%27
+scaffold_1	KBase	gene	69288	72950	.	-	0	ID=EGNFDAKC_00073; gene_synonym=rpoB; gene_synonym=rpoB; product=DNA-directed RNA polymerase subunit beta; ec=ec:2.7.7.6
+scaffold_1	KBase	mRNA	69288	72950	.	-	0	ID=EGNFDAKC_00073_mRNA; Parent=EGNFDAKC_00073
+scaffold_1	KBase	exon	69288	72950	.	-	0	ID=EGNFDAKC_00073_mRNA_exon_1; Parent=EGNFDAKC_00073_mRNA
+scaffold_1	KBase	CDS	69288	72950	.	-	0	ID=EGNFDAKC_00073_CDS; Parent=EGNFDAKC_00073_mRNA; gene_synonym=rpoB; gene_synonym=rpoB; product=DNA-directed RNA polymerase subunit beta
+scaffold_1	KBase	gene	72974	73369	.	-	0	ID=EGNFDAKC_00074; gene_synonym=rplL; gene_synonym=rplL; product=50S ribosomal protein L7/L12
+scaffold_1	KBase	mRNA	72974	73369	.	-	0	ID=EGNFDAKC_00074_mRNA; Parent=EGNFDAKC_00074
+scaffold_1	KBase	exon	72974	73369	.	-	0	ID=EGNFDAKC_00074_mRNA_exon_1; Parent=EGNFDAKC_00074_mRNA
+scaffold_1	KBase	CDS	72974	73369	.	-	0	ID=EGNFDAKC_00074_CDS; Parent=EGNFDAKC_00074_mRNA; gene_synonym=rplL; gene_synonym=rplL; product=50S ribosomal protein L7/L12
+scaffold_1	KBase	gene	73374	73859	.	-	0	ID=EGNFDAKC_00075; gene_synonym=rplJ; gene_synonym=rplJ; product=50S ribosomal protein L10
+scaffold_1	KBase	mRNA	73374	73859	.	-	0	ID=EGNFDAKC_00075_mRNA; Parent=EGNFDAKC_00075
+scaffold_1	KBase	exon	73374	73859	.	-	0	ID=EGNFDAKC_00075_mRNA_exon_1; Parent=EGNFDAKC_00075_mRNA
+scaffold_1	KBase	CDS	73374	73859	.	-	0	ID=EGNFDAKC_00075_CDS; Parent=EGNFDAKC_00075_mRNA; gene_synonym=rplJ; gene_synonym=rplJ; product=50S ribosomal protein L10
+scaffold_1	KBase	gene	73891	74562	.	-	0	ID=EGNFDAKC_00076; gene_synonym=rplA; gene_synonym=rplA; product=50S ribosomal protein L1
+scaffold_1	KBase	mRNA	73891	74562	.	-	0	ID=EGNFDAKC_00076_mRNA; Parent=EGNFDAKC_00076
+scaffold_1	KBase	exon	73891	74562	.	-	0	ID=EGNFDAKC_00076_mRNA_exon_1; Parent=EGNFDAKC_00076_mRNA
+scaffold_1	KBase	CDS	73891	74562	.	-	0	ID=EGNFDAKC_00076_CDS; Parent=EGNFDAKC_00076_mRNA; gene_synonym=rplA; gene_synonym=rplA; product=50S ribosomal protein L1
+scaffold_1	KBase	gene	74566	74949	.	-	0	ID=EGNFDAKC_00077; gene_synonym=rplK; gene_synonym=rplK; product=50S ribosomal protein L11
+scaffold_1	KBase	mRNA	74566	74949	.	-	0	ID=EGNFDAKC_00077_mRNA; Parent=EGNFDAKC_00077
+scaffold_1	KBase	exon	74566	74949	.	-	0	ID=EGNFDAKC_00077_mRNA_exon_1; Parent=EGNFDAKC_00077_mRNA
+scaffold_1	KBase	CDS	74566	74949	.	-	0	ID=EGNFDAKC_00077_CDS; Parent=EGNFDAKC_00077_mRNA; gene_synonym=rplK; gene_synonym=rplK; product=50S ribosomal protein L11
+scaffold_1	KBase	gene	74978	75054	.	-	0	ID=EGNFDAKC_00078; product=tRNA-Ile%28gat%29
+scaffold_1	KBase	gene	75059	75784	.	-	0	ID=EGNFDAKC_00079; product=hypothetical protein
+scaffold_1	KBase	mRNA	75059	75784	.	-	0	ID=EGNFDAKC_00079_mRNA; Parent=EGNFDAKC_00079
+scaffold_1	KBase	exon	75059	75784	.	-	0	ID=EGNFDAKC_00079_mRNA_exon_1; Parent=EGNFDAKC_00079_mRNA
+scaffold_1	KBase	CDS	75059	75784	.	-	0	ID=EGNFDAKC_00079_CDS; Parent=EGNFDAKC_00079_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	75834	76244	.	-	0	ID=EGNFDAKC_00080; gene_synonym=rpsI; gene_synonym=rpsI; product=30S ribosomal protein S9
+scaffold_1	KBase	mRNA	75834	76244	.	-	0	ID=EGNFDAKC_00080_mRNA; Parent=EGNFDAKC_00080
+scaffold_1	KBase	exon	75834	76244	.	-	0	ID=EGNFDAKC_00080_mRNA_exon_1; Parent=EGNFDAKC_00080_mRNA
+scaffold_1	KBase	CDS	75834	76244	.	-	0	ID=EGNFDAKC_00080_CDS; Parent=EGNFDAKC_00080_mRNA; gene_synonym=rpsI; gene_synonym=rpsI; product=30S ribosomal protein S9
+scaffold_1	KBase	gene	76244	76732	.	-	0	ID=EGNFDAKC_00081; gene_synonym=rplM; gene_synonym=rplM; product=50S ribosomal protein L13
+scaffold_1	KBase	mRNA	76244	76732	.	-	0	ID=EGNFDAKC_00081_mRNA; Parent=EGNFDAKC_00081
+scaffold_1	KBase	exon	76244	76732	.	-	0	ID=EGNFDAKC_00081_mRNA_exon_1; Parent=EGNFDAKC_00081_mRNA
+scaffold_1	KBase	CDS	76244	76732	.	-	0	ID=EGNFDAKC_00081_CDS; Parent=EGNFDAKC_00081_mRNA; gene_synonym=rplM; gene_synonym=rplM; product=50S ribosomal protein L13
+scaffold_1	KBase	gene	76836	77135	.	-	0	ID=EGNFDAKC_00082; product=hypothetical protein
+scaffold_1	KBase	mRNA	76836	77135	.	-	0	ID=EGNFDAKC_00082_mRNA; Parent=EGNFDAKC_00082
+scaffold_1	KBase	exon	76836	77135	.	-	0	ID=EGNFDAKC_00082_mRNA_exon_1; Parent=EGNFDAKC_00082_mRNA
+scaffold_1	KBase	CDS	76836	77135	.	-	0	ID=EGNFDAKC_00082_CDS; Parent=EGNFDAKC_00082_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	77137	77916	.	-	0	ID=EGNFDAKC_00083; gene_synonym=truA; gene_synonym=truA; product=tRNA pseudouridine synthase A; ec=ec:5.4.99.12
+scaffold_1	KBase	mRNA	77137	77916	.	-	0	ID=EGNFDAKC_00083_mRNA; Parent=EGNFDAKC_00083
+scaffold_1	KBase	exon	77137	77916	.	-	0	ID=EGNFDAKC_00083_mRNA_exon_1; Parent=EGNFDAKC_00083_mRNA
+scaffold_1	KBase	CDS	77137	77916	.	-	0	ID=EGNFDAKC_00083_CDS; Parent=EGNFDAKC_00083_mRNA; gene_synonym=truA; gene_synonym=truA; product=tRNA pseudouridine synthase A
+scaffold_1	KBase	gene	77924	78307	.	-	0	ID=EGNFDAKC_00084; gene_synonym=rplQ; gene_synonym=rplQ; product=50S ribosomal protein L17
+scaffold_1	KBase	mRNA	77924	78307	.	-	0	ID=EGNFDAKC_00084_mRNA; Parent=EGNFDAKC_00084
+scaffold_1	KBase	exon	77924	78307	.	-	0	ID=EGNFDAKC_00084_mRNA_exon_1; Parent=EGNFDAKC_00084_mRNA
+scaffold_1	KBase	CDS	77924	78307	.	-	0	ID=EGNFDAKC_00084_CDS; Parent=EGNFDAKC_00084_mRNA; gene_synonym=rplQ; gene_synonym=rplQ; product=50S ribosomal protein L17
+scaffold_1	KBase	gene	78414	79154	.	-	0	ID=EGNFDAKC_00085; gene_synonym=rpoA; gene_synonym=rpoA; product=DNA-directed RNA polymerase subunit alpha; ec=ec:2.7.7.6
+scaffold_1	KBase	mRNA	78414	79154	.	-	0	ID=EGNFDAKC_00085_mRNA; Parent=EGNFDAKC_00085
+scaffold_1	KBase	exon	78414	79154	.	-	0	ID=EGNFDAKC_00085_mRNA_exon_1; Parent=EGNFDAKC_00085_mRNA
+scaffold_1	KBase	CDS	78414	79154	.	-	0	ID=EGNFDAKC_00085_CDS; Parent=EGNFDAKC_00085_mRNA; gene_synonym=rpoA; gene_synonym=rpoA; product=DNA-directed RNA polymerase subunit alpha
+scaffold_1	KBase	gene	79183	79584	.	-	0	ID=EGNFDAKC_00086; gene_synonym=rpsK; gene_synonym=rpsK; product=30S ribosomal protein S11
+scaffold_1	KBase	mRNA	79183	79584	.	-	0	ID=EGNFDAKC_00086_mRNA; Parent=EGNFDAKC_00086
+scaffold_1	KBase	exon	79183	79584	.	-	0	ID=EGNFDAKC_00086_mRNA_exon_1; Parent=EGNFDAKC_00086_mRNA
+scaffold_1	KBase	CDS	79183	79584	.	-	0	ID=EGNFDAKC_00086_CDS; Parent=EGNFDAKC_00086_mRNA; gene_synonym=rpsK; gene_synonym=rpsK; product=30S ribosomal protein S11
+scaffold_1	KBase	gene	79605	79985	.	-	0	ID=EGNFDAKC_00087; gene_synonym=rpsM; gene_synonym=rpsM; product=30S ribosomal protein S13
+scaffold_1	KBase	mRNA	79605	79985	.	-	0	ID=EGNFDAKC_00087_mRNA; Parent=EGNFDAKC_00087
+scaffold_1	KBase	exon	79605	79985	.	-	0	ID=EGNFDAKC_00087_mRNA_exon_1; Parent=EGNFDAKC_00087_mRNA
+scaffold_1	KBase	CDS	79605	79985	.	-	0	ID=EGNFDAKC_00087_CDS; Parent=EGNFDAKC_00087_mRNA; gene_synonym=rpsM; gene_synonym=rpsM; product=30S ribosomal protein S13
+scaffold_1	KBase	gene	80419	80640	.	-	0	ID=EGNFDAKC_00088; gene_synonym=infA; gene_synonym=infA; product=Translation initiation factor IF-1
+scaffold_1	KBase	mRNA	80419	80640	.	-	0	ID=EGNFDAKC_00088_mRNA; Parent=EGNFDAKC_00088
+scaffold_1	KBase	exon	80419	80640	.	-	0	ID=EGNFDAKC_00088_mRNA_exon_1; Parent=EGNFDAKC_00088_mRNA
+scaffold_1	KBase	CDS	80419	80640	.	-	0	ID=EGNFDAKC_00088_CDS; Parent=EGNFDAKC_00088_mRNA; gene_synonym=infA; gene_synonym=infA; product=Translation initiation factor IF-1
+scaffold_1	KBase	gene	80695	81444	.	-	0	ID=EGNFDAKC_00089; gene_synonym=map; gene_synonym=map; product=Methionine aminopeptidase 1; ec=ec:3.4.11.18
+scaffold_1	KBase	mRNA	80695	81444	.	-	0	ID=EGNFDAKC_00089_mRNA; Parent=EGNFDAKC_00089
+scaffold_1	KBase	exon	80695	81444	.	-	0	ID=EGNFDAKC_00089_mRNA_exon_1; Parent=EGNFDAKC_00089_mRNA
+scaffold_1	KBase	CDS	80695	81444	.	-	0	ID=EGNFDAKC_00089_CDS; Parent=EGNFDAKC_00089_mRNA; gene_synonym=map; gene_synonym=map; product=Methionine aminopeptidase 1
+scaffold_1	KBase	gene	81453	82154	.	-	0	ID=EGNFDAKC_00090; product=hypothetical protein
+scaffold_1	KBase	mRNA	81453	82154	.	-	0	ID=EGNFDAKC_00090_mRNA; Parent=EGNFDAKC_00090
+scaffold_1	KBase	exon	81453	82154	.	-	0	ID=EGNFDAKC_00090_mRNA_exon_1; Parent=EGNFDAKC_00090_mRNA
+scaffold_1	KBase	CDS	81453	82154	.	-	0	ID=EGNFDAKC_00090_CDS; Parent=EGNFDAKC_00090_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	82224	83600	.	-	0	ID=EGNFDAKC_00091; gene_synonym=secY; gene_synonym=secY; product=Protein translocase subunit SecY
+scaffold_1	KBase	mRNA	82224	83600	.	-	0	ID=EGNFDAKC_00091_mRNA; Parent=EGNFDAKC_00091
+scaffold_1	KBase	exon	82224	83600	.	-	0	ID=EGNFDAKC_00091_mRNA_exon_1; Parent=EGNFDAKC_00091_mRNA
+scaffold_1	KBase	CDS	82224	83600	.	-	0	ID=EGNFDAKC_00091_CDS; Parent=EGNFDAKC_00091_mRNA; gene_synonym=secY; gene_synonym=secY; product=Protein translocase subunit SecY
+scaffold_1	KBase	gene	83607	84017	.	-	0	ID=EGNFDAKC_00092; gene_synonym=rplO; gene_synonym=rplO; product=50S ribosomal protein L15
+scaffold_1	KBase	mRNA	83607	84017	.	-	0	ID=EGNFDAKC_00092_mRNA; Parent=EGNFDAKC_00092
+scaffold_1	KBase	exon	83607	84017	.	-	0	ID=EGNFDAKC_00092_mRNA_exon_1; Parent=EGNFDAKC_00092_mRNA
+scaffold_1	KBase	CDS	83607	84017	.	-	0	ID=EGNFDAKC_00092_CDS; Parent=EGNFDAKC_00092_mRNA; gene_synonym=rplO; gene_synonym=rplO; product=50S ribosomal protein L15
+scaffold_1	KBase	gene	84020	84511	.	-	0	ID=EGNFDAKC_00093; gene_synonym=rpsE; gene_synonym=rpsE; product=30S ribosomal protein S5
+scaffold_1	KBase	mRNA	84020	84511	.	-	0	ID=EGNFDAKC_00093_mRNA; Parent=EGNFDAKC_00093
+scaffold_1	KBase	exon	84020	84511	.	-	0	ID=EGNFDAKC_00093_mRNA_exon_1; Parent=EGNFDAKC_00093_mRNA
+scaffold_1	KBase	CDS	84020	84511	.	-	0	ID=EGNFDAKC_00093_CDS; Parent=EGNFDAKC_00093_mRNA; gene_synonym=rpsE; gene_synonym=rpsE; product=30S ribosomal protein S5
+scaffold_1	KBase	gene	84511	84891	.	-	0	ID=EGNFDAKC_00094; gene_synonym=rplR; gene_synonym=rplR; product=50S ribosomal protein L18
+scaffold_1	KBase	mRNA	84511	84891	.	-	0	ID=EGNFDAKC_00094_mRNA; Parent=EGNFDAKC_00094
+scaffold_1	KBase	exon	84511	84891	.	-	0	ID=EGNFDAKC_00094_mRNA_exon_1; Parent=EGNFDAKC_00094_mRNA
+scaffold_1	KBase	CDS	84511	84891	.	-	0	ID=EGNFDAKC_00094_CDS; Parent=EGNFDAKC_00094_mRNA; gene_synonym=rplR; gene_synonym=rplR; product=50S ribosomal protein L18
+scaffold_1	KBase	gene	84900	85457	.	-	0	ID=EGNFDAKC_00095; gene_synonym=rplF; gene_synonym=rplF; product=50S ribosomal protein L6
+scaffold_1	KBase	mRNA	84900	85457	.	-	0	ID=EGNFDAKC_00095_mRNA; Parent=EGNFDAKC_00095
+scaffold_1	KBase	exon	84900	85457	.	-	0	ID=EGNFDAKC_00095_mRNA_exon_1; Parent=EGNFDAKC_00095_mRNA
+scaffold_1	KBase	CDS	84900	85457	.	-	0	ID=EGNFDAKC_00095_CDS; Parent=EGNFDAKC_00095_mRNA; gene_synonym=rplF; gene_synonym=rplF; product=50S ribosomal protein L6
+scaffold_1	KBase	gene	85466	85852	.	-	0	ID=EGNFDAKC_00096; gene_synonym=rpsH; gene_synonym=rpsH; product=30S ribosomal protein S8
+scaffold_1	KBase	mRNA	85466	85852	.	-	0	ID=EGNFDAKC_00096_mRNA; Parent=EGNFDAKC_00096
+scaffold_1	KBase	exon	85466	85852	.	-	0	ID=EGNFDAKC_00096_mRNA_exon_1; Parent=EGNFDAKC_00096_mRNA
+scaffold_1	KBase	CDS	85466	85852	.	-	0	ID=EGNFDAKC_00096_CDS; Parent=EGNFDAKC_00096_mRNA; gene_synonym=rpsH; gene_synonym=rpsH; product=30S ribosomal protein S8
+scaffold_1	KBase	gene	86204	86389	.	-	0	ID=EGNFDAKC_00097; gene_synonym=rpsZ; gene_synonym=rpsZ; product=30S ribosomal protein S14 type Z
+scaffold_1	KBase	mRNA	86204	86389	.	-	0	ID=EGNFDAKC_00097_mRNA; Parent=EGNFDAKC_00097
+scaffold_1	KBase	exon	86204	86389	.	-	0	ID=EGNFDAKC_00097_mRNA_exon_1; Parent=EGNFDAKC_00097_mRNA
+scaffold_1	KBase	CDS	86204	86389	.	-	0	ID=EGNFDAKC_00097_CDS; Parent=EGNFDAKC_00097_mRNA; gene_synonym=rpsZ; gene_synonym=rpsZ; product=30S ribosomal protein S14 type Z
+scaffold_1	KBase	gene	86391	86972	.	-	0	ID=EGNFDAKC_00098; gene_synonym=rplE; gene_synonym=rplE; product=50S ribosomal protein L5
+scaffold_1	KBase	mRNA	86391	86972	.	-	0	ID=EGNFDAKC_00098_mRNA; Parent=EGNFDAKC_00098
+scaffold_1	KBase	exon	86391	86972	.	-	0	ID=EGNFDAKC_00098_mRNA_exon_1; Parent=EGNFDAKC_00098_mRNA
+scaffold_1	KBase	CDS	86391	86972	.	-	0	ID=EGNFDAKC_00098_CDS; Parent=EGNFDAKC_00098_mRNA; gene_synonym=rplE; gene_synonym=rplE; product=50S ribosomal protein L5
+scaffold_1	KBase	gene	87225	87596	.	-	0	ID=EGNFDAKC_00099; gene_synonym=rplN; gene_synonym=rplN; product=50S ribosomal protein L14
+scaffold_1	KBase	mRNA	87225	87596	.	-	0	ID=EGNFDAKC_00099_mRNA; Parent=EGNFDAKC_00099
+scaffold_1	KBase	exon	87225	87596	.	-	0	ID=EGNFDAKC_00099_mRNA_exon_1; Parent=EGNFDAKC_00099_mRNA
+scaffold_1	KBase	CDS	87225	87596	.	-	0	ID=EGNFDAKC_00099_CDS; Parent=EGNFDAKC_00099_mRNA; gene_synonym=rplN; gene_synonym=rplN; product=50S ribosomal protein L14
+scaffold_1	KBase	gene	87599	87841	.	-	0	ID=EGNFDAKC_00100; gene_synonym=rpsQ; gene_synonym=rpsQ; product=30S ribosomal protein S17
+scaffold_1	KBase	mRNA	87599	87841	.	-	0	ID=EGNFDAKC_00100_mRNA; Parent=EGNFDAKC_00100
+scaffold_1	KBase	exon	87599	87841	.	-	0	ID=EGNFDAKC_00100_mRNA_exon_1; Parent=EGNFDAKC_00100_mRNA
+scaffold_1	KBase	CDS	87599	87841	.	-	0	ID=EGNFDAKC_00100_CDS; Parent=EGNFDAKC_00100_mRNA; gene_synonym=rpsQ; gene_synonym=rpsQ; product=30S ribosomal protein S17
+scaffold_1	KBase	gene	87866	88036	.	-	0	ID=EGNFDAKC_00101; product=hypothetical protein
+scaffold_1	KBase	mRNA	87866	88036	.	-	0	ID=EGNFDAKC_00101_mRNA; Parent=EGNFDAKC_00101
+scaffold_1	KBase	exon	87866	88036	.	-	0	ID=EGNFDAKC_00101_mRNA_exon_1; Parent=EGNFDAKC_00101_mRNA
+scaffold_1	KBase	CDS	87866	88036	.	-	0	ID=EGNFDAKC_00101_CDS; Parent=EGNFDAKC_00101_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	88067	88498	.	-	0	ID=EGNFDAKC_00102; gene_synonym=rplP; gene_synonym=rplP; product=50S ribosomal protein L16
+scaffold_1	KBase	mRNA	88067	88498	.	-	0	ID=EGNFDAKC_00102_mRNA; Parent=EGNFDAKC_00102
+scaffold_1	KBase	exon	88067	88498	.	-	0	ID=EGNFDAKC_00102_mRNA_exon_1; Parent=EGNFDAKC_00102_mRNA
+scaffold_1	KBase	CDS	88067	88498	.	-	0	ID=EGNFDAKC_00102_CDS; Parent=EGNFDAKC_00102_mRNA; gene_synonym=rplP; gene_synonym=rplP; product=50S ribosomal protein L16
+scaffold_1	KBase	gene	88470	89174	.	-	0	ID=EGNFDAKC_00103; gene_synonym=rpsC; gene_synonym=rpsC; product=30S ribosomal protein S3
+scaffold_1	KBase	mRNA	88470	89174	.	-	0	ID=EGNFDAKC_00103_mRNA; Parent=EGNFDAKC_00103
+scaffold_1	KBase	exon	88470	89174	.	-	0	ID=EGNFDAKC_00103_mRNA_exon_1; Parent=EGNFDAKC_00103_mRNA
+scaffold_1	KBase	CDS	88470	89174	.	-	0	ID=EGNFDAKC_00103_CDS; Parent=EGNFDAKC_00103_mRNA; gene_synonym=rpsC; gene_synonym=rpsC; product=30S ribosomal protein S3
+scaffold_1	KBase	gene	89532	89879	.	-	0	ID=EGNFDAKC_00104; gene_synonym=rplV; gene_synonym=rplV; product=50S ribosomal protein L22
+scaffold_1	KBase	mRNA	89532	89879	.	-	0	ID=EGNFDAKC_00104_mRNA; Parent=EGNFDAKC_00104
+scaffold_1	KBase	exon	89532	89879	.	-	0	ID=EGNFDAKC_00104_mRNA_exon_1; Parent=EGNFDAKC_00104_mRNA
+scaffold_1	KBase	CDS	89532	89879	.	-	0	ID=EGNFDAKC_00104_CDS; Parent=EGNFDAKC_00104_mRNA; gene_synonym=rplV; gene_synonym=rplV; product=50S ribosomal protein L22
+scaffold_1	KBase	gene	89883	90155	.	-	0	ID=EGNFDAKC_00105; gene_synonym=rpsS; gene_synonym=rpsS; product=30S ribosomal protein S19
+scaffold_1	KBase	mRNA	89883	90155	.	-	0	ID=EGNFDAKC_00105_mRNA; Parent=EGNFDAKC_00105
+scaffold_1	KBase	exon	89883	90155	.	-	0	ID=EGNFDAKC_00105_mRNA_exon_1; Parent=EGNFDAKC_00105_mRNA
+scaffold_1	KBase	CDS	89883	90155	.	-	0	ID=EGNFDAKC_00105_CDS; Parent=EGNFDAKC_00105_mRNA; gene_synonym=rpsS; gene_synonym=rpsS; product=30S ribosomal protein S19
+scaffold_1	KBase	gene	90522	91382	.	-	0	ID=EGNFDAKC_00106; gene_synonym=rplB; gene_synonym=rplB; product=50S ribosomal protein L2
+scaffold_1	KBase	mRNA	90522	91382	.	-	0	ID=EGNFDAKC_00106_mRNA; Parent=EGNFDAKC_00106
+scaffold_1	KBase	exon	90522	91382	.	-	0	ID=EGNFDAKC_00106_mRNA_exon_1; Parent=EGNFDAKC_00106_mRNA
+scaffold_1	KBase	CDS	90522	91382	.	-	0	ID=EGNFDAKC_00106_CDS; Parent=EGNFDAKC_00106_mRNA; gene_synonym=rplB; gene_synonym=rplB; product=50S ribosomal protein L2
+scaffold_1	KBase	gene	91388	91726	.	-	0	ID=EGNFDAKC_00107; product=hypothetical protein
+scaffold_1	KBase	mRNA	91388	91726	.	-	0	ID=EGNFDAKC_00107_mRNA; Parent=EGNFDAKC_00107
+scaffold_1	KBase	exon	91388	91726	.	-	0	ID=EGNFDAKC_00107_mRNA_exon_1; Parent=EGNFDAKC_00107_mRNA
+scaffold_1	KBase	CDS	91388	91726	.	-	0	ID=EGNFDAKC_00107_CDS; Parent=EGNFDAKC_00107_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	91754	92392	.	-	0	ID=EGNFDAKC_00108; gene_synonym=rplD; gene_synonym=rplD; product=50S ribosomal protein L4
+scaffold_1	KBase	mRNA	91754	92392	.	-	0	ID=EGNFDAKC_00108_mRNA; Parent=EGNFDAKC_00108
+scaffold_1	KBase	exon	91754	92392	.	-	0	ID=EGNFDAKC_00108_mRNA_exon_1; Parent=EGNFDAKC_00108_mRNA
+scaffold_1	KBase	CDS	91754	92392	.	-	0	ID=EGNFDAKC_00108_CDS; Parent=EGNFDAKC_00108_mRNA; gene_synonym=rplD; gene_synonym=rplD; product=50S ribosomal protein L4
+scaffold_1	KBase	gene	92447	93064	.	-	0	ID=EGNFDAKC_00109; gene_synonym=rplC; gene_synonym=rplC; product=50S ribosomal protein L3
+scaffold_1	KBase	mRNA	92447	93064	.	-	0	ID=EGNFDAKC_00109_mRNA; Parent=EGNFDAKC_00109
+scaffold_1	KBase	exon	92447	93064	.	-	0	ID=EGNFDAKC_00109_mRNA_exon_1; Parent=EGNFDAKC_00109_mRNA
+scaffold_1	KBase	CDS	92447	93064	.	-	0	ID=EGNFDAKC_00109_CDS; Parent=EGNFDAKC_00109_mRNA; gene_synonym=rplC; gene_synonym=rplC; product=50S ribosomal protein L3
+scaffold_1	KBase	gene	94435	94518	.	-	0	ID=EGNFDAKC_00110; product=tRNA-Leu%28taa%29
+scaffold_1	KBase	gene	94541	94614	.	-	0	ID=EGNFDAKC_00111; product=tRNA-Trp%28tca%29
+scaffold_1	KBase	gene	94720	94795	.	-	0	ID=EGNFDAKC_00112; product=tRNA-Glu%28ttc%29
+scaffold_1	KBase	gene	94814	95131	.	-	0	ID=EGNFDAKC_00113; product=hypothetical protein
+scaffold_1	KBase	mRNA	94814	95131	.	-	0	ID=EGNFDAKC_00113_mRNA; Parent=EGNFDAKC_00113
+scaffold_1	KBase	exon	94814	95131	.	-	0	ID=EGNFDAKC_00113_mRNA_exon_1; Parent=EGNFDAKC_00113_mRNA
+scaffold_1	KBase	CDS	94814	95131	.	-	0	ID=EGNFDAKC_00113_CDS; Parent=EGNFDAKC_00113_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	95162	95530	.	-	0	ID=EGNFDAKC_00114; product=hypothetical protein
+scaffold_1	KBase	mRNA	95162	95530	.	-	0	ID=EGNFDAKC_00114_mRNA; Parent=EGNFDAKC_00114
+scaffold_1	KBase	exon	95162	95530	.	-	0	ID=EGNFDAKC_00114_mRNA_exon_1; Parent=EGNFDAKC_00114_mRNA
+scaffold_1	KBase	CDS	95162	95530	.	-	0	ID=EGNFDAKC_00114_CDS; Parent=EGNFDAKC_00114_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	95615	95688	.	-	0	ID=EGNFDAKC_00115; product=tRNA-Gly%28tcc%29
+scaffold_1	KBase	gene	95741	95817	.	-	0	ID=EGNFDAKC_00116; product=tRNA-Phe%28gaa%29
+scaffold_1	KBase	gene	95833	96789	.	-	0	ID=EGNFDAKC_00117; gene_synonym=prmC; gene_synonym=prmC; product=Release factor glutamine methyltransferase; ec=ec:2.1.1.297
+scaffold_1	KBase	mRNA	95833	96789	.	-	0	ID=EGNFDAKC_00117_mRNA; Parent=EGNFDAKC_00117
+scaffold_1	KBase	exon	95833	96789	.	-	0	ID=EGNFDAKC_00117_mRNA_exon_1; Parent=EGNFDAKC_00117_mRNA
+scaffold_1	KBase	CDS	95833	96789	.	-	0	ID=EGNFDAKC_00117_CDS; Parent=EGNFDAKC_00117_mRNA; gene_synonym=prmC; gene_synonym=prmC; product=Release factor glutamine methyltransferase
+scaffold_1	KBase	gene	96763	97188	.	-	0	ID=EGNFDAKC_00118; gene_synonym=ssrA; gene_synonym=ssrA; product=transfer-messenger RNA%2C SsrA
+scaffold_1	KBase	gene	97190	97273	.	-	0	ID=EGNFDAKC_00119; product=tRNA-Leu%28tag%29
+scaffold_1	KBase	gene	97295	97369	.	-	0	ID=EGNFDAKC_00120; product=tRNA-Lys%28ttt%29
+scaffold_1	KBase	gene	97446	97745	.	-	0	ID=EGNFDAKC_00121; product=hypothetical protein
+scaffold_1	KBase	mRNA	97446	97745	.	-	0	ID=EGNFDAKC_00121_mRNA; Parent=EGNFDAKC_00121
+scaffold_1	KBase	exon	97446	97745	.	-	0	ID=EGNFDAKC_00121_mRNA_exon_1; Parent=EGNFDAKC_00121_mRNA
+scaffold_1	KBase	CDS	97446	97745	.	-	0	ID=EGNFDAKC_00121_CDS; Parent=EGNFDAKC_00121_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	98077	98151	.	-	0	ID=EGNFDAKC_00122; product=tRNA-Gln%28ttg%29
+scaffold_1	KBase	gene	98166	98242	.	-	0	ID=EGNFDAKC_00123; product=tRNA-Tyr%28gta%29
+scaffold_1	KBase	gene	98256	98332	.	-	0	ID=EGNFDAKC_00124; product=tRNA-Thr%28tgt%29
+scaffold_1	KBase	gene	98350	98425	.	-	0	ID=EGNFDAKC_00125; product=tRNA-Val%28tac%29
+scaffold_1	KBase	gene	98505	99698	.	-	0	ID=EGNFDAKC_00126; gene_synonym=tuf; gene_synonym=tuf; product=Elongation factor Tu
+scaffold_1	KBase	mRNA	98505	99698	.	-	0	ID=EGNFDAKC_00126_mRNA; Parent=EGNFDAKC_00126
+scaffold_1	KBase	exon	98505	99698	.	-	0	ID=EGNFDAKC_00126_mRNA_exon_1; Parent=EGNFDAKC_00126_mRNA
+scaffold_1	KBase	CDS	98505	99698	.	-	0	ID=EGNFDAKC_00126_CDS; Parent=EGNFDAKC_00126_mRNA; gene_synonym=tuf; gene_synonym=tuf; product=Elongation factor Tu
+scaffold_1	KBase	gene	100031	100375	.	+	0	ID=EGNFDAKC_00127; product=hypothetical protein
+scaffold_1	KBase	mRNA	100031	100375	.	+	0	ID=EGNFDAKC_00127_mRNA; Parent=EGNFDAKC_00127
+scaffold_1	KBase	exon	100031	100375	.	+	0	ID=EGNFDAKC_00127_mRNA_exon_1; Parent=EGNFDAKC_00127_mRNA
+scaffold_1	KBase	CDS	100031	100375	.	+	0	ID=EGNFDAKC_00127_CDS; Parent=EGNFDAKC_00127_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	100377	101762	.	+	0	ID=EGNFDAKC_00128; gene_synonym=glyQS; gene_synonym=glyQS; product=Glycine--tRNA ligase; ec=ec:6.1.1.14
+scaffold_1	KBase	mRNA	100377	101762	.	+	0	ID=EGNFDAKC_00128_mRNA; Parent=EGNFDAKC_00128
+scaffold_1	KBase	exon	100377	101762	.	+	0	ID=EGNFDAKC_00128_mRNA_exon_1; Parent=EGNFDAKC_00128_mRNA
+scaffold_1	KBase	CDS	100377	101762	.	+	0	ID=EGNFDAKC_00128_CDS; Parent=EGNFDAKC_00128_mRNA; gene_synonym=glyQS; gene_synonym=glyQS; product=Glycine--tRNA ligase
+scaffold_1	KBase	gene	101777	102214	.	-	0	ID=EGNFDAKC_00129; product=hypothetical protein
+scaffold_1	KBase	mRNA	101777	102214	.	-	0	ID=EGNFDAKC_00129_mRNA; Parent=EGNFDAKC_00129
+scaffold_1	KBase	exon	101777	102214	.	-	0	ID=EGNFDAKC_00129_mRNA_exon_1; Parent=EGNFDAKC_00129_mRNA
+scaffold_1	KBase	CDS	101777	102214	.	-	0	ID=EGNFDAKC_00129_CDS; Parent=EGNFDAKC_00129_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	102557	102633	.	+	0	ID=EGNFDAKC_00130; product=tRNA-Pro%28tgg%29
+scaffold_1	KBase	gene	102919	103080	.	+	0	ID=EGNFDAKC_00131; product=hypothetical protein
+scaffold_1	KBase	mRNA	102919	103080	.	+	0	ID=EGNFDAKC_00131_mRNA; Parent=EGNFDAKC_00131
+scaffold_1	KBase	exon	102919	103080	.	+	0	ID=EGNFDAKC_00131_mRNA_exon_1; Parent=EGNFDAKC_00131_mRNA
+scaffold_1	KBase	CDS	102919	103080	.	+	0	ID=EGNFDAKC_00131_CDS; Parent=EGNFDAKC_00131_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	103450	103614	.	+	0	ID=EGNFDAKC_00132; product=hypothetical protein
+scaffold_1	KBase	mRNA	103450	103614	.	+	0	ID=EGNFDAKC_00132_mRNA; Parent=EGNFDAKC_00132
+scaffold_1	KBase	exon	103450	103614	.	+	0	ID=EGNFDAKC_00132_mRNA_exon_1; Parent=EGNFDAKC_00132_mRNA
+scaffold_1	KBase	CDS	103450	103614	.	+	0	ID=EGNFDAKC_00132_CDS; Parent=EGNFDAKC_00132_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	103661	104317	.	+	0	ID=EGNFDAKC_00133; gene_synonym=mboIR; gene_synonym=mboIR; product=Type-2 restriction enzyme MboI; ec=ec:3.1.21.4
+scaffold_1	KBase	mRNA	103661	104317	.	+	0	ID=EGNFDAKC_00133_mRNA; Parent=EGNFDAKC_00133
+scaffold_1	KBase	exon	103661	104317	.	+	0	ID=EGNFDAKC_00133_mRNA_exon_1; Parent=EGNFDAKC_00133_mRNA
+scaffold_1	KBase	CDS	103661	104317	.	+	0	ID=EGNFDAKC_00133_CDS; Parent=EGNFDAKC_00133_mRNA; gene_synonym=mboIR; gene_synonym=mboIR; product=Type-2 restriction enzyme MboI
+scaffold_1	KBase	gene	104553	105968	.	-	0	ID=EGNFDAKC_00134; gene_synonym=proS; gene_synonym=proS; product=Proline--tRNA ligase; ec=ec:6.1.1.15
+scaffold_1	KBase	mRNA	104553	105968	.	-	0	ID=EGNFDAKC_00134_mRNA; Parent=EGNFDAKC_00134
+scaffold_1	KBase	exon	104553	105968	.	-	0	ID=EGNFDAKC_00134_mRNA_exon_1; Parent=EGNFDAKC_00134_mRNA
+scaffold_1	KBase	CDS	104553	105968	.	-	0	ID=EGNFDAKC_00134_CDS; Parent=EGNFDAKC_00134_mRNA; gene_synonym=proS; gene_synonym=proS; product=Proline--tRNA ligase
+scaffold_1	KBase	gene	106061	106136	.	-	0	ID=EGNFDAKC_00135; product=tRNA-Arg%28tcg%29
+scaffold_1	KBase	gene	106157	106708	.	-	0	ID=EGNFDAKC_00136; product=hypothetical protein
+scaffold_1	KBase	mRNA	106157	106708	.	-	0	ID=EGNFDAKC_00136_mRNA; Parent=EGNFDAKC_00136
+scaffold_1	KBase	exon	106157	106708	.	-	0	ID=EGNFDAKC_00136_mRNA_exon_1; Parent=EGNFDAKC_00136_mRNA
+scaffold_1	KBase	CDS	106157	106708	.	-	0	ID=EGNFDAKC_00136_CDS; Parent=EGNFDAKC_00136_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	106948	107024	.	-	0	ID=EGNFDAKC_00137; product=tRNA-Cys%28gca%29
+scaffold_1	KBase	gene	107081	108586	.	-	0	ID=EGNFDAKC_00138; product=hypothetical protein
+scaffold_1	KBase	mRNA	107081	108586	.	-	0	ID=EGNFDAKC_00138_mRNA; Parent=EGNFDAKC_00138
+scaffold_1	KBase	exon	107081	108586	.	-	0	ID=EGNFDAKC_00138_mRNA_exon_1; Parent=EGNFDAKC_00138_mRNA
+scaffold_1	KBase	CDS	107081	108586	.	-	0	ID=EGNFDAKC_00138_CDS; Parent=EGNFDAKC_00138_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	108660	110735	.	-	0	ID=EGNFDAKC_00139; gene_synonym=fusA; gene_synonym=fusA; product=Elongation factor G
+scaffold_1	KBase	mRNA	108660	110735	.	-	0	ID=EGNFDAKC_00139_mRNA; Parent=EGNFDAKC_00139
+scaffold_1	KBase	exon	108660	110735	.	-	0	ID=EGNFDAKC_00139_mRNA_exon_1; Parent=EGNFDAKC_00139_mRNA
+scaffold_1	KBase	CDS	108660	110735	.	-	0	ID=EGNFDAKC_00139_CDS; Parent=EGNFDAKC_00139_mRNA; gene_synonym=fusA; gene_synonym=fusA; product=Elongation factor G
+scaffold_1	KBase	gene	110851	111321	.	-	0	ID=EGNFDAKC_00140; gene_synonym=rpsG; gene_synonym=rpsG; product=30S ribosomal protein S7
+scaffold_1	KBase	mRNA	110851	111321	.	-	0	ID=EGNFDAKC_00140_mRNA; Parent=EGNFDAKC_00140
+scaffold_1	KBase	exon	110851	111321	.	-	0	ID=EGNFDAKC_00140_mRNA_exon_1; Parent=EGNFDAKC_00140_mRNA
+scaffold_1	KBase	CDS	110851	111321	.	-	0	ID=EGNFDAKC_00140_CDS; Parent=EGNFDAKC_00140_mRNA; gene_synonym=rpsG; gene_synonym=rpsG; product=30S ribosomal protein S7
+scaffold_1	KBase	gene	111321	111734	.	-	0	ID=EGNFDAKC_00141; gene_synonym=rpsL; gene_synonym=rpsL; product=30S ribosomal protein S12
+scaffold_1	KBase	mRNA	111321	111734	.	-	0	ID=EGNFDAKC_00141_mRNA; Parent=EGNFDAKC_00141
+scaffold_1	KBase	exon	111321	111734	.	-	0	ID=EGNFDAKC_00141_mRNA_exon_1; Parent=EGNFDAKC_00141_mRNA
+scaffold_1	KBase	CDS	111321	111734	.	-	0	ID=EGNFDAKC_00141_CDS; Parent=EGNFDAKC_00141_mRNA; gene_synonym=rpsL; gene_synonym=rpsL; product=30S ribosomal protein S12
+scaffold_1	KBase	gene	111859	113307	.	-	0	ID=EGNFDAKC_00142; gene_synonym=lysS; gene_synonym=lysS; product=Lysine--tRNA ligase; ec=ec:6.1.1.6
+scaffold_1	KBase	mRNA	111859	113307	.	-	0	ID=EGNFDAKC_00142_mRNA; Parent=EGNFDAKC_00142
+scaffold_1	KBase	exon	111859	113307	.	-	0	ID=EGNFDAKC_00142_mRNA_exon_1; Parent=EGNFDAKC_00142_mRNA
+scaffold_1	KBase	CDS	111859	113307	.	-	0	ID=EGNFDAKC_00142_CDS; Parent=EGNFDAKC_00142_mRNA; gene_synonym=lysS; gene_synonym=lysS; product=Lysine--tRNA ligase
+scaffold_1	KBase	gene	113453	116014	.	-	0	ID=EGNFDAKC_00143; gene_synonym=valS; gene_synonym=valS; product=Valine--tRNA ligase; ec=ec:6.1.1.9
+scaffold_1	KBase	mRNA	113453	116014	.	-	0	ID=EGNFDAKC_00143_mRNA; Parent=EGNFDAKC_00143
+scaffold_1	KBase	exon	113453	116014	.	-	0	ID=EGNFDAKC_00143_mRNA_exon_1; Parent=EGNFDAKC_00143_mRNA
+scaffold_1	KBase	CDS	113453	116014	.	-	0	ID=EGNFDAKC_00143_CDS; Parent=EGNFDAKC_00143_mRNA; gene_synonym=valS; gene_synonym=valS; product=Valine--tRNA ligase
+scaffold_1	KBase	gene	116040	118418	.	-	0	ID=EGNFDAKC_00144; gene_synonym=lon; gene_synonym=lon; product=Lon protease; ec=ec:3.4.21.53
+scaffold_1	KBase	mRNA	116040	118418	.	-	0	ID=EGNFDAKC_00144_mRNA; Parent=EGNFDAKC_00144
+scaffold_1	KBase	exon	116040	118418	.	-	0	ID=EGNFDAKC_00144_mRNA_exon_1; Parent=EGNFDAKC_00144_mRNA
+scaffold_1	KBase	CDS	116040	118418	.	-	0	ID=EGNFDAKC_00144_CDS; Parent=EGNFDAKC_00144_mRNA; gene_synonym=lon; gene_synonym=lon; product=Lon protease
+scaffold_1	KBase	gene	118500	118575	.	-	0	ID=EGNFDAKC_00145; product=tRNA-Arg%28tct%29
+scaffold_1	KBase	gene	118907	121874	.	-	0	ID=EGNFDAKC_00146; product=23S ribosomal RNA
+scaffold_1	KBase	gene	122070	123576	.	-	0	ID=EGNFDAKC_00147; product=16S ribosomal RNA
+scaffold_1	KBase	gene	123761	124033	.	-	0	ID=EGNFDAKC_00148; product=hypothetical protein
+scaffold_1	KBase	mRNA	123761	124033	.	-	0	ID=EGNFDAKC_00148_mRNA; Parent=EGNFDAKC_00148
+scaffold_1	KBase	exon	123761	124033	.	-	0	ID=EGNFDAKC_00148_mRNA_exon_1; Parent=EGNFDAKC_00148_mRNA
+scaffold_1	KBase	CDS	123761	124033	.	-	0	ID=EGNFDAKC_00148_CDS; Parent=EGNFDAKC_00148_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	124998	125960	.	+	0	ID=EGNFDAKC_00149; gene_synonym=tsaD; gene_synonym=tsaD; product=tRNA N6-adenosine threonylcarbamoyltransferase; ec=ec:2.3.1.234
+scaffold_1	KBase	mRNA	124998	125960	.	+	0	ID=EGNFDAKC_00149_mRNA; Parent=EGNFDAKC_00149
+scaffold_1	KBase	exon	124998	125960	.	+	0	ID=EGNFDAKC_00149_mRNA_exon_1; Parent=EGNFDAKC_00149_mRNA
+scaffold_1	KBase	CDS	124998	125960	.	+	0	ID=EGNFDAKC_00149_CDS; Parent=EGNFDAKC_00149_mRNA; gene_synonym=tsaD; gene_synonym=tsaD; product=tRNA N6-adenosine threonylcarbamoyltransferase
+scaffold_1	KBase	gene	125953	127131	.	-	0	ID=EGNFDAKC_00150; gene_synonym=tyrS; gene_synonym=tyrS; product=Tyrosine--tRNA ligase; ec=ec:6.1.1.1
+scaffold_1	KBase	mRNA	125953	127131	.	-	0	ID=EGNFDAKC_00150_mRNA; Parent=EGNFDAKC_00150
+scaffold_1	KBase	exon	125953	127131	.	-	0	ID=EGNFDAKC_00150_mRNA_exon_1; Parent=EGNFDAKC_00150_mRNA
+scaffold_1	KBase	CDS	125953	127131	.	-	0	ID=EGNFDAKC_00150_CDS; Parent=EGNFDAKC_00150_mRNA; gene_synonym=tyrS; gene_synonym=tyrS; product=Tyrosine--tRNA ligase
+scaffold_1	KBase	gene	127251	127706	.	+	0	ID=EGNFDAKC_00151; gene_synonym=dnaJ_1; gene_synonym=dnaJ_1; product=Chaperone protein DnaJ
+scaffold_1	KBase	mRNA	127251	127706	.	+	0	ID=EGNFDAKC_00151_mRNA; Parent=EGNFDAKC_00151
+scaffold_1	KBase	exon	127251	127706	.	+	0	ID=EGNFDAKC_00151_mRNA_exon_1; Parent=EGNFDAKC_00151_mRNA
+scaffold_1	KBase	CDS	127251	127706	.	+	0	ID=EGNFDAKC_00151_CDS; Parent=EGNFDAKC_00151_mRNA; gene_synonym=dnaJ_1; gene_synonym=dnaJ_1; product=Chaperone protein DnaJ
+scaffold_1	KBase	gene	127703	129520	.	-	0	ID=EGNFDAKC_00152; gene_synonym=lepA; gene_synonym=lepA; product=Elongation factor 4
+scaffold_1	KBase	mRNA	127703	129520	.	-	0	ID=EGNFDAKC_00152_mRNA; Parent=EGNFDAKC_00152
+scaffold_1	KBase	exon	127703	129520	.	-	0	ID=EGNFDAKC_00152_mRNA_exon_1; Parent=EGNFDAKC_00152_mRNA
+scaffold_1	KBase	CDS	127703	129520	.	-	0	ID=EGNFDAKC_00152_CDS; Parent=EGNFDAKC_00152_mRNA; gene_synonym=lepA; gene_synonym=lepA; product=Elongation factor 4
+scaffold_1	KBase	gene	129616	129709	.	-	0	ID=EGNFDAKC_00153; product=tRNA-Ser%28gct%29
+scaffold_1	KBase	gene	129847	130242	.	-	0	ID=EGNFDAKC_00154; gene_synonym=rplT; gene_synonym=rplT; product=50S ribosomal protein L20
+scaffold_1	KBase	mRNA	129847	130242	.	-	0	ID=EGNFDAKC_00154_mRNA; Parent=EGNFDAKC_00154
+scaffold_1	KBase	exon	129847	130242	.	-	0	ID=EGNFDAKC_00154_mRNA_exon_1; Parent=EGNFDAKC_00154_mRNA
+scaffold_1	KBase	CDS	129847	130242	.	-	0	ID=EGNFDAKC_00154_CDS; Parent=EGNFDAKC_00154_mRNA; gene_synonym=rplT; gene_synonym=rplT; product=50S ribosomal protein L20
+scaffold_1	KBase	gene	130701	132242	.	-	0	ID=EGNFDAKC_00155; gene_synonym=metG; gene_synonym=metG; product=Methionine--tRNA ligase; ec=ec:6.1.1.10
+scaffold_1	KBase	mRNA	130701	132242	.	-	0	ID=EGNFDAKC_00155_mRNA; Parent=EGNFDAKC_00155
+scaffold_1	KBase	exon	130701	132242	.	-	0	ID=EGNFDAKC_00155_mRNA_exon_1; Parent=EGNFDAKC_00155_mRNA
+scaffold_1	KBase	CDS	130701	132242	.	-	0	ID=EGNFDAKC_00155_CDS; Parent=EGNFDAKC_00155_mRNA; gene_synonym=metG; gene_synonym=metG; product=Methionine--tRNA ligase
+scaffold_1	KBase	gene	132411	136475	.	-	0	ID=EGNFDAKC_00156; product=hypothetical protein
+scaffold_1	KBase	mRNA	132411	136475	.	-	0	ID=EGNFDAKC_00156_mRNA; Parent=EGNFDAKC_00156
+scaffold_1	KBase	exon	132411	136475	.	-	0	ID=EGNFDAKC_00156_mRNA_exon_1; Parent=EGNFDAKC_00156_mRNA
+scaffold_1	KBase	CDS	132411	136475	.	-	0	ID=EGNFDAKC_00156_CDS; Parent=EGNFDAKC_00156_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	136643	136882	.	-	0	ID=EGNFDAKC_00157; gene_synonym=rpsP; gene_synonym=rpsP; product=30S ribosomal protein S16
+scaffold_1	KBase	mRNA	136643	136882	.	-	0	ID=EGNFDAKC_00157_mRNA; Parent=EGNFDAKC_00157
+scaffold_1	KBase	exon	136643	136882	.	-	0	ID=EGNFDAKC_00157_mRNA_exon_1; Parent=EGNFDAKC_00157_mRNA
+scaffold_1	KBase	CDS	136643	136882	.	-	0	ID=EGNFDAKC_00157_CDS; Parent=EGNFDAKC_00157_mRNA; gene_synonym=rpsP; gene_synonym=rpsP; product=30S ribosomal protein S16
+scaffold_1	KBase	gene	137136	138011	.	-	0	ID=EGNFDAKC_00158; gene_synonym=rsmH; gene_synonym=rsmH; product=Ribosomal RNA small subunit methyltransferase H; ec=ec:2.1.1.199
+scaffold_1	KBase	mRNA	137136	138011	.	-	0	ID=EGNFDAKC_00158_mRNA; Parent=EGNFDAKC_00158
+scaffold_1	KBase	exon	137136	138011	.	-	0	ID=EGNFDAKC_00158_mRNA_exon_1; Parent=EGNFDAKC_00158_mRNA
+scaffold_1	KBase	CDS	137136	138011	.	-	0	ID=EGNFDAKC_00158_CDS; Parent=EGNFDAKC_00158_mRNA; gene_synonym=rsmH; gene_synonym=rsmH; product=Ribosomal RNA small subunit methyltransferase H
+scaffold_1	KBase	gene	138104	138295	.	-	0	ID=EGNFDAKC_00159; gene_synonym=rpmF; gene_synonym=rpmF; product=50S ribosomal protein L32
+scaffold_1	KBase	mRNA	138104	138295	.	-	0	ID=EGNFDAKC_00159_mRNA; Parent=EGNFDAKC_00159
+scaffold_1	KBase	exon	138104	138295	.	-	0	ID=EGNFDAKC_00159_mRNA_exon_1; Parent=EGNFDAKC_00159_mRNA
+scaffold_1	KBase	CDS	138104	138295	.	-	0	ID=EGNFDAKC_00159_CDS; Parent=EGNFDAKC_00159_mRNA; gene_synonym=rpmF; gene_synonym=rpmF; product=50S ribosomal protein L32
+scaffold_1	KBase	gene	138321	139085	.	-	0	ID=EGNFDAKC_00160; gene_synonym=rpsB; gene_synonym=rpsB; product=30S ribosomal protein S2
+scaffold_1	KBase	mRNA	138321	139085	.	-	0	ID=EGNFDAKC_00160_mRNA; Parent=EGNFDAKC_00160
+scaffold_1	KBase	exon	138321	139085	.	-	0	ID=EGNFDAKC_00160_mRNA_exon_1; Parent=EGNFDAKC_00160_mRNA
+scaffold_1	KBase	CDS	138321	139085	.	-	0	ID=EGNFDAKC_00160_CDS; Parent=EGNFDAKC_00160_mRNA; gene_synonym=rpsB; gene_synonym=rpsB; product=30S ribosomal protein S2
+scaffold_1	KBase	gene	139269	139805	.	-	0	ID=EGNFDAKC_00161; gene_synonym=ppa; gene_synonym=ppa; product=Inorganic pyrophosphatase; ec=ec:3.6.1.1
+scaffold_1	KBase	mRNA	139269	139805	.	-	0	ID=EGNFDAKC_00161_mRNA; Parent=EGNFDAKC_00161
+scaffold_1	KBase	exon	139269	139805	.	-	0	ID=EGNFDAKC_00161_mRNA_exon_1; Parent=EGNFDAKC_00161_mRNA
+scaffold_1	KBase	CDS	139269	139805	.	-	0	ID=EGNFDAKC_00161_CDS; Parent=EGNFDAKC_00161_mRNA; gene_synonym=ppa; gene_synonym=ppa; product=Inorganic pyrophosphatase
+scaffold_1	KBase	gene	139867	140223	.	-	0	ID=EGNFDAKC_00162; gene_synonym=ogt; gene_synonym=ogt; product=Methylated-DNA--protein-cysteine methyltransferase; ec=ec:2.1.1.63
+scaffold_1	KBase	mRNA	139867	140223	.	-	0	ID=EGNFDAKC_00162_mRNA; Parent=EGNFDAKC_00162
+scaffold_1	KBase	exon	139867	140223	.	-	0	ID=EGNFDAKC_00162_mRNA_exon_1; Parent=EGNFDAKC_00162_mRNA
+scaffold_1	KBase	CDS	139867	140223	.	-	0	ID=EGNFDAKC_00162_CDS; Parent=EGNFDAKC_00162_mRNA; gene_synonym=ogt; gene_synonym=ogt; product=Methylated-DNA--protein-cysteine methyltransferase
+scaffold_1	KBase	gene	140251	141189	.	-	0	ID=EGNFDAKC_00163; gene_synonym=trxB; gene_synonym=trxB; product=Thioredoxin reductase; ec=ec:1.8.1.9
+scaffold_1	KBase	mRNA	140251	141189	.	-	0	ID=EGNFDAKC_00163_mRNA; Parent=EGNFDAKC_00163
+scaffold_1	KBase	exon	140251	141189	.	-	0	ID=EGNFDAKC_00163_mRNA_exon_1; Parent=EGNFDAKC_00163_mRNA
+scaffold_1	KBase	CDS	140251	141189	.	-	0	ID=EGNFDAKC_00163_CDS; Parent=EGNFDAKC_00163_mRNA; gene_synonym=trxB; gene_synonym=trxB; product=Thioredoxin reductase
+scaffold_1	KBase	gene	141210	142898	.	-	0	ID=EGNFDAKC_00164; gene_synonym=rnjA; gene_synonym=rnjA; product=Ribonuclease J1
+scaffold_1	KBase	mRNA	141210	142898	.	-	0	ID=EGNFDAKC_00164_mRNA; Parent=EGNFDAKC_00164
+scaffold_1	KBase	exon	141210	142898	.	-	0	ID=EGNFDAKC_00164_mRNA_exon_1; Parent=EGNFDAKC_00164_mRNA
+scaffold_1	KBase	CDS	141210	142898	.	-	0	ID=EGNFDAKC_00164_CDS; Parent=EGNFDAKC_00164_mRNA; gene_synonym=rnjA; gene_synonym=rnjA; product=Ribonuclease J1
+scaffold_1	KBase	gene	143020	143095	.	-	0	ID=EGNFDAKC_00165; product=tRNA-Arg%28gcg%29
+scaffold_1	KBase	gene	143134	143209	.	-	0	ID=EGNFDAKC_00166; product=tRNA-Ala%28tgc%29
+scaffold_1	KBase	gene	143259	143879	.	-	0	ID=EGNFDAKC_00167; gene_synonym=rpsD; gene_synonym=rpsD; product=30S ribosomal protein S4
+scaffold_1	KBase	mRNA	143259	143879	.	-	0	ID=EGNFDAKC_00167_mRNA; Parent=EGNFDAKC_00167
+scaffold_1	KBase	exon	143259	143879	.	-	0	ID=EGNFDAKC_00167_mRNA_exon_1; Parent=EGNFDAKC_00167_mRNA
+scaffold_1	KBase	CDS	143259	143879	.	-	0	ID=EGNFDAKC_00167_CDS; Parent=EGNFDAKC_00167_mRNA; gene_synonym=rpsD; gene_synonym=rpsD; product=30S ribosomal protein S4
+scaffold_1	KBase	gene	144063	144782	.	-	0	ID=EGNFDAKC_00168; gene_synonym=trmD; gene_synonym=trmD; product=tRNA %28guanine-N%281%29-%29-methyltransferase; ec=ec:2.1.1.228
+scaffold_1	KBase	mRNA	144063	144782	.	-	0	ID=EGNFDAKC_00168_mRNA; Parent=EGNFDAKC_00168
+scaffold_1	KBase	exon	144063	144782	.	-	0	ID=EGNFDAKC_00168_mRNA_exon_1; Parent=EGNFDAKC_00168_mRNA
+scaffold_1	KBase	CDS	144063	144782	.	-	0	ID=EGNFDAKC_00168_CDS; Parent=EGNFDAKC_00168_mRNA; gene_synonym=trmD; gene_synonym=trmD; product=tRNA %28guanine-N%281%29-%29-methyltransferase
+scaffold_1	KBase	gene	144794	145441	.	-	0	ID=EGNFDAKC_00169; product=hypothetical protein
+scaffold_1	KBase	mRNA	144794	145441	.	-	0	ID=EGNFDAKC_00169_mRNA; Parent=EGNFDAKC_00169
+scaffold_1	KBase	exon	144794	145441	.	-	0	ID=EGNFDAKC_00169_mRNA_exon_1; Parent=EGNFDAKC_00169_mRNA
+scaffold_1	KBase	CDS	144794	145441	.	-	0	ID=EGNFDAKC_00169_CDS; Parent=EGNFDAKC_00169_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	145591	145956	.	+	0	ID=EGNFDAKC_00170; gene_synonym=hit; gene_synonym=hit; product=Protein hit
+scaffold_1	KBase	mRNA	145591	145956	.	+	0	ID=EGNFDAKC_00170_mRNA; Parent=EGNFDAKC_00170
+scaffold_1	KBase	exon	145591	145956	.	+	0	ID=EGNFDAKC_00170_mRNA_exon_1; Parent=EGNFDAKC_00170_mRNA
+scaffold_1	KBase	CDS	145591	145956	.	+	0	ID=EGNFDAKC_00170_CDS; Parent=EGNFDAKC_00170_mRNA; gene_synonym=hit; gene_synonym=hit; product=Protein hit
+scaffold_1	KBase	gene	145992	146456	.	+	0	ID=EGNFDAKC_00171; gene_synonym=smpB; gene_synonym=smpB; product=SsrA-binding protein
+scaffold_1	KBase	mRNA	145992	146456	.	+	0	ID=EGNFDAKC_00171_mRNA; Parent=EGNFDAKC_00171
+scaffold_1	KBase	exon	145992	146456	.	+	0	ID=EGNFDAKC_00171_mRNA_exon_1; Parent=EGNFDAKC_00171_mRNA
+scaffold_1	KBase	CDS	145992	146456	.	+	0	ID=EGNFDAKC_00171_CDS; Parent=EGNFDAKC_00171_mRNA; gene_synonym=smpB; gene_synonym=smpB; product=SsrA-binding protein
+scaffold_1	KBase	gene	146468	147934	.	+	0	ID=EGNFDAKC_00172; gene_synonym=GATB; gene_synonym=GATB; product=Glutamyl-tRNA%28Gln%29 amidotransferase subunit B%2C chloroplastic/mitochondrial
+scaffold_1	KBase	mRNA	146468	147934	.	+	0	ID=EGNFDAKC_00172_mRNA; Parent=EGNFDAKC_00172
+scaffold_1	KBase	exon	146468	147934	.	+	0	ID=EGNFDAKC_00172_mRNA_exon_1; Parent=EGNFDAKC_00172_mRNA
+scaffold_1	KBase	CDS	146468	147934	.	+	0	ID=EGNFDAKC_00172_CDS; Parent=EGNFDAKC_00172_mRNA; gene_synonym=GATB; gene_synonym=GATB; product=Glutamyl-tRNA%28Gln%29 amidotransferase subunit B%2C chloroplastic/mitochondrial
+scaffold_1	KBase	gene	147964	148116	.	-	0	ID=EGNFDAKC_00173; product=hypothetical protein
+scaffold_1	KBase	mRNA	147964	148116	.	-	0	ID=EGNFDAKC_00173_mRNA; Parent=EGNFDAKC_00173
+scaffold_1	KBase	exon	147964	148116	.	-	0	ID=EGNFDAKC_00173_mRNA_exon_1; Parent=EGNFDAKC_00173_mRNA
+scaffold_1	KBase	CDS	147964	148116	.	-	0	ID=EGNFDAKC_00173_CDS; Parent=EGNFDAKC_00173_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	148122	148412	.	-	0	ID=EGNFDAKC_00174; product=hypothetical protein
+scaffold_1	KBase	mRNA	148122	148412	.	-	0	ID=EGNFDAKC_00174_mRNA; Parent=EGNFDAKC_00174
+scaffold_1	KBase	exon	148122	148412	.	-	0	ID=EGNFDAKC_00174_mRNA_exon_1; Parent=EGNFDAKC_00174_mRNA
+scaffold_1	KBase	CDS	148122	148412	.	-	0	ID=EGNFDAKC_00174_CDS; Parent=EGNFDAKC_00174_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	148582	148658	.	-	0	ID=EGNFDAKC_00175; product=tRNA-Asn%28gtt%29
+scaffold_1	KBase	gene	148756	149811	.	-	0	ID=EGNFDAKC_00176; gene_synonym=ychF; gene_synonym=ychF; product=Ribosome-binding ATPase YchF
+scaffold_1	KBase	mRNA	148756	149811	.	-	0	ID=EGNFDAKC_00176_mRNA; Parent=EGNFDAKC_00176
+scaffold_1	KBase	exon	148756	149811	.	-	0	ID=EGNFDAKC_00176_mRNA_exon_1; Parent=EGNFDAKC_00176_mRNA
+scaffold_1	KBase	CDS	148756	149811	.	-	0	ID=EGNFDAKC_00176_CDS; Parent=EGNFDAKC_00176_mRNA; gene_synonym=ychF; gene_synonym=ychF; product=Ribosome-binding ATPase YchF
+scaffold_1	KBase	gene	149820	150353	.	-	0	ID=EGNFDAKC_00177; gene_synonym=pth; gene_synonym=pth; product=Peptidyl-tRNA hydrolase; ec=ec:3.1.1.29
+scaffold_1	KBase	mRNA	149820	150353	.	-	0	ID=EGNFDAKC_00177_mRNA; Parent=EGNFDAKC_00177
+scaffold_1	KBase	exon	149820	150353	.	-	0	ID=EGNFDAKC_00177_mRNA_exon_1; Parent=EGNFDAKC_00177_mRNA
+scaffold_1	KBase	CDS	149820	150353	.	-	0	ID=EGNFDAKC_00177_CDS; Parent=EGNFDAKC_00177_mRNA; gene_synonym=pth; gene_synonym=pth; product=Peptidyl-tRNA hydrolase
+scaffold_1	KBase	gene	150356	151393	.	-	0	ID=EGNFDAKC_00178; product=hypothetical protein
+scaffold_1	KBase	mRNA	150356	151393	.	-	0	ID=EGNFDAKC_00178_mRNA; Parent=EGNFDAKC_00178
+scaffold_1	KBase	exon	150356	151393	.	-	0	ID=EGNFDAKC_00178_mRNA_exon_1; Parent=EGNFDAKC_00178_mRNA
+scaffold_1	KBase	CDS	150356	151393	.	-	0	ID=EGNFDAKC_00178_CDS; Parent=EGNFDAKC_00178_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	151359	151796	.	-	0	ID=EGNFDAKC_00179; gene_synonym=rnpA; gene_synonym=rnpA; product=Ribonuclease P protein component; ec=ec:3.1.26.5
+scaffold_1	KBase	mRNA	151359	151796	.	-	0	ID=EGNFDAKC_00179_mRNA; Parent=EGNFDAKC_00179
+scaffold_1	KBase	exon	151359	151796	.	-	0	ID=EGNFDAKC_00179_mRNA_exon_1; Parent=EGNFDAKC_00179_mRNA
+scaffold_1	KBase	CDS	151359	151796	.	-	0	ID=EGNFDAKC_00179_CDS; Parent=EGNFDAKC_00179_mRNA; gene_synonym=rnpA; gene_synonym=rnpA; product=Ribonuclease P protein component
+scaffold_1	KBase	gene	152194	153570	.	-	0	ID=EGNFDAKC_00180; gene_synonym=mnmE; gene_synonym=mnmE; product=tRNA modification GTPase MnmE
+scaffold_1	KBase	mRNA	152194	153570	.	-	0	ID=EGNFDAKC_00180_mRNA; Parent=EGNFDAKC_00180
+scaffold_1	KBase	exon	152194	153570	.	-	0	ID=EGNFDAKC_00180_mRNA_exon_1; Parent=EGNFDAKC_00180_mRNA
+scaffold_1	KBase	CDS	152194	153570	.	-	0	ID=EGNFDAKC_00180_CDS; Parent=EGNFDAKC_00180_mRNA; gene_synonym=mnmE; gene_synonym=mnmE; product=tRNA modification GTPase MnmE
+scaffold_1	KBase	gene	153804	154571	.	+	0	ID=EGNFDAKC_00181; product=hypothetical protein
+scaffold_1	KBase	mRNA	153804	154571	.	+	0	ID=EGNFDAKC_00181_mRNA; Parent=EGNFDAKC_00181
+scaffold_1	KBase	exon	153804	154571	.	+	0	ID=EGNFDAKC_00181_mRNA_exon_1; Parent=EGNFDAKC_00181_mRNA
+scaffold_1	KBase	CDS	153804	154571	.	+	0	ID=EGNFDAKC_00181_CDS; Parent=EGNFDAKC_00181_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	154705	156423	.	+	0	ID=EGNFDAKC_00182; gene_synonym=topA; gene_synonym=topA; product=DNA topoisomerase 1
+scaffold_1	KBase	mRNA	154705	156423	.	+	0	ID=EGNFDAKC_00182_mRNA; Parent=EGNFDAKC_00182
+scaffold_1	KBase	exon	154705	156423	.	+	0	ID=EGNFDAKC_00182_mRNA_exon_1; Parent=EGNFDAKC_00182_mRNA
+scaffold_1	KBase	CDS	154705	156423	.	+	0	ID=EGNFDAKC_00182_CDS; Parent=EGNFDAKC_00182_mRNA; gene_synonym=topA; gene_synonym=topA; product=DNA topoisomerase 1
+scaffold_1	KBase	gene	156756	157082	.	+	0	ID=EGNFDAKC_00183; gene_synonym=rpsJ; gene_synonym=rpsJ; product=30S ribosomal protein S10
+scaffold_1	KBase	mRNA	156756	157082	.	+	0	ID=EGNFDAKC_00183_mRNA; Parent=EGNFDAKC_00183
+scaffold_1	KBase	exon	156756	157082	.	+	0	ID=EGNFDAKC_00183_mRNA_exon_1; Parent=EGNFDAKC_00183_mRNA
+scaffold_1	KBase	CDS	156756	157082	.	+	0	ID=EGNFDAKC_00183_CDS; Parent=EGNFDAKC_00183_mRNA; gene_synonym=rpsJ; gene_synonym=rpsJ; product=30S ribosomal protein S10
+scaffold_1	KBase	gene	157168	157389	.	-	0	ID=EGNFDAKC_00184; product=hypothetical protein
+scaffold_1	KBase	mRNA	157168	157389	.	-	0	ID=EGNFDAKC_00184_mRNA; Parent=EGNFDAKC_00184
+scaffold_1	KBase	exon	157168	157389	.	-	0	ID=EGNFDAKC_00184_mRNA_exon_1; Parent=EGNFDAKC_00184_mRNA
+scaffold_1	KBase	CDS	157168	157389	.	-	0	ID=EGNFDAKC_00184_CDS; Parent=EGNFDAKC_00184_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	157470	159002	.	+	0	ID=EGNFDAKC_00185; gene_synonym=rny; gene_synonym=rny; product=Ribonuclease Y
+scaffold_1	KBase	mRNA	157470	159002	.	+	0	ID=EGNFDAKC_00185_mRNA; Parent=EGNFDAKC_00185
+scaffold_1	KBase	exon	157470	159002	.	+	0	ID=EGNFDAKC_00185_mRNA_exon_1; Parent=EGNFDAKC_00185_mRNA
+scaffold_1	KBase	CDS	157470	159002	.	+	0	ID=EGNFDAKC_00185_CDS; Parent=EGNFDAKC_00185_mRNA; gene_synonym=rny; gene_synonym=rny; product=Ribonuclease Y
+scaffold_1	KBase	gene	159022	160299	.	+	0	ID=EGNFDAKC_00186; gene_synonym=hisS; gene_synonym=hisS; product=Histidine--tRNA ligase; ec=ec:6.1.1.21
+scaffold_1	KBase	mRNA	159022	160299	.	+	0	ID=EGNFDAKC_00186_mRNA; Parent=EGNFDAKC_00186
+scaffold_1	KBase	exon	159022	160299	.	+	0	ID=EGNFDAKC_00186_mRNA_exon_1; Parent=EGNFDAKC_00186_mRNA
+scaffold_1	KBase	CDS	159022	160299	.	+	0	ID=EGNFDAKC_00186_CDS; Parent=EGNFDAKC_00186_mRNA; gene_synonym=hisS; gene_synonym=hisS; product=Histidine--tRNA ligase
+scaffold_1	KBase	gene	160305	161981	.	+	0	ID=EGNFDAKC_00187; product=hypothetical protein
+scaffold_1	KBase	mRNA	160305	161981	.	+	0	ID=EGNFDAKC_00187_mRNA; Parent=EGNFDAKC_00187
+scaffold_1	KBase	exon	160305	161981	.	+	0	ID=EGNFDAKC_00187_mRNA_exon_1; Parent=EGNFDAKC_00187_mRNA
+scaffold_1	KBase	CDS	160305	161981	.	+	0	ID=EGNFDAKC_00187_CDS; Parent=EGNFDAKC_00187_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	162037	162618	.	+	0	ID=EGNFDAKC_00188; product=hypothetical protein
+scaffold_1	KBase	mRNA	162037	162618	.	+	0	ID=EGNFDAKC_00188_mRNA; Parent=EGNFDAKC_00188
+scaffold_1	KBase	exon	162037	162618	.	+	0	ID=EGNFDAKC_00188_mRNA_exon_1; Parent=EGNFDAKC_00188_mRNA
+scaffold_1	KBase	CDS	162037	162618	.	+	0	ID=EGNFDAKC_00188_CDS; Parent=EGNFDAKC_00188_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	162783	164672	.	+	0	ID=EGNFDAKC_00189; gene_synonym=pnp; gene_synonym=pnp; product=Polyribonucleotide nucleotidyltransferase; ec=ec:2.7.7.8
+scaffold_1	KBase	mRNA	162783	164672	.	+	0	ID=EGNFDAKC_00189_mRNA; Parent=EGNFDAKC_00189
+scaffold_1	KBase	exon	162783	164672	.	+	0	ID=EGNFDAKC_00189_mRNA_exon_1; Parent=EGNFDAKC_00189_mRNA
+scaffold_1	KBase	CDS	162783	164672	.	+	0	ID=EGNFDAKC_00189_CDS; Parent=EGNFDAKC_00189_mRNA; gene_synonym=pnp; gene_synonym=pnp; product=Polyribonucleotide nucleotidyltransferase
+scaffold_1	KBase	gene	164808	165143	.	+	0	ID=EGNFDAKC_00190; product=hypothetical protein
+scaffold_1	KBase	mRNA	164808	165143	.	+	0	ID=EGNFDAKC_00190_mRNA; Parent=EGNFDAKC_00190
+scaffold_1	KBase	exon	164808	165143	.	+	0	ID=EGNFDAKC_00190_mRNA_exon_1; Parent=EGNFDAKC_00190_mRNA
+scaffold_1	KBase	CDS	164808	165143	.	+	0	ID=EGNFDAKC_00190_CDS; Parent=EGNFDAKC_00190_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	165192	166799	.	+	0	ID=EGNFDAKC_00191; product=hypothetical protein
+scaffold_1	KBase	mRNA	165192	166799	.	+	0	ID=EGNFDAKC_00191_mRNA; Parent=EGNFDAKC_00191
+scaffold_1	KBase	exon	165192	166799	.	+	0	ID=EGNFDAKC_00191_mRNA_exon_1; Parent=EGNFDAKC_00191_mRNA
+scaffold_1	KBase	CDS	165192	166799	.	+	0	ID=EGNFDAKC_00191_CDS; Parent=EGNFDAKC_00191_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	166919	166994	.	+	0	ID=EGNFDAKC_00192; product=tRNA-Met%28cat%29
+scaffold_1	KBase	gene	167347	167667	.	+	0	ID=EGNFDAKC_00193; gene_synonym=rplU; gene_synonym=rplU; product=50S ribosomal protein L21
+scaffold_1	KBase	mRNA	167347	167667	.	+	0	ID=EGNFDAKC_00193_mRNA; Parent=EGNFDAKC_00193
+scaffold_1	KBase	exon	167347	167667	.	+	0	ID=EGNFDAKC_00193_mRNA_exon_1; Parent=EGNFDAKC_00193_mRNA
+scaffold_1	KBase	CDS	167347	167667	.	+	0	ID=EGNFDAKC_00193_CDS; Parent=EGNFDAKC_00193_mRNA; gene_synonym=rplU; gene_synonym=rplU; product=50S ribosomal protein L21
+scaffold_1	KBase	gene	167699	168013	.	+	0	ID=EGNFDAKC_00194; product=hypothetical protein
+scaffold_1	KBase	mRNA	167699	168013	.	+	0	ID=EGNFDAKC_00194_mRNA; Parent=EGNFDAKC_00194
+scaffold_1	KBase	exon	167699	168013	.	+	0	ID=EGNFDAKC_00194_mRNA_exon_1; Parent=EGNFDAKC_00194_mRNA
+scaffold_1	KBase	CDS	167699	168013	.	+	0	ID=EGNFDAKC_00194_CDS; Parent=EGNFDAKC_00194_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	168028	169269	.	-	0	ID=EGNFDAKC_00195; product=hypothetical protein
+scaffold_1	KBase	mRNA	168028	169269	.	-	0	ID=EGNFDAKC_00195_mRNA; Parent=EGNFDAKC_00195
+scaffold_1	KBase	exon	168028	169269	.	-	0	ID=EGNFDAKC_00195_mRNA_exon_1; Parent=EGNFDAKC_00195_mRNA
+scaffold_1	KBase	CDS	168028	169269	.	-	0	ID=EGNFDAKC_00195_CDS; Parent=EGNFDAKC_00195_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	169629	171230	.	-	0	ID=EGNFDAKC_00196; gene_synonym=uvrC; gene_synonym=uvrC; product=UvrABC system protein C
+scaffold_1	KBase	mRNA	169629	171230	.	-	0	ID=EGNFDAKC_00196_mRNA; Parent=EGNFDAKC_00196
+scaffold_1	KBase	exon	169629	171230	.	-	0	ID=EGNFDAKC_00196_mRNA_exon_1; Parent=EGNFDAKC_00196_mRNA
+scaffold_1	KBase	CDS	169629	171230	.	-	0	ID=EGNFDAKC_00196_CDS; Parent=EGNFDAKC_00196_mRNA; gene_synonym=uvrC; gene_synonym=uvrC; product=UvrABC system protein C
+scaffold_1	KBase	gene	171391	171699	.	+	0	ID=EGNFDAKC_00197; gene_synonym=hupB_2; gene_synonym=hupB_2; product=DNA-binding protein HU-beta
+scaffold_1	KBase	mRNA	171391	171699	.	+	0	ID=EGNFDAKC_00197_mRNA; Parent=EGNFDAKC_00197
+scaffold_1	KBase	exon	171391	171699	.	+	0	ID=EGNFDAKC_00197_mRNA_exon_1; Parent=EGNFDAKC_00197_mRNA
+scaffold_1	KBase	CDS	171391	171699	.	+	0	ID=EGNFDAKC_00197_CDS; Parent=EGNFDAKC_00197_mRNA; gene_synonym=hupB_2; gene_synonym=hupB_2; product=DNA-binding protein HU-beta
+scaffold_1	KBase	gene	171879	172196	.	+	0	ID=EGNFDAKC_00198; product=hypothetical protein
+scaffold_1	KBase	mRNA	171879	172196	.	+	0	ID=EGNFDAKC_00198_mRNA; Parent=EGNFDAKC_00198
+scaffold_1	KBase	exon	171879	172196	.	+	0	ID=EGNFDAKC_00198_mRNA_exon_1; Parent=EGNFDAKC_00198_mRNA
+scaffold_1	KBase	CDS	171879	172196	.	+	0	ID=EGNFDAKC_00198_CDS; Parent=EGNFDAKC_00198_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	172223	173023	.	+	0	ID=EGNFDAKC_00199; gene_synonym=ycfH; gene_synonym=ycfH; product=putative metal-dependent hydrolase YcfH
+scaffold_1	KBase	mRNA	172223	173023	.	+	0	ID=EGNFDAKC_00199_mRNA; Parent=EGNFDAKC_00199
+scaffold_1	KBase	exon	172223	173023	.	+	0	ID=EGNFDAKC_00199_mRNA_exon_1; Parent=EGNFDAKC_00199_mRNA
+scaffold_1	KBase	CDS	172223	173023	.	+	0	ID=EGNFDAKC_00199_CDS; Parent=EGNFDAKC_00199_mRNA; gene_synonym=ycfH; gene_synonym=ycfH; product=putative metal-dependent hydrolase YcfH
+scaffold_1	KBase	gene	173114	174349	.	+	0	ID=EGNFDAKC_00200; gene_synonym=ftsH_1; gene_synonym=ftsH_1; product=ATP-dependent zinc metalloprotease FtsH
+scaffold_1	KBase	mRNA	173114	174349	.	+	0	ID=EGNFDAKC_00200_mRNA; Parent=EGNFDAKC_00200
+scaffold_1	KBase	exon	173114	174349	.	+	0	ID=EGNFDAKC_00200_mRNA_exon_1; Parent=EGNFDAKC_00200_mRNA
+scaffold_1	KBase	CDS	173114	174349	.	+	0	ID=EGNFDAKC_00200_CDS; Parent=EGNFDAKC_00200_mRNA; gene_synonym=ftsH_1; gene_synonym=ftsH_1; product=ATP-dependent zinc metalloprotease FtsH
+scaffold_1	KBase	gene	174359	175726	.	+	0	ID=EGNFDAKC_00201; gene_synonym=alaS; gene_synonym=alaS; product=Alanine--tRNA ligase; ec=ec:6.1.1.7
+scaffold_1	KBase	mRNA	174359	175726	.	+	0	ID=EGNFDAKC_00201_mRNA; Parent=EGNFDAKC_00201
+scaffold_1	KBase	exon	174359	175726	.	+	0	ID=EGNFDAKC_00201_mRNA_exon_1; Parent=EGNFDAKC_00201_mRNA
+scaffold_1	KBase	CDS	174359	175726	.	+	0	ID=EGNFDAKC_00201_CDS; Parent=EGNFDAKC_00201_mRNA; gene_synonym=alaS; gene_synonym=alaS; product=Alanine--tRNA ligase
+scaffold_1	KBase	gene	175737	176135	.	+	0	ID=EGNFDAKC_00202; gene_synonym=yqgF; gene_synonym=yqgF; product=Putative pre-16S rRNA nuclease
+scaffold_1	KBase	mRNA	175737	176135	.	+	0	ID=EGNFDAKC_00202_mRNA; Parent=EGNFDAKC_00202
+scaffold_1	KBase	exon	175737	176135	.	+	0	ID=EGNFDAKC_00202_mRNA_exon_1; Parent=EGNFDAKC_00202_mRNA
+scaffold_1	KBase	CDS	175737	176135	.	+	0	ID=EGNFDAKC_00202_CDS; Parent=EGNFDAKC_00202_mRNA; gene_synonym=yqgF; gene_synonym=yqgF; product=Putative pre-16S rRNA nuclease
+scaffold_1	KBase	gene	176142	176627	.	+	0	ID=EGNFDAKC_00203; gene_synonym=greA_2; gene_synonym=greA_2; product=Transcription elongation factor GreA
+scaffold_1	KBase	mRNA	176142	176627	.	+	0	ID=EGNFDAKC_00203_mRNA; Parent=EGNFDAKC_00203
+scaffold_1	KBase	exon	176142	176627	.	+	0	ID=EGNFDAKC_00203_mRNA_exon_1; Parent=EGNFDAKC_00203_mRNA
+scaffold_1	KBase	CDS	176142	176627	.	+	0	ID=EGNFDAKC_00203_CDS; Parent=EGNFDAKC_00203_mRNA; gene_synonym=greA_2; gene_synonym=greA_2; product=Transcription elongation factor GreA
+scaffold_1	KBase	gene	176627	178210	.	+	0	ID=EGNFDAKC_00204; gene_synonym=rnj; gene_synonym=rnj; product=Ribonuclease J
+scaffold_1	KBase	mRNA	176627	178210	.	+	0	ID=EGNFDAKC_00204_mRNA; Parent=EGNFDAKC_00204
+scaffold_1	KBase	exon	176627	178210	.	+	0	ID=EGNFDAKC_00204_mRNA_exon_1; Parent=EGNFDAKC_00204_mRNA
+scaffold_1	KBase	CDS	176627	178210	.	+	0	ID=EGNFDAKC_00204_CDS; Parent=EGNFDAKC_00204_mRNA; gene_synonym=rnj; gene_synonym=rnj; product=Ribonuclease J
+scaffold_1	KBase	gene	178213	179895	.	+	0	ID=EGNFDAKC_00205; gene_synonym=argS; gene_synonym=argS; product=Arginine--tRNA ligase; ec=ec:6.1.1.19
+scaffold_1	KBase	mRNA	178213	179895	.	+	0	ID=EGNFDAKC_00205_mRNA; Parent=EGNFDAKC_00205
+scaffold_1	KBase	exon	178213	179895	.	+	0	ID=EGNFDAKC_00205_mRNA_exon_1; Parent=EGNFDAKC_00205_mRNA
+scaffold_1	KBase	CDS	178213	179895	.	+	0	ID=EGNFDAKC_00205_CDS; Parent=EGNFDAKC_00205_mRNA; gene_synonym=argS; gene_synonym=argS; product=Arginine--tRNA ligase
+scaffold_1	KBase	gene	179953	181302	.	-	0	ID=EGNFDAKC_00206; gene_synonym=cysS; gene_synonym=cysS; product=Cysteine--tRNA ligase; ec=ec:6.1.1.16
+scaffold_1	KBase	mRNA	179953	181302	.	-	0	ID=EGNFDAKC_00206_mRNA; Parent=EGNFDAKC_00206
+scaffold_1	KBase	exon	179953	181302	.	-	0	ID=EGNFDAKC_00206_mRNA_exon_1; Parent=EGNFDAKC_00206_mRNA
+scaffold_1	KBase	CDS	179953	181302	.	-	0	ID=EGNFDAKC_00206_CDS; Parent=EGNFDAKC_00206_mRNA; gene_synonym=cysS; gene_synonym=cysS; product=Cysteine--tRNA ligase
+scaffold_1	KBase	gene	181631	183721	.	+	0	ID=EGNFDAKC_00207; product=hypothetical protein
+scaffold_1	KBase	mRNA	181631	183721	.	+	0	ID=EGNFDAKC_00207_mRNA; Parent=EGNFDAKC_00207
+scaffold_1	KBase	exon	181631	183721	.	+	0	ID=EGNFDAKC_00207_mRNA_exon_1; Parent=EGNFDAKC_00207_mRNA
+scaffold_1	KBase	CDS	181631	183721	.	+	0	ID=EGNFDAKC_00207_CDS; Parent=EGNFDAKC_00207_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	183735	184580	.	+	0	ID=EGNFDAKC_00208; gene_synonym=nfo; gene_synonym=nfo; product=putative endonuclease 4; ec=ec:3.1.21.2
+scaffold_1	KBase	mRNA	183735	184580	.	+	0	ID=EGNFDAKC_00208_mRNA; Parent=EGNFDAKC_00208
+scaffold_1	KBase	exon	183735	184580	.	+	0	ID=EGNFDAKC_00208_mRNA_exon_1; Parent=EGNFDAKC_00208_mRNA
+scaffold_1	KBase	CDS	183735	184580	.	+	0	ID=EGNFDAKC_00208_CDS; Parent=EGNFDAKC_00208_mRNA; gene_synonym=nfo; gene_synonym=nfo; product=putative endonuclease 4
+scaffold_1	KBase	gene	185020	185160	.	+	0	ID=EGNFDAKC_00209; product=hypothetical protein
+scaffold_1	KBase	mRNA	185020	185160	.	+	0	ID=EGNFDAKC_00209_mRNA; Parent=EGNFDAKC_00209
+scaffold_1	KBase	exon	185020	185160	.	+	0	ID=EGNFDAKC_00209_mRNA_exon_1; Parent=EGNFDAKC_00209_mRNA
+scaffold_1	KBase	CDS	185020	185160	.	+	0	ID=EGNFDAKC_00209_CDS; Parent=EGNFDAKC_00209_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	185165	186829	.	-	0	ID=EGNFDAKC_00210; gene_synonym=aspS; gene_synonym=aspS; product=Aspartate--tRNA ligase; ec=ec:6.1.1.12
+scaffold_1	KBase	mRNA	185165	186829	.	-	0	ID=EGNFDAKC_00210_mRNA; Parent=EGNFDAKC_00210
+scaffold_1	KBase	exon	185165	186829	.	-	0	ID=EGNFDAKC_00210_mRNA_exon_1; Parent=EGNFDAKC_00210_mRNA
+scaffold_1	KBase	CDS	185165	186829	.	-	0	ID=EGNFDAKC_00210_CDS; Parent=EGNFDAKC_00210_mRNA; gene_synonym=aspS; gene_synonym=aspS; product=Aspartate--tRNA ligase
+scaffold_1	KBase	gene	187042	187734	.	+	0	ID=EGNFDAKC_00211; gene_synonym=lnrL; gene_synonym=lnrL; product=Linearmycin resistance ATP-binding protein LnrL
+scaffold_1	KBase	mRNA	187042	187734	.	+	0	ID=EGNFDAKC_00211_mRNA; Parent=EGNFDAKC_00211
+scaffold_1	KBase	exon	187042	187734	.	+	0	ID=EGNFDAKC_00211_mRNA_exon_1; Parent=EGNFDAKC_00211_mRNA
+scaffold_1	KBase	CDS	187042	187734	.	+	0	ID=EGNFDAKC_00211_CDS; Parent=EGNFDAKC_00211_mRNA; gene_synonym=lnrL; gene_synonym=lnrL; product=Linearmycin resistance ATP-binding protein LnrL
+scaffold_1	KBase	gene	187754	188887	.	+	0	ID=EGNFDAKC_00212; product=hypothetical protein
+scaffold_1	KBase	mRNA	187754	188887	.	+	0	ID=EGNFDAKC_00212_mRNA; Parent=EGNFDAKC_00212
+scaffold_1	KBase	exon	187754	188887	.	+	0	ID=EGNFDAKC_00212_mRNA_exon_1; Parent=EGNFDAKC_00212_mRNA
+scaffold_1	KBase	CDS	187754	188887	.	+	0	ID=EGNFDAKC_00212_CDS; Parent=EGNFDAKC_00212_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	188978	189817	.	+	0	ID=EGNFDAKC_00213; gene_synonym=mutM; gene_synonym=mutM; product=Formamidopyrimidine-DNA glycosylase; ec=ec:3.2.2.23
+scaffold_1	KBase	mRNA	188978	189817	.	+	0	ID=EGNFDAKC_00213_mRNA; Parent=EGNFDAKC_00213
+scaffold_1	KBase	exon	188978	189817	.	+	0	ID=EGNFDAKC_00213_mRNA_exon_1; Parent=EGNFDAKC_00213_mRNA
+scaffold_1	KBase	CDS	188978	189817	.	+	0	ID=EGNFDAKC_00213_CDS; Parent=EGNFDAKC_00213_mRNA; gene_synonym=mutM; gene_synonym=mutM; product=Formamidopyrimidine-DNA glycosylase
+scaffold_1	KBase	gene	189810	190301	.	-	0	ID=EGNFDAKC_00214; product=hypothetical protein
+scaffold_1	KBase	mRNA	189810	190301	.	-	0	ID=EGNFDAKC_00214_mRNA; Parent=EGNFDAKC_00214
+scaffold_1	KBase	exon	189810	190301	.	-	0	ID=EGNFDAKC_00214_mRNA_exon_1; Parent=EGNFDAKC_00214_mRNA
+scaffold_1	KBase	CDS	189810	190301	.	-	0	ID=EGNFDAKC_00214_CDS; Parent=EGNFDAKC_00214_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	190329	191042	.	-	0	ID=EGNFDAKC_00215; product=hypothetical protein
+scaffold_1	KBase	mRNA	190329	191042	.	-	0	ID=EGNFDAKC_00215_mRNA; Parent=EGNFDAKC_00215
+scaffold_1	KBase	exon	190329	191042	.	-	0	ID=EGNFDAKC_00215_mRNA_exon_1; Parent=EGNFDAKC_00215_mRNA
+scaffold_1	KBase	CDS	190329	191042	.	-	0	ID=EGNFDAKC_00215_CDS; Parent=EGNFDAKC_00215_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	191076	191528	.	-	0	ID=EGNFDAKC_00216; gene_synonym=rplI; gene_synonym=rplI; product=50S ribosomal protein L9
+scaffold_1	KBase	mRNA	191076	191528	.	-	0	ID=EGNFDAKC_00216_mRNA; Parent=EGNFDAKC_00216
+scaffold_1	KBase	exon	191076	191528	.	-	0	ID=EGNFDAKC_00216_mRNA_exon_1; Parent=EGNFDAKC_00216_mRNA
+scaffold_1	KBase	CDS	191076	191528	.	-	0	ID=EGNFDAKC_00216_CDS; Parent=EGNFDAKC_00216_mRNA; gene_synonym=rplI; gene_synonym=rplI; product=50S ribosomal protein L9
+scaffold_1	KBase	gene	191585	191926	.	-	0	ID=EGNFDAKC_00217; product=hypothetical protein
+scaffold_1	KBase	mRNA	191585	191926	.	-	0	ID=EGNFDAKC_00217_mRNA; Parent=EGNFDAKC_00217
+scaffold_1	KBase	exon	191585	191926	.	-	0	ID=EGNFDAKC_00217_mRNA_exon_1; Parent=EGNFDAKC_00217_mRNA
+scaffold_1	KBase	CDS	191585	191926	.	-	0	ID=EGNFDAKC_00217_CDS; Parent=EGNFDAKC_00217_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	191964	192416	.	-	0	ID=EGNFDAKC_00218; product=hypothetical protein
+scaffold_1	KBase	mRNA	191964	192416	.	-	0	ID=EGNFDAKC_00218_mRNA; Parent=EGNFDAKC_00218
+scaffold_1	KBase	exon	191964	192416	.	-	0	ID=EGNFDAKC_00218_mRNA_exon_1; Parent=EGNFDAKC_00218_mRNA
+scaffold_1	KBase	CDS	191964	192416	.	-	0	ID=EGNFDAKC_00218_CDS; Parent=EGNFDAKC_00218_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	192651	192745	.	-	0	ID=EGNFDAKC_00219; product=tRNA-Ser%28gga%29
+scaffold_1	KBase	gene	192902	193162	.	+	0	ID=EGNFDAKC_00220; product=hypothetical protein
+scaffold_1	KBase	mRNA	192902	193162	.	+	0	ID=EGNFDAKC_00220_mRNA; Parent=EGNFDAKC_00220
+scaffold_1	KBase	exon	192902	193162	.	+	0	ID=EGNFDAKC_00220_mRNA_exon_1; Parent=EGNFDAKC_00220_mRNA
+scaffold_1	KBase	CDS	192902	193162	.	+	0	ID=EGNFDAKC_00220_CDS; Parent=EGNFDAKC_00220_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	193481	193554	.	+	0	ID=EGNFDAKC_00221; product=tRNA-Gly%28gcc%29
+scaffold_1	KBase	gene	193578	193653	.	+	0	ID=EGNFDAKC_00222; product=tRNA-His%28gtg%29
+scaffold_1	KBase	gene	193722	194534	.	+	0	ID=EGNFDAKC_00223; gene_synonym=rsmI; gene_synonym=rsmI; product=Ribosomal RNA small subunit methyltransferase I; ec=ec:2.1.1.198
+scaffold_1	KBase	mRNA	193722	194534	.	+	0	ID=EGNFDAKC_00223_mRNA; Parent=EGNFDAKC_00223
+scaffold_1	KBase	exon	193722	194534	.	+	0	ID=EGNFDAKC_00223_mRNA_exon_1; Parent=EGNFDAKC_00223_mRNA
+scaffold_1	KBase	CDS	193722	194534	.	+	0	ID=EGNFDAKC_00223_CDS; Parent=EGNFDAKC_00223_mRNA; gene_synonym=rsmI; gene_synonym=rsmI; product=Ribosomal RNA small subunit methyltransferase I
+scaffold_1	KBase	gene	194536	194811	.	+	0	ID=EGNFDAKC_00224; product=hypothetical protein
+scaffold_1	KBase	mRNA	194536	194811	.	+	0	ID=EGNFDAKC_00224_mRNA; Parent=EGNFDAKC_00224
+scaffold_1	KBase	exon	194536	194811	.	+	0	ID=EGNFDAKC_00224_mRNA_exon_1; Parent=EGNFDAKC_00224_mRNA
+scaffold_1	KBase	CDS	194536	194811	.	+	0	ID=EGNFDAKC_00224_CDS; Parent=EGNFDAKC_00224_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	194858	195352	.	+	0	ID=EGNFDAKC_00225; gene_synonym=grpE; gene_synonym=grpE; product=Protein GrpE
+scaffold_1	KBase	mRNA	194858	195352	.	+	0	ID=EGNFDAKC_00225_mRNA; Parent=EGNFDAKC_00225
+scaffold_1	KBase	exon	194858	195352	.	+	0	ID=EGNFDAKC_00225_mRNA_exon_1; Parent=EGNFDAKC_00225_mRNA
+scaffold_1	KBase	CDS	194858	195352	.	+	0	ID=EGNFDAKC_00225_CDS; Parent=EGNFDAKC_00225_mRNA; gene_synonym=grpE; gene_synonym=grpE; product=Protein GrpE
+scaffold_1	KBase	gene	195556	197388	.	+	0	ID=EGNFDAKC_00226; gene_synonym=dnaK; gene_synonym=dnaK; product=Chaperone protein DnaK
+scaffold_1	KBase	mRNA	195556	197388	.	+	0	ID=EGNFDAKC_00226_mRNA; Parent=EGNFDAKC_00226
+scaffold_1	KBase	exon	195556	197388	.	+	0	ID=EGNFDAKC_00226_mRNA_exon_1; Parent=EGNFDAKC_00226_mRNA
+scaffold_1	KBase	CDS	195556	197388	.	+	0	ID=EGNFDAKC_00226_CDS; Parent=EGNFDAKC_00226_mRNA; gene_synonym=dnaK; gene_synonym=dnaK; product=Chaperone protein DnaK
+scaffold_1	KBase	gene	197508	198644	.	+	0	ID=EGNFDAKC_00227; gene_synonym=dnaJ_2; gene_synonym=dnaJ_2; product=Chaperone protein DnaJ
+scaffold_1	KBase	mRNA	197508	198644	.	+	0	ID=EGNFDAKC_00227_mRNA; Parent=EGNFDAKC_00227
+scaffold_1	KBase	exon	197508	198644	.	+	0	ID=EGNFDAKC_00227_mRNA_exon_1; Parent=EGNFDAKC_00227_mRNA
+scaffold_1	KBase	CDS	197508	198644	.	+	0	ID=EGNFDAKC_00227_CDS; Parent=EGNFDAKC_00227_mRNA; gene_synonym=dnaJ_2; gene_synonym=dnaJ_2; product=Chaperone protein DnaJ
+scaffold_1	KBase	gene	198701	199543	.	+	0	ID=EGNFDAKC_00228; gene_synonym=tsf; gene_synonym=tsf; product=Elongation factor Ts
+scaffold_1	KBase	mRNA	198701	199543	.	+	0	ID=EGNFDAKC_00228_mRNA; Parent=EGNFDAKC_00228
+scaffold_1	KBase	exon	198701	199543	.	+	0	ID=EGNFDAKC_00228_mRNA_exon_1; Parent=EGNFDAKC_00228_mRNA
+scaffold_1	KBase	CDS	198701	199543	.	+	0	ID=EGNFDAKC_00228_CDS; Parent=EGNFDAKC_00228_mRNA; gene_synonym=tsf; gene_synonym=tsf; product=Elongation factor Ts
+scaffold_1	KBase	gene	199809	201695	.	+	0	ID=EGNFDAKC_00229; gene_synonym=pcrA; gene_synonym=pcrA; product=ATP-dependent DNA helicase PcrA; ec=ec:3.6.4.12
+scaffold_1	KBase	mRNA	199809	201695	.	+	0	ID=EGNFDAKC_00229_mRNA; Parent=EGNFDAKC_00229
+scaffold_1	KBase	exon	199809	201695	.	+	0	ID=EGNFDAKC_00229_mRNA_exon_1; Parent=EGNFDAKC_00229_mRNA
+scaffold_1	KBase	CDS	199809	201695	.	+	0	ID=EGNFDAKC_00229_CDS; Parent=EGNFDAKC_00229_mRNA; gene_synonym=pcrA; gene_synonym=pcrA; product=ATP-dependent DNA helicase PcrA
+scaffold_1	KBase	gene	201981	202277	.	+	0	ID=EGNFDAKC_00230; gene_synonym=hup_2; gene_synonym=hup_2; product=DNA-binding protein HU
+scaffold_1	KBase	mRNA	201981	202277	.	+	0	ID=EGNFDAKC_00230_mRNA; Parent=EGNFDAKC_00230
+scaffold_1	KBase	exon	201981	202277	.	+	0	ID=EGNFDAKC_00230_mRNA_exon_1; Parent=EGNFDAKC_00230_mRNA
+scaffold_1	KBase	CDS	201981	202277	.	+	0	ID=EGNFDAKC_00230_CDS; Parent=EGNFDAKC_00230_mRNA; gene_synonym=hup_2; gene_synonym=hup_2; product=DNA-binding protein HU
+scaffold_1	KBase	gene	202650	203081	.	+	0	ID=EGNFDAKC_00231; product=hypothetical protein
+scaffold_1	KBase	mRNA	202650	203081	.	+	0	ID=EGNFDAKC_00231_mRNA; Parent=EGNFDAKC_00231
+scaffold_1	KBase	exon	202650	203081	.	+	0	ID=EGNFDAKC_00231_mRNA_exon_1; Parent=EGNFDAKC_00231_mRNA
+scaffold_1	KBase	CDS	202650	203081	.	+	0	ID=EGNFDAKC_00231_CDS; Parent=EGNFDAKC_00231_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	203371	204054	.	+	0	ID=EGNFDAKC_00232; product=hypothetical protein
+scaffold_1	KBase	mRNA	203371	204054	.	+	0	ID=EGNFDAKC_00232_mRNA; Parent=EGNFDAKC_00232
+scaffold_1	KBase	exon	203371	204054	.	+	0	ID=EGNFDAKC_00232_mRNA_exon_1; Parent=EGNFDAKC_00232_mRNA
+scaffold_1	KBase	CDS	203371	204054	.	+	0	ID=EGNFDAKC_00232_CDS; Parent=EGNFDAKC_00232_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	204044	205495	.	+	0	ID=EGNFDAKC_00233; gene_synonym=gltX1; gene_synonym=gltX1; product=Glutamate--tRNA ligase 1; ec=ec:6.1.1.17
+scaffold_1	KBase	mRNA	204044	205495	.	+	0	ID=EGNFDAKC_00233_mRNA; Parent=EGNFDAKC_00233
+scaffold_1	KBase	exon	204044	205495	.	+	0	ID=EGNFDAKC_00233_mRNA_exon_1; Parent=EGNFDAKC_00233_mRNA
+scaffold_1	KBase	CDS	204044	205495	.	+	0	ID=EGNFDAKC_00233_CDS; Parent=EGNFDAKC_00233_mRNA; gene_synonym=gltX1; gene_synonym=gltX1; product=Glutamate--tRNA ligase 1
+scaffold_1	KBase	gene	205514	206419	.	+	0	ID=EGNFDAKC_00234; gene_synonym=tilS; gene_synonym=tilS; product=tRNA%28Ile%29-lysidine synthase; ec=ec:6.3.4.19
+scaffold_1	KBase	mRNA	205514	206419	.	+	0	ID=EGNFDAKC_00234_mRNA; Parent=EGNFDAKC_00234
+scaffold_1	KBase	exon	205514	206419	.	+	0	ID=EGNFDAKC_00234_mRNA_exon_1; Parent=EGNFDAKC_00234_mRNA
+scaffold_1	KBase	CDS	205514	206419	.	+	0	ID=EGNFDAKC_00234_CDS; Parent=EGNFDAKC_00234_mRNA; gene_synonym=tilS; gene_synonym=tilS; product=tRNA%28Ile%29-lysidine synthase
+scaffold_1	KBase	gene	206424	208190	.	+	0	ID=EGNFDAKC_00235; gene_synonym=ftsH_2; gene_synonym=ftsH_2; product=ATP-dependent zinc metalloprotease FtsH
+scaffold_1	KBase	mRNA	206424	208190	.	+	0	ID=EGNFDAKC_00235_mRNA; Parent=EGNFDAKC_00235
+scaffold_1	KBase	exon	206424	208190	.	+	0	ID=EGNFDAKC_00235_mRNA_exon_1; Parent=EGNFDAKC_00235_mRNA
+scaffold_1	KBase	CDS	206424	208190	.	+	0	ID=EGNFDAKC_00235_CDS; Parent=EGNFDAKC_00235_mRNA; gene_synonym=ftsH_2; gene_synonym=ftsH_2; product=ATP-dependent zinc metalloprotease FtsH
+scaffold_1	KBase	gene	208214	209650	.	+	0	ID=EGNFDAKC_00236; product=hypothetical protein
+scaffold_1	KBase	mRNA	208214	209650	.	+	0	ID=EGNFDAKC_00236_mRNA; Parent=EGNFDAKC_00236
+scaffold_1	KBase	exon	208214	209650	.	+	0	ID=EGNFDAKC_00236_mRNA_exon_1; Parent=EGNFDAKC_00236_mRNA
+scaffold_1	KBase	CDS	208214	209650	.	+	0	ID=EGNFDAKC_00236_CDS; Parent=EGNFDAKC_00236_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	209628	210305	.	+	0	ID=EGNFDAKC_00237; gene_synonym=rnc; gene_synonym=rnc; product=Ribonuclease 3; ec=ec:3.1.26.3
+scaffold_1	KBase	mRNA	209628	210305	.	+	0	ID=EGNFDAKC_00237_mRNA; Parent=EGNFDAKC_00237
+scaffold_1	KBase	exon	209628	210305	.	+	0	ID=EGNFDAKC_00237_mRNA_exon_1; Parent=EGNFDAKC_00237_mRNA
+scaffold_1	KBase	CDS	209628	210305	.	+	0	ID=EGNFDAKC_00237_CDS; Parent=EGNFDAKC_00237_mRNA; gene_synonym=rnc; gene_synonym=rnc; product=Ribonuclease 3
+scaffold_1	KBase	gene	210331	210873	.	+	0	ID=EGNFDAKC_00238; product=hypothetical protein
+scaffold_1	KBase	mRNA	210331	210873	.	+	0	ID=EGNFDAKC_00238_mRNA; Parent=EGNFDAKC_00238
+scaffold_1	KBase	exon	210331	210873	.	+	0	ID=EGNFDAKC_00238_mRNA_exon_1; Parent=EGNFDAKC_00238_mRNA
+scaffold_1	KBase	CDS	210331	210873	.	+	0	ID=EGNFDAKC_00238_CDS; Parent=EGNFDAKC_00238_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	210875	211687	.	+	0	ID=EGNFDAKC_00239; gene_synonym=ymdB; gene_synonym=ymdB; product=2%27%2C3%27-cyclic-nucleotide 2%27-phosphodiesterase; ec=ec:3.1.4.16
+scaffold_1	KBase	mRNA	210875	211687	.	+	0	ID=EGNFDAKC_00239_mRNA; Parent=EGNFDAKC_00239
+scaffold_1	KBase	exon	210875	211687	.	+	0	ID=EGNFDAKC_00239_mRNA_exon_1; Parent=EGNFDAKC_00239_mRNA
+scaffold_1	KBase	CDS	210875	211687	.	+	0	ID=EGNFDAKC_00239_CDS; Parent=EGNFDAKC_00239_mRNA; gene_synonym=ymdB; gene_synonym=ymdB; product=2%27%2C3%27-cyclic-nucleotide 2%27-phosphodiesterase
+scaffold_1	KBase	gene	212211	212681	.	-	0	ID=EGNFDAKC_00240; gene_synonym=nusB; gene_synonym=nusB; product=Transcription antitermination protein NusB
+scaffold_1	KBase	mRNA	212211	212681	.	-	0	ID=EGNFDAKC_00240_mRNA; Parent=EGNFDAKC_00240
+scaffold_1	KBase	exon	212211	212681	.	-	0	ID=EGNFDAKC_00240_mRNA_exon_1; Parent=EGNFDAKC_00240_mRNA
+scaffold_1	KBase	CDS	212211	212681	.	-	0	ID=EGNFDAKC_00240_CDS; Parent=EGNFDAKC_00240_mRNA; gene_synonym=nusB; gene_synonym=nusB; product=Transcription antitermination protein NusB
+scaffold_1	KBase	gene	212857	212949	.	+	0	ID=EGNFDAKC_00241; product=tRNA-Ser%28tga%29
+scaffold_1	KBase	gene	213239	214279	.	+	0	ID=EGNFDAKC_00242; gene_synonym=recA; gene_synonym=recA; product=Protein RecA
+scaffold_1	KBase	mRNA	213239	214279	.	+	0	ID=EGNFDAKC_00242_mRNA; Parent=EGNFDAKC_00242
+scaffold_1	KBase	exon	213239	214279	.	+	0	ID=EGNFDAKC_00242_mRNA_exon_1; Parent=EGNFDAKC_00242_mRNA
+scaffold_1	KBase	CDS	213239	214279	.	+	0	ID=EGNFDAKC_00242_CDS; Parent=EGNFDAKC_00242_mRNA; gene_synonym=recA; gene_synonym=recA; product=Protein RecA
+scaffold_1	KBase	gene	214308	214565	.	+	0	ID=EGNFDAKC_00243; product=hypothetical protein
+scaffold_1	KBase	mRNA	214308	214565	.	+	0	ID=EGNFDAKC_00243_mRNA; Parent=EGNFDAKC_00243
+scaffold_1	KBase	exon	214308	214565	.	+	0	ID=EGNFDAKC_00243_mRNA_exon_1; Parent=EGNFDAKC_00243_mRNA
+scaffold_1	KBase	CDS	214308	214565	.	+	0	ID=EGNFDAKC_00243_CDS; Parent=EGNFDAKC_00243_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	214622	215158	.	+	0	ID=EGNFDAKC_00244; product=hypothetical protein
+scaffold_1	KBase	mRNA	214622	215158	.	+	0	ID=EGNFDAKC_00244_mRNA; Parent=EGNFDAKC_00244
+scaffold_1	KBase	exon	214622	215158	.	+	0	ID=EGNFDAKC_00244_mRNA_exon_1; Parent=EGNFDAKC_00244_mRNA
+scaffold_1	KBase	CDS	214622	215158	.	+	0	ID=EGNFDAKC_00244_CDS; Parent=EGNFDAKC_00244_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	215240	216985	.	+	0	ID=EGNFDAKC_00245; gene_synonym=ligA; gene_synonym=ligA; product=DNA ligase; ec=ec:6.5.1.2
+scaffold_1	KBase	mRNA	215240	216985	.	+	0	ID=EGNFDAKC_00245_mRNA; Parent=EGNFDAKC_00245
+scaffold_1	KBase	exon	215240	216985	.	+	0	ID=EGNFDAKC_00245_mRNA_exon_1; Parent=EGNFDAKC_00245_mRNA
+scaffold_1	KBase	CDS	215240	216985	.	+	0	ID=EGNFDAKC_00245_CDS; Parent=EGNFDAKC_00245_mRNA; gene_synonym=ligA; gene_synonym=ligA; product=DNA ligase
+scaffold_1	KBase	gene	216975	217223	.	-	0	ID=EGNFDAKC_00246; product=hypothetical protein
+scaffold_1	KBase	mRNA	216975	217223	.	-	0	ID=EGNFDAKC_00246_mRNA; Parent=EGNFDAKC_00246
+scaffold_1	KBase	exon	216975	217223	.	-	0	ID=EGNFDAKC_00246_mRNA_exon_1; Parent=EGNFDAKC_00246_mRNA
+scaffold_1	KBase	CDS	216975	217223	.	-	0	ID=EGNFDAKC_00246_CDS; Parent=EGNFDAKC_00246_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	217561	218772	.	+	0	ID=EGNFDAKC_00247; gene_synonym=sufS; gene_synonym=sufS; product=Cysteine desulfurase SufS; ec=ec:2.8.1.7
+scaffold_1	KBase	mRNA	217561	218772	.	+	0	ID=EGNFDAKC_00247_mRNA; Parent=EGNFDAKC_00247
+scaffold_1	KBase	exon	217561	218772	.	+	0	ID=EGNFDAKC_00247_mRNA_exon_1; Parent=EGNFDAKC_00247_mRNA
+scaffold_1	KBase	CDS	217561	218772	.	+	0	ID=EGNFDAKC_00247_CDS; Parent=EGNFDAKC_00247_mRNA; gene_synonym=sufS; gene_synonym=sufS; product=Cysteine desulfurase SufS
+scaffold_1	KBase	gene	218981	219469	.	+	0	ID=EGNFDAKC_00248; product=hypothetical protein
+scaffold_1	KBase	mRNA	218981	219469	.	+	0	ID=EGNFDAKC_00248_mRNA; Parent=EGNFDAKC_00248
+scaffold_1	KBase	exon	218981	219469	.	+	0	ID=EGNFDAKC_00248_mRNA_exon_1; Parent=EGNFDAKC_00248_mRNA
+scaffold_1	KBase	CDS	218981	219469	.	+	0	ID=EGNFDAKC_00248_CDS; Parent=EGNFDAKC_00248_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	219498	222233	.	+	0	ID=EGNFDAKC_00249; gene_synonym=ileS; gene_synonym=ileS; product=Isoleucine--tRNA ligase; ec=ec:6.1.1.5
+scaffold_1	KBase	mRNA	219498	222233	.	+	0	ID=EGNFDAKC_00249_mRNA; Parent=EGNFDAKC_00249
+scaffold_1	KBase	exon	219498	222233	.	+	0	ID=EGNFDAKC_00249_mRNA_exon_1; Parent=EGNFDAKC_00249_mRNA
+scaffold_1	KBase	CDS	219498	222233	.	+	0	ID=EGNFDAKC_00249_CDS; Parent=EGNFDAKC_00249_mRNA; gene_synonym=ileS; gene_synonym=ileS; product=Isoleucine--tRNA ligase
+scaffold_1	KBase	gene	222257	222859	.	+	0	ID=EGNFDAKC_00250; product=Putative 3-methyladenine DNA glycosylase
+scaffold_1	KBase	mRNA	222257	222859	.	+	0	ID=EGNFDAKC_00250_mRNA; Parent=EGNFDAKC_00250
+scaffold_1	KBase	exon	222257	222859	.	+	0	ID=EGNFDAKC_00250_mRNA_exon_1; Parent=EGNFDAKC_00250_mRNA
+scaffold_1	KBase	CDS	222257	222859	.	+	0	ID=EGNFDAKC_00250_CDS; Parent=EGNFDAKC_00250_mRNA; product=Putative 3-methyladenine DNA glycosylase
+scaffold_1	KBase	gene	223018	223359	.	+	0	ID=EGNFDAKC_00251; product=hypothetical protein
+scaffold_1	KBase	mRNA	223018	223359	.	+	0	ID=EGNFDAKC_00251_mRNA; Parent=EGNFDAKC_00251
+scaffold_1	KBase	exon	223018	223359	.	+	0	ID=EGNFDAKC_00251_mRNA_exon_1; Parent=EGNFDAKC_00251_mRNA
+scaffold_1	KBase	CDS	223018	223359	.	+	0	ID=EGNFDAKC_00251_CDS; Parent=EGNFDAKC_00251_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	223359	224918	.	+	0	ID=EGNFDAKC_00252; gene_synonym=dnaG; gene_synonym=dnaG; product=DNA primase
+scaffold_1	KBase	mRNA	223359	224918	.	+	0	ID=EGNFDAKC_00252_mRNA; Parent=EGNFDAKC_00252
+scaffold_1	KBase	exon	223359	224918	.	+	0	ID=EGNFDAKC_00252_mRNA_exon_1; Parent=EGNFDAKC_00252_mRNA
+scaffold_1	KBase	CDS	223359	224918	.	+	0	ID=EGNFDAKC_00252_CDS; Parent=EGNFDAKC_00252_mRNA; gene_synonym=dnaG; gene_synonym=dnaG; product=DNA primase
+scaffold_1	KBase	gene	224920	226989	.	-	0	ID=EGNFDAKC_00253; gene_synonym=pheT; gene_synonym=pheT; product=Phenylalanine--tRNA ligase beta subunit; ec=ec:6.1.1.20
+scaffold_1	KBase	mRNA	224920	226989	.	-	0	ID=EGNFDAKC_00253_mRNA; Parent=EGNFDAKC_00253
+scaffold_1	KBase	exon	224920	226989	.	-	0	ID=EGNFDAKC_00253_mRNA_exon_1; Parent=EGNFDAKC_00253_mRNA
+scaffold_1	KBase	CDS	224920	226989	.	-	0	ID=EGNFDAKC_00253_CDS; Parent=EGNFDAKC_00253_mRNA; gene_synonym=pheT; gene_synonym=pheT; product=Phenylalanine--tRNA ligase beta subunit
+scaffold_1	KBase	gene	227186	227905	.	+	0	ID=EGNFDAKC_00254; product=hypothetical protein
+scaffold_1	KBase	mRNA	227186	227905	.	+	0	ID=EGNFDAKC_00254_mRNA; Parent=EGNFDAKC_00254
+scaffold_1	KBase	exon	227186	227905	.	+	0	ID=EGNFDAKC_00254_mRNA_exon_1; Parent=EGNFDAKC_00254_mRNA
+scaffold_1	KBase	CDS	227186	227905	.	+	0	ID=EGNFDAKC_00254_CDS; Parent=EGNFDAKC_00254_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	227985	229931	.	+	0	ID=EGNFDAKC_00255; gene_synonym=mnmG; gene_synonym=mnmG; product=tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+scaffold_1	KBase	mRNA	227985	229931	.	+	0	ID=EGNFDAKC_00255_mRNA; Parent=EGNFDAKC_00255
+scaffold_1	KBase	exon	227985	229931	.	+	0	ID=EGNFDAKC_00255_mRNA_exon_1; Parent=EGNFDAKC_00255_mRNA
+scaffold_1	KBase	CDS	227985	229931	.	+	0	ID=EGNFDAKC_00255_CDS; Parent=EGNFDAKC_00255_mRNA; gene_synonym=mnmG; gene_synonym=mnmG; product=tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+scaffold_1	KBase	gene	230021	230416	.	+	0	ID=EGNFDAKC_00256; product=hypothetical protein
+scaffold_1	KBase	mRNA	230021	230416	.	+	0	ID=EGNFDAKC_00256_mRNA; Parent=EGNFDAKC_00256
+scaffold_1	KBase	exon	230021	230416	.	+	0	ID=EGNFDAKC_00256_mRNA_exon_1; Parent=EGNFDAKC_00256_mRNA
+scaffold_1	KBase	CDS	230021	230416	.	+	0	ID=EGNFDAKC_00256_CDS; Parent=EGNFDAKC_00256_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	230418	230735	.	+	0	ID=EGNFDAKC_00257; product=hypothetical protein
+scaffold_1	KBase	mRNA	230418	230735	.	+	0	ID=EGNFDAKC_00257_mRNA; Parent=EGNFDAKC_00257
+scaffold_1	KBase	exon	230418	230735	.	+	0	ID=EGNFDAKC_00257_mRNA_exon_1; Parent=EGNFDAKC_00257_mRNA
+scaffold_1	KBase	CDS	230418	230735	.	+	0	ID=EGNFDAKC_00257_CDS; Parent=EGNFDAKC_00257_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	230920	231324	.	+	0	ID=EGNFDAKC_00258; product=hypothetical protein
+scaffold_1	KBase	mRNA	230920	231324	.	+	0	ID=EGNFDAKC_00258_mRNA; Parent=EGNFDAKC_00258
+scaffold_1	KBase	exon	230920	231324	.	+	0	ID=EGNFDAKC_00258_mRNA_exon_1; Parent=EGNFDAKC_00258_mRNA
+scaffold_1	KBase	CDS	230920	231324	.	+	0	ID=EGNFDAKC_00258_CDS; Parent=EGNFDAKC_00258_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	231467	231742	.	+	0	ID=EGNFDAKC_00259; product=hypothetical protein
+scaffold_1	KBase	mRNA	231467	231742	.	+	0	ID=EGNFDAKC_00259_mRNA; Parent=EGNFDAKC_00259
+scaffold_1	KBase	exon	231467	231742	.	+	0	ID=EGNFDAKC_00259_mRNA_exon_1; Parent=EGNFDAKC_00259_mRNA
+scaffold_1	KBase	CDS	231467	231742	.	+	0	ID=EGNFDAKC_00259_CDS; Parent=EGNFDAKC_00259_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	231758	232213	.	+	0	ID=EGNFDAKC_00260; product=hypothetical protein
+scaffold_1	KBase	mRNA	231758	232213	.	+	0	ID=EGNFDAKC_00260_mRNA; Parent=EGNFDAKC_00260
+scaffold_1	KBase	exon	231758	232213	.	+	0	ID=EGNFDAKC_00260_mRNA_exon_1; Parent=EGNFDAKC_00260_mRNA
+scaffold_1	KBase	CDS	231758	232213	.	+	0	ID=EGNFDAKC_00260_CDS; Parent=EGNFDAKC_00260_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	232215	233276	.	+	0	ID=EGNFDAKC_00261; gene_synonym=pheS; gene_synonym=pheS; product=Phenylalanine--tRNA ligase alpha subunit; ec=ec:6.1.1.20
+scaffold_1	KBase	mRNA	232215	233276	.	+	0	ID=EGNFDAKC_00261_mRNA; Parent=EGNFDAKC_00261
+scaffold_1	KBase	exon	232215	233276	.	+	0	ID=EGNFDAKC_00261_mRNA_exon_1; Parent=EGNFDAKC_00261_mRNA
+scaffold_1	KBase	CDS	232215	233276	.	+	0	ID=EGNFDAKC_00261_CDS; Parent=EGNFDAKC_00261_mRNA; gene_synonym=pheS; gene_synonym=pheS; product=Phenylalanine--tRNA ligase alpha subunit
+scaffold_1	KBase	gene	233719	234276	.	+	0	ID=EGNFDAKC_00262; gene_synonym=frr; gene_synonym=frr; product=Ribosome-recycling factor
+scaffold_1	KBase	mRNA	233719	234276	.	+	0	ID=EGNFDAKC_00262_mRNA; Parent=EGNFDAKC_00262
+scaffold_1	KBase	exon	233719	234276	.	+	0	ID=EGNFDAKC_00262_mRNA_exon_1; Parent=EGNFDAKC_00262_mRNA
+scaffold_1	KBase	CDS	233719	234276	.	+	0	ID=EGNFDAKC_00262_CDS; Parent=EGNFDAKC_00262_mRNA; gene_synonym=frr; gene_synonym=frr; product=Ribosome-recycling factor
+scaffold_1	KBase	gene	234301	235518	.	-	0	ID=EGNFDAKC_00263; gene_synonym=serS; gene_synonym=serS; product=Serine--tRNA ligase; ec=ec:6.1.1.11
+scaffold_1	KBase	mRNA	234301	235518	.	-	0	ID=EGNFDAKC_00263_mRNA; Parent=EGNFDAKC_00263
+scaffold_1	KBase	exon	234301	235518	.	-	0	ID=EGNFDAKC_00263_mRNA_exon_1; Parent=EGNFDAKC_00263_mRNA
+scaffold_1	KBase	CDS	234301	235518	.	-	0	ID=EGNFDAKC_00263_CDS; Parent=EGNFDAKC_00263_mRNA; gene_synonym=serS; gene_synonym=serS; product=Serine--tRNA ligase
+scaffold_1	KBase	gene	235645	235842	.	+	0	ID=EGNFDAKC_00264; product=hypothetical protein
+scaffold_1	KBase	mRNA	235645	235842	.	+	0	ID=EGNFDAKC_00264_mRNA; Parent=EGNFDAKC_00264
+scaffold_1	KBase	exon	235645	235842	.	+	0	ID=EGNFDAKC_00264_mRNA_exon_1; Parent=EGNFDAKC_00264_mRNA
+scaffold_1	KBase	CDS	235645	235842	.	+	0	ID=EGNFDAKC_00264_CDS; Parent=EGNFDAKC_00264_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	236315	236390	.	+	0	ID=EGNFDAKC_00265; product=tRNA-Met%28cat%29
+scaffold_1	KBase	gene	236410	236495	.	+	0	ID=EGNFDAKC_00266; product=tRNA-Leu%28caa%29
+scaffold_1	KBase	gene	236575	236650	.	+	0	ID=EGNFDAKC_00267; product=tRNA-Asp%28gtc%29
+scaffold_1	KBase	gene	236764	236916	.	+	0	ID=EGNFDAKC_00268; product=hypothetical protein
+scaffold_1	KBase	mRNA	236764	236916	.	+	0	ID=EGNFDAKC_00268_mRNA; Parent=EGNFDAKC_00268
+scaffold_1	KBase	exon	236764	236916	.	+	0	ID=EGNFDAKC_00268_mRNA_exon_1; Parent=EGNFDAKC_00268_mRNA
+scaffold_1	KBase	CDS	236764	236916	.	+	0	ID=EGNFDAKC_00268_CDS; Parent=EGNFDAKC_00268_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	236931	237368	.	+	0	ID=EGNFDAKC_00269; gene_synonym=ybeY; gene_synonym=ybeY; product=Endoribonuclease YbeY
+scaffold_1	KBase	mRNA	236931	237368	.	+	0	ID=EGNFDAKC_00269_mRNA; Parent=EGNFDAKC_00269
+scaffold_1	KBase	exon	236931	237368	.	+	0	ID=EGNFDAKC_00269_mRNA_exon_1; Parent=EGNFDAKC_00269_mRNA
+scaffold_1	KBase	CDS	236931	237368	.	+	0	ID=EGNFDAKC_00269_CDS; Parent=EGNFDAKC_00269_mRNA; gene_synonym=ybeY; gene_synonym=ybeY; product=Endoribonuclease YbeY
+scaffold_1	KBase	gene	237485	238213	.	-	0	ID=EGNFDAKC_00270; product=Putative TrmH family tRNA/rRNA methyltransferase
+scaffold_1	KBase	mRNA	237485	238213	.	-	0	ID=EGNFDAKC_00270_mRNA; Parent=EGNFDAKC_00270
+scaffold_1	KBase	exon	237485	238213	.	-	0	ID=EGNFDAKC_00270_mRNA_exon_1; Parent=EGNFDAKC_00270_mRNA
+scaffold_1	KBase	CDS	237485	238213	.	-	0	ID=EGNFDAKC_00270_CDS; Parent=EGNFDAKC_00270_mRNA; product=Putative TrmH family tRNA/rRNA methyltransferase
+scaffold_1	KBase	gene	238419	238955	.	+	0	ID=EGNFDAKC_00271; product=hypothetical protein
+scaffold_1	KBase	mRNA	238419	238955	.	+	0	ID=EGNFDAKC_00271_mRNA; Parent=EGNFDAKC_00271
+scaffold_1	KBase	exon	238419	238955	.	+	0	ID=EGNFDAKC_00271_mRNA_exon_1; Parent=EGNFDAKC_00271_mRNA
+scaffold_1	KBase	CDS	238419	238955	.	+	0	ID=EGNFDAKC_00271_CDS; Parent=EGNFDAKC_00271_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	239010	240161	.	+	0	ID=EGNFDAKC_00272; gene_synonym=mnmA; gene_synonym=mnmA; product=tRNA-specific 2-thiouridylase MnmA; ec=ec:2.8.1.13
+scaffold_1	KBase	mRNA	239010	240161	.	+	0	ID=EGNFDAKC_00272_mRNA; Parent=EGNFDAKC_00272
+scaffold_1	KBase	exon	239010	240161	.	+	0	ID=EGNFDAKC_00272_mRNA_exon_1; Parent=EGNFDAKC_00272_mRNA
+scaffold_1	KBase	CDS	239010	240161	.	+	0	ID=EGNFDAKC_00272_CDS; Parent=EGNFDAKC_00272_mRNA; gene_synonym=mnmA; gene_synonym=mnmA; product=tRNA-specific 2-thiouridylase MnmA
+scaffold_1	KBase	gene	240292	240696	.	+	0	ID=EGNFDAKC_00273; gene_synonym=ndk; gene_synonym=ndk; product=Nucleoside diphosphate kinase; ec=ec:2.7.4.6
+scaffold_1	KBase	mRNA	240292	240696	.	+	0	ID=EGNFDAKC_00273_mRNA; Parent=EGNFDAKC_00273
+scaffold_1	KBase	exon	240292	240696	.	+	0	ID=EGNFDAKC_00273_mRNA_exon_1; Parent=EGNFDAKC_00273_mRNA
+scaffold_1	KBase	CDS	240292	240696	.	+	0	ID=EGNFDAKC_00273_CDS; Parent=EGNFDAKC_00273_mRNA; gene_synonym=ndk; gene_synonym=ndk; product=Nucleoside diphosphate kinase
+scaffold_1	KBase	gene	240869	240945	.	+	0	ID=EGNFDAKC_00274; product=tRNA-Lys%28ctt%29
+scaffold_1	KBase	gene	241017	241250	.	+	0	ID=EGNFDAKC_00275; product=hypothetical protein
+scaffold_1	KBase	mRNA	241017	241250	.	+	0	ID=EGNFDAKC_00275_mRNA; Parent=EGNFDAKC_00275
+scaffold_1	KBase	exon	241017	241250	.	+	0	ID=EGNFDAKC_00275_mRNA_exon_1; Parent=EGNFDAKC_00275_mRNA
+scaffold_1	KBase	CDS	241017	241250	.	+	0	ID=EGNFDAKC_00275_CDS; Parent=EGNFDAKC_00275_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	241355	241867	.	+	0	ID=EGNFDAKC_00276; product=hypothetical protein
+scaffold_1	KBase	mRNA	241355	241867	.	+	0	ID=EGNFDAKC_00276_mRNA; Parent=EGNFDAKC_00276
+scaffold_1	KBase	exon	241355	241867	.	+	0	ID=EGNFDAKC_00276_mRNA_exon_1; Parent=EGNFDAKC_00276_mRNA
+scaffold_1	KBase	CDS	241355	241867	.	+	0	ID=EGNFDAKC_00276_CDS; Parent=EGNFDAKC_00276_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	241923	242306	.	-	0	ID=EGNFDAKC_00277; product=hypothetical protein
+scaffold_1	KBase	mRNA	241923	242306	.	-	0	ID=EGNFDAKC_00277_mRNA; Parent=EGNFDAKC_00277
+scaffold_1	KBase	exon	241923	242306	.	-	0	ID=EGNFDAKC_00277_mRNA_exon_1; Parent=EGNFDAKC_00277_mRNA
+scaffold_1	KBase	CDS	241923	242306	.	-	0	ID=EGNFDAKC_00277_CDS; Parent=EGNFDAKC_00277_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	242417	243514	.	-	0	ID=EGNFDAKC_00278; gene_synonym=prfA; gene_synonym=prfA; product=Peptide chain release factor 1
+scaffold_1	KBase	mRNA	242417	243514	.	-	0	ID=EGNFDAKC_00278_mRNA; Parent=EGNFDAKC_00278
+scaffold_1	KBase	exon	242417	243514	.	-	0	ID=EGNFDAKC_00278_mRNA_exon_1; Parent=EGNFDAKC_00278_mRNA
+scaffold_1	KBase	CDS	242417	243514	.	-	0	ID=EGNFDAKC_00278_CDS; Parent=EGNFDAKC_00278_mRNA; gene_synonym=prfA; gene_synonym=prfA; product=Peptide chain release factor 1
+scaffold_1	KBase	gene	243923	244459	.	-	0	ID=EGNFDAKC_00279; product=hypothetical protein
+scaffold_1	KBase	mRNA	243923	244459	.	-	0	ID=EGNFDAKC_00279_mRNA; Parent=EGNFDAKC_00279
+scaffold_1	KBase	exon	243923	244459	.	-	0	ID=EGNFDAKC_00279_mRNA_exon_1; Parent=EGNFDAKC_00279_mRNA
+scaffold_1	KBase	CDS	243923	244459	.	-	0	ID=EGNFDAKC_00279_CDS; Parent=EGNFDAKC_00279_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	244678	245763	.	+	0	ID=EGNFDAKC_00280; product=hypothetical protein
+scaffold_1	KBase	mRNA	244678	245763	.	+	0	ID=EGNFDAKC_00280_mRNA; Parent=EGNFDAKC_00280
+scaffold_1	KBase	exon	244678	245763	.	+	0	ID=EGNFDAKC_00280_mRNA_exon_1; Parent=EGNFDAKC_00280_mRNA
+scaffold_1	KBase	CDS	244678	245763	.	+	0	ID=EGNFDAKC_00280_CDS; Parent=EGNFDAKC_00280_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	246330	246782	.	-	0	ID=EGNFDAKC_00281; product=hypothetical protein
+scaffold_1	KBase	mRNA	246330	246782	.	-	0	ID=EGNFDAKC_00281_mRNA; Parent=EGNFDAKC_00281
+scaffold_1	KBase	exon	246330	246782	.	-	0	ID=EGNFDAKC_00281_mRNA_exon_1; Parent=EGNFDAKC_00281_mRNA
+scaffold_1	KBase	CDS	246330	246782	.	-	0	ID=EGNFDAKC_00281_CDS; Parent=EGNFDAKC_00281_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	246813	248324	.	-	0	ID=EGNFDAKC_00282; product=hypothetical protein
+scaffold_1	KBase	mRNA	246813	248324	.	-	0	ID=EGNFDAKC_00282_mRNA; Parent=EGNFDAKC_00282
+scaffold_1	KBase	exon	246813	248324	.	-	0	ID=EGNFDAKC_00282_mRNA_exon_1; Parent=EGNFDAKC_00282_mRNA
+scaffold_1	KBase	CDS	246813	248324	.	-	0	ID=EGNFDAKC_00282_CDS; Parent=EGNFDAKC_00282_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	249024	252011	.	+	0	ID=EGNFDAKC_00283; product=hypothetical protein
+scaffold_1	KBase	mRNA	249024	252011	.	+	0	ID=EGNFDAKC_00283_mRNA; Parent=EGNFDAKC_00283
+scaffold_1	KBase	exon	249024	252011	.	+	0	ID=EGNFDAKC_00283_mRNA_exon_1; Parent=EGNFDAKC_00283_mRNA
+scaffold_1	KBase	CDS	249024	252011	.	+	0	ID=EGNFDAKC_00283_CDS; Parent=EGNFDAKC_00283_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	252436	252885	.	+	0	ID=EGNFDAKC_00284; product=hypothetical protein
+scaffold_1	KBase	mRNA	252436	252885	.	+	0	ID=EGNFDAKC_00284_mRNA; Parent=EGNFDAKC_00284
+scaffold_1	KBase	exon	252436	252885	.	+	0	ID=EGNFDAKC_00284_mRNA_exon_1; Parent=EGNFDAKC_00284_mRNA
+scaffold_1	KBase	CDS	252436	252885	.	+	0	ID=EGNFDAKC_00284_CDS; Parent=EGNFDAKC_00284_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	253056	253346	.	-	0	ID=EGNFDAKC_00285; product=putative protein
+scaffold_1	KBase	mRNA	253056	253346	.	-	0	ID=EGNFDAKC_00285_mRNA; Parent=EGNFDAKC_00285
+scaffold_1	KBase	exon	253056	253346	.	-	0	ID=EGNFDAKC_00285_mRNA_exon_1; Parent=EGNFDAKC_00285_mRNA
+scaffold_1	KBase	CDS	253056	253346	.	-	0	ID=EGNFDAKC_00285_CDS; Parent=EGNFDAKC_00285_mRNA; product=putative protein
+scaffold_1	KBase	gene	253336	253839	.	-	0	ID=EGNFDAKC_00286; product=hypothetical protein
+scaffold_1	KBase	mRNA	253336	253839	.	-	0	ID=EGNFDAKC_00286_mRNA; Parent=EGNFDAKC_00286
+scaffold_1	KBase	exon	253336	253839	.	-	0	ID=EGNFDAKC_00286_mRNA_exon_1; Parent=EGNFDAKC_00286_mRNA
+scaffold_1	KBase	CDS	253336	253839	.	-	0	ID=EGNFDAKC_00286_CDS; Parent=EGNFDAKC_00286_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	253920	254228	.	-	0	ID=EGNFDAKC_00287; product=putative protein
+scaffold_1	KBase	mRNA	253920	254228	.	-	0	ID=EGNFDAKC_00287_mRNA; Parent=EGNFDAKC_00287
+scaffold_1	KBase	exon	253920	254228	.	-	0	ID=EGNFDAKC_00287_mRNA_exon_1; Parent=EGNFDAKC_00287_mRNA
+scaffold_1	KBase	CDS	253920	254228	.	-	0	ID=EGNFDAKC_00287_CDS; Parent=EGNFDAKC_00287_mRNA; product=putative protein
+scaffold_1	KBase	gene	254209	254655	.	-	0	ID=EGNFDAKC_00288; product=hypothetical protein
+scaffold_1	KBase	mRNA	254209	254655	.	-	0	ID=EGNFDAKC_00288_mRNA; Parent=EGNFDAKC_00288
+scaffold_1	KBase	exon	254209	254655	.	-	0	ID=EGNFDAKC_00288_mRNA_exon_1; Parent=EGNFDAKC_00288_mRNA
+scaffold_1	KBase	CDS	254209	254655	.	-	0	ID=EGNFDAKC_00288_CDS; Parent=EGNFDAKC_00288_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	255062	255454	.	+	0	ID=EGNFDAKC_00289; product=hypothetical protein
+scaffold_1	KBase	mRNA	255062	255454	.	+	0	ID=EGNFDAKC_00289_mRNA; Parent=EGNFDAKC_00289
+scaffold_1	KBase	exon	255062	255454	.	+	0	ID=EGNFDAKC_00289_mRNA_exon_1; Parent=EGNFDAKC_00289_mRNA
+scaffold_1	KBase	CDS	255062	255454	.	+	0	ID=EGNFDAKC_00289_CDS; Parent=EGNFDAKC_00289_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	255451	255705	.	-	0	ID=EGNFDAKC_00290; product=hypothetical protein
+scaffold_1	KBase	mRNA	255451	255705	.	-	0	ID=EGNFDAKC_00290_mRNA; Parent=EGNFDAKC_00290
+scaffold_1	KBase	exon	255451	255705	.	-	0	ID=EGNFDAKC_00290_mRNA_exon_1; Parent=EGNFDAKC_00290_mRNA
+scaffold_1	KBase	CDS	255451	255705	.	-	0	ID=EGNFDAKC_00290_CDS; Parent=EGNFDAKC_00290_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	256837	257148	.	+	0	ID=EGNFDAKC_00291; product=hypothetical protein
+scaffold_1	KBase	mRNA	256837	257148	.	+	0	ID=EGNFDAKC_00291_mRNA; Parent=EGNFDAKC_00291
+scaffold_1	KBase	exon	256837	257148	.	+	0	ID=EGNFDAKC_00291_mRNA_exon_1; Parent=EGNFDAKC_00291_mRNA
+scaffold_1	KBase	CDS	256837	257148	.	+	0	ID=EGNFDAKC_00291_CDS; Parent=EGNFDAKC_00291_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	257153	257452	.	-	0	ID=EGNFDAKC_00292; product=hypothetical protein
+scaffold_1	KBase	mRNA	257153	257452	.	-	0	ID=EGNFDAKC_00292_mRNA; Parent=EGNFDAKC_00292
+scaffold_1	KBase	exon	257153	257452	.	-	0	ID=EGNFDAKC_00292_mRNA_exon_1; Parent=EGNFDAKC_00292_mRNA
+scaffold_1	KBase	CDS	257153	257452	.	-	0	ID=EGNFDAKC_00292_CDS; Parent=EGNFDAKC_00292_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	257556	257945	.	-	0	ID=EGNFDAKC_00293; product=hypothetical protein
+scaffold_1	KBase	mRNA	257556	257945	.	-	0	ID=EGNFDAKC_00293_mRNA; Parent=EGNFDAKC_00293
+scaffold_1	KBase	exon	257556	257945	.	-	0	ID=EGNFDAKC_00293_mRNA_exon_1; Parent=EGNFDAKC_00293_mRNA
+scaffold_1	KBase	CDS	257556	257945	.	-	0	ID=EGNFDAKC_00293_CDS; Parent=EGNFDAKC_00293_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	258046	258213	.	-	0	ID=EGNFDAKC_00294; product=hypothetical protein
+scaffold_1	KBase	mRNA	258046	258213	.	-	0	ID=EGNFDAKC_00294_mRNA; Parent=EGNFDAKC_00294
+scaffold_1	KBase	exon	258046	258213	.	-	0	ID=EGNFDAKC_00294_mRNA_exon_1; Parent=EGNFDAKC_00294_mRNA
+scaffold_1	KBase	CDS	258046	258213	.	-	0	ID=EGNFDAKC_00294_CDS; Parent=EGNFDAKC_00294_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	258220	258405	.	-	0	ID=EGNFDAKC_00295; product=hypothetical protein
+scaffold_1	KBase	mRNA	258220	258405	.	-	0	ID=EGNFDAKC_00295_mRNA; Parent=EGNFDAKC_00295
+scaffold_1	KBase	exon	258220	258405	.	-	0	ID=EGNFDAKC_00295_mRNA_exon_1; Parent=EGNFDAKC_00295_mRNA
+scaffold_1	KBase	CDS	258220	258405	.	-	0	ID=EGNFDAKC_00295_CDS; Parent=EGNFDAKC_00295_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	258418	258594	.	-	0	ID=EGNFDAKC_00296; product=hypothetical protein
+scaffold_1	KBase	mRNA	258418	258594	.	-	0	ID=EGNFDAKC_00296_mRNA; Parent=EGNFDAKC_00296
+scaffold_1	KBase	exon	258418	258594	.	-	0	ID=EGNFDAKC_00296_mRNA_exon_1; Parent=EGNFDAKC_00296_mRNA
+scaffold_1	KBase	CDS	258418	258594	.	-	0	ID=EGNFDAKC_00296_CDS; Parent=EGNFDAKC_00296_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	258587	258784	.	-	0	ID=EGNFDAKC_00297; product=hypothetical protein
+scaffold_1	KBase	mRNA	258587	258784	.	-	0	ID=EGNFDAKC_00297_mRNA; Parent=EGNFDAKC_00297
+scaffold_1	KBase	exon	258587	258784	.	-	0	ID=EGNFDAKC_00297_mRNA_exon_1; Parent=EGNFDAKC_00297_mRNA
+scaffold_1	KBase	CDS	258587	258784	.	-	0	ID=EGNFDAKC_00297_CDS; Parent=EGNFDAKC_00297_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	259046	259333	.	-	0	ID=EGNFDAKC_00298; product=hypothetical protein
+scaffold_1	KBase	mRNA	259046	259333	.	-	0	ID=EGNFDAKC_00298_mRNA; Parent=EGNFDAKC_00298
+scaffold_1	KBase	exon	259046	259333	.	-	0	ID=EGNFDAKC_00298_mRNA_exon_1; Parent=EGNFDAKC_00298_mRNA
+scaffold_1	KBase	CDS	259046	259333	.	-	0	ID=EGNFDAKC_00298_CDS; Parent=EGNFDAKC_00298_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	259696	259848	.	+	0	ID=EGNFDAKC_00299; product=hypothetical protein
+scaffold_1	KBase	mRNA	259696	259848	.	+	0	ID=EGNFDAKC_00299_mRNA; Parent=EGNFDAKC_00299
+scaffold_1	KBase	exon	259696	259848	.	+	0	ID=EGNFDAKC_00299_mRNA_exon_1; Parent=EGNFDAKC_00299_mRNA
+scaffold_1	KBase	CDS	259696	259848	.	+	0	ID=EGNFDAKC_00299_CDS; Parent=EGNFDAKC_00299_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	259936	260316	.	+	0	ID=EGNFDAKC_00300; product=hypothetical protein
+scaffold_1	KBase	mRNA	259936	260316	.	+	0	ID=EGNFDAKC_00300_mRNA; Parent=EGNFDAKC_00300
+scaffold_1	KBase	exon	259936	260316	.	+	0	ID=EGNFDAKC_00300_mRNA_exon_1; Parent=EGNFDAKC_00300_mRNA
+scaffold_1	KBase	CDS	259936	260316	.	+	0	ID=EGNFDAKC_00300_CDS; Parent=EGNFDAKC_00300_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	260303	260689	.	+	0	ID=EGNFDAKC_00301; product=hypothetical protein
+scaffold_1	KBase	mRNA	260303	260689	.	+	0	ID=EGNFDAKC_00301_mRNA; Parent=EGNFDAKC_00301
+scaffold_1	KBase	exon	260303	260689	.	+	0	ID=EGNFDAKC_00301_mRNA_exon_1; Parent=EGNFDAKC_00301_mRNA
+scaffold_1	KBase	CDS	260303	260689	.	+	0	ID=EGNFDAKC_00301_CDS; Parent=EGNFDAKC_00301_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	260742	261032	.	+	0	ID=EGNFDAKC_00302; product=hypothetical protein
+scaffold_1	KBase	mRNA	260742	261032	.	+	0	ID=EGNFDAKC_00302_mRNA; Parent=EGNFDAKC_00302
+scaffold_1	KBase	exon	260742	261032	.	+	0	ID=EGNFDAKC_00302_mRNA_exon_1; Parent=EGNFDAKC_00302_mRNA
+scaffold_1	KBase	CDS	260742	261032	.	+	0	ID=EGNFDAKC_00302_CDS; Parent=EGNFDAKC_00302_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	261182	261421	.	+	0	ID=EGNFDAKC_00303; product=hypothetical protein
+scaffold_1	KBase	mRNA	261182	261421	.	+	0	ID=EGNFDAKC_00303_mRNA; Parent=EGNFDAKC_00303
+scaffold_1	KBase	exon	261182	261421	.	+	0	ID=EGNFDAKC_00303_mRNA_exon_1; Parent=EGNFDAKC_00303_mRNA
+scaffold_1	KBase	CDS	261182	261421	.	+	0	ID=EGNFDAKC_00303_CDS; Parent=EGNFDAKC_00303_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	261588	265868	.	+	0	ID=EGNFDAKC_00304; product=hypothetical protein
+scaffold_1	KBase	mRNA	261588	265868	.	+	0	ID=EGNFDAKC_00304_mRNA; Parent=EGNFDAKC_00304
+scaffold_1	KBase	exon	261588	265868	.	+	0	ID=EGNFDAKC_00304_mRNA_exon_1; Parent=EGNFDAKC_00304_mRNA
+scaffold_1	KBase	CDS	261588	265868	.	+	0	ID=EGNFDAKC_00304_CDS; Parent=EGNFDAKC_00304_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	266256	266561	.	+	0	ID=EGNFDAKC_00305; product=hypothetical protein
+scaffold_1	KBase	mRNA	266256	266561	.	+	0	ID=EGNFDAKC_00305_mRNA; Parent=EGNFDAKC_00305
+scaffold_1	KBase	exon	266256	266561	.	+	0	ID=EGNFDAKC_00305_mRNA_exon_1; Parent=EGNFDAKC_00305_mRNA
+scaffold_1	KBase	CDS	266256	266561	.	+	0	ID=EGNFDAKC_00305_CDS; Parent=EGNFDAKC_00305_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	266562	266774	.	-	0	ID=EGNFDAKC_00306; product=hypothetical protein
+scaffold_1	KBase	mRNA	266562	266774	.	-	0	ID=EGNFDAKC_00306_mRNA; Parent=EGNFDAKC_00306
+scaffold_1	KBase	exon	266562	266774	.	-	0	ID=EGNFDAKC_00306_mRNA_exon_1; Parent=EGNFDAKC_00306_mRNA
+scaffold_1	KBase	CDS	266562	266774	.	-	0	ID=EGNFDAKC_00306_CDS; Parent=EGNFDAKC_00306_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	266991	267758	.	-	0	ID=EGNFDAKC_00307; product=hypothetical protein
+scaffold_1	KBase	mRNA	266991	267758	.	-	0	ID=EGNFDAKC_00307_mRNA; Parent=EGNFDAKC_00307
+scaffold_1	KBase	exon	266991	267758	.	-	0	ID=EGNFDAKC_00307_mRNA_exon_1; Parent=EGNFDAKC_00307_mRNA
+scaffold_1	KBase	CDS	266991	267758	.	-	0	ID=EGNFDAKC_00307_CDS; Parent=EGNFDAKC_00307_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	267796	268446	.	-	0	ID=EGNFDAKC_00308; product=hypothetical protein
+scaffold_1	KBase	mRNA	267796	268446	.	-	0	ID=EGNFDAKC_00308_mRNA; Parent=EGNFDAKC_00308
+scaffold_1	KBase	exon	267796	268446	.	-	0	ID=EGNFDAKC_00308_mRNA_exon_1; Parent=EGNFDAKC_00308_mRNA
+scaffold_1	KBase	CDS	267796	268446	.	-	0	ID=EGNFDAKC_00308_CDS; Parent=EGNFDAKC_00308_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	268700	269242	.	-	0	ID=EGNFDAKC_00309; product=hypothetical protein
+scaffold_1	KBase	mRNA	268700	269242	.	-	0	ID=EGNFDAKC_00309_mRNA; Parent=EGNFDAKC_00309
+scaffold_1	KBase	exon	268700	269242	.	-	0	ID=EGNFDAKC_00309_mRNA_exon_1; Parent=EGNFDAKC_00309_mRNA
+scaffold_1	KBase	CDS	268700	269242	.	-	0	ID=EGNFDAKC_00309_CDS; Parent=EGNFDAKC_00309_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	269304	270917	.	-	0	ID=EGNFDAKC_00310; gene_synonym=expZ; gene_synonym=expZ; product=Nucleotide-binding protein ExpZ
+scaffold_1	KBase	mRNA	269304	270917	.	-	0	ID=EGNFDAKC_00310_mRNA; Parent=EGNFDAKC_00310
+scaffold_1	KBase	exon	269304	270917	.	-	0	ID=EGNFDAKC_00310_mRNA_exon_1; Parent=EGNFDAKC_00310_mRNA
+scaffold_1	KBase	CDS	269304	270917	.	-	0	ID=EGNFDAKC_00310_CDS; Parent=EGNFDAKC_00310_mRNA; gene_synonym=expZ; gene_synonym=expZ; product=Nucleotide-binding protein ExpZ
+scaffold_1	KBase	gene	271264	271380	.	-	0	ID=EGNFDAKC_00311; product=hypothetical protein
+scaffold_1	KBase	mRNA	271264	271380	.	-	0	ID=EGNFDAKC_00311_mRNA; Parent=EGNFDAKC_00311
+scaffold_1	KBase	exon	271264	271380	.	-	0	ID=EGNFDAKC_00311_mRNA_exon_1; Parent=EGNFDAKC_00311_mRNA
+scaffold_1	KBase	CDS	271264	271380	.	-	0	ID=EGNFDAKC_00311_CDS; Parent=EGNFDAKC_00311_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	272298	272747	.	+	0	ID=EGNFDAKC_00312; product=hypothetical protein
+scaffold_1	KBase	mRNA	272298	272747	.	+	0	ID=EGNFDAKC_00312_mRNA; Parent=EGNFDAKC_00312
+scaffold_1	KBase	exon	272298	272747	.	+	0	ID=EGNFDAKC_00312_mRNA_exon_1; Parent=EGNFDAKC_00312_mRNA
+scaffold_1	KBase	CDS	272298	272747	.	+	0	ID=EGNFDAKC_00312_CDS; Parent=EGNFDAKC_00312_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	272839	273444	.	+	0	ID=EGNFDAKC_00313; gene_synonym=pcm; gene_synonym=pcm; product=Protein-L-isoaspartate O-methyltransferase; ec=ec:2.1.1.77
+scaffold_1	KBase	mRNA	272839	273444	.	+	0	ID=EGNFDAKC_00313_mRNA; Parent=EGNFDAKC_00313
+scaffold_1	KBase	exon	272839	273444	.	+	0	ID=EGNFDAKC_00313_mRNA_exon_1; Parent=EGNFDAKC_00313_mRNA
+scaffold_1	KBase	CDS	272839	273444	.	+	0	ID=EGNFDAKC_00313_CDS; Parent=EGNFDAKC_00313_mRNA; gene_synonym=pcm; gene_synonym=pcm; product=Protein-L-isoaspartate O-methyltransferase
+scaffold_1	KBase	gene	273621	273917	.	-	0	ID=EGNFDAKC_00314; product=hypothetical protein
+scaffold_1	KBase	mRNA	273621	273917	.	-	0	ID=EGNFDAKC_00314_mRNA; Parent=EGNFDAKC_00314
+scaffold_1	KBase	exon	273621	273917	.	-	0	ID=EGNFDAKC_00314_mRNA_exon_1; Parent=EGNFDAKC_00314_mRNA
+scaffold_1	KBase	CDS	273621	273917	.	-	0	ID=EGNFDAKC_00314_CDS; Parent=EGNFDAKC_00314_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	274255	274602	.	-	0	ID=EGNFDAKC_00315; product=hypothetical protein
+scaffold_1	KBase	mRNA	274255	274602	.	-	0	ID=EGNFDAKC_00315_mRNA; Parent=EGNFDAKC_00315
+scaffold_1	KBase	exon	274255	274602	.	-	0	ID=EGNFDAKC_00315_mRNA_exon_1; Parent=EGNFDAKC_00315_mRNA
+scaffold_1	KBase	CDS	274255	274602	.	-	0	ID=EGNFDAKC_00315_CDS; Parent=EGNFDAKC_00315_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	274595	276430	.	-	0	ID=EGNFDAKC_00316; gene_synonym=infB; gene_synonym=infB; product=Translation initiation factor IF-2
+scaffold_1	KBase	mRNA	274595	276430	.	-	0	ID=EGNFDAKC_00316_mRNA; Parent=EGNFDAKC_00316
+scaffold_1	KBase	exon	274595	276430	.	-	0	ID=EGNFDAKC_00316_mRNA_exon_1; Parent=EGNFDAKC_00316_mRNA
+scaffold_1	KBase	CDS	274595	276430	.	-	0	ID=EGNFDAKC_00316_CDS; Parent=EGNFDAKC_00316_mRNA; gene_synonym=infB; gene_synonym=infB; product=Translation initiation factor IF-2
+scaffold_1	KBase	gene	276443	277570	.	-	0	ID=EGNFDAKC_00317; gene_synonym=nusA; gene_synonym=nusA; product=Transcription termination/antitermination protein NusA
+scaffold_1	KBase	mRNA	276443	277570	.	-	0	ID=EGNFDAKC_00317_mRNA; Parent=EGNFDAKC_00317
+scaffold_1	KBase	exon	276443	277570	.	-	0	ID=EGNFDAKC_00317_mRNA_exon_1; Parent=EGNFDAKC_00317_mRNA
+scaffold_1	KBase	CDS	276443	277570	.	-	0	ID=EGNFDAKC_00317_CDS; Parent=EGNFDAKC_00317_mRNA; gene_synonym=nusA; gene_synonym=nusA; product=Transcription termination/antitermination protein NusA
+scaffold_1	KBase	gene	277774	278940	.	-	0	ID=EGNFDAKC_00318; gene_synonym=thiI; gene_synonym=thiI; product=putative tRNA sulfurtransferase; ec=ec:2.8.1.4
+scaffold_1	KBase	mRNA	277774	278940	.	-	0	ID=EGNFDAKC_00318_mRNA; Parent=EGNFDAKC_00318
+scaffold_1	KBase	exon	277774	278940	.	-	0	ID=EGNFDAKC_00318_mRNA_exon_1; Parent=EGNFDAKC_00318_mRNA
+scaffold_1	KBase	CDS	277774	278940	.	-	0	ID=EGNFDAKC_00318_CDS; Parent=EGNFDAKC_00318_mRNA; gene_synonym=thiI; gene_synonym=thiI; product=putative tRNA sulfurtransferase
+scaffold_1	KBase	gene	278975	279301	.	-	0	ID=EGNFDAKC_00319; product=hypothetical protein
+scaffold_1	KBase	mRNA	278975	279301	.	-	0	ID=EGNFDAKC_00319_mRNA; Parent=EGNFDAKC_00319
+scaffold_1	KBase	exon	278975	279301	.	-	0	ID=EGNFDAKC_00319_mRNA_exon_1; Parent=EGNFDAKC_00319_mRNA
+scaffold_1	KBase	CDS	278975	279301	.	-	0	ID=EGNFDAKC_00319_CDS; Parent=EGNFDAKC_00319_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	279557	279928	.	+	0	ID=EGNFDAKC_00320; product=hypothetical protein
+scaffold_1	KBase	mRNA	279557	279928	.	+	0	ID=EGNFDAKC_00320_mRNA; Parent=EGNFDAKC_00320
+scaffold_1	KBase	exon	279557	279928	.	+	0	ID=EGNFDAKC_00320_mRNA_exon_1; Parent=EGNFDAKC_00320_mRNA
+scaffold_1	KBase	CDS	279557	279928	.	+	0	ID=EGNFDAKC_00320_CDS; Parent=EGNFDAKC_00320_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	279896	280591	.	-	0	ID=EGNFDAKC_00321; gene_synonym=hin; gene_synonym=hin; product=DNA-invertase hin
+scaffold_1	KBase	mRNA	279896	280591	.	-	0	ID=EGNFDAKC_00321_mRNA; Parent=EGNFDAKC_00321
+scaffold_1	KBase	exon	279896	280591	.	-	0	ID=EGNFDAKC_00321_mRNA_exon_1; Parent=EGNFDAKC_00321_mRNA
+scaffold_1	KBase	CDS	279896	280591	.	-	0	ID=EGNFDAKC_00321_CDS; Parent=EGNFDAKC_00321_mRNA; gene_synonym=hin; gene_synonym=hin; product=DNA-invertase hin
+scaffold_1	KBase	gene	281674	286119	.	-	0	ID=EGNFDAKC_00322; gene_synonym=polC; gene_synonym=polC; product=DNA polymerase III PolC-type; ec=ec:2.7.7.7
+scaffold_1	KBase	mRNA	281674	286119	.	-	0	ID=EGNFDAKC_00322_mRNA; Parent=EGNFDAKC_00322
+scaffold_1	KBase	exon	281674	286119	.	-	0	ID=EGNFDAKC_00322_mRNA_exon_1; Parent=EGNFDAKC_00322_mRNA
+scaffold_1	KBase	CDS	281674	286119	.	-	0	ID=EGNFDAKC_00322_CDS; Parent=EGNFDAKC_00322_mRNA; gene_synonym=polC; gene_synonym=polC; product=DNA polymerase III PolC-type
+scaffold_1	KBase	gene	286198	288396	.	-	0	ID=EGNFDAKC_00323; gene_synonym=secA; gene_synonym=secA; product=Protein translocase subunit SecA
+scaffold_1	KBase	mRNA	286198	288396	.	-	0	ID=EGNFDAKC_00323_mRNA; Parent=EGNFDAKC_00323
+scaffold_1	KBase	exon	286198	288396	.	-	0	ID=EGNFDAKC_00323_mRNA_exon_1; Parent=EGNFDAKC_00323_mRNA
+scaffold_1	KBase	CDS	286198	288396	.	-	0	ID=EGNFDAKC_00323_CDS; Parent=EGNFDAKC_00323_mRNA; gene_synonym=secA; gene_synonym=secA; product=Protein translocase subunit SecA
+scaffold_1	KBase	gene	289611	292298	.	-	0	ID=EGNFDAKC_00324; product=hypothetical protein
+scaffold_1	KBase	mRNA	289611	292298	.	-	0	ID=EGNFDAKC_00324_mRNA; Parent=EGNFDAKC_00324
+scaffold_1	KBase	exon	289611	292298	.	-	0	ID=EGNFDAKC_00324_mRNA_exon_1; Parent=EGNFDAKC_00324_mRNA
+scaffold_1	KBase	CDS	289611	292298	.	-	0	ID=EGNFDAKC_00324_CDS; Parent=EGNFDAKC_00324_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	292622	294085	.	-	0	ID=EGNFDAKC_00325; product=hypothetical protein
+scaffold_1	KBase	mRNA	292622	294085	.	-	0	ID=EGNFDAKC_00325_mRNA; Parent=EGNFDAKC_00325
+scaffold_1	KBase	exon	292622	294085	.	-	0	ID=EGNFDAKC_00325_mRNA_exon_1; Parent=EGNFDAKC_00325_mRNA
+scaffold_1	KBase	CDS	292622	294085	.	-	0	ID=EGNFDAKC_00325_CDS; Parent=EGNFDAKC_00325_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	294107	294250	.	-	0	ID=EGNFDAKC_00326; product=hypothetical protein
+scaffold_1	KBase	mRNA	294107	294250	.	-	0	ID=EGNFDAKC_00326_mRNA; Parent=EGNFDAKC_00326
+scaffold_1	KBase	exon	294107	294250	.	-	0	ID=EGNFDAKC_00326_mRNA_exon_1; Parent=EGNFDAKC_00326_mRNA
+scaffold_1	KBase	CDS	294107	294250	.	-	0	ID=EGNFDAKC_00326_CDS; Parent=EGNFDAKC_00326_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	295250	295369	.	-	0	ID=EGNFDAKC_00327; product=hypothetical protein
+scaffold_1	KBase	mRNA	295250	295369	.	-	0	ID=EGNFDAKC_00327_mRNA; Parent=EGNFDAKC_00327
+scaffold_1	KBase	exon	295250	295369	.	-	0	ID=EGNFDAKC_00327_mRNA_exon_1; Parent=EGNFDAKC_00327_mRNA
+scaffold_1	KBase	CDS	295250	295369	.	-	0	ID=EGNFDAKC_00327_CDS; Parent=EGNFDAKC_00327_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	295350	295622	.	-	0	ID=EGNFDAKC_00328; product=hypothetical protein
+scaffold_1	KBase	mRNA	295350	295622	.	-	0	ID=EGNFDAKC_00328_mRNA; Parent=EGNFDAKC_00328
+scaffold_1	KBase	exon	295350	295622	.	-	0	ID=EGNFDAKC_00328_mRNA_exon_1; Parent=EGNFDAKC_00328_mRNA
+scaffold_1	KBase	CDS	295350	295622	.	-	0	ID=EGNFDAKC_00328_CDS; Parent=EGNFDAKC_00328_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	295793	296194	.	-	0	ID=EGNFDAKC_00329; product=hypothetical protein
+scaffold_1	KBase	mRNA	295793	296194	.	-	0	ID=EGNFDAKC_00329_mRNA; Parent=EGNFDAKC_00329
+scaffold_1	KBase	exon	295793	296194	.	-	0	ID=EGNFDAKC_00329_mRNA_exon_1; Parent=EGNFDAKC_00329_mRNA
+scaffold_1	KBase	CDS	295793	296194	.	-	0	ID=EGNFDAKC_00329_CDS; Parent=EGNFDAKC_00329_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	296175	296420	.	-	0	ID=EGNFDAKC_00330; product=hypothetical protein
+scaffold_1	KBase	mRNA	296175	296420	.	-	0	ID=EGNFDAKC_00330_mRNA; Parent=EGNFDAKC_00330
+scaffold_1	KBase	exon	296175	296420	.	-	0	ID=EGNFDAKC_00330_mRNA_exon_1; Parent=EGNFDAKC_00330_mRNA
+scaffold_1	KBase	CDS	296175	296420	.	-	0	ID=EGNFDAKC_00330_CDS; Parent=EGNFDAKC_00330_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	297210	297767	.	+	0	ID=EGNFDAKC_00331; product=hypothetical protein
+scaffold_1	KBase	mRNA	297210	297767	.	+	0	ID=EGNFDAKC_00331_mRNA; Parent=EGNFDAKC_00331
+scaffold_1	KBase	exon	297210	297767	.	+	0	ID=EGNFDAKC_00331_mRNA_exon_1; Parent=EGNFDAKC_00331_mRNA
+scaffold_1	KBase	CDS	297210	297767	.	+	0	ID=EGNFDAKC_00331_CDS; Parent=EGNFDAKC_00331_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	298011	298301	.	-	0	ID=EGNFDAKC_00332; product=putative protein
+scaffold_1	KBase	mRNA	298011	298301	.	-	0	ID=EGNFDAKC_00332_mRNA; Parent=EGNFDAKC_00332
+scaffold_1	KBase	exon	298011	298301	.	-	0	ID=EGNFDAKC_00332_mRNA_exon_1; Parent=EGNFDAKC_00332_mRNA
+scaffold_1	KBase	CDS	298011	298301	.	-	0	ID=EGNFDAKC_00332_CDS; Parent=EGNFDAKC_00332_mRNA; product=putative protein
+scaffold_1	KBase	gene	298402	298548	.	-	0	ID=EGNFDAKC_00333; product=hypothetical protein
+scaffold_1	KBase	mRNA	298402	298548	.	-	0	ID=EGNFDAKC_00333_mRNA; Parent=EGNFDAKC_00333
+scaffold_1	KBase	exon	298402	298548	.	-	0	ID=EGNFDAKC_00333_mRNA_exon_1; Parent=EGNFDAKC_00333_mRNA
+scaffold_1	KBase	CDS	298402	298548	.	-	0	ID=EGNFDAKC_00333_CDS; Parent=EGNFDAKC_00333_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	298535	299083	.	-	0	ID=EGNFDAKC_00334; product=hypothetical protein
+scaffold_1	KBase	mRNA	298535	299083	.	-	0	ID=EGNFDAKC_00334_mRNA; Parent=EGNFDAKC_00334
+scaffold_1	KBase	exon	298535	299083	.	-	0	ID=EGNFDAKC_00334_mRNA_exon_1; Parent=EGNFDAKC_00334_mRNA
+scaffold_1	KBase	CDS	298535	299083	.	-	0	ID=EGNFDAKC_00334_CDS; Parent=EGNFDAKC_00334_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	299478	299762	.	-	0	ID=EGNFDAKC_00335; product=hypothetical protein
+scaffold_1	KBase	mRNA	299478	299762	.	-	0	ID=EGNFDAKC_00335_mRNA; Parent=EGNFDAKC_00335
+scaffold_1	KBase	exon	299478	299762	.	-	0	ID=EGNFDAKC_00335_mRNA_exon_1; Parent=EGNFDAKC_00335_mRNA
+scaffold_1	KBase	CDS	299478	299762	.	-	0	ID=EGNFDAKC_00335_CDS; Parent=EGNFDAKC_00335_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	300061	300171	.	-	0	ID=EGNFDAKC_00336; product=hypothetical protein
+scaffold_1	KBase	mRNA	300061	300171	.	-	0	ID=EGNFDAKC_00336_mRNA; Parent=EGNFDAKC_00336
+scaffold_1	KBase	exon	300061	300171	.	-	0	ID=EGNFDAKC_00336_mRNA_exon_1; Parent=EGNFDAKC_00336_mRNA
+scaffold_1	KBase	CDS	300061	300171	.	-	0	ID=EGNFDAKC_00336_CDS; Parent=EGNFDAKC_00336_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	300359	300742	.	-	0	ID=EGNFDAKC_00337; product=hypothetical protein
+scaffold_1	KBase	mRNA	300359	300742	.	-	0	ID=EGNFDAKC_00337_mRNA; Parent=EGNFDAKC_00337
+scaffold_1	KBase	exon	300359	300742	.	-	0	ID=EGNFDAKC_00337_mRNA_exon_1; Parent=EGNFDAKC_00337_mRNA
+scaffold_1	KBase	CDS	300359	300742	.	-	0	ID=EGNFDAKC_00337_CDS; Parent=EGNFDAKC_00337_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	300736	300987	.	-	0	ID=EGNFDAKC_00338; product=hypothetical protein
+scaffold_1	KBase	mRNA	300736	300987	.	-	0	ID=EGNFDAKC_00338_mRNA; Parent=EGNFDAKC_00338
+scaffold_1	KBase	exon	300736	300987	.	-	0	ID=EGNFDAKC_00338_mRNA_exon_1; Parent=EGNFDAKC_00338_mRNA
+scaffold_1	KBase	CDS	300736	300987	.	-	0	ID=EGNFDAKC_00338_CDS; Parent=EGNFDAKC_00338_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	301213	301482	.	+	0	ID=EGNFDAKC_00339; product=hypothetical protein
+scaffold_1	KBase	mRNA	301213	301482	.	+	0	ID=EGNFDAKC_00339_mRNA; Parent=EGNFDAKC_00339
+scaffold_1	KBase	exon	301213	301482	.	+	0	ID=EGNFDAKC_00339_mRNA_exon_1; Parent=EGNFDAKC_00339_mRNA
+scaffold_1	KBase	CDS	301213	301482	.	+	0	ID=EGNFDAKC_00339_CDS; Parent=EGNFDAKC_00339_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	301709	302503	.	-	0	ID=EGNFDAKC_00340; product=hypothetical protein
+scaffold_1	KBase	mRNA	301709	302503	.	-	0	ID=EGNFDAKC_00340_mRNA; Parent=EGNFDAKC_00340
+scaffold_1	KBase	exon	301709	302503	.	-	0	ID=EGNFDAKC_00340_mRNA_exon_1; Parent=EGNFDAKC_00340_mRNA
+scaffold_1	KBase	CDS	301709	302503	.	-	0	ID=EGNFDAKC_00340_CDS; Parent=EGNFDAKC_00340_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	303239	304498	.	-	0	ID=EGNFDAKC_00341; product=hypothetical protein
+scaffold_1	KBase	mRNA	303239	304498	.	-	0	ID=EGNFDAKC_00341_mRNA; Parent=EGNFDAKC_00341
+scaffold_1	KBase	exon	303239	304498	.	-	0	ID=EGNFDAKC_00341_mRNA_exon_1; Parent=EGNFDAKC_00341_mRNA
+scaffold_1	KBase	CDS	303239	304498	.	-	0	ID=EGNFDAKC_00341_CDS; Parent=EGNFDAKC_00341_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	304512	305519	.	-	0	ID=EGNFDAKC_00342; product=hypothetical protein
+scaffold_1	KBase	mRNA	304512	305519	.	-	0	ID=EGNFDAKC_00342_mRNA; Parent=EGNFDAKC_00342
+scaffold_1	KBase	exon	304512	305519	.	-	0	ID=EGNFDAKC_00342_mRNA_exon_1; Parent=EGNFDAKC_00342_mRNA
+scaffold_1	KBase	CDS	304512	305519	.	-	0	ID=EGNFDAKC_00342_CDS; Parent=EGNFDAKC_00342_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	306187	306522	.	-	0	ID=EGNFDAKC_00343; product=hypothetical protein
+scaffold_1	KBase	mRNA	306187	306522	.	-	0	ID=EGNFDAKC_00343_mRNA; Parent=EGNFDAKC_00343
+scaffold_1	KBase	exon	306187	306522	.	-	0	ID=EGNFDAKC_00343_mRNA_exon_1; Parent=EGNFDAKC_00343_mRNA
+scaffold_1	KBase	CDS	306187	306522	.	-	0	ID=EGNFDAKC_00343_CDS; Parent=EGNFDAKC_00343_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	306515	306937	.	-	0	ID=EGNFDAKC_00344; product=hypothetical protein
+scaffold_1	KBase	mRNA	306515	306937	.	-	0	ID=EGNFDAKC_00344_mRNA; Parent=EGNFDAKC_00344
+scaffold_1	KBase	exon	306515	306937	.	-	0	ID=EGNFDAKC_00344_mRNA_exon_1; Parent=EGNFDAKC_00344_mRNA
+scaffold_1	KBase	CDS	306515	306937	.	-	0	ID=EGNFDAKC_00344_CDS; Parent=EGNFDAKC_00344_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	307122	309998	.	+	0	ID=EGNFDAKC_00345; product=hypothetical protein
+scaffold_1	KBase	mRNA	307122	309998	.	+	0	ID=EGNFDAKC_00345_mRNA; Parent=EGNFDAKC_00345
+scaffold_1	KBase	exon	307122	309998	.	+	0	ID=EGNFDAKC_00345_mRNA_exon_1; Parent=EGNFDAKC_00345_mRNA
+scaffold_1	KBase	CDS	307122	309998	.	+	0	ID=EGNFDAKC_00345_CDS; Parent=EGNFDAKC_00345_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	310180	312921	.	-	0	ID=EGNFDAKC_00346; gene_synonym=pi-polB; gene_synonym=pi-polB; product=Primer-independent DNA polymerase PolB
+scaffold_1	KBase	mRNA	310180	312921	.	-	0	ID=EGNFDAKC_00346_mRNA; Parent=EGNFDAKC_00346
+scaffold_1	KBase	exon	310180	312921	.	-	0	ID=EGNFDAKC_00346_mRNA_exon_1; Parent=EGNFDAKC_00346_mRNA
+scaffold_1	KBase	CDS	310180	312921	.	-	0	ID=EGNFDAKC_00346_CDS; Parent=EGNFDAKC_00346_mRNA; gene_synonym=pi-polB; gene_synonym=pi-polB; product=Primer-independent DNA polymerase PolB
+scaffold_1	KBase	gene	313163	313468	.	+	0	ID=EGNFDAKC_00347; product=hypothetical protein
+scaffold_1	KBase	mRNA	313163	313468	.	+	0	ID=EGNFDAKC_00347_mRNA; Parent=EGNFDAKC_00347
+scaffold_1	KBase	exon	313163	313468	.	+	0	ID=EGNFDAKC_00347_mRNA_exon_1; Parent=EGNFDAKC_00347_mRNA
+scaffold_1	KBase	CDS	313163	313468	.	+	0	ID=EGNFDAKC_00347_CDS; Parent=EGNFDAKC_00347_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	313723	314004	.	+	0	ID=EGNFDAKC_00348; product=hypothetical protein
+scaffold_1	KBase	mRNA	313723	314004	.	+	0	ID=EGNFDAKC_00348_mRNA; Parent=EGNFDAKC_00348
+scaffold_1	KBase	exon	313723	314004	.	+	0	ID=EGNFDAKC_00348_mRNA_exon_1; Parent=EGNFDAKC_00348_mRNA
+scaffold_1	KBase	CDS	313723	314004	.	+	0	ID=EGNFDAKC_00348_CDS; Parent=EGNFDAKC_00348_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	314035	314544	.	+	0	ID=EGNFDAKC_00349; product=hypothetical protein
+scaffold_1	KBase	mRNA	314035	314544	.	+	0	ID=EGNFDAKC_00349_mRNA; Parent=EGNFDAKC_00349
+scaffold_1	KBase	exon	314035	314544	.	+	0	ID=EGNFDAKC_00349_mRNA_exon_1; Parent=EGNFDAKC_00349_mRNA
+scaffold_1	KBase	CDS	314035	314544	.	+	0	ID=EGNFDAKC_00349_CDS; Parent=EGNFDAKC_00349_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	314618	314869	.	+	0	ID=EGNFDAKC_00350; product=hypothetical protein
+scaffold_1	KBase	mRNA	314618	314869	.	+	0	ID=EGNFDAKC_00350_mRNA; Parent=EGNFDAKC_00350
+scaffold_1	KBase	exon	314618	314869	.	+	0	ID=EGNFDAKC_00350_mRNA_exon_1; Parent=EGNFDAKC_00350_mRNA
+scaffold_1	KBase	CDS	314618	314869	.	+	0	ID=EGNFDAKC_00350_CDS; Parent=EGNFDAKC_00350_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	314853	315137	.	+	0	ID=EGNFDAKC_00351; gene_synonym=higB-1; gene_synonym=higB-1; product=Toxin HigB-1
+scaffold_1	KBase	mRNA	314853	315137	.	+	0	ID=EGNFDAKC_00351_mRNA; Parent=EGNFDAKC_00351
+scaffold_1	KBase	exon	314853	315137	.	+	0	ID=EGNFDAKC_00351_mRNA_exon_1; Parent=EGNFDAKC_00351_mRNA
+scaffold_1	KBase	CDS	314853	315137	.	+	0	ID=EGNFDAKC_00351_CDS; Parent=EGNFDAKC_00351_mRNA; gene_synonym=higB-1; gene_synonym=higB-1; product=Toxin HigB-1
+scaffold_1	KBase	gene	315174	315515	.	+	0	ID=EGNFDAKC_00352; product=hypothetical protein
+scaffold_1	KBase	mRNA	315174	315515	.	+	0	ID=EGNFDAKC_00352_mRNA; Parent=EGNFDAKC_00352
+scaffold_1	KBase	exon	315174	315515	.	+	0	ID=EGNFDAKC_00352_mRNA_exon_1; Parent=EGNFDAKC_00352_mRNA
+scaffold_1	KBase	CDS	315174	315515	.	+	0	ID=EGNFDAKC_00352_CDS; Parent=EGNFDAKC_00352_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	315525	315851	.	+	0	ID=EGNFDAKC_00353; product=hypothetical protein
+scaffold_1	KBase	mRNA	315525	315851	.	+	0	ID=EGNFDAKC_00353_mRNA; Parent=EGNFDAKC_00353
+scaffold_1	KBase	exon	315525	315851	.	+	0	ID=EGNFDAKC_00353_mRNA_exon_1; Parent=EGNFDAKC_00353_mRNA
+scaffold_1	KBase	CDS	315525	315851	.	+	0	ID=EGNFDAKC_00353_CDS; Parent=EGNFDAKC_00353_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	315870	316298	.	+	0	ID=EGNFDAKC_00354; product=hypothetical protein
+scaffold_1	KBase	mRNA	315870	316298	.	+	0	ID=EGNFDAKC_00354_mRNA; Parent=EGNFDAKC_00354
+scaffold_1	KBase	exon	315870	316298	.	+	0	ID=EGNFDAKC_00354_mRNA_exon_1; Parent=EGNFDAKC_00354_mRNA
+scaffold_1	KBase	CDS	315870	316298	.	+	0	ID=EGNFDAKC_00354_CDS; Parent=EGNFDAKC_00354_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	316720	317274	.	-	0	ID=EGNFDAKC_00355; product=hypothetical protein
+scaffold_1	KBase	mRNA	316720	317274	.	-	0	ID=EGNFDAKC_00355_mRNA; Parent=EGNFDAKC_00355
+scaffold_1	KBase	exon	316720	317274	.	-	0	ID=EGNFDAKC_00355_mRNA_exon_1; Parent=EGNFDAKC_00355_mRNA
+scaffold_1	KBase	CDS	316720	317274	.	-	0	ID=EGNFDAKC_00355_CDS; Parent=EGNFDAKC_00355_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	317995	319887	.	+	0	ID=EGNFDAKC_00356; product=hypothetical protein
+scaffold_1	KBase	mRNA	317995	319887	.	+	0	ID=EGNFDAKC_00356_mRNA; Parent=EGNFDAKC_00356
+scaffold_1	KBase	exon	317995	319887	.	+	0	ID=EGNFDAKC_00356_mRNA_exon_1; Parent=EGNFDAKC_00356_mRNA
+scaffold_1	KBase	CDS	317995	319887	.	+	0	ID=EGNFDAKC_00356_CDS; Parent=EGNFDAKC_00356_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	320168	320275	.	+	0	ID=EGNFDAKC_00357; product=hypothetical protein
+scaffold_1	KBase	mRNA	320168	320275	.	+	0	ID=EGNFDAKC_00357_mRNA; Parent=EGNFDAKC_00357
+scaffold_1	KBase	exon	320168	320275	.	+	0	ID=EGNFDAKC_00357_mRNA_exon_1; Parent=EGNFDAKC_00357_mRNA
+scaffold_1	KBase	CDS	320168	320275	.	+	0	ID=EGNFDAKC_00357_CDS; Parent=EGNFDAKC_00357_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	320550	320882	.	+	0	ID=EGNFDAKC_00358; product=hypothetical protein
+scaffold_1	KBase	mRNA	320550	320882	.	+	0	ID=EGNFDAKC_00358_mRNA; Parent=EGNFDAKC_00358
+scaffold_1	KBase	exon	320550	320882	.	+	0	ID=EGNFDAKC_00358_mRNA_exon_1; Parent=EGNFDAKC_00358_mRNA
+scaffold_1	KBase	CDS	320550	320882	.	+	0	ID=EGNFDAKC_00358_CDS; Parent=EGNFDAKC_00358_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	320833	321207	.	+	0	ID=EGNFDAKC_00359; product=hypothetical protein
+scaffold_1	KBase	mRNA	320833	321207	.	+	0	ID=EGNFDAKC_00359_mRNA; Parent=EGNFDAKC_00359
+scaffold_1	KBase	exon	320833	321207	.	+	0	ID=EGNFDAKC_00359_mRNA_exon_1; Parent=EGNFDAKC_00359_mRNA
+scaffold_1	KBase	CDS	320833	321207	.	+	0	ID=EGNFDAKC_00359_CDS; Parent=EGNFDAKC_00359_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	321722	321973	.	+	0	ID=EGNFDAKC_00360; product=hypothetical protein
+scaffold_1	KBase	mRNA	321722	321973	.	+	0	ID=EGNFDAKC_00360_mRNA; Parent=EGNFDAKC_00360
+scaffold_1	KBase	exon	321722	321973	.	+	0	ID=EGNFDAKC_00360_mRNA_exon_1; Parent=EGNFDAKC_00360_mRNA
+scaffold_1	KBase	CDS	321722	321973	.	+	0	ID=EGNFDAKC_00360_CDS; Parent=EGNFDAKC_00360_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	321989	322375	.	+	0	ID=EGNFDAKC_00361; product=hypothetical protein
+scaffold_1	KBase	mRNA	321989	322375	.	+	0	ID=EGNFDAKC_00361_mRNA; Parent=EGNFDAKC_00361
+scaffold_1	KBase	exon	321989	322375	.	+	0	ID=EGNFDAKC_00361_mRNA_exon_1; Parent=EGNFDAKC_00361_mRNA
+scaffold_1	KBase	CDS	321989	322375	.	+	0	ID=EGNFDAKC_00361_CDS; Parent=EGNFDAKC_00361_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	322460	322585	.	+	0	ID=EGNFDAKC_00362; product=hypothetical protein
+scaffold_1	KBase	mRNA	322460	322585	.	+	0	ID=EGNFDAKC_00362_mRNA; Parent=EGNFDAKC_00362
+scaffold_1	KBase	exon	322460	322585	.	+	0	ID=EGNFDAKC_00362_mRNA_exon_1; Parent=EGNFDAKC_00362_mRNA
+scaffold_1	KBase	CDS	322460	322585	.	+	0	ID=EGNFDAKC_00362_CDS; Parent=EGNFDAKC_00362_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	322746	323162	.	+	0	ID=EGNFDAKC_00363; product=hypothetical protein
+scaffold_1	KBase	mRNA	322746	323162	.	+	0	ID=EGNFDAKC_00363_mRNA; Parent=EGNFDAKC_00363
+scaffold_1	KBase	exon	322746	323162	.	+	0	ID=EGNFDAKC_00363_mRNA_exon_1; Parent=EGNFDAKC_00363_mRNA
+scaffold_1	KBase	CDS	322746	323162	.	+	0	ID=EGNFDAKC_00363_CDS; Parent=EGNFDAKC_00363_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	323239	323580	.	+	0	ID=EGNFDAKC_00364; product=hypothetical protein
+scaffold_1	KBase	mRNA	323239	323580	.	+	0	ID=EGNFDAKC_00364_mRNA; Parent=EGNFDAKC_00364
+scaffold_1	KBase	exon	323239	323580	.	+	0	ID=EGNFDAKC_00364_mRNA_exon_1; Parent=EGNFDAKC_00364_mRNA
+scaffold_1	KBase	CDS	323239	323580	.	+	0	ID=EGNFDAKC_00364_CDS; Parent=EGNFDAKC_00364_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	324033	324686	.	+	0	ID=EGNFDAKC_00365; gene_synonym=rnhB; gene_synonym=rnhB; product=Ribonuclease HII; ec=ec:3.1.26.4
+scaffold_1	KBase	mRNA	324033	324686	.	+	0	ID=EGNFDAKC_00365_mRNA; Parent=EGNFDAKC_00365
+scaffold_1	KBase	exon	324033	324686	.	+	0	ID=EGNFDAKC_00365_mRNA_exon_1; Parent=EGNFDAKC_00365_mRNA
+scaffold_1	KBase	CDS	324033	324686	.	+	0	ID=EGNFDAKC_00365_CDS; Parent=EGNFDAKC_00365_mRNA; gene_synonym=rnhB; gene_synonym=rnhB; product=Ribonuclease HII
+scaffold_1	KBase	gene	324757	325659	.	-	0	ID=EGNFDAKC_00366; product=hypothetical protein
+scaffold_1	KBase	mRNA	324757	325659	.	-	0	ID=EGNFDAKC_00366_mRNA; Parent=EGNFDAKC_00366
+scaffold_1	KBase	exon	324757	325659	.	-	0	ID=EGNFDAKC_00366_mRNA_exon_1; Parent=EGNFDAKC_00366_mRNA
+scaffold_1	KBase	CDS	324757	325659	.	-	0	ID=EGNFDAKC_00366_CDS; Parent=EGNFDAKC_00366_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	325742	326140	.	-	0	ID=EGNFDAKC_00367; product=hypothetical protein
+scaffold_1	KBase	mRNA	325742	326140	.	-	0	ID=EGNFDAKC_00367_mRNA; Parent=EGNFDAKC_00367
+scaffold_1	KBase	exon	325742	326140	.	-	0	ID=EGNFDAKC_00367_mRNA_exon_1; Parent=EGNFDAKC_00367_mRNA
+scaffold_1	KBase	CDS	325742	326140	.	-	0	ID=EGNFDAKC_00367_CDS; Parent=EGNFDAKC_00367_mRNA; product=hypothetical protein
+scaffold_1	KBase	gene	326145	326537	.	-	0	ID=EGNFDAKC_00368; product=hypothetical protein
+scaffold_1	KBase	mRNA	326145	326537	.	-	0	ID=EGNFDAKC_00368_mRNA; Parent=EGNFDAKC_00368
+scaffold_1	KBase	exon	326145	326537	.	-	0	ID=EGNFDAKC_00368_mRNA_exon_1; Parent=EGNFDAKC_00368_mRNA
+scaffold_1	KBase	CDS	326145	326537	.	-	0	ID=EGNFDAKC_00368_CDS; Parent=EGNFDAKC_00368_mRNA; product=hypothetical protein
